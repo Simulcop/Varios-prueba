@@ -15,18 +15,35 @@ Cuentas seguidas:
 
 ## ⚠️ Importante sobre la lectura de X
 
-X cerró casi todo su acceso gratuito. Esta app lee los timelines **públicos** a
-través del endpoint de *syndication* (el mismo que usan los widgets embebidos de
-X) — **sin API key**. Eso funciona desde cualquier red con salida a `x.com`:
+X cerró casi todo su acceso gratuito. Esta app lo lee **sin API key** en dos pasos
+(`src/twitter.mjs`):
 
-- ✅ Tu ordenador / un servidor / un GitHub Action.
-- ❌ Algunos entornos en la nube bloquean X. En ese caso la app **cae
-  automáticamente a datos de ejemplo** (`data/sample-deals.json`) y lo señala con
-  la etiqueta «datos de ejemplo» para que la interfaz siga siendo usable.
+1. **Descubrir** los IDs de tweets recientes de cada perfil (endpoint de
+   *timeline* de syndication). Este paso **tiene límite de peticiones** de X, así
+   que se reintenta con esperas crecientes.
+2. **Hidratar** cada tweet por su ID (endpoint `tweet-result`), que es **fiable y
+   sin límite observado** y devuelve texto + enlaces de Amazon.
 
-Si X bloqueara el endpoint en el futuro, el `fetcher` está aislado en
-`src/fetcher.mjs` y se puede cambiar por la API oficial o un scraper de pago sin
-tocar el resto.
+Esto funciona desde una red con salida a `x.com` (tu Mac, un servidor, un runner
+de GitHub Actions). Desde redes que bloquean X, no.
+
+- ✅ Si consigue datos reales, el feed se marca **«en vivo»**.
+- ⚠️ Si el timeline está limitado o X no es accesible, cae a **datos reales de
+  ejemplo** (`data/real-tweets-fixture.json`) y lo marca como **«datos de
+  ejemplo»**.
+
+### Ingesta manual (100% fiable)
+Como el paso 1 puede toparse con el límite de X, hay una vía manual que **siempre
+funciona** (usa solo el endpoint fiable). Le pasas URLs o IDs de tweets:
+
+```bash
+node scripts/ingest.mjs https://x.com/bestvinyldeal/status/2069597877736034550
+# o varios, o --file ids.txt
+```
+
+Para automatización sin depender del límite, lo mejor es el **GitHub Action**
+(corre cada 30 min desde IPs distintas) o migrar el paso 1 a un puente RSS / la
+API oficial de X.
 
 ---
 

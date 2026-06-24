@@ -20,7 +20,16 @@
     "frank ocean": { "genres": ["R&B"], "label": "Blonded" },
     "stevie wonder": { "genres": ["Soul", "Funk"], "label": "Motown" },
     "metallica": { "genres": ["Metal"], "label": "Blackened" },
-    "billie eilish": { "genres": ["Pop", "Alternative"], "label": "Interscope" }
+    "billie eilish": { "genres": ["Pop", "Alternative"], "label": "Interscope" },
+    "michael giacchino": { "genres": ["Soundtrack"], "label": "Mondo" },
+    "the postal service": { "genres": ["Indie", "Electronic"], "label": "Sub Pop" },
+    "edith piaf": { "genres": ["Chanson"], "label": "Columbia" },
+    "jordan davis": { "genres": ["Country"], "label": "MCA Nashville" },
+    "beach house": { "genres": ["Indie", "Dream Pop"], "label": "Sub Pop" },
+    "max roach": { "genres": ["Jazz"], "label": "EmArcy" },
+    "neck deep": { "genres": ["Punk", "Pop Punk"], "label": "Hopeless" },
+    "andy mccoy": { "genres": ["Rock"], "label": "Cleopatra" },
+    "the virgin suicides": { "genres": ["Soundtrack", "Electronic"], "label": "Record Makers" }
   },
   "labelKeywords": [
     "Blue Note", "Motown", "Impulse!", "Verve", "Stax", "Atlantic", "Sub Pop",
@@ -43,6 +52,9 @@
     "Punk": ["punk", "hardcore"],
     "R&B": ["r&b", "rnb", "rhythm and blues"],
     "Country": ["country"],
-    "Indie": ["indie", "alternative", "shoegaze"]
+    "Indie": ["indie", "alternative", "shoegaze"],
+    "Soundtrack": ["soundtrack", "motion picture", "original score"],
+    "Lofi": ["lofi", "lo-fi", "chillhop"],
+    "Chanson": ["chanson"]
   }
 }

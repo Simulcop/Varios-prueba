@@ -7,7 +7,7 @@ import { findMatches } from './filters.mjs';
 import { notifyDeals } from './notifier.mjs';
 
 export async function refresh({ notify = true } = {}) {
-  const { tweets, live } = await fetchAllTweets();
+  const { tweets, live, notes } = await fetchAllTweets();
   const parsed = await parseTweets(tweets);
   const fresh = await upsertDeals(parsed);
 
@@ -28,6 +28,7 @@ export async function refresh({ notify = true } = {}) {
 
   const summary = {
     live,
+    notes: notes || [],
     fetched: tweets.length,
     parsed: parsed.length,
     newDeals: fresh.length,
