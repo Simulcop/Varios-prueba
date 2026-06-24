@@ -1,0 +1,77 @@
+{
+  "_comment": "Tweets de ejemplo (raw) usados como fallback cuando X no es accesible. Imitan el formato real de las cuentas. El parser los convierte en deals enriquecidos.",
+  "tweets": [
+    {
+      "id": "demo-1",
+      "source": "bestvinyldeal",
+      "createdAt": "2026-06-23T14:02:00Z",
+      "text": "Pink Floyd – The Dark Side of the Moon (50th Anniversary Vinyl LP) $19.98 (was $32.98) -39% https://amzn.to/3demoDSOTM"
+    },
+    {
+      "id": "demo-2",
+      "source": "vinylonsale",
+      "createdAt": "2026-06-23T13:40:00Z",
+      "text": "Miles Davis – Kind of Blue (180g Vinyl) now $15.49, lowest price this year! Blue Note classic jazz https://amzn.to/3demoKOB"
+    },
+    {
+      "id": "demo-3",
+      "source": "vinyl_bargains",
+      "createdAt": "2026-06-23T12:15:00Z",
+      "text": "Kendrick Lamar – To Pimp a Butterfly (2LP) $24.99 (was $34.99) hip-hop https://amzn.to/3demoTPAB"
+    },
+    {
+      "id": "demo-4",
+      "source": "bestvinyldeal",
+      "createdAt": "2026-06-23T11:05:00Z",
+      "text": "Khruangbin – Mordechai (Vinyl LP) $18.20 – dreamy psych funk on Dead Oceans https://amzn.to/3demoMORD"
+    },
+    {
+      "id": "demo-5",
+      "source": "vinylonsale",
+      "createdAt": "2026-06-23T10:30:00Z",
+      "text": "Fleetwood Mac – Rumours (Vinyl LP) $16.99 (was $26.98) -37% https://amzn.to/3demoRUM"
+    },
+    {
+      "id": "demo-6",
+      "source": "vinyl_bargains",
+      "createdAt": "2026-06-23T09:50:00Z",
+      "text": "Aphex Twin – Selected Ambient Works 85-92 (2LP) $27.50 Warp electronic/IDM https://amzn.to/3demoSAW"
+    },
+    {
+      "id": "demo-7",
+      "source": "bestvinyldeal",
+      "createdAt": "2026-06-23T08:20:00Z",
+      "text": "Amy Winehouse – Back to Black (Vinyl LP) $14.99 (was $22.98) soul/jazz on Island https://amzn.to/3demoB2B"
+    },
+    {
+      "id": "demo-8",
+      "source": "vinylonsale",
+      "createdAt": "2026-06-22T22:10:00Z",
+      "text": "Sault – Untitled (Black Is) (2LP) $29.99 – soul/funk, rarely on sale https://amzn.to/3demoSAULT"
+    },
+    {
+      "id": "demo-9",
+      "source": "vinyl_bargains",
+      "createdAt": "2026-06-22T20:45:00Z",
+      "text": "Metallica – Master of Puppets (Remastered Vinyl) $21.99 (was $29.98) metal https://amzn.to/3demoMOP"
+    },
+    {
+      "id": "demo-10",
+      "source": "bestvinyldeal",
+      "createdAt": "2026-06-22T19:00:00Z",
+      "text": "Floating Points – Promises (Vinyl LP) $23.49 modern classical/electronic on Luaka Bop https://amzn.to/3demoPROM"
+    },
+    {
+      "id": "demo-11",
+      "source": "vinylonsale",
+      "createdAt": "2026-06-22T17:30:00Z",
+      "text": "Bob Marley & The Wailers – Legend (Vinyl LP) $17.98 reggae https://amzn.to/3demoLEG"
+    },
+    {
+      "id": "demo-12",
+      "source": "vinyl_bargains",
+      "createdAt": "2026-06-22T15:05:00Z",
+      "text": "Tame Impala – Currents (2LP) $19.99 (was $28.98) -31% psychedelic rock https://amzn.to/3demoCUR"
+    }
+  ]
+}
