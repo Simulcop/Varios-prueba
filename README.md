@@ -32,6 +32,22 @@ de GitHub Actions). Desde redes que bloquean X, no.
   ejemplo** (`data/real-tweets-fixture.json`) y lo marca como **«datos de
   ejemplo»**.
 
+### Puente RSS (recomendado para que sea fiable)
+X limita el paso de **descubrir** tweets nuevos incluso desde GitHub. La solución
+estable es un puente RSS que vigila las cuentas por nosotros; la app lee ese feed
+(sin límite), saca los IDs e hidrata cada tweet por `tweet-result`.
+
+Cómo montarlo:
+1. Crea una cuenta gratis en [rss.app](https://rss.app).
+2. Genera un feed para cada cuenta de X (pega `https://x.com/bestvinyldeal`, etc.).
+   Obtendrás 3 URLs de feed `https://rss.app/feeds/XXXX.xml`.
+3. Dáselas a la app de una de estas formas:
+   - **Local:** copia `data/feeds.example.json` a `data/feeds.json` y pon las URLs.
+   - **GitHub Action:** crea el secret `RSS_FEEDS` con las 3 URLs separadas por coma.
+
+Si hay feeds configurados, la app los usa primero; si no, intenta el método
+directo de X (limitado) y, si tampoco, los datos de ejemplo.
+
 ### Ingesta manual (100% fiable)
 Como el paso 1 puede toparse con el límite de X, hay una vía manual que **siempre
 funciona** (usa solo el endpoint fiable). Le pasas URLs o IDs de tweets:

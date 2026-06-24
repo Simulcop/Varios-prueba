@@ -1,0 +1,8 @@
+{
+  "_comment": "Copia este archivo a data/feeds.json y pon las URLs de tus feeds RSS (de RSS.app) que vigilan las cuentas de X. Para la GitHub Action, usa en su lugar el secret RSS_FEEDS (las mismas URLs separadas por coma).",
+  "feeds": [
+    "https://rss.app/feeds/PON_AQUI_TU_FEED_DE_bestvinyldeal.xml",
+    "https://rss.app/feeds/PON_AQUI_TU_FEED_DE_vinylonsale.xml",
+    "https://rss.app/feeds/PON_AQUI_TU_FEED_DE_vinyl_bargains.xml"
+  ]
+}
