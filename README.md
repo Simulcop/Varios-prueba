@@ -15,18 +15,35 @@ Cuentas seguidas:
 
 ## ⚠️ Importante sobre la lectura de X
 
-X cerró casi todo su acceso gratuito. Esta app lee los timelines **públicos** a
-través del endpoint de *syndication* (el mismo que usan los widgets embebidos de
-X) — **sin API key**. Eso funciona desde cualquier red con salida a `x.com`:
+X cerró casi todo su acceso gratuito. Esta app lo lee **sin API key** en dos pasos
+(`src/twitter.mjs`):
 
-- ✅ Tu ordenador / un servidor / un GitHub Action.
-- ❌ Algunos entornos en la nube bloquean X. En ese caso la app **cae
-  automáticamente a datos de ejemplo** (`data/sample-deals.json`) y lo señala con
-  la etiqueta «datos de ejemplo» para que la interfaz siga siendo usable.
+1. **Descubrir** los IDs de tweets recientes de cada perfil (endpoint de
+   *timeline* de syndication). Este paso **tiene límite de peticiones** de X, así
+   que se reintenta con esperas crecientes.
+2. **Hidratar** cada tweet por su ID (endpoint `tweet-result`), que es **fiable y
+   sin límite observado** y devuelve texto + enlaces de Amazon.
 
-Si X bloqueara el endpoint en el futuro, el `fetcher` está aislado en
-`src/fetcher.mjs` y se puede cambiar por la API oficial o un scraper de pago sin
-tocar el resto.
+Esto funciona desde una red con salida a `x.com` (tu Mac, un servidor, un runner
+de GitHub Actions). Desde redes que bloquean X, no.
+
+- ✅ Si consigue datos reales, el feed se marca **«en vivo»**.
+- ⚠️ Si el timeline está limitado o X no es accesible, cae a **datos reales de
+  ejemplo** (`data/real-tweets-fixture.json`) y lo marca como **«datos de
+  ejemplo»**.
+
+### Ingesta manual (100% fiable)
+Como el paso 1 puede toparse con el límite de X, hay una vía manual que **siempre
+funciona** (usa solo el endpoint fiable). Le pasas URLs o IDs de tweets:
+
+```bash
+node scripts/ingest.mjs https://x.com/bestvinyldeal/status/2069597877736034550
+# o varios, o --file ids.txt
+```
+
+Para automatización sin depender del límite, lo mejor es el **GitHub Action**
+(corre cada 30 min desde IPs distintas) o migrar el paso 1 a un puente RSS / la
+API oficial de X.
 
 ---
 
@@ -76,18 +93,40 @@ Prueba el canal con el botón **«Enviar alerta de prueba»** de la web.
 
 ---
 
+## 🎨 Enriquecimiento de género/sello (Discogs / MusicBrainz)
+
+Los tweets casi nunca dicen el género o el sello, así que la app los completa
+sola consultando una base musical (`src/enrich.mjs`), con caché en
+`data/enrich-cache.json`:
+
+- **Discogs** (recomendado para vinilo): da género + estilo + sello en una
+  consulta. Necesita un token gratis: entra en
+  [discogs.com/settings/developers](https://www.discogs.com/settings/developers),
+  pulsa *Generate token* y guárdalo en la variable `DISCOGS_TOKEN`.
+- **MusicBrainz** (respaldo): se usa automáticamente si no hay token. Sin clave,
+  pero con géneros más pobres.
+
+Desactivar el enriquecimiento: `ENRICH=0`.
+
+```bash
+export DISCOGS_TOKEN=tuTokenDeDiscogs   # opcional pero recomendado
+npm run fetch
+```
+
 ## 🤖 Modo desatendido (GitHub Actions)
 
-`.github/workflows/poll.yml` lee X cada 30 min desde los runners de GitHub (que sí
-tienen acceso a X) y te avisa por WhatsApp. Para activarlo, en el repo:
+`.github/workflows/poll.yml` lee X cada 30 min desde los runners de GitHub (con
+IPs distintas, que suelen esquivar el límite de X), enriquece y te avisa por
+WhatsApp. Solo alerta de datos **reales** (`LIVE_ONLY=1`), nunca de la demo.
 
-`Settings → Secrets and variables → Actions` y crea:
+Para activarlo, en el repo: `Settings → Secrets and variables → Actions` y crea:
 - `WHATSAPP_PHONE`
 - `CALLMEBOT_APIKEY`
+- `DISCOGS_TOKEN` (opcional, mejora géneros/sellos)
 - `ALERT_WEBHOOK_URL` (opcional)
 
-El workflow recuerda qué deals ya te notificó (cache de `data/seen.json`) para no
-repetir avisos.
+El workflow recuerda qué deals ya te notificó y la caché de enriquecimiento
+(`data/seen.json`, `data/enrich-cache.json`) para no repetir avisos ni consultas.
 
 ---
 
@@ -121,19 +160,23 @@ encontrando cosas nuevas. Ajusta sus géneros/sellos/precio en la web.
 
 ```
 server.mjs                 Servidor HTTP (sin deps) + API REST
-scripts/run-fetch.mjs      CLI de lectura (una vez o --watch)
+scripts/
+  run-fetch.mjs            CLI de lectura automática (una vez o --watch)
+  ingest.mjs               Ingesta manual fiable (pegando URLs/IDs de tweets)
 src/
-  fetcher.mjs              Lee X (syndication) con fallback a ejemplo
-  parser.mjs              Extrae artista/álbum/sello/género/precio/Amazon
-  filters.mjs             Motor de coincidencias + descubrimiento
-  notifier.mjs            WhatsApp (CallMeBot) + webhook
-  store.mjs               Persistencia JSON
-  refresh.mjs             Orquesta fetch->parse->store->match->notify
+  twitter.mjs              Lee X: descubre IDs + hidrata por tweet-result
+  fetcher.mjs              Orquesta las 3 cuentas, fallback a ejemplo
+  parser.mjs               Extrae artista/álbum/sello/género/precio/Amazon
+  enrich.mjs               Completa género/sello vía Discogs/MusicBrainz
+  filters.mjs              Motor de coincidencias + descubrimiento
+  notifier.mjs             WhatsApp (CallMeBot) + webhook
+  store.mjs                Persistencia JSON
+  refresh.mjs              Orquesta fetch->parse->enrich->store->match->notify
 public/                    Interfaz web (HTML/CSS/JS)
 data/
-  catalog.json            Catálogo artista->género/sello (extensible)
-  sample-deals.json       Datos de ejemplo (fallback demo)
-  watchlists.default.json Listas de alerta por defecto
+  catalog.json             Catálogo artista->género/sello (extensible)
+  real-tweets-fixture.json Datos reales de ejemplo (fallback demo)
+  watchlists.default.json  Listas de alerta por defecto
 ```
 
 ---

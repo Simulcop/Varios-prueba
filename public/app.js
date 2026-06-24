@@ -113,6 +113,7 @@ function renderDealCard(d) {
     price.appendChild(el('span', 'price-now', `$${d.price}`));
     if (d.wasPrice) price.appendChild(el('span', 'price-was', `$${d.wasPrice}`));
     if (d.discountPct != null) price.appendChild(el('span', 'price-disc', `-${d.discountPct}%`));
+    if (d.lowest) price.appendChild(el('span', 'price-disc', '🔥 mínimo'));
     card.appendChild(price);
   }
 

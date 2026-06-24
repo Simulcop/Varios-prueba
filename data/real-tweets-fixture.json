@@ -1,0 +1,73 @@
+{
+  "_comment": "Datos REALES capturados de las 3 cuentas (endpoint tweet-result). Fixture para probar el parser multi-deal.",
+  "tweets": [
+    {
+      "id_str": "2069597877736034550",
+      "screen_name": "bestvinyldeal",
+      "created_at": "2026-06-24T01:45:59.000Z",
+      "text": "#MichaelGiacchino - Lost: Season 1 Soundtrack [2 LP] $26.59 (lowest) https://t.co/WEszvezHY4\n\nThe Virgin Suicides - Music from the Motion Picture (Soundtrack) $17.38 (lowest) https://t.co/VQVv120HGm https://t.co/uq63ahlvSl",
+      "entities": {
+        "urls": [
+          { "expanded_url": "https://amzn.to/4oN82MD", "indices": [69, 92] },
+          { "expanded_url": "https://amzn.to/4vCVWs7", "indices": [175, 198] }
+        ]
+      }
+    },
+    {
+      "id_str": "2069589686138331162",
+      "screen_name": "vinylonsale",
+      "created_at": "2026-06-24T01:13:26.000Z",
+      "text": "The Postal Service - Give Up Vinyl\n\n$19.98 - https://t.co/43bJyBZ8en https://t.co/Pz6pDORAKt",
+      "entities": {
+        "urls": [{ "expanded_url": "https://amzn.to/4g2WWB4", "indices": [45, 68] }]
+      }
+    },
+    {
+      "id_str": "2069579261368021183",
+      "screen_name": "bestvinyldeal",
+      "created_at": "2026-06-24T00:32:01.000Z",
+      "text": "Various Artists - Lofi Minnie: Focus [Purple Orchid LP] $16.99 (lowest) https://t.co/Ax2thZEdgZ\n\n#EdithPiaf - Concert Musicorama à l'Olympia $14.58 (lowest) https://t.co/8WpHQnUOAl https://t.co/c3oSlpjqHU",
+      "entities": {
+        "urls": [
+          { "expanded_url": "https://amzn.to/3Qxijjx", "indices": [72, 95] },
+          { "expanded_url": "https://amzn.to/4vsjM9N", "indices": [157, 180] }
+        ]
+      }
+    },
+    {
+      "id_str": "2069579109575880942",
+      "screen_name": "vinylonsale",
+      "created_at": "2026-06-24T00:31:25.000Z",
+      "text": "Lofi Minnie: Focus (Purple Orchid Vinyl)\n\n$16.99 - https://t.co/8MYNzTnJkS\n\nPrime Day deal, 10 left in stock https://t.co/66J9W5ccpF",
+      "entities": {
+        "urls": [{ "expanded_url": "https://amzn.to/4b5tZki", "indices": [51, 74] }]
+      }
+    },
+    {
+      "id_str": "2069577382412075136",
+      "screen_name": "bestvinyldeal",
+      "created_at": "2026-06-24T00:24:33.000Z",
+      "text": "#JordanDavis - Learn The Hard Way – Exclusive Edition [2LP] $13.22 https://t.co/sBr6AqzAwn\n\nPokemon 25: The Album / Various - Red & White with Poster $13.79 https://t.co/4LGugRvmxg https://t.co/KoTO8QaMmc",
+      "entities": {
+        "urls": [
+          { "expanded_url": "https://amzn.to/4fYfMcr", "indices": [67, 90] },
+          { "expanded_url": "https://amzn.to/4eW53hD", "indices": [161, 184] }
+        ]
+      }
+    },
+    {
+      "id_str": "2069572461587272116",
+      "screen_name": "bestvinyldeal",
+      "created_at": "2026-06-24T00:05:00.000Z",
+      "text": "#BeachHouse - Bloom [2 LP] $19.76 https://t.co/PWw5FhVp79\n\n#MaxRoach + 4 - Moon Faced And Starry Eyed $14.89 https://t.co/cEmhdziVPH\n\n#NeckDeep - All Distortions Are Intentional $12.19 https://t.co/oOD1mPWhIy\n\n#AndyMcCoy - 21st Century Rocks $10 https://t.co/DWWxxmFod7 https://t.co/x99wrdgZWw",
+      "entities": {
+        "urls": [
+          { "expanded_url": "https://amzn.to/4eHchok", "indices": [34, 57] },
+          { "expanded_url": "https://amzn.to/43SDBey", "indices": [109, 132] },
+          { "expanded_url": "https://amzn.to/4xGHaSN", "indices": [185, 208] },
+          { "expanded_url": "https://amzn.to/4w7tnD2", "indices": [246, 269] }
+        ]
+      }
+    }
+  ]
+}
