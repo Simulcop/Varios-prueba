@@ -11,9 +11,17 @@ const UA =
 const STATUS_RE =
   /https?:\/\/(?:www\.)?(?:x|twitter|mobile\.twitter)\.com\/[^/\s"'<>]+\/status\/(\d+)/gi;
 
+// RSS.app da dos formatos: la pagina web (rss.app/r/feed/ID) y el feed XML
+// (rss.app/feeds/ID.xml). Normalizamos a la del feed para leer siempre el XML.
+function normalizeFeedUrl(u) {
+  const m = u.match(/rss\.app\/r\/feed\/([A-Za-z0-9]+)/i);
+  if (m) return `https://rss.app/feeds/${m[1]}.xml`;
+  return u;
+}
+
 // Devuelve los IDs de tweets encontrados en un feed (los mas recientes primero).
 export async function getFeedTweetIds(url, { max = 25 } = {}) {
-  const res = await fetch(url, {
+  const res = await fetch(normalizeFeedUrl(url), {
     headers: { 'User-Agent': UA, Accept: 'application/rss+xml, application/xml, text/xml, */*' },
     signal: AbortSignal.timeout(20000),
   });
