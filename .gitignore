@@ -1,0 +1,8 @@
+node_modules/
+# Datos generados en tiempo de ejecucion (el feed real). Se versiona solo lo semilla.
+data/deals.json
+data/seen.json
+data/watchlists.json
+*.log
+.DS_Store
+.env

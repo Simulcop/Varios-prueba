@@ -1,0 +1,23 @@
+{
+  "name": "vinyl-deal-radar",
+  "version": "0.1.0",
+  "description": "Agregador de promociones de vinilos en Amazon publicadas por cuentas de X, con filtros por genero/sello/artista y alertas por WhatsApp.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "fetch": "node scripts/run-fetch.mjs",
+    "poll": "node scripts/run-fetch.mjs --watch"
+  },
+  "keywords": [
+    "vinyl",
+    "amazon",
+    "deals",
+    "twitter",
+    "x"
+  ],
+  "license": "MIT"
+}

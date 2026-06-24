@@ -1,0 +1,35 @@
+name: Vinyl Deal Radar - sondeo
+
+# Lee X periodicamente y te avisa por WhatsApp si hay deals que casan con tus alertas.
+# Los runners de GitHub SI tienen salida a internet, asi que aqui la lectura de X es real.
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # cada 30 min (ajusta a tu gusto)
+  workflow_dispatch: {} # permite lanzarlo a mano desde la pestana Actions
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Recupera el historial de alertas ya enviadas para no repetir avisos.
+      - name: Restaurar estado de alertas
+        uses: actions/cache@v4
+        with:
+          path: data/seen.json
+          key: vinyl-seen-${{ github.run_id }}
+          restore-keys: |
+            vinyl-seen-
+
+      - name: Leer X y notificar
+        env:
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
+        run: node scripts/run-fetch.mjs

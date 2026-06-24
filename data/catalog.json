@@ -1,0 +1,48 @@
+{
+  "_comment": "Catalogo extensible para enriquecer los deals. Anade artistas, sellos o palabras clave de genero a tu gusto. El parser usa esto para inferir genero/sello cuando el tweet no lo dice explicitamente.",
+  "artists": {
+    "pink floyd": { "genres": ["Rock", "Progressive"], "label": "Harvest" },
+    "the beatles": { "genres": ["Rock", "Pop"], "label": "Apple" },
+    "miles davis": { "genres": ["Jazz"], "label": "Columbia" },
+    "john coltrane": { "genres": ["Jazz"], "label": "Impulse!" },
+    "fleetwood mac": { "genres": ["Rock", "Pop"], "label": "Warner" },
+    "kendrick lamar": { "genres": ["Hip-Hop"], "label": "TDE" },
+    "daft punk": { "genres": ["Electronic", "House"], "label": "Columbia" },
+    "radiohead": { "genres": ["Rock", "Alternative"], "label": "XL" },
+    "amy winehouse": { "genres": ["Soul", "Jazz"], "label": "Island" },
+    "nina simone": { "genres": ["Jazz", "Soul"], "label": "Verve" },
+    "bob marley": { "genres": ["Reggae"], "label": "Island" },
+    "tame impala": { "genres": ["Psychedelic", "Rock"], "label": "Modular" },
+    "the weeknd": { "genres": ["R&B", "Pop"], "label": "XO" },
+    "led zeppelin": { "genres": ["Rock", "Hard Rock"], "label": "Atlantic" },
+    "david bowie": { "genres": ["Rock", "Art Rock"], "label": "RCA" },
+    "aphex twin": { "genres": ["Electronic", "IDM"], "label": "Warp" },
+    "frank ocean": { "genres": ["R&B"], "label": "Blonded" },
+    "stevie wonder": { "genres": ["Soul", "Funk"], "label": "Motown" },
+    "metallica": { "genres": ["Metal"], "label": "Blackened" },
+    "billie eilish": { "genres": ["Pop", "Alternative"], "label": "Interscope" }
+  },
+  "labelKeywords": [
+    "Blue Note", "Motown", "Impulse!", "Verve", "Stax", "Atlantic", "Sub Pop",
+    "Warp", "Ninja Tune", "ECM", "Def Jam", "4AD", "XL", "Domino", "Rough Trade",
+    "Mute", "Island", "Harvest", "Columbia", "Capitol", "Nonesuch", "Third Man"
+  ],
+  "genreKeywords": {
+    "Jazz": ["jazz", "bebop", "hard bop", "swing"],
+    "Soul": ["soul", "motown", "northern soul"],
+    "Funk": ["funk", "funky"],
+    "Rock": ["rock", "classic rock"],
+    "Metal": ["metal", "thrash", "death metal", "doom"],
+    "Hip-Hop": ["hip hop", "hip-hop", "rap"],
+    "Electronic": ["electronic", "techno", "house", "ambient", "idm", "synth", "edm"],
+    "Reggae": ["reggae", "dub", "ska"],
+    "Pop": ["pop"],
+    "Blues": ["blues"],
+    "Folk": ["folk", "americana"],
+    "Classical": ["classical", "orchestra", "symphony"],
+    "Punk": ["punk", "hardcore"],
+    "R&B": ["r&b", "rnb", "rhythm and blues"],
+    "Country": ["country"],
+    "Indie": ["indie", "alternative", "shoegaze"]
+  }
+}

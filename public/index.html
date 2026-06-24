@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vinyl Deal Radar</title>
+    <link rel="stylesheet" href="/styles.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💿</text></svg>"
+    />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="logo">💿</span>
+        <div>
+          <h1>Vinyl Deal Radar</h1>
+          <p class="subtitle">Promos de vinilos en Amazon desde X · filtros y alertas</p>
+        </div>
+      </div>
+      <div class="topbar-actions">
+        <span id="dataBadge" class="badge badge-muted" title="Origen de los datos">…</span>
+        <button id="refreshBtn" class="btn">↻ Refrescar X</button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <!-- Panel de filtros rapidos -->
+      <aside class="sidebar">
+        <section class="card">
+          <h2>Filtrar feed</h2>
+          <label class="field">
+            <span>Buscar</span>
+            <input id="search" type="search" placeholder="artista, álbum, sello…" />
+          </label>
+          <label class="field">
+            <span>Género</span>
+            <select id="genreFilter"><option value="">Todos</option></select>
+          </label>
+          <label class="field">
+            <span>Sello</span>
+            <select id="labelFilter"><option value="">Todos</option></select>
+          </label>
+          <label class="field">
+            <span>Precio máx: <strong id="priceVal">∞</strong></span>
+            <input id="priceFilter" type="range" min="0" max="60" step="1" value="60" />
+          </label>
+          <label class="checkbox">
+            <input id="onlyMatches" type="checkbox" />
+            <span>Solo lo que casa con mis alertas</span>
+          </label>
+          <button id="clearFilters" class="btn btn-ghost">Limpiar filtros</button>
+        </section>
+
+        <section class="card">
+          <div class="card-head">
+            <h2>Mis alertas</h2>
+            <button id="addWatchlist" class="btn btn-small">＋ Nueva</button>
+          </div>
+          <p class="hint">
+            Te avisamos cuando un deal nuevo casa con alguna lista. La de
+            <em>Descubrimiento</em> busca artistas que no sigues pero encajan con tus gustos.
+          </p>
+          <div id="watchlists"></div>
+          <button id="saveWatchlists" class="btn btn-primary">Guardar alertas</button>
+        </section>
+
+        <section class="card">
+          <h2>Notificaciones</h2>
+          <p id="notifierStatus" class="hint">…</p>
+          <button id="testAlert" class="btn btn-ghost">Enviar alerta de prueba</button>
+        </section>
+      </aside>
+
+      <!-- Feed de deals -->
+      <section class="feed">
+        <div class="feed-head">
+          <h2>Deals <span id="feedCount" class="count"></span></h2>
+        </div>
+        <div id="deals" class="deals"></div>
+        <p id="emptyState" class="empty hidden">No hay deals que coincidan con el filtro.</p>
+      </section>
+    </main>
+
+    <div id="toast" class="toast hidden"></div>
+
+    <!-- Plantilla de watchlist -->
+    <template id="watchlistTpl">
+      <div class="watchlist">
+        <div class="wl-row">
+          <input class="wl-enabled" type="checkbox" />
+          <input class="wl-name" type="text" placeholder="Nombre de la alerta" />
+          <button class="wl-del" title="Eliminar">✕</button>
+        </div>
+        <div class="wl-grid">
+          <label>Artistas<input class="wl-artists" placeholder="Pink Floyd, Radiohead" /></label>
+          <label>Géneros<input class="wl-genres" placeholder="Jazz, Soul" /></label>
+          <label>Sellos<input class="wl-labels" placeholder="Blue Note, Warp" /></label>
+          <label>Palabras<input class="wl-keywords" placeholder="180g, box set" /></label>
+          <label>Precio máx<input class="wl-maxprice" type="number" min="0" placeholder="∞" /></label>
+          <label>Dto mín %<input class="wl-discount" type="number" min="0" max="100" placeholder="0" /></label>
+        </div>
+      </div>
+    </template>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
