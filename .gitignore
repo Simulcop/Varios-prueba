@@ -3,6 +3,7 @@ node_modules/
 data/deals.json
 data/seen.json
 data/watchlists.json
+data/enrich-cache.json
 *.log
 .DS_Store
 .env

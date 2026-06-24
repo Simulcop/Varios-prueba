@@ -2,6 +2,7 @@
 // -> casar con watchlists -> notificar lo nuevo -> marcar como visto.
 import { fetchAllTweets } from './fetcher.mjs';
 import { parseTweets } from './parser.mjs';
+import { enrichDeals } from './enrich.mjs';
 import { upsertDeals, getWatchlistsConfig, getSeen, markSeen, getDeals } from './store.mjs';
 import { findMatches } from './filters.mjs';
 import { notifyDeals } from './notifier.mjs';
@@ -9,6 +10,16 @@ import { notifyDeals } from './notifier.mjs';
 export async function refresh({ notify = true } = {}) {
   const { tweets, live, notes } = await fetchAllTweets();
   const parsed = await parseTweets(tweets);
+
+  // Enriquecer genero/sello con base musical (desactivable con ENRICH=0).
+  if (process.env.ENRICH !== '0') {
+    try {
+      await enrichDeals(parsed);
+    } catch (err) {
+      console.warn('[refresh] enriquecimiento omitido:', err.message);
+    }
+  }
+
   const fresh = await upsertDeals(parsed);
 
   const config = await getWatchlistsConfig();

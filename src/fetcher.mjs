@@ -16,7 +16,8 @@ async function loadSampleTweets() {
 }
 
 // Devuelve { tweets, live, notes }. live=true si vinieron de X; false si demo.
-export async function fetchAllTweets({ allowSampleFallback = true } = {}) {
+// Con LIVE_ONLY=1 (p.ej. en la GitHub Action) nunca cae a la demo: solo datos reales.
+export async function fetchAllTweets({ allowSampleFallback = process.env.LIVE_ONLY !== '1' } = {}) {
   const collected = [];
   const notes = [];
   let liveCount = 0;

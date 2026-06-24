@@ -1,12 +1,18 @@
 name: Vinyl Deal Radar - sondeo
 
-# Lee X periodicamente y te avisa por WhatsApp si hay deals que casan con tus alertas.
-# Los runners de GitHub SI tienen salida a internet, asi que aqui la lectura de X es real.
+# Lee X periodicamente y te avisa por WhatsApp si hay deals que casan con tus
+# alertas. Los runners de GitHub tienen salida a internet (e IPs distintas, que
+# suelen esquivar el limite de X), asi que aqui la lectura es real.
 
 on:
   schedule:
     - cron: '*/30 * * * *' # cada 30 min (ajusta a tu gusto)
   workflow_dispatch: {} # permite lanzarlo a mano desde la pestana Actions
+
+# Evita solapes si una ejecucion tarda mas de lo previsto.
+concurrency:
+  group: vinyl-poll
+  cancel-in-progress: false
 
 jobs:
   poll:
@@ -18,18 +24,22 @@ jobs:
         with:
           node-version: '20'
 
-      # Recupera el historial de alertas ya enviadas para no repetir avisos.
-      - name: Restaurar estado de alertas
+      # Recupera lo ya notificado y la cache de enriquecimiento entre ejecuciones.
+      - name: Restaurar estado
         uses: actions/cache@v4
         with:
-          path: data/seen.json
-          key: vinyl-seen-${{ github.run_id }}
+          path: |
+            data/seen.json
+            data/enrich-cache.json
+          key: vinyl-state-${{ github.run_id }}
           restore-keys: |
-            vinyl-seen-
+            vinyl-state-
 
-      - name: Leer X y notificar
+      - name: Leer X, enriquecer y notificar
         env:
+          LIVE_ONLY: '1' # nunca alertar con datos de ejemplo
           WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
           CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
           ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
         run: node scripts/run-fetch.mjs
