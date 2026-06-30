@@ -132,7 +132,8 @@ function renderDealCard(d) {
 
   if (d.amazonUrl) {
     const buy = el('div', 'deal-buy');
-    const a = el('a', null, 'Ver en Amazon');
+    const isAmazon = /amzn\.|amazon\./i.test(d.amazonUrl);
+    const a = el('a', null, isAmazon ? 'Ver en Amazon' : 'Ver deal →');
     a.href = d.amazonUrl;
     a.target = '_blank';
     a.rel = 'noopener';

@@ -15,7 +15,7 @@
 import { albumSpotifyUrl, thisIsSpotifyUrl } from './spotify.mjs';
 
 function formatDealMessage(deal) {
-  const price = deal.price != null ? `$${deal.price}` : 's/p';
+  const price = deal.price != null ? `$${deal.price}` : 'ver precio en el enlace';
   const was = deal.wasPrice ? ` (antes $${deal.wasPrice})` : '';
   const disc = deal.discountPct != null ? ` -${deal.discountPct}%` : '';
   const who = [deal.artist, deal.title].filter(Boolean).join(' – ') || deal.text.slice(0, 80);
