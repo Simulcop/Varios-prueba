@@ -12,6 +12,8 @@
 //   2) Envíale: "I allow callmebot to send me messages"
 //   3) Te responde con tu apikey. Ponla en CALLMEBOT_APIKEY.
 
+import { albumSpotifyUrl, thisIsSpotifyUrl } from './spotify.mjs';
+
 function formatDealMessage(deal) {
   const price = deal.price != null ? `$${deal.price}` : 's/p';
   const was = deal.wasPrice ? ` (antes $${deal.wasPrice})` : '';
@@ -19,12 +21,16 @@ function formatDealMessage(deal) {
   const who = [deal.artist, deal.title].filter(Boolean).join(' – ') || deal.text.slice(0, 80);
   const tags = [deal.label, ...(deal.genres || [])].filter(Boolean).join(', ');
   const why = (deal.reasons || []).map((r) => r.name).join(' / ');
+  const spotify = albumSpotifyUrl(deal);
+  const thisIs = thisIsSpotifyUrl(deal);
   return (
     `🎵 ${who}\n` +
     `💿 ${price}${was}${disc}` +
     (tags ? `\n🏷️ ${tags}` : '') +
     (why ? `\n🔔 ${why}` : '') +
-    (deal.amazonUrl ? `\n🛒 ${deal.amazonUrl}` : '')
+    (deal.amazonUrl ? `\n🛒 ${deal.amazonUrl}` : '') +
+    (spotify ? `\n🎧 Spotify: ${spotify}` : '') +
+    (thisIs ? `\n📻 This Is: ${thisIs}` : '')
   );
 }
 
