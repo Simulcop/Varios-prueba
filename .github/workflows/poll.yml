@@ -39,7 +39,8 @@ jobs:
         env:
           LIVE_ONLY: '1' # nunca alertar con datos de ejemplo
           RSS_FEEDS: ${{ secrets.RSS_FEEDS }} # urls de feeds RSS (X via RSS.app) separadas por coma
-          SITE_FEEDS: ${{ secrets.SITE_FEEDS }} # webs de deals (vacio = bestvinyldeals.com por defecto)
+          SITE_FEEDS: ${{ secrets.SITE_FEEDS }} # webs de deals (vacio = ninguna; off por defecto)
+          REDDIT_FEEDS: ${{ secrets.REDDIT_FEEDS }} # subreddits .rss (vacio = r/VinylDeals por defecto)
           WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
           CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
           ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
