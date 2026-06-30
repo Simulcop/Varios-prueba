@@ -11,7 +11,9 @@
 const UA =
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17 Safari/605.1.15';
 
-const DEFAULT_FEEDS = ['https://bestvinyldeals.com/feed/'];
+// Desactivado por defecto: bestvinyldeals.com resultó ser UK/Rarewaves y sin
+// precio. Esta fuente solo se usa si defines SITE_FEEDS con una web US válida.
+const DEFAULT_FEEDS = [];
 
 const SEPARATORS = [' – ', ' — ', ' -- ', ' - ', ' | '];
 
