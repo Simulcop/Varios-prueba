@@ -38,7 +38,8 @@ jobs:
       - name: Leer X, enriquecer y notificar
         env:
           LIVE_ONLY: '1' # nunca alertar con datos de ejemplo
-          RSS_FEEDS: ${{ secrets.RSS_FEEDS }} # urls de feeds RSS separadas por coma
+          RSS_FEEDS: ${{ secrets.RSS_FEEDS }} # urls de feeds RSS (X via RSS.app) separadas por coma
+          SITE_FEEDS: ${{ secrets.SITE_FEEDS }} # webs de deals (vacio = bestvinyldeals.com por defecto)
           WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
           CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
           ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}

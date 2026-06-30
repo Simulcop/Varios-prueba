@@ -2,6 +2,7 @@
 // -> casar con watchlists -> notificar lo nuevo -> marcar como visto.
 import { fetchAllTweets } from './fetcher.mjs';
 import { parseTweets } from './parser.mjs';
+import { getSiteDeals } from './sitefeed.mjs';
 import { enrichDeals } from './enrich.mjs';
 import { upsertDeals, getWatchlistsConfig, getSeen, markSeen, getDeals } from './store.mjs';
 import { findMatches } from './filters.mjs';
@@ -9,7 +10,18 @@ import { notifyDeals } from './notifier.mjs';
 
 export async function refresh({ notify = true } = {}) {
   const { tweets, live, notes } = await fetchAllTweets();
-  const parsed = await parseTweets(tweets);
+  const tweetDeals = await parseTweets(tweets);
+
+  // Fuentes web de deals (p. ej. bestvinyldeals.com): gratis, completas.
+  let siteDeals = [];
+  try {
+    siteDeals = await getSiteDeals();
+    if (siteDeals.length) (notes || []).push(`Web: ${siteDeals.length} deals`);
+  } catch (err) {
+    console.warn('[refresh] fuente web omitida:', err.message);
+  }
+
+  const parsed = [...tweetDeals, ...siteDeals];
 
   // Enriquecer genero/sello con base musical (desactivable con ENRICH=0).
   if (process.env.ENRICH !== '0') {
@@ -38,9 +50,9 @@ export async function refresh({ notify = true } = {}) {
   }
 
   const summary = {
-    live,
+    live: live || siteDeals.length > 0,
     notes: notes || [],
-    fetched: tweets.length,
+    fetched: tweets.length + siteDeals.length,
     parsed: parsed.length,
     newDeals: fresh.length,
     matched: matches.length,
