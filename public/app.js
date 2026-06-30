@@ -110,8 +110,9 @@ function renderDealCard(d) {
 
   if (d.price != null) {
     const price = el('div', 'deal-price');
-    price.appendChild(el('span', 'price-now', `$${d.price}`));
-    if (d.wasPrice) price.appendChild(el('span', 'price-was', `$${d.wasPrice}`));
+    const fmt = (p) => (Number.isInteger(p) ? `$${p}` : `$${p.toFixed(2)}`);
+    price.appendChild(el('span', 'price-now', fmt(d.price)));
+    if (d.wasPrice) price.appendChild(el('span', 'price-was', fmt(d.wasPrice)));
     if (d.discountPct != null) price.appendChild(el('span', 'price-disc', `-${d.discountPct}%`));
     if (d.lowest) price.appendChild(el('span', 'price-disc', '🔥 mínimo'));
     card.appendChild(price);
