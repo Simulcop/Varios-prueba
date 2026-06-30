@@ -15,8 +15,9 @@
 import { albumSpotifyUrl, thisIsSpotifyUrl } from './spotify.mjs';
 
 function formatDealMessage(deal) {
-  const price = deal.price != null ? `$${deal.price}` : 'ver precio en el enlace';
-  const was = deal.wasPrice ? ` (antes $${deal.wasPrice})` : '';
+  const fmt = (p) => (Number.isInteger(p) ? `$${p}` : `$${p.toFixed(2)}`);
+  const price = deal.price != null ? fmt(deal.price) : 'ver precio en el enlace';
+  const was = deal.wasPrice ? ` (antes ${fmt(deal.wasPrice)})` : '';
   const disc = deal.discountPct != null ? ` -${deal.discountPct}%` : '';
   const who = [deal.artist, deal.title].filter(Boolean).join(' – ') || deal.text.slice(0, 80);
   const tags = [deal.label, ...(deal.genres || [])].filter(Boolean).join(', ');
