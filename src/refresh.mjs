@@ -3,6 +3,7 @@
 import { fetchAllTweets } from './fetcher.mjs';
 import { parseTweets } from './parser.mjs';
 import { getSiteDeals } from './sitefeed.mjs';
+import { getRedditDeals } from './redditdeals.mjs';
 import { enrichDeals } from './enrich.mjs';
 import { upsertDeals, getWatchlistsConfig, getSeen, markSeen, getDeals } from './store.mjs';
 import { findMatches } from './filters.mjs';
@@ -12,7 +13,7 @@ export async function refresh({ notify = true } = {}) {
   const { tweets, live, notes } = await fetchAllTweets();
   const tweetDeals = await parseTweets(tweets);
 
-  // Fuentes web de deals (p. ej. bestvinyldeals.com): gratis, completas.
+  // Fuentes web de deals (p. ej. bestvinyldeals.com): off por defecto.
   let siteDeals = [];
   try {
     siteDeals = await getSiteDeals();
@@ -21,7 +22,16 @@ export async function refresh({ notify = true } = {}) {
     console.warn('[refresh] fuente web omitida:', err.message);
   }
 
-  const parsed = [...tweetDeals, ...siteDeals];
+  // Reddit (r/VinylDeals): gratis, permanente, US, con precio. Fuente principal.
+  let redditDeals = [];
+  try {
+    redditDeals = await getRedditDeals();
+    if (redditDeals.length) (notes || []).push(`Reddit: ${redditDeals.length} deals`);
+  } catch (err) {
+    console.warn('[refresh] fuente reddit omitida:', err.message);
+  }
+
+  const parsed = [...tweetDeals, ...siteDeals, ...redditDeals];
 
   // Enriquecer genero/sello con base musical (desactivable con ENRICH=0).
   if (process.env.ENRICH !== '0') {
@@ -50,9 +60,9 @@ export async function refresh({ notify = true } = {}) {
   }
 
   const summary = {
-    live: live || siteDeals.length > 0,
+    live: live || siteDeals.length > 0 || redditDeals.length > 0,
     notes: notes || [],
-    fetched: tweets.length + siteDeals.length,
+    fetched: tweets.length + siteDeals.length + redditDeals.length,
     parsed: parsed.length,
     newDeals: fresh.length,
     matched: matches.length,
