@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T17:15:44.021Z",
+  "updatedAt": "2026-07-01T17:17:22.942Z",
   "deals": [
     {
       "id": "reddit-t31ukrjqa",
@@ -345,7 +345,10 @@
       "knownArtist": false,
       "year": "2017",
       "cover": "https://i.discogs.com/t4mJmmEXuyEVdXMPC-nqgX0VztGcDD6s0xkBu8SiU4k/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI5/MjEyLTE2MzYzNzU1/MDItNTczMS5qcGVn.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Alternative (indie) rock band from London, UK The band formed in 2010 as an acoustic duo comprising singer Ellie Rowsell and guitarist Joff Oddie, who performed songs under the name Wolf Alice.",
+      "bioUrl": "https://www.discogs.com/artist/3153581-Wolf-Alice",
+      "bioSource": "Discogs"
     },
     {
       "id": "reddit-t31ukd6rf",
