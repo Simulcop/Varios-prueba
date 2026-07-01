@@ -1,0 +1,33 @@
+name: Bio compare (one-off)
+
+# Ejecucion manual para comparar bios de Wikipedia/Discogs/Last.fm lado a lado.
+# Escribe data/bio-compare.json y lo commitea. Es temporal.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Comparar bios
+        env:
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+        run: node scripts/bio-compare.mjs
+      - name: Publicar comparativa
+        run: |
+          git config user.name "vinyl-deal-radar[bot]"
+          git config user.email "actions@github.com"
+          git add data/bio-compare.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Comparativa de bios [skip ci]"
+            git push
+          fi
