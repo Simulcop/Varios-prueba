@@ -46,6 +46,8 @@ function pickDealUrl(html) {
 
 // Marcadores de tiendas/regiones NO estadounidenses (para excluirlas).
 const NON_US = /\b(uk|u\.k\.?|canada|eu|europe|germany|deutschland|france|australia|japan|mexico|international|intl|de|fr|au|jp|nz|ca)\b/i;
+// Tags que NO son deals (discusiones, avisos, busquedas...).
+const NON_DEAL = /\b(discussion|psa|meta|question|help|megathread|weekly|daily|thread|announcement|\bmod\b|found|iso|wtb|looking|review)\b/i;
 
 // De un titulo "(Store) [Regional] Artista - Album @ $19.99" saca los campos.
 function parseTitle(rawTitle) {
@@ -59,6 +61,8 @@ function parseTitle(rawTitle) {
   const firstTag = ((lead.match(/[[(]\s*([^\])]+?)\s*[\])]/) || [, ''])[1] || '')
     .replace(/\b(regional|coupon|deal|sale)\b/gi, '')
     .trim();
+  // Es un deal real solo si trae etiqueta de tienda y no es discusion/basura.
+  const hasStore = !!firstTag && !NON_DEAL.test(lead);
 
   t = t.replace(/^\s*(?:[[(][^\])]*[\])]\s*)+/, '').trim();
 
@@ -76,7 +80,7 @@ function parseTitle(rawTitle) {
     artist = t.slice(0, idx).trim();
     album = t.slice(idx + 3).trim();
   }
-  return { artist, album, price, isUS, store: firstTag };
+  return { artist, album, price, isUS, hasStore, store: firstTag };
 }
 
 async function fetchSubredditDeals(feedUrl) {
@@ -92,8 +96,8 @@ async function fetchSubredditDeals(feedUrl) {
   for (const block of entries) {
     const rawTitle = tag(block, 'title');
     if (!rawTitle) continue;
-    const { artist, album, price, isUS, store } = parseTitle(rawTitle);
-    if (!isUS) continue; // solo US (excluye UK/CA/EU/JP...)
+    const { artist, album, price, isUS, hasStore, store } = parseTitle(rawTitle);
+    if (!isUS || !hasStore) continue; // solo US y con etiqueta de tienda real
 
     const content = decodeEntities(tag(block, 'content') || '');
     const dealUrl = pickDealUrl(content);
