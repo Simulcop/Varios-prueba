@@ -146,7 +146,7 @@ function renderDealCard(d) {
     const bio = el('div', 'deal-bio');
     bio.appendChild(el('span', null, d.bio));
     if (d.bioUrl) {
-      const more = el('a', 'bio-more', ' Wikipedia ↗');
+      const more = el('a', 'bio-more', ` ${d.bioSource || 'Wikipedia'} ↗`);
       more.href = d.bioUrl;
       more.target = '_blank';
       more.rel = 'noopener';

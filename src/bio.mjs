@@ -46,6 +46,40 @@ async function fetchSummary(pageTitle) {
   return res.json();
 }
 
+// Quita el marcado propio de Discogs de un perfil: [b]/[i], [a123]/[a=Nombre],
+// [l=Sello], [url=...]texto[/url], etc. Deja texto plano.
+function stripDiscogsMarkup(s) {
+  return (s || '')
+    .replace(/\[url=[^\]]*\]([^\[]*)\[\/url\]/gi, '$1')
+    .replace(/\[\/?[abil](=[^\]]*)?\]/gi, '') // [a=..]/[a123]/[b]/[i]/[l=..]
+    .replace(/\[\/?[^\]]*\]/g, '') // cualquier otro corchete de marcado
+    .replace(/\r/g, '')
+    .trim();
+}
+
+// Respaldo: biografia desde Discogs (campo "profile" del artista). Solo si hay
+// DISCOGS_TOKEN. Discogs esta centrado en vinilo, asi que cubre artistas que a
+// veces no estan en Wikipedia.
+async function fetchDiscogsBio(artist) {
+  const token = process.env.DISCOGS_TOKEN;
+  if (!token) return null;
+  const sUrl = `https://api.discogs.com/database/search?q=${encodeURIComponent(artist)}&type=artist&per_page=1&token=${token}`;
+  const sRes = await fetch(sUrl, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(12000) });
+  if (!sRes.ok) throw new Error(`Discogs HTTP ${sRes.status}`);
+  const sData = await sRes.json();
+  const hit = (sData.results || [])[0];
+  if (!hit || !hit.id) return null;
+  const aRes = await fetch(`https://api.discogs.com/artists/${hit.id}`, {
+    headers: { 'User-Agent': UA },
+    signal: AbortSignal.timeout(12000),
+  });
+  if (!aRes.ok) throw new Error(`Discogs artist HTTP ${aRes.status}`);
+  const a = await aRes.json();
+  const profile = stripDiscogsMarkup(a.profile);
+  if (!profile) return null;
+  return { text: shorten(profile), url: a.uri || null, source: 'Discogs' };
+}
+
 // Devuelve { text, url } o null. Si el nombre es ambiguo (pagina de
 // desambiguacion), prueba variantes musicales "(band)", "(musician)", "(singer)".
 // Nombres que no son un artista real (no tiene sentido buscarles bio).
@@ -58,25 +92,33 @@ export async function getArtistBio(artist) {
   if (cache[key] !== undefined) return cache[key];
 
   let result = null;
-  const candidates = [artist, `${artist} (band)`, `${artist} (musician)`, `${artist} (singer)`];
+  const candidates = [`${artist} (band)`, `${artist} (musician)`, `${artist} (singer)`];
   try {
-    // 1) Nombre tal cual: si es articulo normal, lo usamos.
+    // 1) Wikipedia. Nombre tal cual: si es articulo normal, lo usamos.
     const first = await fetchSummary(artist);
     if (first && first.type !== 'disambiguation' && first.extract) {
-      result = { text: shorten(first.extract), url: first.content_urls?.desktop?.page || null };
+      result = { text: shorten(first.extract), url: first.content_urls?.desktop?.page || null, source: 'Wikipedia' };
     } else {
-      // 2) Ambiguo o inexistente: probamos variantes musicales.
-      for (const c of candidates.slice(1)) {
+      // Ambiguo o inexistente: probamos variantes musicales.
+      for (const c of candidates) {
         const s = await fetchSummary(c);
         if (s && s.type !== 'disambiguation' && s.extract) {
-          result = { text: shorten(s.extract), url: s.content_urls?.desktop?.page || null };
+          result = { text: shorten(s.extract), url: s.content_urls?.desktop?.page || null, source: 'Wikipedia' };
           break;
         }
       }
     }
   } catch (err) {
-    console.warn(`[bio] ${artist}: ${err.message}`);
-    result = null;
+    console.warn(`[bio] wikipedia ${artist}: ${err.message}`);
+  }
+
+  // 2) Respaldo: Discogs (perfil del artista) si Wikipedia no dio nada.
+  if (!result) {
+    try {
+      result = await fetchDiscogsBio(artist);
+    } catch (err) {
+      console.warn(`[bio] discogs ${artist}: ${err.message}`);
+    }
   }
 
   cache[key] = result; // cachea incluso null para no reintentar cada pasada
