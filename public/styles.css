@@ -139,9 +139,13 @@ input:focus, select:focus { outline: 2px solid var(--accent-2); outline-offset: 
 .reasons { display: flex; flex-wrap: wrap; gap: 6px; }
 .reason { font-size: 11px; padding: 3px 9px; border-radius: 999px; background: rgba(108,140,255,.15); border: 1px solid rgba(108,140,255,.4); color: #aebcff; }
 .reason.discovery { background: rgba(255,207,92,.13); border-color: rgba(255,207,92,.4); color: var(--gold); }
-.deal-buy { margin-top: auto; }
+.deal-buy { margin-top: auto; display: flex; flex-wrap: wrap; gap: 8px; }
 .deal-buy a { display: inline-block; text-decoration: none; color: #fff; background: #ff9900; padding: 8px 12px; border-radius: 9px; font-size: 13px; font-weight: 600; }
 .deal-buy a:hover { background: #ffab2e; }
+.deal-buy a.btn-spotify { background: #1db954; }
+.deal-buy a.btn-spotify:hover { background: #1ed760; }
+.deal-buy a.btn-spotify-soft { background: transparent; color: #1db954; border: 1px solid rgba(29,185,84,.5); }
+.deal-buy a.btn-spotify-soft:hover { background: rgba(29,185,84,.12); }
 
 .empty { color: var(--muted); text-align: center; padding: 40px; }
 .hidden { display: none !important; }

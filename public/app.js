@@ -92,6 +92,24 @@ function el(tag, cls, text) {
   return n;
 }
 
+// --- Enlaces de Spotify (busqueda, sin cuenta ni API) ----------------------
+function cleanForSearch(title) {
+  return (title || '')
+    .replace(/\[[^\]]*\]|\([^)]*\)/g, '')
+    .replace(/\b\d+\s?lp\b|\bvinyl\b|\blp\b|\bexclusive\b|\bedition\b/gi, '')
+    .replace(/\$\s*[\d,]+\.?\d*|\blowest\b/gi, '')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+}
+const spSearch = (q) => `https://open.spotify.com/search/${encodeURIComponent(q)}`;
+function albumSpotifyUrl(d) {
+  const q = [d.artist, cleanForSearch(d.title)].filter(Boolean).join(' ').trim();
+  return q ? spSearch(q) : null;
+}
+function thisIsSpotifyUrl(d) {
+  return d.artist ? spSearch(`This Is ${d.artist}`) : null;
+}
+
 function renderDealCard(d) {
   const card = el('div', 'deal' + (d.matched ? ' matched' : ''));
 
@@ -132,14 +150,33 @@ function renderDealCard(d) {
     card.appendChild(reasons);
   }
 
-  if (d.amazonUrl) {
+  const spotifyUrl = albumSpotifyUrl(d);
+  if (d.amazonUrl || spotifyUrl) {
     const buy = el('div', 'deal-buy');
-    const isAmazon = /amzn\.|amazon\./i.test(d.amazonUrl);
-    const a = el('a', null, isAmazon ? 'Ver en Amazon' : 'Ver deal →');
-    a.href = d.amazonUrl;
-    a.target = '_blank';
-    a.rel = 'noopener';
-    buy.appendChild(a);
+    if (d.amazonUrl) {
+      const isAmazon = /amzn\.|amazon\./i.test(d.amazonUrl);
+      const a = el('a', null, isAmazon ? 'Ver en Amazon' : 'Ver deal →');
+      a.href = d.amazonUrl;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      buy.appendChild(a);
+    }
+    if (spotifyUrl) {
+      const s = el('a', 'btn-spotify', '▶ Spotify');
+      s.href = spotifyUrl;
+      s.target = '_blank';
+      s.rel = 'noopener';
+      buy.appendChild(s);
+      const thisIs = thisIsSpotifyUrl(d);
+      if (thisIs) {
+        const t = el('a', 'btn-spotify-soft', '♫ This Is…');
+        t.href = thisIs;
+        t.target = '_blank';
+        t.rel = 'noopener';
+        t.title = `Playlist "This Is ${d.artist}" en Spotify`;
+        buy.appendChild(t);
+      }
+    }
     card.appendChild(buy);
   }
   return card;
