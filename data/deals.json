@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T17:09:15.523Z",
+  "updatedAt": "2026-07-01T17:11:48.932Z",
   "deals": [
     {
       "id": "reddit-t31ukrjqa",
@@ -15,9 +15,7 @@
       "discountPct": null,
       "lowest": false,
       "amazonUrl": "https://www.amazon.com/dp/B0F6YS6K68",
-      "knownArtist": false,
-      "bio": "A compilation album comprises tracks, which may be previously released or unreleased, usually from several separate recordings by either one performer or by several performers.",
-      "bioUrl": "https://en.wikipedia.org/wiki/Compilation_album"
+      "knownArtist": false
     },
     {
       "id": "reddit-t31ukrgef",
@@ -560,7 +558,9 @@
       "knownArtist": false,
       "year": "2025",
       "cover": "https://i.discogs.com/KpbIFaIKIDFz2kkSs4pbjDUYoaP6375Cl9284_KrKjY/rs:fit/g:sm/q:90/h:616/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDAy/OTY5LTE3NTExOTY3/NDctMzM4MC5qcGVn.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Bruce Frederick Joseph Springsteen is an American singer, songwriter, and musician. Nicknamed \"the Boss\", Springsteen has released 21 studio albums spanning six decades; most feature the E Street Band, his backing band since 1972.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Bruce_Springsteen"
     },
     {
       "id": "reddit-t31uk814v",
@@ -582,7 +582,9 @@
       "knownArtist": false,
       "year": "2025",
       "cover": "https://i.discogs.com/UyksiQjNwN6nKFOBy_Ct5AeXvrfnIizHBZpGhc7Zgy8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjk4/NDY3LTE3NDEzMDc1/NDktNzAzNS5qcGVn.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "John Stewart Williamson was an American science fiction writer, one of several called the \"Dean of Science Fiction\". He is also credited with one of the first uses of the term genetic engineering. Early in his career he sometimes used the pseudonyms Will Stewart and Nils O. Sonderlund.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Jack_Williamson"
     },
     {
       "id": "reddit-t31uk7xt4",
@@ -604,7 +606,9 @@
       "knownArtist": false,
       "year": "2001",
       "cover": "https://i.discogs.com/64OhJOV0dYKcxCMn_WeAC5WcsyXC8RIlgqhA2d1hg00/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU2/OTUtMTMwMjQ0OTIw/OS5qcGVn.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Tori Amos is an American singer-songwriter and pianist. She is a classically trained musician with a mezzo-soprano vocal range. A child prodigy, Amos entered the Peabody Institute's preparatory division at five, but left at eleven, coming of age as a pianist in Washington, D.C. bars.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Tori_Amos"
     },
     {
       "id": "reddit-t31uk7wt0",
@@ -620,7 +624,9 @@
       "discountPct": null,
       "lowest": false,
       "amazonUrl": "https://www.amazon.com/dp/B0CCFWR2GS",
-      "knownArtist": false
+      "knownArtist": false,
+      "bio": "Mitchell Kristopher Rowland is an American songwriter and multi-instrumentalist, best known for his work as a touring guitarist and for co-writing songs on three of Harry Styles's solo albums.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Mitch_Rowland"
     },
     {
       "id": "reddit-t31uk7v7w",
@@ -642,7 +648,9 @@
       "knownArtist": false,
       "year": "2001",
       "cover": "https://i.discogs.com/64OhJOV0dYKcxCMn_WeAC5WcsyXC8RIlgqhA2d1hg00/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU2/OTUtMTMwMjQ0OTIw/OS5qcGVn.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Tori Amos is an American singer-songwriter and pianist. She is a classically trained musician with a mezzo-soprano vocal range. A child prodigy, Amos entered the Peabody Institute's preparatory division at five, but left at eleven, coming of age as a pianist in Washington, D.C. bars.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Tori_Amos"
     },
     {
       "id": "reddit-t31uk7sgy",
@@ -695,7 +703,9 @@
       "knownArtist": false,
       "year": "2022",
       "cover": "https://i.discogs.com/MruOmq0XYzp2CBQP4wWuU96hh9zgotZUxTfg55ytCIU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjE1/MDUyLTE2NTI0Njg0/NjQtNjYwNy5qcGVn.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Lyle Pearce Lovett is an American country singer-songwriter and actor. Active since 1980, he has recorded 14 albums and released 25 singles to date, including his highest entry, the number 10 chart hit on the U.S. Billboard Hot Country Songs chart, \"Cowboy Man\".",
+      "bioUrl": "https://en.wikipedia.org/wiki/Lyle_Lovett"
     },
     {
       "id": "reddit-t31uk4l2b",
@@ -717,7 +727,9 @@
       "knownArtist": false,
       "year": "2026",
       "cover": "https://i.discogs.com/mIcX1j4drfhzZiwx1pRPo2Kvx0KnsnAiaYgdjIfYhbw/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjg3/ODY2LTE3NjkxMTc1/MzctODc5Ny5qcGVn.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Robert Peter Williams is an English singer and songwriter. He found fame as a member of the pop group Take That from 1990 to 1995, launching a solo career in 1996. His debut studio album, Life thru a Lens, was released in 1997, and included his best-selling single \"Angels\".",
+      "bioUrl": "https://en.wikipedia.org/wiki/Robbie_Williams"
     },
     {
       "id": "reddit-t31uk37vt",
@@ -739,7 +751,9 @@
       "knownArtist": false,
       "year": "1988",
       "cover": "https://i.discogs.com/fLdx-jhGAX-F80pieIwer16pbxLQo-a1VgT5BtXBtLg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODEz/MTktMTYzMDQzNzgz/Mi0xMDU0LmpwZWc.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Todd Anthony Shaw, known professionally as Too Short, is an American rapper. A pioneer of West Coast hip-hop, Shaw was among the first acts to receive recognition in the genre during the late 1980s.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Too_Short"
     },
     {
       "id": "reddit-t31uk2myt",
@@ -785,7 +799,9 @@
       "knownArtist": false,
       "year": "1986",
       "cover": "https://i.discogs.com/PbnFAPCCj7ykF1FYvadMJQPMLStnHLXQjNz3EfgwcnY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjAx/MTMtMTI4NDEzMjQ3/NC5qcGVn.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "The Damned are an English rock band formed in London in 1976 by lead vocalist Dave Vanian, guitarist Brian James, bassist Captain Sensible and drummer Rat Scabies.",
+      "bioUrl": "https://en.wikipedia.org/wiki/The_Damned_(band)"
     },
     {
       "id": "reddit-t31ujzon3",
@@ -809,7 +825,9 @@
       "knownArtist": false,
       "year": "2025",
       "cover": "https://i.discogs.com/lE3iJhTxbZkxljjYHzl4elNQH4M_cVyC4LYHBIO81Fg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTYy/NTczLTE3NjYxMDcy/NzEtNDUyOC5qcGVn.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Chase Atlantic are an Australian R&B band from Cairns, Queensland, formed in 2014. The band consists of three members: Christian Anthony and brothers Mitchel and Clinton Cave, and have released seven EPs and four albums since their formation.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Chase_Atlantic"
     },
     {
       "id": "reddit-t31ujy3rx",
@@ -833,7 +851,9 @@
       "knownArtist": false,
       "year": "1992",
       "cover": "https://i.discogs.com/V4DZmxTi3cjg3zMIys099jzmOxzeCDTb8pfqlunGxF4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjUy/NzAtMTQ5NDM4MjQ5/NC0yNTkwLmpwZWc.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Miles Dewey Davis III was an American trumpeter, bandleader and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Miles_Davis"
     },
     {
       "id": "reddit-t31ujuuoe",
@@ -877,7 +897,9 @@
       "knownArtist": false,
       "year": "1994",
       "cover": "https://i.discogs.com/-m_efL_wZhqRUJHObIGT3Cie4GJO0hrZ3HdSea09cLo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDc4/OS0xMzI2NTgwMTg4/LmpwZWc.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Sugar is a class of sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose and galactose.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Sugar"
     },
     {
       "id": "reddit-t31ujugcm",
@@ -901,7 +923,9 @@
       "knownArtist": false,
       "year": "1975",
       "cover": "https://i.discogs.com/AY-wu7egU7RK3it541l6MsUg3umcu64tN5hKopShv7Y/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIy/NzUtMTM5Nzg0OTcy/Mi0xODA1LmpwZWc.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "The Grateful Dead was an American rock band formed in Palo Alto, California, in 1965.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Grateful_Dead"
     },
     {
       "id": "reddit-t31ujto5s",
@@ -925,7 +949,9 @@
       "knownArtist": false,
       "year": "1989",
       "cover": "https://i.discogs.com/z1CS2e4xCmgBaPc7ACSy4u7fDUXKTYlP1VuReEBZsF0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjIw/NC0xNjA2OTI0MjAz/LTQ5MzQuanBlZw.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Aerosmith is an American rock band formed in Boston in 1970. The group consists of lead vocalist Steven Tyler, bassist Tom Hamilton, drummer Joey Kramer, and guitarists Joe Perry and Brad Whitford.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Aerosmith"
     },
     {
       "id": "reddit-t31ujsilj",
@@ -948,7 +974,9 @@
       "knownArtist": false,
       "year": "1966",
       "cover": "https://i.discogs.com/y-A8PRiuz0MDQhJXrFyWM9zLlD1AgfL3hQaUxkOLyuY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY5/MS0xNDE5ODY0NTQ4/LTQ5NzcuanBlZw.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Yusef Abdul Lateef was an American jazz multi-instrumentalist, composer, and prominent figure among the Ahmadiyya Community in the United States.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Yusef_Lateef"
     },
     {
       "id": "reddit-t31ujri77",
@@ -971,7 +999,9 @@
       "knownArtist": false,
       "year": "2017",
       "cover": "https://i.discogs.com/FXJVi8YuGKAWmgIAcoWQbn36bo9M-sJ-3BIcomBiWVk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDE5/NjctMTQ4ODU5MDAy/NC02OTk5LmpwZWc.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Taking Back Sunday is an American rock band from Amityville, New York, formed by guitarist Eddie Reyes and bassist Jesse Lacey in late 1999 before rounding out the band with vocalist Antonio Longo, lead guitarist John Nolan, and drummer Steven DeJoseph.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Taking_Back_Sunday"
     },
     {
       "id": "reddit-t31ujrgk4",
@@ -1010,7 +1040,9 @@
       "knownArtist": false,
       "year": "2017",
       "cover": "https://i.discogs.com/JAeo-b-qN6ZLVW7h1PLELiu_4JSBND0of7jlQ_Yupwo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk0/ODU2LTE1NzA2MTM2/MjQtOTU0Ni5qcGVn.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Bad Religion is an American punk rock band, formed in Los Angeles, California, in 1980. The band's lyrics cover topics related to religion, politics, society, the media and science. Musically, they are noted for their melodic sensibilities and extensive use of three-part vocal harmonies.",
+      "bioUrl": "https://en.wikipedia.org/wiki/Bad_Religion"
     },
     {
       "id": "reddit-t31ujqczg",
@@ -1055,7 +1087,9 @@
       "knownArtist": false,
       "year": "2021",
       "cover": "https://i.discogs.com/z80d460wuGoV5HNnzxn5iaQa6Enqcp6ikbt05433QY4/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzMx/MTEwLTE2MjUwNzQ5/NDEtMTA5OC5qcGVn.jpeg",
-      "enrichedVia": "discogs"
+      "enrichedVia": "discogs",
+      "bio": "Daniel Rosenfeld, known professionally as C418, is a German composer and record producer. Known for his minimalistic ambient work, he rose to fame as the original composer and sound designer for the 2011 sandbox video game Minecraft.",
+      "bioUrl": "https://en.wikipedia.org/wiki/C418"
     },
     {
       "id": "reddit-t31ujpdmk",
