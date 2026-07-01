@@ -36,6 +36,7 @@ jobs:
           path: |
             data/seen.json
             data/enrich-cache.json
+            data/bio-cache.json
           key: vinyl-state-v4-${{ github.run_id }}
           restore-keys: |
             vinyl-state-v4-

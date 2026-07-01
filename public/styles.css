@@ -136,6 +136,9 @@ input:focus, select:focus { outline: 2px solid var(--accent-2); outline-offset: 
 .tag { font-size: 11px; padding: 3px 9px; border-radius: 999px; background: var(--panel-2); border: 1px solid var(--border); color: var(--muted); }
 .tag.genre { color: #cdb8ff; }
 .tag.label { color: #8fe1c0; }
+.deal-bio { font-size: 12.5px; line-height: 1.5; color: var(--muted); background: var(--panel-2); border: 1px solid var(--border); border-radius: 9px; padding: 8px 10px; }
+.deal-bio .bio-more { color: #8fb7ff; text-decoration: none; white-space: nowrap; }
+.deal-bio .bio-more:hover { text-decoration: underline; }
 .reasons { display: flex; flex-wrap: wrap; gap: 6px; }
 .reason { font-size: 11px; padding: 3px 9px; border-radius: 999px; background: rgba(108,140,255,.15); border: 1px solid rgba(108,140,255,.4); color: #aebcff; }
 .reason.discovery { background: rgba(255,207,92,.13); border-color: rgba(255,207,92,.4); color: var(--gold); }

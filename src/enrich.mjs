@@ -9,6 +9,7 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
+import { getArtistBio } from './bio.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CACHE_PATH = join(__dirname, '..', 'data', 'enrich-cache.json');
@@ -126,6 +127,24 @@ export async function enrichDeal(deal) {
     if (info.year) deal.year = info.year;
     if (info.cover) deal.cover = info.cover;
     deal.enrichedVia = info.via;
+  }
+
+  // Bio corta del artista (Wikipedia). getArtistBio esta cacheada, asi que
+  // reevaluar cada pasada es barato y ademas corrige bios malas (p. ej. las
+  // de "Various Artists", que ahora se descartan).
+  if (deal.artist) {
+    try {
+      const bio = await getArtistBio(deal.artist);
+      if (bio) {
+        deal.bio = bio.text;
+        deal.bioUrl = bio.url;
+      } else {
+        delete deal.bio;
+        delete deal.bioUrl;
+      }
+    } catch (err) {
+      console.warn(`[enrich] bio ${deal.artist}: ${err.message}`);
+    }
   }
   return deal;
 }
