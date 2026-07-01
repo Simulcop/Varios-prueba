@@ -1,45 +1,25 @@
 {
-  "_comment": "Listas de seguimiento por defecto. Se copian a data/watchlists.json en el primer arranque. Edita desde la web o aqui.",
-  "watchlists": [
-    {
-      "id": "jazz-clasico",
-      "name": "Jazz clasico barato",
-      "enabled": true,
-      "genres": ["Jazz"],
-      "labels": ["Blue Note", "Impulse!", "Verve"],
-      "artists": [],
-      "keywords": [],
-      "maxPrice": 25,
-      "minDiscountPct": 0
-    },
-    {
-      "id": "mis-artistas",
-      "name": "Mis artistas",
-      "enabled": true,
-      "genres": [],
-      "labels": [],
-      "artists": ["Pink Floyd", "Radiohead", "Tame Impala"],
-      "keywords": [],
-      "maxPrice": null,
-      "minDiscountPct": 0
-    },
-    {
-      "id": "gangas-fuertes",
-      "name": "Gangas (>30% dto)",
-      "enabled": true,
-      "genres": [],
-      "labels": [],
-      "artists": [],
-      "keywords": [],
-      "maxPrice": null,
-      "minDiscountPct": 30
-    }
-  ],
+  "_comment": "Config de alertas que usa la GitHub Action. alertAll=true = te llega TODO deal US; vamos podando con 'exclude'. Cuando quieras quitar algo, se anade a exclude (artists/genres/labels/stores/keywords) o se pone un precio.",
+
+  "alertAll": true,
+
+  "exclude": {
+    "_comment": "Lista negra: lo que caiga aqui NO se notifica. Se va llenando segun me digas 'quita X'.",
+    "artists": [],
+    "genres": [],
+    "labels": [],
+    "stores": [],
+    "keywords": [],
+    "maxPrice": null,
+    "minPrice": null
+  },
+
+  "watchlists": [],
+
   "discovery": {
-    "_comment": "Modo descubrimiento: te avisa de artistas que NO sigues pero que casan con estos generos/sellos. Util para encontrar cosas nuevas que te puedan gustar.",
-    "enabled": true,
-    "genres": ["Jazz", "Soul", "Electronic", "Psychedelic"],
-    "labels": ["Blue Note", "Warp", "Stax", "Ninja Tune"],
+    "enabled": false,
+    "genres": [],
+    "labels": [],
     "maxPrice": 30
   }
 }
