@@ -4,6 +4,7 @@ node_modules/
 data/seen.json
 data/watchlists.json
 data/enrich-cache.json
+data/bio-cache.json
 data/feeds.json
 *.log
 .DS_Store

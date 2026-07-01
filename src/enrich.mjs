@@ -9,6 +9,7 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
+import { getArtistBio } from './bio.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CACHE_PATH = join(__dirname, '..', 'data', 'enrich-cache.json');
@@ -126,6 +127,19 @@ export async function enrichDeal(deal) {
     if (info.year) deal.year = info.year;
     if (info.cover) deal.cover = info.cover;
     deal.enrichedVia = info.via;
+  }
+
+  // Bio corta del artista (Wikipedia). Solo si aun no la tiene.
+  if (deal.artist && !deal.bio) {
+    try {
+      const bio = await getArtistBio(deal.artist);
+      if (bio) {
+        deal.bio = bio.text;
+        deal.bioUrl = bio.url;
+      }
+    } catch (err) {
+      console.warn(`[enrich] bio ${deal.artist}: ${err.message}`);
+    }
   }
   return deal;
 }

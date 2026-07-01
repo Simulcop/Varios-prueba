@@ -142,6 +142,19 @@ function renderDealCard(d) {
   if (d.label) tags.appendChild(el('span', 'tag label', d.label));
   if (tags.children.length) card.appendChild(tags);
 
+  if (d.bio) {
+    const bio = el('div', 'deal-bio');
+    bio.appendChild(el('span', null, d.bio));
+    if (d.bioUrl) {
+      const more = el('a', 'bio-more', ' Wikipedia ↗');
+      more.href = d.bioUrl;
+      more.target = '_blank';
+      more.rel = 'noopener';
+      bio.appendChild(more);
+    }
+    card.appendChild(bio);
+  }
+
   if (d.reasons && d.reasons.length) {
     const reasons = el('div', 'reasons');
     d.reasons.forEach((r) =>
