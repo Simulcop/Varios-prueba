@@ -60,15 +60,26 @@ export function matchesDiscovery(deal, discovery) {
 }
 
 // Lista negra: si un deal cae aqui, NO se notifica (aunque casara con algo).
-export function isExcluded(deal, ex) {
+// keepGenres = estilos que "rescatan" de la exclusion por GENERO (no del precio):
+// p. ej. excluir "Country" pero dejar pasar "Country Rock"/"Alt-Country".
+export function isExcluded(deal, ex, keepGenres) {
   if (!ex) return false;
   if (ex.maxPrice != null && deal.price != null && deal.price > ex.maxPrice) return true;
   if (ex.minPrice != null && deal.price != null && deal.price < ex.minPrice) return true;
   if (listIncludes(ex.artists, deal.artist)) return true;
   if (listIncludes(ex.labels, deal.label)) return true;
-  if ((ex.genres || []).some((g) => listIncludes(deal.genres, g))) return true;
   if (listIncludes(ex.stores, deal.source)) return true;
   if (textMatchesKeyword(deal, ex.keywords)) return true;
+  // Exclusion por genero, con rescate por estilo (keepGenres).
+  const genreHit = (ex.genres || []).some((g) => listIncludes(deal.genres, g));
+  if (genreHit) {
+    // Rescate estricto: el deal debe TENER ese estilo (no al reves), para que
+    // "Country" no se salve solo porque "Country Rock" lo contenga.
+    const rescued = (keepGenres || []).some((g) =>
+      (deal.genres || []).some((dg) => norm(dg).includes(norm(g)))
+    );
+    if (!rescued) return true;
+  }
   return false;
 }
 
@@ -76,7 +87,7 @@ export function isExcluded(deal, ex) {
 export function evaluateDeal(deal, config) {
   // Artistas protegidos: siempre pasan, saltan cualquier exclusion.
   const protectedArtist = listIncludes(config.keepArtists, deal.artist);
-  if (!protectedArtist && isExcluded(deal, config.exclude)) return []; // lista negra: fuera
+  if (!protectedArtist && isExcluded(deal, config.exclude, config.keepGenres)) return []; // lista negra: fuera
 
   const reasons = [];
   // Modo "avisar de todo" (ir podando por exclusion).
