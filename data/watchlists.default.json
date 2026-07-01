@@ -15,7 +15,8 @@
     "Rockabilly",
     "Bluegrass",
     "Cosmic Country",
-    "Honky Tonk"
+    "Honky Tonk",
+    "Grunge"
   ],
 
   "exclude": {
@@ -38,7 +39,7 @@
       "box set",
       "boxset"
     ],
-    "maxPrice": 32,
+    "maxPrice": 30,
     "minPrice": null
   },
 
