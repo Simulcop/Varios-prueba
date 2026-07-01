@@ -6,6 +6,22 @@ let STATE = { deals: [], config: { watchlists: [], discovery: {} }, notifier: {}
 let DATA_LIVE = null; // ultimo estado de la busqueda en vivo (true/false)
 const filters = { search: '', genre: '', label: '', maxPrice: Infinity, onlyMatches: true };
 
+// --- Descartados (solo en este dispositivo) --------------------------------
+// "Descartar" = ya lo lei, no me interesa: se oculta de la vista, pero NO es un
+// ban. Se guarda en el navegador (localStorage). Con "Ver descartados" vuelven.
+let showDismissed = false;
+function loadDismissed() {
+  try { return new Set(JSON.parse(localStorage.getItem('dismissedDeals') || '[]')); }
+  catch { return new Set(); }
+}
+let DISMISSED = loadDismissed();
+function saveDismissed() {
+  localStorage.setItem('dismissedDeals', JSON.stringify([...DISMISSED]));
+}
+function isDismissed(id) { return DISMISSED.has(id); }
+function dismissDeal(id) { DISMISSED.add(id); saveDismissed(); }
+function restoreDeal(id) { DISMISSED.delete(id); saveDismissed(); }
+
 // --- Carga inicial ---------------------------------------------------------
 
 async function loadState() {
@@ -75,10 +91,30 @@ function dealMatchesFilters(d) {
 
 function renderFeed() {
   const container = $('#deals');
-  const visible = STATE.deals.filter(dealMatchesFilters);
+  const passFilters = STATE.deals.filter(dealMatchesFilters);
+  // Modo normal: oculta los descartados. Modo "ver descartados": muestra SOLO esos.
+  const visible = passFilters.filter((d) =>
+    showDismissed ? isDismissed(d.id) : !isDismissed(d.id)
+  );
   container.innerHTML = '';
   $('#feedCount').textContent = `(${visible.length})`;
   $('#emptyState').classList.toggle('hidden', visible.length > 0);
+
+  // Actualiza el boton de descartados (cuantos hay entre los que pasan filtros).
+  const dismissedCount = passFilters.filter((d) => isDismissed(d.id)).length;
+  const tgl = $('#showDismissed');
+  if (tgl) {
+    tgl.textContent = showDismissed
+      ? '← Volver a los deals'
+      : `🗂 Descartados (${dismissedCount})`;
+    tgl.classList.toggle('hidden', dismissedCount === 0 && !showDismissed);
+  }
+  if (showDismissed && !visible.length) {
+    $('#emptyState').textContent = 'No tienes deals descartados.';
+    $('#emptyState').classList.remove('hidden');
+  } else {
+    $('#emptyState').textContent = 'No hay deals que coincidan con el filtro.';
+  }
 
   for (const d of visible) {
     container.appendChild(renderDealCard(d));
@@ -111,12 +147,29 @@ function thisIsSpotifyUrl(d) {
 }
 
 function renderDealCard(d) {
-  const card = el('div', 'deal' + (d.matched ? ' matched' : ''));
+  const dismissed = isDismissed(d.id);
+  const card = el('div', 'deal' + (d.matched ? ' matched' : '') + (dismissed ? ' is-dismissed' : ''));
 
   const src = el('div', 'deal-source');
   src.appendChild(el('span', null, '@' + d.source));
-  src.appendChild(el('span', null, timeAgo(d.createdAt)));
+  const right = el('span', 'src-right');
+  right.appendChild(el('span', 'src-time', timeAgo(d.createdAt)));
+  // Boton descartar / recuperar (ademas del swipe en el celular).
+  if (dismissed) {
+    const rec = el('button', 'btn-dismiss recover', '↩︎ Recuperar');
+    rec.title = 'Volver a mostrar este deal';
+    rec.addEventListener('click', () => { restoreDeal(d.id); renderFeed(); });
+    right.appendChild(rec);
+  } else {
+    const dis = el('button', 'btn-dismiss', '✕');
+    dis.title = 'Descartar (ya lo leí, no me interesa)';
+    dis.addEventListener('click', () => doDismiss(d.id, card));
+    right.appendChild(dis);
+  }
+  src.appendChild(right);
   card.appendChild(src);
+
+  if (!dismissed) attachSwipe(card, d.id);
 
   const title = el('div', 'deal-title');
   if (d.artist) {
@@ -201,6 +254,50 @@ function renderDealCard(d) {
   if (banRow.children.length) card.appendChild(banRow);
 
   return card;
+}
+
+// Descarta un deal con una pequena animacion de salida (funciona con swipe y boton).
+function doDismiss(id, card) {
+  dismissDeal(id);
+  card.style.transition = 'transform .26s ease, opacity .26s ease';
+  card.style.transform = 'translateX(-120%)';
+  card.style.opacity = '0';
+  toast('Descartado. Recupéralo en "Descartados".');
+  setTimeout(renderFeed, 260);
+}
+
+// Swipe a la izquierda (en el celular) para descartar. Arrastra la tarjeta y,
+// si pasa el umbral, la descarta; si no, vuelve a su sitio.
+function attachSwipe(card, id) {
+  let startX = 0, startY = 0, dx = 0, dragging = false;
+  const THRESH = 90;
+  card.addEventListener('touchstart', (e) => {
+    const t = e.touches[0];
+    startX = t.clientX; startY = t.clientY; dx = 0; dragging = true;
+    card.style.transition = 'none';
+  }, { passive: true });
+  card.addEventListener('touchmove', (e) => {
+    if (!dragging) return;
+    const t = e.touches[0];
+    const mx = t.clientX - startX;
+    const my = t.clientY - startY;
+    // Solo cuenta como swipe si es mas horizontal que vertical (no rompe el scroll).
+    if (Math.abs(mx) < Math.abs(my)) return;
+    dx = Math.min(0, mx); // solo hacia la izquierda
+    card.style.transform = `translateX(${dx}px)`;
+    card.style.opacity = String(1 + dx / 300);
+  }, { passive: true });
+  card.addEventListener('touchend', () => {
+    if (!dragging) return;
+    dragging = false;
+    card.style.transition = 'transform .2s, opacity .2s';
+    if (dx <= -THRESH) {
+      doDismiss(id, card);
+    } else {
+      card.style.transform = '';
+      card.style.opacity = '';
+    }
+  });
 }
 
 function makeBanBtn(type, value, label, title, card) {
@@ -433,6 +530,15 @@ async function init() {
 }
 const _testBtn = $('#testAlert');
 if (_testBtn) _testBtn.addEventListener('click', testAlert);
+
+// Alterna entre el feed normal y la vista de "Descartados".
+const _showDismissed = $('#showDismissed');
+if (_showDismissed) {
+  _showDismissed.addEventListener('click', () => {
+    showDismissed = !showDismissed;
+    renderFeed();
+  });
+}
 
 // Panel plegable en el celular: el boton muestra/oculta filtros y alertas.
 const _panelToggle = $('#panelToggle');
