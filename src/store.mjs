@@ -37,6 +37,15 @@ export async function getDeals() {
   return data.deals || [];
 }
 
+// Guarda la lista completa (sobrescribe). A diferencia de upsertDeals, esto SI
+// permite eliminar campos obsoletos de un deal (p. ej. una bio incorrecta),
+// porque no fusiona con lo anterior.
+export async function saveDeals(deals) {
+  const merged = [...deals].sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt));
+  await writeJson(paths.deals, { updatedAt: new Date().toISOString(), deals: merged });
+  return merged;
+}
+
 // Fusiona deals nuevos con los existentes, sin duplicar por id. Devuelve los que son nuevos.
 export async function upsertDeals(newDeals) {
   const existing = await getDeals();
