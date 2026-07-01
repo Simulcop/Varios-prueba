@@ -9,6 +9,8 @@ function cleanForSearch(title) {
   return (title || '')
     .replace(/\[[^\]]*\]|\([^)]*\)/g, '') // quita [2 LP], (Vinyl), etc.
     .replace(/\b\d+\s?lp\b|\bvinyl\b|\blp\b|\bexclusive\b|\bedition\b/gi, '')
+    .replace(/@?\s*\$\s*[\d,]+\.?\d*|\bw\/\s*coupon\b|\bcoupon\b|\blowest\b/gi, '') // precio/cupon
+    .replace(/[@–-]+\s*$/, '') // separadores sueltos al final
     .replace(/\s{2,}/g, ' ')
     .trim();
 }
