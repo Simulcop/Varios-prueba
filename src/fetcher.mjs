@@ -71,9 +71,13 @@ export async function fetchAllTweets({ allowSampleFallback = process.env.LIVE_ON
   const notes = [];
   const feeds = await loadFeeds();
 
+  // Solo usamos X si hay feeds de RSS.app configurados. Sin ellos, no tocamos X
+  // (evita perder tiempo con el rate limit); las fuentes Reddit/web se encargan.
   let tweets = [];
-  if (feeds.length) tweets = await viaRss(feeds, notes);
-  if (!tweets.length) tweets = await viaTimeline(notes);
+  if (feeds.length) {
+    tweets = await viaRss(feeds, notes);
+    if (!tweets.length) tweets = await viaTimeline(notes);
+  }
 
   if (tweets.length) return { tweets, live: true, notes };
 
