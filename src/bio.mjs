@@ -48,8 +48,11 @@ async function fetchSummary(pageTitle) {
 
 // Devuelve { text, url } o null. Si el nombre es ambiguo (pagina de
 // desambiguacion), prueba variantes musicales "(band)", "(musician)", "(singer)".
+// Nombres que no son un artista real (no tiene sentido buscarles bio).
+const NOT_AN_ARTIST = /^(various(\s+artists)?|va|soundtrack|original\s+(motion\s+picture\s+)?soundtrack|ost|cast\s+recording|original\s+cast)$/i;
+
 export async function getArtistBio(artist) {
-  if (!artist) return null;
+  if (!artist || NOT_AN_ARTIST.test(artist.trim())) return null;
   const cache = await loadCache();
   const key = artist.toLowerCase();
   if (cache[key] !== undefined) return cache[key];
