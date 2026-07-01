@@ -1,6 +1,6 @@
 node_modules/
-# Datos generados en tiempo de ejecucion (el feed real). Se versiona solo lo semilla.
-data/deals.json
+# Datos generados en tiempo de ejecucion. El feed real (data/deals.json) SI se
+# versiona: la Action de GitHub lo genera y lo commitea, y la web (Render) lo lee.
 data/seen.json
 data/watchlists.json
 data/enrich-cache.json

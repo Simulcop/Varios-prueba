@@ -336,18 +336,12 @@ $('#saveWatchlists').addEventListener('click', saveWatchlists);
 $('#addWatchlist').addEventListener('click', addWatchlist);
 $('#refreshBtn').addEventListener('click', refreshX);
 
-// Al abrir la web: busca en vivo y muestra lo que pasa tus reglas.
+// Al abrir la web: muestra el feed real (data/deals.json) que la Action de
+// GitHub genera y commitea. No buscamos en vivo desde aqui porque el servidor
+// (Render) no puede acceder a Reddit; ese trabajo lo hace la Action.
 async function init() {
-  const btn = $('#refreshBtn');
-  if (btn) { btn.disabled = true; btn.textContent = '↻ Buscando deals…'; }
   const om = $('#onlyMatches');
   if (om) om.checked = true;
-  try {
-    const r = await fetch('/api/refresh', { method: 'POST' });
-    const s = await r.json();
-    DATA_LIVE = !!s.live;
-  } catch { /* si falla, mostramos lo que haya */ }
-  if (btn) { btn.disabled = false; btn.textContent = '↻ Actualizar'; }
   await loadState();
 }
 $('#testAlert').addEventListener('click', testAlert);
