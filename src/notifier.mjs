@@ -15,7 +15,10 @@
 import { albumSpotifyUrl, thisIsSpotifyUrl } from './spotify.mjs';
 
 function formatDealMessage(deal) {
-  const fmt = (p) => (Number.isInteger(p) ? `$${p}` : `$${p.toFixed(2)}`);
+  // OJO: CallMeBot interpreta "$" + digito como variable ($1, $2...) y lo borra,
+  // comiendose el simbolo y el primer digito ($29.30 -> 9.3). Por eso el precio
+  // se escribe como "29.30 USD" (sin $ pegado a un numero).
+  const fmt = (p) => `${Number.isInteger(p) ? p : p.toFixed(2)} USD`;
   const price = deal.price != null ? fmt(deal.price) : 'ver precio en el enlace';
   const was = deal.wasPrice ? ` (antes ${fmt(deal.wasPrice)})` : '';
   const disc = deal.discountPct != null ? ` -${deal.discountPct}%` : '';
