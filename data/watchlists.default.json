@@ -1,11 +1,12 @@
 {
   "_comment": "Config de alertas que usa la GitHub Action. alertAll=true = te llega TODO deal US; vamos podando con 'exclude'. Dime 'quita X' y lo anado aqui.",
-
   "alertAll": true,
-
   "_keepArtists_comment": "Artistas protegidos: SIEMPRE pasan, aunque caigan en una exclusion (box sets, tope, genero...). Dime 'de X si quiero box sets' o 'protege a X' y lo anado.",
-  "keepArtists": ["Johnny Cash", "Neil Young", "Lyle Lovett"],
-
+  "keepArtists": [
+    "Johnny Cash",
+    "Neil Young",
+    "Lyle Lovett"
+  ],
   "_keepGenres_comment": "Estilos que rescatan de la exclusion por GENERO (no del precio). Ej: excluimos 'Country' pero dejamos country-rock/alt-country/outlaw.",
   "keepGenres": [
     "Country Rock",
@@ -18,11 +19,33 @@
     "Honky Tonk",
     "Grunge"
   ],
-
   "exclude": {
     "_comment": "Lista negra: lo que caiga aqui NO se notifica.",
-    "artists": ["Taylor Swift", "Robbie Williams", "Taking Back Sunday", "Bon Jovi", "Panic! At The Disco", "John Williams", "Neal Casal"],
-    "genres": ["Reggaeton", "Metal", "Heavy Metal", "Gospel", "CCM", "Christian", "Christmas", "Musical", "Country", "Contemporary Country", "Country Pop", "Nashville Sound", "Americana"],
+    "artists": [
+      "Taylor Swift",
+      "Robbie Williams",
+      "Taking Back Sunday",
+      "Bon Jovi",
+      "Panic! At The Disco",
+      "John Williams",
+      "Neal Casal",
+      "Dangerous Toys"
+    ],
+    "genres": [
+      "Reggaeton",
+      "Metal",
+      "Heavy Metal",
+      "Gospel",
+      "CCM",
+      "Christian",
+      "Christmas",
+      "Musical",
+      "Country",
+      "Contemporary Country",
+      "Country Pop",
+      "Nashville Sound",
+      "Americana"
+    ],
     "labels": [],
     "stores": [],
     "keywords": [
@@ -40,20 +63,30 @@
       "boxset",
       "test pressing",
       "neal casal",
-      "john williams"
+      "john williams",
+      "dangerous toys"
     ],
     "maxPrice": 30,
     "minPrice": null
   },
-
   "_watchlists_comment": "Alertas con nombre: ademas de 'Deal US', la campanita muestra el nombre de la lista que casa (por genero/palabra). enabled=true.",
   "watchlists": [
     {
       "id": "jazz",
       "name": "Jazz Deal",
       "enabled": true,
-      "genres": ["Jazz", "Bebop", "Hard Bop", "Cool Jazz", "Free Jazz", "Bossa Nova", "Swing"],
-      "keywords": ["jazz"],
+      "genres": [
+        "Jazz",
+        "Bebop",
+        "Hard Bop",
+        "Cool Jazz",
+        "Free Jazz",
+        "Bossa Nova",
+        "Swing"
+      ],
+      "keywords": [
+        "jazz"
+      ],
       "artists": [],
       "labels": [],
       "maxPrice": null,
@@ -63,15 +96,31 @@
       "id": "electronica",
       "name": "Electrónica",
       "enabled": true,
-      "genres": ["Electronic", "House", "Techno", "Ambient", "IDM", "Trance", "Drum n Bass", "Synth-pop", "Downtempo", "Electro", "Dubstep", "Breakbeat", "Deep House"],
-      "keywords": ["electronic", "electrónica"],
+      "genres": [
+        "Electronic",
+        "House",
+        "Techno",
+        "Ambient",
+        "IDM",
+        "Trance",
+        "Drum n Bass",
+        "Synth-pop",
+        "Downtempo",
+        "Electro",
+        "Dubstep",
+        "Breakbeat",
+        "Deep House"
+      ],
+      "keywords": [
+        "electronic",
+        "electrónica"
+      ],
       "artists": [],
       "labels": [],
       "maxPrice": null,
       "minDiscountPct": null
     }
   ],
-
   "discovery": {
     "enabled": false,
     "genres": [],
