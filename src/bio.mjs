@@ -9,8 +9,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const CACHE_PATH = join(__dirname, '..', 'data', 'bio-cache.json');
 const UA = 'VinylDealRadar/0.2 (https://github.com/Simulcop/Varios-prueba)';
 // Version del cache: al subirla se invalidan entradas viejas (p. ej. los null
-// guardados antes de existir el respaldo de Discogs, para que se reintenten).
-const BIO_V = 2;
+// guardados antes de existir un nuevo respaldo, para que se reintenten).
+const BIO_V = 3;
 
 let CACHE = null;
 async function loadCache() {
@@ -83,6 +83,35 @@ async function fetchDiscogsBio(artist) {
   return { text: shorten(profile), url: a.uri || null, source: 'Discogs' };
 }
 
+// Quita etiquetas HTML y decodifica las entidades mas comunes.
+function stripHtml(s) {
+  return (s || '')
+    .replace(/<[^>]*>/g, '')
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&nbsp;/g, ' ')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+}
+
+// Ultimo respaldo: Last.fm (artist.getInfo). Buena cobertura de artistas
+// pequenos. Necesita LASTFM_API_KEY (clave gratis). El resumen trae un enlace
+// "Read more on Last.fm" que descartamos.
+async function fetchLastfmBio(artist) {
+  const apiKey = process.env.LASTFM_API_KEY;
+  if (!apiKey) return null;
+  const url = `https://ws.audioscrobbler.com/2.0/?method=artist.getinfo&artist=${encodeURIComponent(artist)}&api_key=${apiKey}&format=json&autocorrect=1`;
+  const res = await fetch(url, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(12000) });
+  if (!res.ok) throw new Error(`Last.fm HTTP ${res.status}`);
+  const data = await res.json();
+  let summary = data.artist?.bio?.summary || '';
+  // Corta el "Read more on Last.fm" y todo lo que venga detras.
+  summary = summary.replace(/<a\b[^>]*>\s*Read more on Last\.fm[\s\S]*$/i, '');
+  const text = stripHtml(summary);
+  // Last.fm devuelve a veces un placeholder generico sin info real.
+  if (!text || /^\s*$/.test(text) || /This artist has no.*biography/i.test(text)) return null;
+  return { text: shorten(text), url: data.artist?.url || null, source: 'Last.fm' };
+}
+
 // Devuelve { text, url } o null. Si el nombre es ambiguo (pagina de
 // desambiguacion), prueba variantes musicales "(band)", "(musician)", "(singer)".
 // Nombres que no son un artista real (no tiene sentido buscarles bio).
@@ -123,6 +152,15 @@ export async function getArtistBio(artist) {
       result = await fetchDiscogsBio(artist);
     } catch (err) {
       console.warn(`[bio] discogs ${artist}: ${err.message}`);
+    }
+  }
+
+  // 3) Ultimo respaldo: Last.fm (buena cobertura de artistas pequenos).
+  if (!result) {
+    try {
+      result = await fetchLastfmBio(artist);
+    } catch (err) {
+      console.warn(`[bio] lastfm ${artist}: ${err.message}`);
     }
   }
 
