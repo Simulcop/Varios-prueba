@@ -9,6 +9,11 @@ on:
     - cron: '*/30 * * * *' # cada 30 min (ajusta a tu gusto)
   workflow_dispatch: {} # permite lanzarlo a mano desde la pestana Actions
 
+# Necesitamos permiso de escritura para commitear data/deals.json (el feed real
+# que luego lee la web en Render).
+permissions:
+  contents: write
+
 # Evita solapes si una ejecucion tarda mas de lo previsto.
 concurrency:
   group: vinyl-poll
@@ -47,3 +52,18 @@ jobs:
           ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
           DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
         run: node scripts/run-fetch.mjs
+
+      # Publica el feed real: si data/deals.json cambio, lo commitea. La web de
+      # Render se auto-despliega con este commit y muestra los deals frescos.
+      - name: Publicar deals.json
+        run: |
+          git config user.name "vinyl-deal-radar[bot]"
+          git config user.email "actions@github.com"
+          git add data/deals.json
+          # --cached detecta tanto ficheros nuevos (sin trackear) como modificados.
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizar feed de deals [skip ci]"
+            git push
+          else
+            echo "Sin cambios en data/deals.json"
+          fi

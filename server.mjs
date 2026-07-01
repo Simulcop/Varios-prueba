@@ -1,5 +1,9 @@
 // Servidor HTTP sin dependencias: sirve la web (public/) y expone una API REST.
 // Arranque: npm start  (o node server.mjs). Puerto por env PORT (def. 3000).
+// La web NUNCA debe caer en datos de ejemplo: solo muestra el feed real que la
+// Action de GitHub genera y commitea en data/deals.json.
+process.env.LIVE_ONLY = process.env.LIVE_ONLY || '1';
+
 import { createServer } from 'node:http';
 import { readFile, stat } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
