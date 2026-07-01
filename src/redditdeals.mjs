@@ -33,24 +33,32 @@ function tag(block, name) {
   return m ? m[1] : null;
 }
 
-// Elige el mejor enlace de Amazon US del cuerpo (decodificado).
-function pickAmazon(html) {
-  const dp = html.match(/https?:\/\/(?:www\.)?amazon\.com\/[^\s"'<>]*\/dp\/[A-Z0-9]+/i);
-  if (dp) return dp[0];
-  const any = html.match(/https?:\/\/(?:www\.)?amazon\.com\/[^\s"'<>]+/i);
-  if (any) return any[0].replace(/[).,]+$/, '');
-  const short = html.match(/https?:\/\/amzn\.(?:to|eu)\/[A-Za-z0-9]+/i);
-  return short ? short[0] : null;
+// Elige el enlace del deal del cuerpo: preferimos amazon.com/dp; si no, el
+// primer enlace que NO sea de reddit (la tienda: target, walmart, etc.).
+function pickDealUrl(html) {
+  const hrefs = [...html.matchAll(/href="([^"]+)"/gi)]
+    .map((m) => m[1])
+    .filter((u) => /^https?:\/\//i.test(u) && !/reddit\.com/i.test(u));
+  if (!hrefs.length) return null;
+  const dp = hrefs.find((u) => /amazon\.com\/(?:[^"\s]*\/)?dp\/[A-Z0-9]+/i.test(u));
+  return (dp || hrefs[0]).replace(/[).,]+$/, '');
 }
 
-// De un titulo "(Amazon) [Regional] Artista - Album @ $19.99" saca los campos.
+// Marcadores de tiendas/regiones NO estadounidenses (para excluirlas).
+const NON_US = /\b(uk|u\.k\.?|canada|eu|europe|germany|deutschland|france|australia|japan|mexico|international|intl|de|fr|au|jp|nz|ca)\b/i;
+
+// De un titulo "(Store) [Regional] Artista - Album @ $19.99" saca los campos.
 function parseTitle(rawTitle) {
   let t = decodeEntities(rawTitle).trim();
 
   // Tags iniciales entre [] o (): tienda y region.
   const lead = (t.match(/^\s*(?:[[(][^\])]*[\])]\s*)+/) || [''])[0];
-  // Solo Amazon US: tag exacto "Amazon" (excluye "Amazon UK/CA") o "Regional" (cupon US).
-  const usAmazon = /[[(]\s*amazon\s*[\])]/i.test(lead) || /\bregional\b/i.test(lead);
+  // US = cualquier tienda que NO tenga marcador de otro pais.
+  const isUS = !NON_US.test(lead);
+  // Nombre de la tienda (primer tag, quitando palabras de promocion).
+  const firstTag = ((lead.match(/[[(]\s*([^\])]+?)\s*[\])]/) || [, ''])[1] || '')
+    .replace(/\b(regional|coupon|deal|sale)\b/gi, '')
+    .trim();
 
   t = t.replace(/^\s*(?:[[(][^\])]*[\])]\s*)+/, '').trim();
 
@@ -68,7 +76,7 @@ function parseTitle(rawTitle) {
     artist = t.slice(0, idx).trim();
     album = t.slice(idx + 3).trim();
   }
-  return { artist, album, price, usAmazon };
+  return { artist, album, price, isUS, store: firstTag };
 }
 
 async function fetchSubredditDeals(feedUrl) {
@@ -84,18 +92,18 @@ async function fetchSubredditDeals(feedUrl) {
   for (const block of entries) {
     const rawTitle = tag(block, 'title');
     if (!rawTitle) continue;
-    const { artist, album, price, usAmazon } = parseTitle(rawTitle);
-    if (!usAmazon) continue; // solo Amazon US
+    const { artist, album, price, isUS, store } = parseTitle(rawTitle);
+    if (!isUS) continue; // solo US (excluye UK/CA/EU/JP...)
 
     const content = decodeEntities(tag(block, 'content') || '');
-    const amazonUrl = pickAmazon(content);
-    if (!amazonUrl) continue; // sin enlace de Amazon, lo saltamos
+    const dealUrl = pickDealUrl(content);
+    if (!dealUrl) continue; // sin enlace de tienda, lo saltamos
 
-    const rid = (tag(block, 'id') || '').trim() || amazonUrl;
+    const rid = (tag(block, 'id') || '').trim() || dealUrl;
     const pub = tag(block, 'published');
     deals.push({
       id: `reddit-${rid.replace(/[^A-Za-z0-9]/g, '').slice(-14)}`,
-      source: `r/${subreddit}`,
+      source: store || `r/${subreddit}`,
       createdAt: pub ? new Date(pub).toISOString() : new Date(0).toISOString(),
       text: decodeEntities(rawTitle),
       artist: artist || null,
@@ -106,7 +114,7 @@ async function fetchSubredditDeals(feedUrl) {
       wasPrice: null,
       discountPct: null,
       lowest: false,
-      amazonUrl,
+      amazonUrl: dealUrl, // enlace a la tienda (Amazon u otra US)
       knownArtist: false,
     });
   }
