@@ -8,6 +8,9 @@ import { dirname, join } from 'node:path';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CACHE_PATH = join(__dirname, '..', 'data', 'bio-cache.json');
 const UA = 'VinylDealRadar/0.2 (https://github.com/Simulcop/Varios-prueba)';
+// Version del cache: al subirla se invalidan entradas viejas (p. ej. los null
+// guardados antes de existir el respaldo de Discogs, para que se reintenten).
+const BIO_V = 2;
 
 let CACHE = null;
 async function loadCache() {
@@ -89,7 +92,9 @@ export async function getArtistBio(artist) {
   if (!artist || NOT_AN_ARTIST.test(artist.trim())) return null;
   const cache = await loadCache();
   const key = artist.toLowerCase();
-  if (cache[key] !== undefined) return cache[key];
+  const cached = cache[key];
+  // Entradas de la version actual se confian; las viejas se reintentan.
+  if (cached && cached.v === BIO_V) return cached.r;
 
   let result = null;
   const candidates = [`${artist} (band)`, `${artist} (musician)`, `${artist} (singer)`];
@@ -121,7 +126,7 @@ export async function getArtistBio(artist) {
     }
   }
 
-  cache[key] = result; // cachea incluso null para no reintentar cada pasada
+  cache[key] = { v: BIO_V, r: result }; // cachea incluso null (con version)
   await saveCache();
   return result;
 }
