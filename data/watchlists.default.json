@@ -46,7 +46,31 @@
     "minPrice": null
   },
 
-  "watchlists": [],
+  "_watchlists_comment": "Alertas con nombre: ademas de 'Deal US', la campanita muestra el nombre de la lista que casa (por genero/palabra). enabled=true.",
+  "watchlists": [
+    {
+      "id": "jazz",
+      "name": "Jazz Deal",
+      "enabled": true,
+      "genres": ["Jazz", "Bebop", "Hard Bop", "Cool Jazz", "Free Jazz", "Bossa Nova", "Swing"],
+      "keywords": ["jazz"],
+      "artists": [],
+      "labels": [],
+      "maxPrice": null,
+      "minDiscountPct": null
+    },
+    {
+      "id": "electronica",
+      "name": "Electrónica",
+      "enabled": true,
+      "genres": ["Electronic", "House", "Techno", "Ambient", "IDM", "Trance", "Drum n Bass", "Synth-pop", "Downtempo", "Electro", "Dubstep", "Breakbeat", "Deep House"],
+      "keywords": ["electronic", "electrónica"],
+      "artists": [],
+      "labels": [],
+      "maxPrice": null,
+      "minDiscountPct": null
+    }
+  ],
 
   "discovery": {
     "enabled": false,
