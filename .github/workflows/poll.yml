@@ -31,13 +31,14 @@ jobs:
           path: |
             data/seen.json
             data/enrich-cache.json
-          key: vinyl-state-v2-${{ github.run_id }}
+          key: vinyl-state-v3-${{ github.run_id }}
           restore-keys: |
-            vinyl-state-v2-
+            vinyl-state-v3-
 
       - name: Leer X, enriquecer y notificar
         env:
           LIVE_ONLY: '1' # nunca alertar con datos de ejemplo
+          DIGEST: '1' # un solo mensaje-resumen en WhatsApp (fiable con CallMeBot)
           RSS_FEEDS: ${{ secrets.RSS_FEEDS }} # urls de feeds RSS (X via RSS.app) separadas por coma
           SITE_FEEDS: ${{ secrets.SITE_FEEDS }} # webs de deals (vacio = ninguna; off por defecto)
           REDDIT_FEEDS: ${{ secrets.REDDIT_FEEDS }} # subreddits .rss (vacio = r/VinylDeals por defecto)

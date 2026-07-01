@@ -7,7 +7,7 @@ import { getRedditDeals } from './redditdeals.mjs';
 import { enrichDeals } from './enrich.mjs';
 import { upsertDeals, getWatchlistsConfig, getSeen, markSeen, getDeals } from './store.mjs';
 import { findMatches } from './filters.mjs';
-import { notifyDeals } from './notifier.mjs';
+import { notifyDeals, notifyDigest } from './notifier.mjs';
 
 export async function refresh({ notify = true } = {}) {
   const { tweets, live, notes } = await fetchAllTweets();
@@ -55,7 +55,9 @@ export async function refresh({ notify = true } = {}) {
 
   let notifications = [];
   if (notify && toAlert.length) {
-    notifications = await notifyDeals(toAlert);
+    // DIGEST=1 -> un solo mensaje-resumen (fiable con CallMeBot). Si no, uno por deal.
+    notifications =
+      process.env.DIGEST === '1' ? await notifyDigest(toAlert) : await notifyDeals(toAlert);
     await markSeen(toAlert.map((m) => m.id));
   }
 
