@@ -4,7 +4,7 @@
   "alertAll": true,
 
   "_keepArtists_comment": "Artistas protegidos: SIEMPRE pasan, aunque caigan en una exclusion (box sets, tope, genero...). Dime 'de X si quiero box sets' o 'protege a X' y lo anado.",
-  "keepArtists": ["Johnny Cash", "Neil Young"],
+  "keepArtists": ["Johnny Cash", "Neil Young", "Lyle Lovett"],
 
   "_keepGenres_comment": "Estilos que rescatan de la exclusion por GENERO (no del precio). Ej: excluimos 'Country' pero dejamos country-rock/alt-country/outlaw.",
   "keepGenres": [
