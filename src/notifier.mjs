@@ -72,12 +72,16 @@ async function sendWebhook(payload) {
 // Notifica una lista de deals (ya filtrados como nuevos+coincidentes).
 export async function notifyDeals(deals) {
   const results = [];
-  for (const deal of deals) {
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+  for (let i = 0; i < deals.length; i++) {
+    const deal = deals[i];
     const text = formatDealMessage(deal);
     console.log('\n[alerta]\n' + text); // siempre log a consola
     const wa = await sendWhatsApp(text);
     const wh = await sendWebhook({ type: 'vinyl-deal', deal, text });
     results.push({ id: deal.id, whatsapp: wa, webhook: wh });
+    // Pausa entre mensajes: CallMeBot bloquea si se envian muy seguidos.
+    if (i < deals.length - 1 && wa.ok) await sleep(4000);
   }
   return results;
 }

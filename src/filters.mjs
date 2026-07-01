@@ -59,9 +59,27 @@ export function matchesDiscovery(deal, discovery) {
   return genreHit || labelHit;
 }
 
+// Lista negra: si un deal cae aqui, NO se notifica (aunque casara con algo).
+export function isExcluded(deal, ex) {
+  if (!ex) return false;
+  if (ex.maxPrice != null && deal.price != null && deal.price > ex.maxPrice) return true;
+  if (ex.minPrice != null && deal.price != null && deal.price < ex.minPrice) return true;
+  if (listIncludes(ex.artists, deal.artist)) return true;
+  if (listIncludes(ex.labels, deal.label)) return true;
+  if ((ex.genres || []).some((g) => listIncludes(deal.genres, g))) return true;
+  if (listIncludes(ex.stores, deal.source)) return true;
+  if (textMatchesKeyword(deal, ex.keywords)) return true;
+  return false;
+}
+
 // Evalua un deal contra toda la config. Devuelve los motivos (para mostrar y notificar).
 export function evaluateDeal(deal, config) {
+  if (isExcluded(deal, config.exclude)) return []; // lista negra: fuera
+
   const reasons = [];
+  // Modo "avisar de todo" (ir podando por exclusion).
+  if (config.alertAll) reasons.push({ type: 'all', id: 'all', name: 'Deal US' });
+
   for (const wl of config.watchlists || []) {
     if (matchesWatchlist(deal, wl)) {
       reasons.push({ type: 'watchlist', id: wl.id, name: wl.name });
