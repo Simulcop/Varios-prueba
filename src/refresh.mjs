@@ -5,7 +5,7 @@ import { parseTweets } from './parser.mjs';
 import { getSiteDeals } from './sitefeed.mjs';
 import { getRedditDeals } from './redditdeals.mjs';
 import { enrichDeals } from './enrich.mjs';
-import { upsertDeals, getWatchlistsConfig, getSeen, markSeen, getDeals } from './store.mjs';
+import { saveDeals, getWatchlistsConfig, getSeen, markSeen, getDeals } from './store.mjs';
 import { findMatches } from './filters.mjs';
 import { notifyDeals, notifyDigest } from './notifier.mjs';
 
@@ -33,16 +33,28 @@ export async function refresh({ notify = true } = {}) {
 
   const parsed = [...tweetDeals, ...siteDeals, ...redditDeals];
 
-  // Enriquecer genero/sello con base musical (desactivable con ENRICH=0).
+  // Fusiona lo nuevo con lo ya guardado (por id) y anota cuales son nuevos.
+  const existing = await getDeals();
+  const byId = new Map(existing.map((d) => [d.id, d]));
+  const freshIds = [];
+  for (const d of parsed) {
+    if (!byId.has(d.id)) freshIds.push(d.id);
+    byId.set(d.id, { ...byId.get(d.id), ...d });
+  }
+  const all = [...byId.values()];
+
+  // Enriquecer TODO el feed (genero/sello/bio). Con cache es barato y ademas
+  // corrige datos obsoletos de deals viejos (bios malas, etc.). ENRICH=0 lo salta.
   if (process.env.ENRICH !== '0') {
     try {
-      await enrichDeals(parsed);
+      await enrichDeals(all);
     } catch (err) {
       console.warn('[refresh] enriquecimiento omitido:', err.message);
     }
   }
 
-  const fresh = await upsertDeals(parsed);
+  await saveDeals(all);
+  const fresh = all.filter((d) => freshIds.includes(d.id));
 
   const config = await getWatchlistsConfig();
 
