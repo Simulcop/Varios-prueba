@@ -1,15 +1,26 @@
 {
-  "_comment": "Config de alertas que usa la GitHub Action. alertAll=true = te llega TODO deal US; vamos podando con 'exclude'. Cuando quieras quitar algo, se anade a exclude (artists/genres/labels/stores/keywords) o se pone un precio.",
+  "_comment": "Config de alertas que usa la GitHub Action. alertAll=true = te llega TODO deal US; vamos podando con 'exclude'. Dime 'quita X' y lo anado aqui.",
 
   "alertAll": true,
 
   "exclude": {
-    "_comment": "Lista negra: lo que caiga aqui NO se notifica. Se va llenando segun me digas 'quita X'.",
-    "artists": [],
-    "genres": [],
+    "_comment": "Lista negra: lo que caiga aqui NO se notifica.",
+    "artists": ["Taylor Swift"],
+    "genres": ["Reggaeton", "Metal", "Heavy Metal", "Gospel", "CCM", "Christian", "Christmas", "Musical"],
     "labels": [],
     "stores": [],
-    "keywords": [],
+    "keywords": [
+      "reggaeton",
+      "heavy metal",
+      "worship",
+      "praise & worship",
+      "christmas",
+      "xmas",
+      "broadway",
+      "cast recording",
+      "original cast",
+      "picture disc"
+    ],
     "maxPrice": null,
     "minPrice": null
   },
