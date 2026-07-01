@@ -74,7 +74,9 @@ export function isExcluded(deal, ex) {
 
 // Evalua un deal contra toda la config. Devuelve los motivos (para mostrar y notificar).
 export function evaluateDeal(deal, config) {
-  if (isExcluded(deal, config.exclude)) return []; // lista negra: fuera
+  // Artistas protegidos: siempre pasan, saltan cualquier exclusion.
+  const protectedArtist = listIncludes(config.keepArtists, deal.artist);
+  if (!protectedArtist && isExcluded(deal, config.exclude)) return []; // lista negra: fuera
 
   const reasons = [];
   // Modo "avisar de todo" (ir podando por exclusion).
