@@ -149,6 +149,10 @@ input:focus, select:focus { outline: 2px solid var(--accent-2); outline-offset: 
 .deal-buy a.btn-spotify:hover { background: #1ed760; }
 .deal-buy a.btn-spotify-soft { background: transparent; color: #1db954; border: 1px solid rgba(29,185,84,.5); }
 .deal-buy a.btn-spotify-soft:hover { background: rgba(29,185,84,.12); }
+.deal-ban { display: flex; gap: 8px; margin-top: 8px; }
+.btn-ban { background: transparent; color: #ff8080; border: 1px solid rgba(255,90,90,.4); border-radius: 9px; padding: 6px 10px; font-size: 12px; font-weight: 600; cursor: pointer; }
+.btn-ban:hover { background: rgba(255,90,90,.14); border-color: rgba(255,90,90,.7); }
+.btn-ban:disabled { opacity: .5; cursor: default; }
 
 .empty { color: var(--muted); text-align: center; padding: 40px; }
 .hidden { display: none !important; }

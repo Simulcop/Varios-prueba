@@ -13,6 +13,7 @@ import { getDeals, getWatchlistsConfig, saveWatchlistsConfig } from './src/store
 import { findMatches } from './src/filters.mjs';
 import { refresh } from './src/refresh.mjs';
 import { sendTestAlert, notifierStatus } from './src/notifier.mjs';
+import { applyBan } from './src/ban.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PUBLIC_DIR = join(__dirname, 'public');
@@ -98,6 +99,22 @@ async function handleApi(req, res, pathname) {
   if (pathname === '/api/refresh' && req.method === 'POST') {
     const result = await refresh({ notify: false });
     return sendJson(res, 200, result.summary);
+  }
+
+  // POST /api/ban -> veta un artista (type=artist) o un LP (type=album) y lo
+  // guarda de forma permanente (commit en GitHub) + local para efecto inmediato.
+  if (pathname === '/api/ban' && req.method === 'POST') {
+    const body = await readBody(req);
+    const { type, value } = body || {};
+    if (!['artist', 'album'].includes(type) || !value || !String(value).trim()) {
+      return sendJson(res, 400, { error: 'Falta type (artist|album) o value' });
+    }
+    try {
+      const result = await applyBan(type, String(value).trim());
+      return sendJson(res, 200, { ok: true, ...result });
+    } catch (err) {
+      return sendJson(res, 500, { error: err.message });
+    }
   }
 
   // POST /api/test-alert -> envia una alerta de prueba por los canales configurados
