@@ -3,6 +3,7 @@ const $ = (sel) => document.querySelector(sel);
 const $$ = (sel) => [...document.querySelectorAll(sel)];
 
 let STATE = { deals: [], config: { watchlists: [], discovery: {} }, notifier: {} };
+let DATA_LIVE = null; // ultimo estado de la busqueda en vivo (true/false)
 const filters = { search: '', genre: '', label: '', maxPrice: Infinity, onlyMatches: true };
 
 // --- Carga inicial ---------------------------------------------------------
@@ -19,7 +20,7 @@ async function loadState() {
 
 function renderDataBadge() {
   const badge = $('#dataBadge');
-  const anyDemo = STATE.deals.some((d) => String(d.id).startsWith('demo-'));
+  const anyDemo = DATA_LIVE === false || STATE.deals.some((d) => String(d.id).startsWith('demo-'));
   if (!STATE.deals.length) {
     badge.textContent = 'sin datos';
     badge.className = 'badge badge-muted';
@@ -342,7 +343,9 @@ async function init() {
   const om = $('#onlyMatches');
   if (om) om.checked = true;
   try {
-    await fetch('/api/refresh', { method: 'POST' });
+    const r = await fetch('/api/refresh', { method: 'POST' });
+    const s = await r.json();
+    DATA_LIVE = !!s.live;
   } catch { /* si falla, mostramos lo que haya */ }
   if (btn) { btn.disabled = false; btn.textContent = '↻ Actualizar'; }
   await loadState();

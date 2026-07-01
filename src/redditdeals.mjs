@@ -125,10 +125,93 @@ async function fetchSubredditDeals(feedUrl) {
   return deals;
 }
 
+// --- Acceso por API oficial (OAuth) -----------------------------------------
+// Funciona desde IPs de servidores (Render, etc.) donde el RSS publico da 403.
+// Necesita REDDIT_CLIENT_ID y REDDIT_CLIENT_SECRET (app tipo "script" en Reddit).
+
+function subredditList() {
+  return feedList().map((u) => (u.match(/\/r\/([^/]+)/) || [, 'VinylDeals'])[1]);
+}
+
+async function getAppToken() {
+  const id = process.env.REDDIT_CLIENT_ID;
+  const secret = process.env.REDDIT_CLIENT_SECRET;
+  if (!id || !secret) return null;
+  const res = await fetch('https://www.reddit.com/api/v1/access_token', {
+    method: 'POST',
+    headers: {
+      Authorization: 'Basic ' + Buffer.from(`${id}:${secret}`).toString('base64'),
+      'Content-Type': 'application/x-www-form-urlencoded',
+      'User-Agent': UA,
+    },
+    body: 'grant_type=client_credentials',
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error(`Reddit OAuth token HTTP ${res.status}`);
+  const j = await res.json();
+  return j.access_token || null;
+}
+
+async function fetchSubredditOAuth(subreddit, token) {
+  const res = await fetch(`https://oauth.reddit.com/r/${subreddit}/new?limit=25&raw_json=1`, {
+    headers: { Authorization: `bearer ${token}`, 'User-Agent': UA },
+    signal: AbortSignal.timeout(20000),
+  });
+  if (!res.ok) throw new Error(`Reddit OAuth HTTP ${res.status} (r/${subreddit})`);
+  const j = await res.json();
+  const deals = [];
+  for (const child of j.data?.children || []) {
+    const p = child.data;
+    if (!p || !p.title) continue;
+    const { artist, album, price, isUS, hasStore, store } = parseTitle(p.title);
+    if (!isUS || !hasStore) continue;
+    // Enlace del deal: la url del post o los enlaces del cuerpo (prefiere amazon.com/dp).
+    const html = (p.url ? `href="${p.url}" ` : '') + decodeEntities(p.selftext_html || '');
+    const dealUrl = pickDealUrl(html);
+    if (!dealUrl) continue;
+    deals.push({
+      id: `reddit-${p.id}`,
+      source: store || `r/${subreddit}`,
+      createdAt: p.created_utc ? new Date(p.created_utc * 1000).toISOString() : new Date(0).toISOString(),
+      text: p.title,
+      artist: artist || null,
+      title: album || null,
+      label: null,
+      genres: [],
+      price,
+      wasPrice: null,
+      discountPct: null,
+      lowest: false,
+      amazonUrl: dealUrl,
+      knownArtist: false,
+    });
+  }
+  return deals;
+}
+
 export async function getRedditDeals() {
-  const feeds = feedList();
+  // 1) API oficial (funciona desde servidores) si hay credenciales.
+  if (process.env.REDDIT_CLIENT_ID && process.env.REDDIT_CLIENT_SECRET) {
+    try {
+      const token = await getAppToken();
+      if (token) {
+        const out = [];
+        for (const sub of subredditList()) {
+          try {
+            out.push(...(await fetchSubredditOAuth(sub, token)));
+          } catch (e) {
+            console.warn(`[reddit-oauth] ${e.message}`);
+          }
+        }
+        if (out.length) return out;
+      }
+    } catch (e) {
+      console.warn(`[reddit-oauth] ${e.message}`);
+    }
+  }
+  // 2) Fallback: RSS publico (funciona desde IPs residenciales / a veces GitHub).
   const out = [];
-  for (const url of feeds) {
+  for (const url of feedList()) {
     try {
       out.push(...(await fetchSubredditDeals(url)));
     } catch (err) {
