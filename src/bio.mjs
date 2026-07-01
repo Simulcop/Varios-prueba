@@ -10,7 +10,7 @@ const CACHE_PATH = join(__dirname, '..', 'data', 'bio-cache.json');
 const UA = 'VinylDealRadar/0.2 (https://github.com/Simulcop/Varios-prueba)';
 // Version del cache: al subirla se invalidan entradas viejas (p. ej. los null
 // guardados antes de existir un nuevo respaldo, para que se reintenten).
-const BIO_V = 3;
+const BIO_V = 4;
 
 let CACHE = null;
 async function loadCache() {
@@ -126,27 +126,15 @@ export async function getArtistBio(artist) {
   if (cached && cached.v === BIO_V) return cached.r;
 
   let result = null;
-  const candidates = [`${artist} (band)`, `${artist} (musician)`, `${artist} (singer)`];
+
+  // 1) Last.fm (fuente preferida: bios mas completas y parejas).
   try {
-    // 1) Wikipedia. Nombre tal cual: si es articulo normal, lo usamos.
-    const first = await fetchSummary(artist);
-    if (first && first.type !== 'disambiguation' && first.extract) {
-      result = { text: shorten(first.extract), url: first.content_urls?.desktop?.page || null, source: 'Wikipedia' };
-    } else {
-      // Ambiguo o inexistente: probamos variantes musicales.
-      for (const c of candidates) {
-        const s = await fetchSummary(c);
-        if (s && s.type !== 'disambiguation' && s.extract) {
-          result = { text: shorten(s.extract), url: s.content_urls?.desktop?.page || null, source: 'Wikipedia' };
-          break;
-        }
-      }
-    }
+    result = await fetchLastfmBio(artist);
   } catch (err) {
-    console.warn(`[bio] wikipedia ${artist}: ${err.message}`);
+    console.warn(`[bio] lastfm ${artist}: ${err.message}`);
   }
 
-  // 2) Respaldo: Discogs (perfil del artista) si Wikipedia no dio nada.
+  // 2) Respaldo: Discogs (perfil del artista).
   if (!result) {
     try {
       result = await fetchDiscogsBio(artist);
@@ -155,12 +143,19 @@ export async function getArtistBio(artist) {
     }
   }
 
-  // 3) Ultimo respaldo: Last.fm (buena cobertura de artistas pequenos).
+  // 3) Ultimo respaldo: Wikipedia (nombre tal cual y variantes musicales).
   if (!result) {
     try {
-      result = await fetchLastfmBio(artist);
+      const candidates = [artist, `${artist} (band)`, `${artist} (musician)`, `${artist} (singer)`];
+      for (const c of candidates) {
+        const s = await fetchSummary(c);
+        if (s && s.type !== 'disambiguation' && s.extract) {
+          result = { text: shorten(s.extract), url: s.content_urls?.desktop?.page || null, source: 'Wikipedia' };
+          break;
+        }
+      }
     } catch (err) {
-      console.warn(`[bio] lastfm ${artist}: ${err.message}`);
+      console.warn(`[bio] wikipedia ${artist}: ${err.message}`);
     }
   }
 
