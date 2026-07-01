@@ -1,0 +1,15 @@
+# Blueprint de Render para publicar la web. En Render: New > Blueprint, conecta
+# este repo y crea el servicio. Recuerda anadir el secret DISCOGS_TOKEN.
+services:
+  - type: web
+    name: vinyl-deal-radar
+    runtime: node
+    plan: free
+    region: oregon
+    buildCommand: npm install
+    startCommand: node server.mjs
+    envVars:
+      - key: DISCOGS_TOKEN
+        sync: false
+      - key: LIVE_ONLY
+        value: "1"
