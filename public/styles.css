@@ -48,8 +48,16 @@ body {
   max-width: 1280px;
   margin: 0 auto;
 }
+/* Boton para plegar/desplegar el panel: solo visible en pantallas pequenas. */
+.panel-toggle { display: none; }
+
 @media (max-width: 860px) {
-  .layout { grid-template-columns: 1fr; }
+  /* En el celular: primero los deals; los filtros/alertas se abren con el boton. */
+  .layout { display: flex; flex-direction: column; gap: 14px; }
+  .panel-toggle { display: block; width: 100%; order: 0; font-size: 15px; }
+  .sidebar { order: 1; display: none; }
+  .sidebar.open { display: block; }
+  .feed { order: 2; }
 }
 
 .card {

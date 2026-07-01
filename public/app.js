@@ -354,13 +354,13 @@ function addWatchlist() {
 // --- Notificador -----------------------------------------------------------
 
 function renderNotifier() {
-  const n = STATE.notifier || {};
-  const parts = [];
-  parts.push(`WhatsApp: ${n.whatsapp ? '✅ activo' : '⚠️ sin configurar'}`);
-  if (n.webhook) parts.push('Webhook: ✅');
+  // El WhatsApp lo envia GitHub (no esta web), asi que aqui solo lo explicamos
+  // para no mostrar una falsa alarma de "sin configurar".
   $('#notifierStatus').innerHTML =
-    parts.join(' · ') +
-    (n.whatsapp ? '' : '<br>Define WHATSAPP_PHONE y CALLMEBOT_APIKEY en el servidor.');
+    '📲 <strong>WhatsApp:</strong> lo envía GitHub automáticamente.<br>' +
+    'Recibes un resumen cuando hay deals nuevos que pasan tus reglas.';
+  const testBtn = $('#testAlert');
+  if (testBtn) testBtn.style.display = 'none'; // la prueba solo aplica en el servidor de alertas
 }
 
 // --- Acciones top ----------------------------------------------------------
@@ -431,6 +431,18 @@ async function init() {
   if (om) om.checked = true;
   await loadState();
 }
-$('#testAlert').addEventListener('click', testAlert);
+const _testBtn = $('#testAlert');
+if (_testBtn) _testBtn.addEventListener('click', testAlert);
+
+// Panel plegable en el celular: el boton muestra/oculta filtros y alertas.
+const _panelToggle = $('#panelToggle');
+if (_panelToggle) {
+  _panelToggle.addEventListener('click', () => {
+    const sb = document.querySelector('.sidebar');
+    const open = sb.classList.toggle('open');
+    _panelToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    _panelToggle.textContent = open ? '⚙️ Filtros y alertas ▾' : '⚙️ Filtros y alertas ▸';
+  });
+}
 
 init();
