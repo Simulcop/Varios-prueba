@@ -90,9 +90,9 @@ async function handleApi(req, res, pathname) {
     return sendJson(res, 200, saved);
   }
 
-  // POST /api/refresh -> fuerza una lectura de X ahora
+  // POST /api/refresh -> lectura en vivo (SIN notificar; la web no manda WhatsApp)
   if (pathname === '/api/refresh' && req.method === 'POST') {
-    const result = await refresh({ notify: true });
+    const result = await refresh({ notify: false });
     return sendJson(res, 200, result.summary);
   }
 

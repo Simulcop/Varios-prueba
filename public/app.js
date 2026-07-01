@@ -3,7 +3,7 @@ const $ = (sel) => document.querySelector(sel);
 const $$ = (sel) => [...document.querySelectorAll(sel)];
 
 let STATE = { deals: [], config: { watchlists: [], discovery: {} }, notifier: {} };
-const filters = { search: '', genre: '', label: '', maxPrice: Infinity, onlyMatches: false };
+const filters = { search: '', genre: '', label: '', maxPrice: Infinity, onlyMatches: true };
 
 // --- Carga inicial ---------------------------------------------------------
 
@@ -334,6 +334,19 @@ $('#clearFilters').addEventListener('click', () => {
 $('#saveWatchlists').addEventListener('click', saveWatchlists);
 $('#addWatchlist').addEventListener('click', addWatchlist);
 $('#refreshBtn').addEventListener('click', refreshX);
+
+// Al abrir la web: busca en vivo y muestra lo que pasa tus reglas.
+async function init() {
+  const btn = $('#refreshBtn');
+  if (btn) { btn.disabled = true; btn.textContent = '↻ Buscando deals…'; }
+  const om = $('#onlyMatches');
+  if (om) om.checked = true;
+  try {
+    await fetch('/api/refresh', { method: 'POST' });
+  } catch { /* si falla, mostramos lo que haya */ }
+  if (btn) { btn.disabled = false; btn.textContent = '↻ Actualizar'; }
+  await loadState();
+}
 $('#testAlert').addEventListener('click', testAlert);
 
-loadState();
+init();
