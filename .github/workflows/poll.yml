@@ -52,6 +52,7 @@ jobs:
           CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
           ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
           DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }} # bio de respaldo (clave gratis)
         run: node scripts/run-fetch.mjs
 
       # Publica el feed real: si data/deals.json cambio, lo commitea. La web de
