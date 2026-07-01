@@ -138,9 +138,11 @@ export async function enrichDeal(deal) {
       if (bio) {
         deal.bio = bio.text;
         deal.bioUrl = bio.url;
+        deal.bioSource = bio.source || 'Wikipedia';
       } else {
         delete deal.bio;
         delete deal.bioUrl;
+        delete deal.bioSource;
       }
     } catch (err) {
       console.warn(`[enrich] bio ${deal.artist}: ${err.message}`);
