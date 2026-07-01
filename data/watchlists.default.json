@@ -21,7 +21,7 @@
 
   "exclude": {
     "_comment": "Lista negra: lo que caiga aqui NO se notifica.",
-    "artists": ["Taylor Swift", "Robbie Williams", "Taking Back Sunday", "Bon Jovi", "Panic! At The Disco"],
+    "artists": ["Taylor Swift", "Robbie Williams", "Taking Back Sunday", "Bon Jovi", "Panic! At The Disco", "John Williams", "Neal Casal"],
     "genres": ["Reggaeton", "Metal", "Heavy Metal", "Gospel", "CCM", "Christian", "Christmas", "Musical", "Country", "Contemporary Country", "Country Pop", "Nashville Sound", "Americana"],
     "labels": [],
     "stores": [],
@@ -37,7 +37,10 @@
       "original cast",
       "picture disc",
       "box set",
-      "boxset"
+      "boxset",
+      "test pressing",
+      "neal casal",
+      "john williams"
     ],
     "maxPrice": 30,
     "minPrice": null
