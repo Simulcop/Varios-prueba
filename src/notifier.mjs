@@ -21,24 +21,21 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const fmtPrice = (p) => `${Number.isInteger(p) ? p : p.toFixed(2)} USD`;
 
 // Mensaje-resumen: junta muchos deals en 1 (o pocos) mensajes de WhatsApp, para
-// que CallMeBot no bloquee por volumen. Trocea si se hace muy largo.
+// que CallMeBot no bloquee por volumen. Cada deal va con el formato completo
+// (precio, sello/generos, Amazon, Spotify, This Is). Trocea si se hace largo.
 export async function notifyDigest(deals) {
   if (!deals.length) return [];
-  const lines = deals.map((d, i) => {
-    const who = [d.artist, d.title].filter(Boolean).join(' – ') || (d.text || '').slice(0, 60);
-    const price = d.price != null ? fmtPrice(d.price) : 's/p';
-    const tags = (d.genres || []).slice(0, 2).join(', ');
-    return `${i + 1}. ${who} — ${price}${tags ? ` · ${tags}` : ''}\n${d.amazonUrl || ''}`;
-  });
+  const divider = '\n\n────────\n\n';
+  const blocks = deals.map((d) => formatDealMessage(d));
 
   const chunks = [];
   let cur = `💿 Vinyl Deal Radar — ${deals.length} nuevos hoy:`;
-  for (const line of lines) {
-    if ((cur + '\n\n' + line).length > 2400) {
+  for (const block of blocks) {
+    if ((cur + divider + block).length > 2400) {
       chunks.push(cur);
       cur = '(cont.)';
     }
-    cur += '\n\n' + line;
+    cur += divider + block;
   }
   chunks.push(cur);
 
