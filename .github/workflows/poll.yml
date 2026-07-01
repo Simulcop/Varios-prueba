@@ -31,9 +31,9 @@ jobs:
           path: |
             data/seen.json
             data/enrich-cache.json
-          key: vinyl-state-v3-${{ github.run_id }}
+          key: vinyl-state-v4-${{ github.run_id }}
           restore-keys: |
-            vinyl-state-v3-
+            vinyl-state-v4-
 
       - name: Leer X, enriquecer y notificar
         env:

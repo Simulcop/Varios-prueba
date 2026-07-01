@@ -81,9 +81,16 @@ async function sendWhatsApp(text) {
     `https://api.callmebot.com/whatsapp.php?phone=${encodeURIComponent(phone)}` +
     `&text=${encodeURIComponent(text)}&apikey=${encodeURIComponent(apikey)}`;
   try {
-    const res = await fetch(url, { signal: AbortSignal.timeout(15000) });
-    return { ok: res.ok, channel: 'whatsapp', status: res.status };
+    const res = await fetch(url, { signal: AbortSignal.timeout(20000) });
+    // CallMeBot devuelve HTTP 200 aunque falle, con el motivo en el cuerpo.
+    let body = '';
+    try {
+      body = (await res.text()).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 300);
+    } catch {}
+    console.log(`[whatsapp] HTTP ${res.status} -> ${body}`);
+    return { ok: res.ok, channel: 'whatsapp', status: res.status, body };
   } catch (err) {
+    console.log(`[whatsapp] error: ${err.message}`);
     return { ok: false, channel: 'whatsapp', error: err.message };
   }
 }
