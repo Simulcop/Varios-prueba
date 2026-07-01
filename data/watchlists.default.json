@@ -3,6 +3,9 @@
 
   "alertAll": true,
 
+  "_keepArtists_comment": "Artistas protegidos: SIEMPRE pasan, aunque caigan en una exclusion (p. ej. para dejar pasar SUS box sets). Dime 'de X si quiero box sets' y lo anado aqui.",
+  "keepArtists": [],
+
   "exclude": {
     "_comment": "Lista negra: lo que caiga aqui NO se notifica.",
     "artists": ["Taylor Swift"],
@@ -19,7 +22,9 @@
       "broadway",
       "cast recording",
       "original cast",
-      "picture disc"
+      "picture disc",
+      "box set",
+      "boxset"
     ],
     "maxPrice": null,
     "minPrice": null
