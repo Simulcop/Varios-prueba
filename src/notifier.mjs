@@ -14,11 +14,46 @@
 
 import { albumSpotifyUrl, thisIsSpotifyUrl } from './spotify.mjs';
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// OJO: CallMeBot interpreta "$" + digito como variable ($1, $2...) y lo borra
+// ($29.30 -> 9.3). Por eso el precio se escribe "29.30 USD" (sin $ pegado).
+const fmtPrice = (p) => `${Number.isInteger(p) ? p : p.toFixed(2)} USD`;
+
+// Mensaje-resumen: junta muchos deals en 1 (o pocos) mensajes de WhatsApp, para
+// que CallMeBot no bloquee por volumen. Trocea si se hace muy largo.
+export async function notifyDigest(deals) {
+  if (!deals.length) return [];
+  const lines = deals.map((d, i) => {
+    const who = [d.artist, d.title].filter(Boolean).join(' – ') || (d.text || '').slice(0, 60);
+    const price = d.price != null ? fmtPrice(d.price) : 's/p';
+    const tags = (d.genres || []).slice(0, 2).join(', ');
+    return `${i + 1}. ${who} — ${price}${tags ? ` · ${tags}` : ''}\n${d.amazonUrl || ''}`;
+  });
+
+  const chunks = [];
+  let cur = `💿 Vinyl Deal Radar — ${deals.length} nuevos hoy:`;
+  for (const line of lines) {
+    if ((cur + '\n\n' + line).length > 2400) {
+      chunks.push(cur);
+      cur = '(cont.)';
+    }
+    cur += '\n\n' + line;
+  }
+  chunks.push(cur);
+
+  const results = [];
+  for (let i = 0; i < chunks.length; i++) {
+    console.log('\n[digest]\n' + chunks[i]);
+    const wa = await sendWhatsApp(chunks[i]);
+    results.push(wa);
+    if (i < chunks.length - 1 && wa.ok) await sleep(4000);
+  }
+  return results;
+}
+
 function formatDealMessage(deal) {
-  // OJO: CallMeBot interpreta "$" + digito como variable ($1, $2...) y lo borra,
-  // comiendose el simbolo y el primer digito ($29.30 -> 9.3). Por eso el precio
-  // se escribe como "29.30 USD" (sin $ pegado a un numero).
-  const fmt = (p) => `${Number.isInteger(p) ? p : p.toFixed(2)} USD`;
+  const fmt = fmtPrice;
   const price = deal.price != null ? fmt(deal.price) : 'ver precio en el enlace';
   const was = deal.wasPrice ? ` (antes ${fmt(deal.wasPrice)})` : '';
   const disc = deal.discountPct != null ? ` -${deal.discountPct}%` : '';
@@ -72,7 +107,6 @@ async function sendWebhook(payload) {
 // Notifica una lista de deals (ya filtrados como nuevos+coincidentes).
 export async function notifyDeals(deals) {
   const results = [];
-  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
   for (let i = 0; i < deals.length; i++) {
     const deal = deals[i];
     const text = formatDealMessage(deal);
