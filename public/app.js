@@ -192,7 +192,44 @@ function renderDealCard(d) {
     }
     card.appendChild(buy);
   }
+
+  // Fila de veto: oculta y bloquea para siempre la banda o este LP.
+  const banRow = el('div', 'deal-ban');
+  const albumVal = d.title || (d.text || '').slice(0, 60);
+  if (d.artist) banRow.appendChild(makeBanBtn('artist', d.artist, `🚫 Banda`, `Vetar la banda "${d.artist}"`, card));
+  if (albumVal) banRow.appendChild(makeBanBtn('album', albumVal, `🚫 LP`, `Vetar este LP: "${albumVal}"`, card));
+  if (banRow.children.length) card.appendChild(banRow);
+
   return card;
+}
+
+function makeBanBtn(type, value, label, title, card) {
+  const b = el('button', 'btn-ban', label);
+  b.title = title;
+  b.addEventListener('click', async () => {
+    const what = type === 'artist' ? `la banda "${value}"` : `este LP:\n"${value}"`;
+    if (!confirm(`¿Vetar ${what}?\n\nNo volverá a aparecer (web y WhatsApp).`)) return;
+    b.disabled = true;
+    b.textContent = '…';
+    try {
+      const res = await fetch('/api/ban', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ type, value }),
+      });
+      const j = await res.json();
+      if (!res.ok) throw new Error(j.error || 'error');
+      card.style.transition = 'opacity .25s';
+      card.style.opacity = '0';
+      toast(j.committed ? '✅ Vetado y guardado' : '✅ Oculto aquí (sin token: no permanente)');
+      setTimeout(loadState, 350);
+    } catch (e) {
+      b.disabled = false;
+      b.textContent = label;
+      toast('⚠️ No se pudo vetar: ' + e.message);
+    }
+  });
+  return b;
 }
 
 function timeAgo(iso) {
