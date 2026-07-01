@@ -126,8 +126,28 @@ async function handleApi(req, res, pathname) {
   return sendJson(res, 404, { error: 'Ruta no encontrada' });
 }
 
+// Proteccion opcional por contraseña. Si SITE_PASSWORD esta definido, toda la
+// web pide usuario/clave (HTTP Basic Auth). Si no esta definido, queda abierta.
+function authorized(req) {
+  const pass = process.env.SITE_PASSWORD;
+  if (!pass) return true; // sin contraseña configurada -> abierto (no bloquea)
+  const h = req.headers['authorization'] || '';
+  const m = h.match(/^Basic (.+)$/i);
+  if (!m) return false;
+  const decoded = Buffer.from(m[1], 'base64').toString('utf8');
+  const providedPass = decoded.slice(decoded.indexOf(':') + 1);
+  return providedPass === pass;
+}
+
 const server = createServer(async (req, res) => {
   try {
+    if (!authorized(req)) {
+      res.writeHead(401, {
+        'WWW-Authenticate': 'Basic realm="Vinyl Deal Radar", charset="UTF-8"',
+        'Content-Type': 'text/plain; charset=utf-8',
+      });
+      return res.end('Necesitas contraseña para entrar.');
+    }
     const { pathname } = new URL(req.url, 'http://x');
     if (pathname.startsWith('/api/')) return await handleApi(req, res, pathname);
     return await serveStatic(req, res);
