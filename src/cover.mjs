@@ -8,7 +8,7 @@ import { dirname, join } from 'node:path';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CACHE_PATH = join(__dirname, '..', 'data', 'cover-cache.json');
 const UA = 'VinylDealRadar/0.2 (https://github.com/Simulcop/Varios-prueba)';
-const COVER_V = 2; // sube la version para reintentar entradas viejas
+const COVER_V = 3; // sube la version para reintentar entradas viejas
 
 let CACHE = null;
 async function loadCache() {
@@ -68,13 +68,16 @@ async function fetchItunes(artist, title) {
     }
     return s;
   }
-  let best = null, bestS = -Infinity;
+  let best = null, bestS = -Infinity, bestArtistOk = false;
   for (const r of results) {
+    const ra = norm(r.artistName);
+    const artistOk = na ? (ra === na || ra.includes(na) || na.includes(ra)) : true;
     const sc = score(r);
-    if (sc > bestS) { bestS = sc; best = r; }
+    if (sc > bestS) { bestS = sc; best = r; bestArtistOk = artistOk; }
   }
-  // Si tenemos artista y ni el mejor lo respeta, mejor NO poner portada.
-  if (na && bestS < 0) return null;
+  // Regla estricta: si hay artista y la portada elegida NO es de ese artista,
+  // no ponemos nada (evita portadas de otro artista, p. ej. The Offspring).
+  if (na && !bestArtistOk) return null;
   if (!best) return null;
   // Sube la resolucion (iTunes sirve la miniatura 100x100; pedimos 400x400).
   return best.artworkUrl100.replace(/\/\d+x\d+bb\.(jpg|png)$/i, '/400x400bb.$1');

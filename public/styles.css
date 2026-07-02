@@ -26,7 +26,8 @@ body {
   justify-content: space-between;
   align-items: center;
   gap: 16px;
-  padding: 18px 28px;
+  /* Deja espacio para la hora/isla del iPhone (safe area) al abrir como app. */
+  padding: max(18px, env(safe-area-inset-top)) max(20px, env(safe-area-inset-right)) 16px max(20px, env(safe-area-inset-left));
   border-bottom: 1px solid var(--border);
   position: sticky;
   top: 0;
