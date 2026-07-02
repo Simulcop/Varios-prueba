@@ -141,16 +141,25 @@ function authorized(req) {
   return providedPass === pass;
 }
 
+// El icono y el manifest se sirven SIN contraseña (no son sensibles): iOS los
+// necesita para poner el icono al "Agregar a inicio", y con Basic Auth fallaban.
+const PUBLIC_ASSETS = new Set([
+  '/apple-touch-icon.png',
+  '/icon-512.png',
+  '/manifest.webmanifest',
+  '/favicon.ico',
+]);
+
 const server = createServer(async (req, res) => {
   try {
-    if (!authorized(req)) {
+    const { pathname } = new URL(req.url, 'http://x');
+    if (!PUBLIC_ASSETS.has(pathname) && !authorized(req)) {
       res.writeHead(401, {
         'WWW-Authenticate': 'Basic realm="Vinyl Deal Radar", charset="UTF-8"',
         'Content-Type': 'text/plain; charset=utf-8',
       });
       return res.end('Necesitas contraseña para entrar.');
     }
-    const { pathname } = new URL(req.url, 'http://x');
     if (pathname.startsWith('/api/')) return await handleApi(req, res, pathname);
     return await serveStatic(req, res);
   } catch (err) {
