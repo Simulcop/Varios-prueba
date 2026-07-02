@@ -171,6 +171,18 @@ function renderDealCard(d) {
 
   if (!dismissed) attachSwipe(card, d.id);
 
+  // Portada del album (si la hay). Si la imagen falla, se oculta sin romper nada.
+  if (d.cover) {
+    const cover = el('div', 'deal-cover');
+    const img = document.createElement('img');
+    img.src = d.cover;
+    img.alt = [d.artist, d.title].filter(Boolean).join(' – ') || 'Portada';
+    img.loading = 'lazy';
+    img.addEventListener('error', () => cover.remove());
+    cover.appendChild(img);
+    card.appendChild(cover);
+  }
+
   const title = el('div', 'deal-title');
   if (d.artist) {
     const a = el('span', 'deal-artist', d.artist);
