@@ -62,7 +62,15 @@ async function serveStatic(req, res) {
     const s = await stat(filePath);
     if (s.isDirectory()) throw new Error('dir');
     const data = await readFile(filePath);
-    res.writeHead(200, { 'Content-Type': MIME[extname(filePath)] || 'application/octet-stream' });
+    const ext = extname(filePath);
+    // La web (html/js/css) NO se cachea, para que la app siempre muestre la
+    // ultima version (evita quedar "pegada" en una version vieja). Las imagenes
+    // e iconos si se cachean un dia.
+    const noCache = ['.html', '.js', '.css', '.webmanifest'].includes(ext);
+    res.writeHead(200, {
+      'Content-Type': MIME[ext] || 'application/octet-stream',
+      'Cache-Control': noCache ? 'no-store' : 'public, max-age=86400',
+    });
     res.end(data);
   } catch {
     res.writeHead(404, { 'Content-Type': 'text/plain' }).end('No encontrado');
