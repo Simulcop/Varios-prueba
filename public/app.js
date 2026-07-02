@@ -477,17 +477,15 @@ function renderNotifier() {
 async function refreshX() {
   const btn = $('#refreshBtn');
   btn.disabled = true;
-  btn.textContent = '↻ Leyendo X…';
+  btn.textContent = '↻ Actualizando…';
   try {
-    const res = await fetch('/api/refresh', { method: 'POST' });
-    const s = await res.json();
-    toast(`Refrescado: ${s.newDeals} nuevos, ${s.alerted} alertas${s.live ? '' : ' (demo)'}`);
-    await loadState();
+    await loadState(); // relee el feed publicado (data/deals.json)
+    toast('Actualizado ✓');
   } catch {
-    toast('Error al refrescar');
+    toast('No se pudo actualizar');
   } finally {
     btn.disabled = false;
-    btn.textContent = '↻ Refrescar X';
+    btn.textContent = '↻ Actualizar';
   }
 }
 
@@ -531,6 +529,51 @@ $('#clearFilters').addEventListener('click', () => {
 $('#saveWatchlists').addEventListener('click', saveWatchlists);
 $('#addWatchlist').addEventListener('click', addWatchlist);
 $('#refreshBtn').addEventListener('click', refreshX);
+
+// --- Halar hacia abajo para actualizar (pull-to-refresh) -------------------
+// En la app instalada iOS no trae el gesto del navegador; lo hacemos nosotros.
+(function setupPullToRefresh() {
+  const ind = document.createElement('div');
+  ind.id = 'ptr';
+  ind.textContent = '↓ Hala para actualizar';
+  document.body.appendChild(ind);
+  let startY = null, active = false, refreshing = false;
+
+  window.addEventListener('touchstart', (e) => {
+    startY = window.scrollY <= 0 ? e.touches[0].clientY : null;
+    active = false;
+  }, { passive: true });
+
+  window.addEventListener('touchmove', (e) => {
+    if (startY == null || refreshing) return;
+    const dy = e.touches[0].clientY - startY;
+    if (dy > 0 && window.scrollY <= 0) {
+      const pull = Math.min(dy, 100);
+      ind.style.transform = `translateX(-50%) translateY(${pull}px)`;
+      ind.style.opacity = String(Math.min(1, dy / 70));
+      active = dy > 70;
+      ind.textContent = active ? '↑ Suelta para actualizar' : '↓ Hala para actualizar';
+    }
+  }, { passive: true });
+
+  window.addEventListener('touchend', async () => {
+    if (startY == null) return;
+    const wasActive = active;
+    startY = null; active = false;
+    ind.style.transition = 'transform .25s, opacity .25s';
+    if (wasActive && !refreshing) {
+      refreshing = true;
+      ind.textContent = '↻ Actualizando…';
+      ind.style.transform = 'translateX(-50%) translateY(60px)';
+      ind.style.opacity = '1';
+      try { await loadState(); toast('Actualizado ✓'); } catch { toast('No se pudo actualizar'); }
+      refreshing = false;
+    }
+    ind.style.transform = 'translateX(-50%) translateY(0)';
+    ind.style.opacity = '0';
+    setTimeout(() => { ind.style.transition = ''; }, 260);
+  });
+})();
 
 // Al abrir la web: muestra el feed real (data/deals.json) que la Action de
 // GitHub genera y commitea. No buscamos en vivo desde aqui porque el servidor
