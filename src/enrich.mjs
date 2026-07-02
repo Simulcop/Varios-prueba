@@ -10,6 +10,7 @@ import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import { getArtistBio } from './bio.mjs';
+import { getAlbumCover } from './cover.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CACHE_PATH = join(__dirname, '..', 'data', 'enrich-cache.json');
@@ -127,6 +128,15 @@ export async function enrichDeal(deal) {
     if (info.year) deal.year = info.year;
     if (info.cover) deal.cover = info.cover;
     deal.enrichedVia = info.via;
+  }
+
+  // Portada del album (iTunes). Si la encuentra, sobreescribe la de Discogs
+  // (que a veces no carga en el navegador). Cacheada -> barata cada pasada.
+  try {
+    const cover = await getAlbumCover(deal.artist, deal.title);
+    if (cover) deal.cover = cover;
+  } catch (err) {
+    console.warn(`[enrich] cover ${deal.artist}: ${err.message}`);
   }
 
   // Bio corta del artista (Wikipedia). getArtistBio esta cacheada, asi que
