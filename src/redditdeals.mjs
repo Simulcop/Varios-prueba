@@ -8,7 +8,12 @@
 // Config: REDDIT_FEEDS (urls .rss separadas por coma). "none" lo desactiva.
 
 const UA = 'vinyl-deal-radar/1.0 (+https://github.com/Simulcop/Varios-prueba)';
-const DEFAULT_FEEDS = ['https://www.reddit.com/r/VinylDeals/new/.rss'];
+// Pedimos hasta 100 por lectura (Reddit por defecto solo da 25) y sumamos el
+// "top de la semana" para no perder los deals populares entre lecturas.
+const DEFAULT_FEEDS = [
+  'https://www.reddit.com/r/VinylDeals/new/.rss?limit=100',
+  'https://www.reddit.com/r/VinylDeals/top/.rss?t=week&limit=100',
+];
 
 function feedList() {
   const raw = process.env.REDDIT_FEEDS;
