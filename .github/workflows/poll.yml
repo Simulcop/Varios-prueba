@@ -45,6 +45,7 @@ jobs:
       - name: Leer X, enriquecer y notificar
         env:
           LIVE_ONLY: '1' # nunca alertar con datos de ejemplo
+          NOTIFY: '0' # WhatsApp PAUSADO (el feed se sigue actualizando). Pon '1' para reactivar.
           DIGEST: '1' # un solo mensaje-resumen en WhatsApp (fiable con CallMeBot)
           RSS_FEEDS: ${{ secrets.RSS_FEEDS }} # urls de feeds RSS (X via RSS.app) separadas por coma
           SITE_FEEDS: ${{ secrets.SITE_FEEDS }} # webs de deals (vacio = ninguna; off por defecto)
