@@ -10,7 +10,10 @@ const watch = process.argv.includes('--watch');
 const intervalMin = parseInt(process.env.POLL_INTERVAL_MIN || '15', 10);
 
 async function once() {
-  const { summary } = await refresh({ notify: true });
+  // NOTIFY=0 desactiva las notificaciones (WhatsApp). El feed se sigue
+  // actualizando igual; solo no se envian mensajes.
+  const notify = process.env.NOTIFY !== '0';
+  const { summary } = await refresh({ notify });
   console.log('[refresh]', JSON.stringify(summary));
 }
 
