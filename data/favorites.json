@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-11T02:59:33.952Z",
+  "updatedAt": "2026-07-11T03:10:22.721Z",
   "items": [
+    {
+      "id": "reddit-t31uqr4qg",
+      "artist": "Boards of Canada",
+      "title": "Campfire Headphase - 2LP",
+      "text": "[Walmart] Boards of Canada - Campfire Headphase - 2LP - $24.76",
+      "createdAt": "2026-07-08T12:23:14.000Z",
+      "genres": [
+        "Electronic",
+        "Downtempo",
+        "Ambient"
+      ],
+      "label": "Warp Records",
+      "price": 24.76,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/fe/5d/d0/fe5dd0ed-79cf-e694-c454-26a585d3f548/dj.vfvsmugd.jpg/400x400bb.jpg",
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mq54bmii522a",
+      "source": "Walmart",
+      "savedAt": "2026-07-11T03:10:22.721Z"
+    },
     {
       "id": "reddit-t31ur8v2s",
       "artist": "Brian Eno",
