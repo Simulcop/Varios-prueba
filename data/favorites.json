@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-07-11T02:48:10.390Z",
+  "updatedAt": "2026-07-11T02:51:13.274Z",
   "items": [
+    {
+      "id": "reddit-t31urqrx3",
+      "artist": "Henry Frankin",
+      "title": "The Skipper (Remastered Edition)",
+      "text": "[Amazon] Henry Frankin - The Skipper (Remastered Edition) - $23.99",
+      "createdAt": "2026-07-09T13:46:14.000Z",
+      "genres": [],
+      "label": null,
+      "price": 23.99,
+      "cover": null,
+      "amazonUrl": "https://www.amazon.com/dp/B08R6MTBR1",
+      "source": "Amazon",
+      "savedAt": "2026-07-11T02:51:13.274Z"
+    },
     {
       "id": "reddit-t31urrk2y",
       "artist": "Niecy Blues",
