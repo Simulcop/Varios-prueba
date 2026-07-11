@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-07-11T02:25:21.723Z",
+  "updatedAt": "2026-07-11T02:25:33.451Z",
   "items": [
+    {
+      "id": "reddit-t31usu3ws",
+      "artist": "Bob Dylan",
+      "title": "Blood On The Tracks",
+      "text": "[Amazon] Bob Dylan - Blood On The Tracks - $17.09",
+      "createdAt": "2026-07-10T17:23:24.000Z",
+      "genres": [
+        "Rock",
+        "Folk Rock",
+        "Acoustic",
+        "Ballad"
+      ],
+      "label": "Columbia",
+      "price": 17.09,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/6e/4d/346e4d1c-c9ef-cf7f-96d9-aad97286febb/074643323529.jpg/400x400bb.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B07RLHNQG5",
+      "source": "Amazon",
+      "savedAt": "2026-07-11T02:25:33.451Z"
+    },
     {
       "id": "reddit-t31usyg9j",
       "artist": "Grinderman",
