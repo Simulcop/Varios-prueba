@@ -1,11 +1,11 @@
 {
-  "name": "Vinyl Deal Radar",
-  "short_name": "Vinyl Deals",
-  "description": "Ofertas de vinilos en tiendas de US, filtradas a tu gusto.",
+  "name": "Juan Deals",
+  "short_name": "Juan Deals",
+  "description": "Ofertas de vinilos, filtradas a tu gusto.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0e0e12",
-  "theme_color": "#0e0e12",
+  "background_color": "#efe7d2",
+  "theme_color": "#d9481a",
   "icons": [
     { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
     { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
