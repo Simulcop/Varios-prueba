@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-11T18:06:37.585Z",
+  "updatedAt": "2026-07-11T21:10:47.073Z",
   "deals": [
+    {
+      "id": "reddit-t31utsog3",
+      "source": "Walmart",
+      "createdAt": "2026-07-11T19:04:37.000Z",
+      "text": "[Walmart] Journey - Escape - $19.79",
+      "artist": "Journey",
+      "title": "Escape",
+      "label": "Columbia",
+      "genres": [
+        "Rock",
+        "Pop Rock"
+      ],
+      "price": 19.79,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mqfe4dycrs2c",
+      "knownArtist": false,
+      "year": "1981",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/47/d6/fe/47d6fe2f-b14c-d8a7-597c-8a40e094364e/886449932795.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "There are multiple artists with the name Journey: 1. Journey is an American rock band formed in San Francisco in 1973 by former members of Santana, the Steve Miller Band, and Frumious Bandersnatch.",
+      "bioUrl": "https://www.last.fm/music/Journey",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31utr47n",
       "source": "Amazon",
