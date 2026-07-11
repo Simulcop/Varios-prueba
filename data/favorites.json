@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-07-11T02:38:28.358Z",
+  "updatedAt": "2026-07-11T02:48:10.390Z",
   "items": [
+    {
+      "id": "reddit-t31urrk2y",
+      "artist": "Niecy Blues",
+      "title": "Exit Simulation",
+      "text": "[Amazon] Niecy Blues - Exit Simulation $14.55",
+      "createdAt": "2026-07-09T14:15:53.000Z",
+      "genres": [
+        "Electronic",
+        "Funk / Soul",
+        "Abstract",
+        "Ambient"
+      ],
+      "label": "Kranky",
+      "price": 14.55,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/ea/d8/24ead82a-c309-db7d-0dc6-392f6e84d61f/796441824021.jpg/400x400bb.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0CJ5WBJ7J",
+      "source": "Amazon",
+      "savedAt": "2026-07-11T02:48:10.390Z"
+    },
     {
       "id": "reddit-t31ursbzk",
       "artist": null,
