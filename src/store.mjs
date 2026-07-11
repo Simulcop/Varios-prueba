@@ -15,6 +15,7 @@ const paths = {
   watchlists: join(DATA_DIR, 'watchlists.json'),
   watchlistsDefault: join(DATA_DIR, 'watchlists.default.json'),
   seen: join(DATA_DIR, 'seen.json'),
+  favorites: join(DATA_DIR, 'favorites.json'),
 };
 
 async function readJson(path, fallback) {
@@ -76,6 +77,20 @@ export async function getWatchlistsConfig() {
 export async function saveWatchlistsConfig(config) {
   await writeJson(paths.watchlists, config);
   return config;
+}
+
+// --- Favoritos ("Tus joyas") ----------------------------------------------
+// Guardamos una FOTO del deal (no solo el id) para que la joya siga existiendo
+// aunque el deal desaparezca del feed. Nunca vencen.
+
+export async function getFavorites() {
+  const data = await readJson(paths.favorites, { items: [] });
+  return { items: data.items || [] };
+}
+
+export async function saveFavorites(favs) {
+  await writeJson(paths.favorites, { updatedAt: new Date().toISOString(), items: favs.items || [] });
+  return favs;
 }
 
 // --- Seen (alertas ya enviadas) -------------------------------------------

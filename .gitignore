@@ -3,6 +3,7 @@ node_modules/
 # versiona: la Action de GitHub lo genera y lo commitea, y la web (Render) lo lee.
 data/seen.json
 data/watchlists.json
+data/favorites.json
 data/enrich-cache.json
 data/bio-cache.json
 data/cover-cache.json
