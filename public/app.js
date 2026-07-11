@@ -30,12 +30,15 @@ function tasteProfile() {
     count: (STATE.favorites || []).length,
   };
 }
-// ¿El deal encaja con tu gusto aprendido? (mismo genero/sello/artista favorito)
+// ¿El deal encaja con tu gusto aprendido? Estricto para no marcar casi todo:
+// mismo artista o sello favorito, o AL MENOS DOS generos en comun (asi un
+// genero amplio como "Rock" por si solo no marca todo).
 function matchesTaste(d, p) {
-  if (!p.count) return false;
+  if (p.count < 2) return false; // con muy pocas joyas aun no "opinamos"
   if (d.artist && p.aSet.has(d.artist.toLowerCase())) return true;
   if (d.label && p.lSet.has(d.label.toLowerCase())) return true;
-  return (d.genres || []).some((g) => p.gSet.has(g.toLowerCase()));
+  const shared = (d.genres || []).filter((g) => p.gSet.has(g.toLowerCase())).length;
+  return shared >= 2;
 }
 
 // --- Descartados (solo en este dispositivo) --------------------------------
