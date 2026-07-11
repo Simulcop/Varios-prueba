@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-11T02:26:31.133Z",
+  "updatedAt": "2026-07-11T02:28:31.891Z",
   "items": [
+    {
+      "id": "reddit-t31uslygo",
+      "artist": "Arcade Fire",
+      "title": "WE",
+      "text": "[Walmart] Arcade Fire - WE - $14.99",
+      "createdAt": "2026-07-10T12:14:40.000Z",
+      "genres": [
+        "Rock",
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "label": "Columbia",
+      "price": 14.99,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/7f/0f/297f0f87-fda5-db4b-4103-5bca480f5043/886449956630.jpg/400x400bb.jpg",
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mqc4pmz5h22g",
+      "source": "Walmart",
+      "savedAt": "2026-07-11T02:28:31.891Z"
+    },
     {
       "id": "reddit-t31uspcca",
       "artist": "Iggy Pop",
