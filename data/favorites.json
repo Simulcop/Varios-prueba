@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-07-11T02:24:13.810Z",
+  "updatedAt": "2026-07-11T02:25:21.723Z",
   "items": [
+    {
+      "id": "reddit-t31usyg9j",
+      "artist": "Grinderman",
+      "title": "Grinderman 2 RMX [Eco-Vinyl 2 LP]",
+      "text": "[Amazon] Grinderman - Grinderman 2 RMX [Eco-Vinyl 2 LP] - $15.02",
+      "createdAt": "2026-07-10T20:00:03.000Z",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Alternative Rock",
+        "Blues Rock"
+      ],
+      "label": "Mute",
+      "price": 15.02,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/af/7c/2eaf7cdc-f8d8-e139-177e-c1eca21c86e0/4099964069532.jpg/400x400bb.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0F78MRMHT",
+      "source": "Amazon",
+      "savedAt": "2026-07-11T02:25:21.723Z"
+    },
     {
       "id": "reddit-t31ut69zv",
       "artist": "The Sonny Criss Orchestra",
