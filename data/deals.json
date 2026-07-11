@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-11T06:25:52.200Z",
+  "updatedAt": "2026-07-11T10:43:13.018Z",
   "deals": [
+    {
+      "id": "reddit-t31uteour",
+      "source": "Amazon",
+      "createdAt": "2026-07-11T08:44:38.000Z",
+      "text": "[Amazon] Fleetwood Mac - Peter Green's Fleetwood Mac - $21.98",
+      "artist": "Fleetwood Mac",
+      "title": "Peter Green's Fleetwood Mac",
+      "label": "Blue Horizon",
+      "genres": [
+        "Rock",
+        "Blues Rock"
+      ],
+      "price": 21.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mqebhqpbdc2p",
+      "knownArtist": false,
+      "year": "1968",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/26/43/85/2643857c-a68c-d6bd-a846-705116417359/184719000169.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Fleetwood Mac were a British and American rock band formed in London in 1967 by singer and guitarist Peter Green. The band was named by combining the surnames of drummer Mick Fleetwood and bassist John McVie, who joined shortly after its formation.",
+      "bioUrl": "https://www.last.fm/music/Fleetwood+Mac",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31utc411",
       "source": "Amazon",
