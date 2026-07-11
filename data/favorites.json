@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-07-11T03:10:22.721Z",
+  "updatedAt": "2026-07-11T03:21:05.431Z",
   "items": [
+    {
+      "id": "reddit-t31umzex7",
+      "artist": "Sonic Youth",
+      "title": "Sonic Youth [2xLP, Deluxe Edition]",
+      "text": "(Amazon) [Regional] Sonic Youth - Sonic Youth [2xLP, Deluxe Edition] @ $28.89",
+      "createdAt": "2026-07-04T04:27:33.000Z",
+      "genres": [
+        "Rock",
+        "Art Rock",
+        "Punk",
+        "Avantgarde"
+      ],
+      "label": "Goofin' Records",
+      "price": 28.89,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f9/27/7a/f9277a15-fcd5-fcdc-b009-9a68ff252f37/818756010910_cover.jpg/400x400bb.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B000DZ95TO",
+      "source": "Amazon",
+      "savedAt": "2026-07-11T03:21:05.431Z"
+    },
     {
       "id": "reddit-t31uqr4qg",
       "artist": "Boards of Canada",
