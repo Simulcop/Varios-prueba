@@ -60,16 +60,31 @@ export async function applyBan(type, value) {
   let committed = false;
 
   if (token) {
-    // Fuente de verdad: el default mas reciente del repo (evita revertir cambios).
-    const file = await ghGetFile(token);
-    const config = JSON.parse(Buffer.from(file.content, 'base64').toString('utf8'));
-    applyBanToConfig(config, type, value);
-    const body = JSON.stringify(config, null, 2) + '\n';
     const label = type === 'artist' ? `banda "${value}"` : `LP "${value}"`;
-    await ghPutFile(token, body, file.sha, `Ban ${label} desde la web [skip ci]`);
+    let saved = null;
+    // Reintenta ante conflicto de version (409): si otro veto guardo entre
+    // medias, volvemos a leer el sha mas reciente y reintentamos. Esto arregla
+    // el fallo al vetar varios discos seguidos.
+    for (let attempt = 0; attempt < 5; attempt++) {
+      const file = await ghGetFile(token);
+      const config = JSON.parse(Buffer.from(file.content, 'base64').toString('utf8'));
+      applyBanToConfig(config, type, value);
+      const body = JSON.stringify(config, null, 2) + '\n';
+      try {
+        await ghPutFile(token, body, file.sha, `Ban ${label} desde la web [skip ci]`);
+        saved = config;
+        break;
+      } catch (e) {
+        if (/\b409\b/.test(e.message) && attempt < 4) {
+          await new Promise((r) => setTimeout(r, 300 * (attempt + 1)));
+          continue;
+        }
+        throw e;
+      }
+    }
     committed = true;
     // Aplica en local tambien para efecto inmediato en esta sesion.
-    await saveWatchlistsConfig(config);
+    if (saved) await saveWatchlistsConfig(saved);
   } else {
     // Sin token: solo en esta sesion.
     const config = applyBanToConfig(await getWatchlistsConfig(), type, value);
