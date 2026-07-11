@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-11T02:25:33.451Z",
+  "updatedAt": "2026-07-11T02:26:31.133Z",
   "items": [
+    {
+      "id": "reddit-t31uspcca",
+      "artist": "Iggy Pop",
+      "title": "Lust For Life",
+      "text": "[Amazon] Iggy Pop - Lust For Life - $22.36",
+      "createdAt": "2026-07-10T14:30:45.000Z",
+      "genres": [
+        "Rock",
+        "Garage Rock",
+        "Punk"
+      ],
+      "label": "4 Men With Beards",
+      "price": 22.36,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/2c/56/fb2c56ca-05ad-f73f-a1b7-9917081db1b9/17UMGIM08423.rgb.jpg/400x400bb.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B071CPZVV9",
+      "source": "Amazon",
+      "savedAt": "2026-07-11T02:26:31.133Z"
+    },
     {
       "id": "reddit-t31usu3ws",
       "artist": "Bob Dylan",
