@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-07-11T02:30:02.879Z",
+  "updatedAt": "2026-07-11T02:30:54.619Z",
   "items": [
+    {
+      "id": "reddit-t31us8cly",
+      "artist": "Yo La Tengo",
+      "title": "Painful",
+      "text": "[Amazon] Yo La Tengo - Painful $18.30",
+      "createdAt": "2026-07-10T00:35:13.000Z",
+      "genres": [
+        "Rock",
+        "Shoegaze"
+      ],
+      "label": "Matador",
+      "price": 18.3,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/13/dc/e2/13dce268-2a73-0b5f-5574-c2f0eea78da6/744861006930.png/400x400bb.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B00555Z4V0/",
+      "source": "Amazon",
+      "savedAt": "2026-07-11T02:30:54.619Z"
+    },
     {
       "id": "reddit-t31usbz6p",
       "artist": "Chris Carter & Ian Boddy",
