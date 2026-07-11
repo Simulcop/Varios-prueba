@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-07-11T02:51:13.274Z",
+  "updatedAt": "2026-07-11T02:57:52.798Z",
   "items": [
+    {
+      "id": "reddit-t31urpkjo",
+      "artist": "Gil Scott-Heron",
+      "title": "I'm New Here",
+      "text": "[Amazon] Gil Scott-Heron - I'm New Here - $23.99",
+      "createdAt": "2026-07-09T12:58:57.000Z",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Jazz",
+        "Funk / Soul"
+      ],
+      "label": "XL Recordings",
+      "price": 23.99,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/4f/32/ef4f32cf-ee62-a89b-c591-828a23c25244/634904047160.png/400x400bb.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0030E5NLE",
+      "source": "Amazon",
+      "savedAt": "2026-07-11T02:57:52.798Z"
+    },
     {
       "id": "reddit-t31urqrx3",
       "artist": "Henry Frankin",
