@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-11T02:28:31.891Z",
+  "updatedAt": "2026-07-11T02:30:02.879Z",
   "items": [
+    {
+      "id": "reddit-t31usbz6p",
+      "artist": "Chris Carter & Ian Boddy",
+      "title": "Caged 25th Anniversary Edition [2xLP]",
+      "text": "(Amazon) Chris Carter & Ian Boddy - Caged 25th Anniversary Edition [2xLP] @ $22.08",
+      "createdAt": "2026-07-10T03:22:21.000Z",
+      "genres": [
+        "Electronic",
+        "Ambient",
+        "Downtempo"
+      ],
+      "label": "The Grey Area",
+      "price": 22.08,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/87/75/be8775f1-84db-999f-fa9e-7b0f1e48bea5/5400863194017.jpg/400x400bb.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FQCNR97M",
+      "source": "Amazon",
+      "savedAt": "2026-07-11T02:30:02.879Z"
+    },
     {
       "id": "reddit-t31uslygo",
       "artist": "Arcade Fire",
