@@ -12,7 +12,7 @@ const UA = 'vinyl-deal-radar/1.0 (+https://github.com/Simulcop/Varios-prueba)';
 // "top de la semana" para no perder los deals populares entre lecturas.
 const DEFAULT_FEEDS = [
   'https://www.reddit.com/r/VinylDeals/new/.rss?limit=100',
-  'https://www.reddit.com/r/VinylDeals/top/.rss?t=week&limit=100',
+  'https://www.reddit.com/r/VinylDeals/top/.rss?t=day&limit=100',
 ];
 
 function feedList() {
