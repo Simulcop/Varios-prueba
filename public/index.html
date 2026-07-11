@@ -89,8 +89,12 @@
       <section class="feed">
         <div class="feed-head">
           <h2>Deals <span id="feedCount" class="count"></span></h2>
-          <button id="showDismissed" class="btn btn-small hidden">🗂 Descartados</button>
+          <div class="feed-head-actions">
+            <button id="showFavorites" class="btn btn-small">❤️ Tus joyas</button>
+            <button id="showDismissed" class="btn btn-small hidden">🗂 Descartados</button>
+          </div>
         </div>
+        <div id="tasteBanner" class="taste-banner"></div>
         <div id="deals" class="deals"></div>
         <p id="emptyState" class="empty hidden">No hay deals que coincidan con el filtro.</p>
       </section>

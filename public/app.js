@@ -2,9 +2,41 @@
 const $ = (sel) => document.querySelector(sel);
 const $$ = (sel) => [...document.querySelectorAll(sel)];
 
-let STATE = { deals: [], config: { watchlists: [], discovery: {} }, notifier: {} };
+let STATE = { deals: [], config: { watchlists: [], discovery: {} }, notifier: {}, favorites: [] };
 let DATA_LIVE = null; // ultimo estado de la busqueda en vivo (true/false)
 const filters = { search: '', genre: '', label: '', maxPrice: Infinity, onlyMatches: true };
+let view = 'feed'; // 'feed' | 'dismissed' | 'favorites'
+
+// --- Favoritos ("Tus joyas") -----------------------------------------------
+function favSet() { return new Set((STATE.favorites || []).map((f) => f.id)); }
+function isFavorite(id) { return favSet().has(id); }
+
+// Perfil de gusto: cuenta artistas/generos/sellos de tus joyas para "entrenar".
+function tasteProfile() {
+  const artists = {}, genres = {}, labels = {};
+  for (const f of STATE.favorites || []) {
+    if (f.artist) artists[f.artist] = (artists[f.artist] || 0) + 1;
+    (f.genres || []).forEach((g) => { genres[g] = (genres[g] || 0) + 1; });
+    if (f.label) labels[f.label] = (labels[f.label] || 0) + 1;
+  }
+  const top = (obj, n) => Object.entries(obj).sort((a, b) => b[1] - a[1]).slice(0, n).map(([k]) => k);
+  return {
+    artists: top(artists, 12),
+    genres: top(genres, 10),
+    labels: top(labels, 8),
+    gSet: new Set(top(genres, 10).map((s) => s.toLowerCase())),
+    lSet: new Set(top(labels, 8).map((s) => s.toLowerCase())),
+    aSet: new Set(top(artists, 12).map((s) => s.toLowerCase())),
+    count: (STATE.favorites || []).length,
+  };
+}
+// ¿El deal encaja con tu gusto aprendido? (mismo genero/sello/artista favorito)
+function matchesTaste(d, p) {
+  if (!p.count) return false;
+  if (d.artist && p.aSet.has(d.artist.toLowerCase())) return true;
+  if (d.label && p.lSet.has(d.label.toLowerCase())) return true;
+  return (d.genres || []).some((g) => p.gSet.has(g.toLowerCase()));
+}
 
 // --- Descartados (solo en este dispositivo) --------------------------------
 // "Descartar" = ya lo lei, no me interesa: se oculta de la vista, pero NO es un
@@ -91,34 +123,61 @@ function dealMatchesFilters(d) {
 
 function renderFeed() {
   const container = $('#deals');
-  const passFilters = STATE.deals.filter(dealMatchesFilters);
-  // Modo normal: oculta los descartados. Modo "ver descartados": muestra SOLO esos.
-  const visible = passFilters.filter((d) =>
-    showDismissed ? isDismissed(d.id) : !isDismissed(d.id)
-  );
+  const banner = $('#tasteBanner');
   container.innerHTML = '';
-  $('#feedCount').textContent = `(${visible.length})`;
-  $('#emptyState').classList.toggle('hidden', visible.length > 0);
+  if (banner) banner.innerHTML = '';
 
-  // Actualiza el boton de descartados (cuantos hay entre los que pasan filtros).
+  const passFilters = STATE.deals.filter(dealMatchesFilters);
   const dismissedCount = passFilters.filter((d) => isDismissed(d.id)).length;
-  const tgl = $('#showDismissed');
-  if (tgl) {
-    tgl.textContent = showDismissed
-      ? '← Volver a los deals'
-      : `🗂 Descartados (${dismissedCount})`;
-    tgl.classList.toggle('hidden', dismissedCount === 0 && !showDismissed);
-  }
-  if (showDismissed && !visible.length) {
-    $('#emptyState').textContent = 'No tienes deals descartados.';
-    $('#emptyState').classList.remove('hidden');
+  const profile = tasteProfile();
+
+  let visible;
+  if (view === 'favorites') {
+    // Tus joyas: las fotos guardadas (nunca vencen) + resumen de tu gusto.
+    visible = STATE.favorites || [];
+    if (banner) renderTasteBanner(banner, profile);
+  } else if (view === 'dismissed') {
+    visible = passFilters.filter((d) => isDismissed(d.id));
   } else {
-    $('#emptyState').textContent = 'No hay deals que coincidan con el filtro.';
+    visible = passFilters.filter((d) => !isDismissed(d.id));
   }
+
+  $('#feedCount').textContent = `(${visible.length})`;
+
+  // Botones de vista (descartados / joyas)
+  const dTgl = $('#showDismissed');
+  if (dTgl) {
+    dTgl.textContent = view === 'dismissed' ? '← Volver a los deals' : `🗂 Descartados (${dismissedCount})`;
+    dTgl.classList.toggle('hidden', view === 'favorites' || (dismissedCount === 0 && view !== 'dismissed'));
+  }
+  const fTgl = $('#showFavorites');
+  if (fTgl) {
+    fTgl.textContent = view === 'favorites' ? '← Volver a los deals' : `❤️ Tus joyas (${(STATE.favorites || []).length})`;
+    fTgl.classList.toggle('hidden', view === 'dismissed');
+  }
+
+  const empty = $('#emptyState');
+  empty.classList.toggle('hidden', visible.length > 0);
+  empty.textContent = view === 'favorites'
+    ? 'Aún no tienes joyas. Dale ❤️ a los discos que te encantan.'
+    : view === 'dismissed'
+      ? 'No tienes deals descartados.'
+      : 'No hay deals que coincidan con el filtro.';
 
   for (const d of visible) {
-    container.appendChild(renderDealCard(d));
+    container.appendChild(renderDealCard(d, profile));
   }
+}
+
+// Banner de "tu gusto" arriba de Tus joyas.
+function renderTasteBanner(banner, p) {
+  if (!p.count) return;
+  const chips = (arr) => arr.map((x) => `<span class="taste-chip">${x}</span>`).join('');
+  banner.innerHTML =
+    `<div class="taste-title">✨ Tu gusto (aprendido de ${p.count} joya${p.count > 1 ? 's' : ''})</div>` +
+    (p.genres.length ? `<div class="taste-row"><b>Géneros:</b> ${chips(p.genres)}</div>` : '') +
+    (p.artists.length ? `<div class="taste-row"><b>Artistas:</b> ${chips(p.artists)}</div>` : '') +
+    (p.labels.length ? `<div class="taste-row"><b>Sellos:</b> ${chips(p.labels)}</div>` : '');
 }
 
 function el(tag, cls, text) {
@@ -146,36 +205,43 @@ function thisIsSpotifyUrl(d) {
   return d.artist ? spSearch(`This Is ${d.artist}`) : null;
 }
 
-function renderDealCard(d) {
+function renderDealCard(d, profile) {
   const dismissed = isDismissed(d.id);
-  const card = el('div', 'deal' + (d.matched ? ' matched' : '') + (dismissed ? ' is-dismissed' : ''));
+  const fav = isFavorite(d.id);
+  const isTaste = profile && !fav && view !== 'favorites' && matchesTaste(d, profile);
+  const card = el('div', 'deal' + (d.matched ? ' matched' : '') + (dismissed ? ' is-dismissed' : '') + (isTaste ? ' is-taste' : ''));
 
   const src = el('div', 'deal-source');
-  src.appendChild(el('span', null, '@' + d.source));
+  const srcLeft = el('span', null, '@' + d.source);
+  src.appendChild(srcLeft);
   const right = el('span', 'src-right');
+  // "Tu tipo": encaja con tu gusto aprendido.
+  if (isTaste) right.appendChild(el('span', 'src-taste', '✨ tu tipo'));
   // Aviso: los deals de mas de 2 dias suelen estar vencidos.
-  const ageDays = (Date.now() - new Date(d.createdAt).getTime()) / 86400000;
+  const ageDays = d.createdAt ? (Date.now() - new Date(d.createdAt).getTime()) / 86400000 : 0;
   if (ageDays > 2) {
     const warn = el('span', 'src-stale', '⏳ puede haber vencido');
     right.appendChild(warn);
   }
-  right.appendChild(el('span', 'src-time', timeAgo(d.createdAt)));
-  // Boton descartar / recuperar (ademas del swipe en el celular).
-  if (dismissed) {
-    const rec = el('button', 'btn-dismiss recover', '↩︎ Recuperar');
-    rec.title = 'Volver a mostrar este deal';
-    rec.addEventListener('click', () => { restoreDeal(d.id); renderFeed(); });
-    right.appendChild(rec);
-  } else {
-    const dis = el('button', 'btn-dismiss', '✕');
-    dis.title = 'Descartar (ya lo leí, no me interesa)';
-    dis.addEventListener('click', () => doDismiss(d.id, card));
-    right.appendChild(dis);
+  if (d.createdAt) right.appendChild(el('span', 'src-time', timeAgo(d.createdAt)));
+  // Descartar/recuperar: no aplica en la vista de Tus joyas.
+  if (view !== 'favorites') {
+    if (dismissed) {
+      const rec = el('button', 'btn-dismiss recover', '↩︎ Recuperar');
+      rec.title = 'Volver a mostrar este deal';
+      rec.addEventListener('click', () => { restoreDeal(d.id); renderFeed(); });
+      right.appendChild(rec);
+    } else {
+      const dis = el('button', 'btn-dismiss', '✕');
+      dis.title = 'Descartar (ya lo leí, no me interesa)';
+      dis.addEventListener('click', () => doDismiss(d.id, card));
+      right.appendChild(dis);
+    }
   }
   src.appendChild(right);
   card.appendChild(src);
 
-  if (!dismissed) attachSwipe(card, d.id);
+  if (!dismissed && view !== 'favorites') attachSwipe(card, d.id);
 
   // Portada del album (si la hay). Si la imagen falla, se oculta sin romper nada.
   if (d.cover) {
@@ -264,14 +330,40 @@ function renderDealCard(d) {
     card.appendChild(buy);
   }
 
-  // Fila de veto: oculta y bloquea para siempre la banda o este LP.
+  // Fila de acciones: corazón (joya) + veto.
   const banRow = el('div', 'deal-ban');
+  const heart = el('button', 'btn-heart' + (fav ? ' on' : ''), fav ? '❤️ Joya' : '🤍 Guardar');
+  heart.title = fav ? 'Quitar de Tus joyas' : 'Guardar en Tus joyas (nunca vence)';
+  heart.addEventListener('click', () => toggleFavorite(d, heart));
+  banRow.appendChild(heart);
   const albumVal = d.title || (d.text || '').slice(0, 60);
   if (d.artist) banRow.appendChild(makeBanBtn('artist', d.artist, `🚫 Banda`, `Vetar la banda "${d.artist}"`, card));
   if (albumVal) banRow.appendChild(makeBanBtn('album', albumVal, `🚫 LP`, `Vetar este LP: "${albumVal}"`, card));
-  if (banRow.children.length) card.appendChild(banRow);
+  card.appendChild(banRow);
 
   return card;
+}
+
+// Marca/desmarca una joya (corazón). Guarda permanente (GitHub) + local.
+async function toggleFavorite(deal, btn) {
+  btn.disabled = true;
+  const prev = btn.textContent;
+  btn.textContent = '…';
+  try {
+    const res = await fetch('/api/favorite', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ deal, action: 'toggle' }),
+    });
+    const j = await res.json();
+    if (!res.ok) throw new Error(j.error || 'error');
+    toast(j.favorited ? '❤️ Guardado en Tus joyas' : 'Quitado de Tus joyas');
+    await loadState();
+  } catch (e) {
+    btn.disabled = false;
+    btn.textContent = prev;
+    toast('⚠️ No se pudo guardar: ' + e.message);
+  }
 }
 
 // Descarta un deal con una pequena animacion de salida (funciona con swipe y boton).
@@ -592,11 +684,20 @@ async function init() {
 const _testBtn = $('#testAlert');
 if (_testBtn) _testBtn.addEventListener('click', testAlert);
 
-// Alterna entre el feed normal y la vista de "Descartados".
+// Alterna entre feed normal / descartados / joyas.
 const _showDismissed = $('#showDismissed');
 if (_showDismissed) {
   _showDismissed.addEventListener('click', () => {
-    showDismissed = !showDismissed;
+    view = view === 'dismissed' ? 'feed' : 'dismissed';
+    window.scrollTo(0, 0);
+    renderFeed();
+  });
+}
+const _showFavorites = $('#showFavorites');
+if (_showFavorites) {
+  _showFavorites.addEventListener('click', () => {
+    view = view === 'favorites' ? 'feed' : 'favorites';
+    window.scrollTo(0, 0);
     renderFeed();
   });
 }

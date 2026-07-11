@@ -9,7 +9,8 @@ import { readFile, stat } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join, extname, normalize } from 'node:path';
 
-import { getDeals, getWatchlistsConfig, saveWatchlistsConfig } from './src/store.mjs';
+import { getDeals, getWatchlistsConfig, saveWatchlistsConfig, getFavorites } from './src/store.mjs';
+import { applyFavorite } from './src/favorite.mjs';
 import { findMatches } from './src/filters.mjs';
 import { refresh } from './src/refresh.mjs';
 import { sendTestAlert, notifierStatus } from './src/notifier.mjs';
@@ -87,9 +88,12 @@ async function handleApi(req, res, pathname) {
     const matches = findMatches(deals, config);
     const matchIds = new Set(matches.map((m) => m.id));
     const reasonsById = Object.fromEntries(matches.map((m) => [m.id, m.reasons]));
+    const favorites = await getFavorites();
+    const favIds = new Set((favorites.items || []).map((f) => f.id));
     return sendJson(res, 200, {
-      deals: deals.map((d) => ({ ...d, reasons: reasonsById[d.id] || [], matched: matchIds.has(d.id) })),
+      deals: deals.map((d) => ({ ...d, reasons: reasonsById[d.id] || [], matched: matchIds.has(d.id), favorited: favIds.has(d.id) })),
       config,
+      favorites: favorites.items || [],
       notifier: notifierStatus(),
       counts: { total: deals.length, matched: matches.length },
     });
@@ -121,6 +125,19 @@ async function handleApi(req, res, pathname) {
     }
     try {
       const result = await applyBan(type, String(value).trim());
+      return sendJson(res, 200, { ok: true, ...result });
+    } catch (err) {
+      return sendJson(res, 500, { error: err.message });
+    }
+  }
+
+  // POST /api/favorite -> guarda/quita una "joya" (corazón). Body: { deal, action }
+  if (pathname === '/api/favorite' && req.method === 'POST') {
+    const body = await readBody(req);
+    const { deal, action } = body || {};
+    if (!deal || !deal.id) return sendJson(res, 400, { error: 'Falta deal.id' });
+    try {
+      const result = await applyFavorite(deal, action || 'toggle');
       return sendJson(res, 200, { ok: true, ...result });
     } catch (err) {
       return sendJson(res, 500, { error: err.message });

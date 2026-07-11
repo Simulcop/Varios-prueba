@@ -45,7 +45,7 @@ export async function refresh({ notify = true } = {}) {
 
   // Vencer deals viejos: fuera los de mas de MAX_DEAL_AGE_DAYS dias (def. 7).
   // Un deal de vinilo casi nunca sigue vivo pasada una semana.
-  const maxAgeDays = parseInt(process.env.MAX_DEAL_AGE_DAYS || '7', 10);
+  const maxAgeDays = parseInt(process.env.MAX_DEAL_AGE_DAYS || '15', 10);
   if (maxAgeDays > 0) {
     const cutoff = Date.now() - maxAgeDays * 86400000;
     const before = all.length;
