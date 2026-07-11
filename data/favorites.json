@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-07-11T02:30:54.619Z",
+  "updatedAt": "2026-07-11T02:38:28.358Z",
   "items": [
+    {
+      "id": "reddit-t31ursbzk",
+      "artist": null,
+      "title": "Dictaphone – Poems From A Rooftop (Coke Bottle Green Vinyl)",
+      "text": "[Amazon] Dictaphone – Poems From A Rooftop (Coke Bottle Green Vinyl) $16.00",
+      "createdAt": "2026-07-09T14:44:14.000Z",
+      "genres": [
+        "Electronic",
+        "Modern Classical",
+        "Experimental"
+      ],
+      "label": "Sonic Pieces",
+      "price": 16,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/aa/02/a4/aa02a419-178d-c241-14ff-b323e867fa3a/4050486994344.jpg/400x400bb.jpg",
+      "amazonUrl": "https://www.amazon.com/dp/B0FY3G7TPH",
+      "source": "Amazon",
+      "savedAt": "2026-07-11T02:38:28.358Z"
+    },
     {
       "id": "reddit-t31us8cly",
       "artist": "Yo La Tengo",
