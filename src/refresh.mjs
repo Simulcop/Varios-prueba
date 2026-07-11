@@ -41,7 +41,20 @@ export async function refresh({ notify = true } = {}) {
     if (!byId.has(d.id)) freshIds.push(d.id);
     byId.set(d.id, { ...byId.get(d.id), ...d });
   }
-  const all = [...byId.values()];
+  let all = [...byId.values()];
+
+  // Vencer deals viejos: fuera los de mas de MAX_DEAL_AGE_DAYS dias (def. 7).
+  // Un deal de vinilo casi nunca sigue vivo pasada una semana.
+  const maxAgeDays = parseInt(process.env.MAX_DEAL_AGE_DAYS || '7', 10);
+  if (maxAgeDays > 0) {
+    const cutoff = Date.now() - maxAgeDays * 86400000;
+    const before = all.length;
+    all = all.filter((d) => {
+      const t = new Date(d.createdAt).getTime();
+      return Number.isFinite(t) && t >= cutoff;
+    });
+    if (all.length < before) (notes || []).push(`Vencidos: ${before - all.length}`);
+  }
 
   // Enriquecer TODO el feed (genero/sello/bio). Con cache es barato y ademas
   // corrige datos obsoletos de deals viejos (bios malas, etc.). ENRICH=0 lo salta.

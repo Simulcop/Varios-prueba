@@ -153,6 +153,12 @@ function renderDealCard(d) {
   const src = el('div', 'deal-source');
   src.appendChild(el('span', null, '@' + d.source));
   const right = el('span', 'src-right');
+  // Aviso: los deals de mas de 2 dias suelen estar vencidos.
+  const ageDays = (Date.now() - new Date(d.createdAt).getTime()) / 86400000;
+  if (ageDays > 2) {
+    const warn = el('span', 'src-stale', '⏳ puede haber vencido');
+    right.appendChild(warn);
+  }
   right.appendChild(el('span', 'src-time', timeAgo(d.createdAt)));
   // Boton descartar / recuperar (ademas del swipe en el celular).
   if (dismissed) {
