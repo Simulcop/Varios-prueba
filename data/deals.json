@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-07-12T07:16:18.709Z",
+  "updatedAt": "2026-07-12T11:42:38.443Z",
   "deals": [
+    {
+      "id": "reddit-t31uucez3",
+      "source": "Amazon",
+      "createdAt": "2026-07-12T11:03:47.000Z",
+      "text": "[Amazon] Michael Jackson - Number Ones - 2LP - $17.40",
+      "artist": "Michael Jackson",
+      "title": "Number Ones - 2LP",
+      "label": "Epic",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "price": 17.4,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mqgzp24v5k2w",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/c6/c9/67c6c9b0-e879-7e4d-fcda-dc52f758ec43/888880457066.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Michael Joseph Jackson (August 29, 1958 - June 25, 2009) was an American singer, songwriter, dancer, and philanthropist. Commonly known as the \"King of Pop\", he was one of the most commercially successful and influential entertainers in popular music.",
+      "bioUrl": "https://www.last.fm/music/Michael+Jackson",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31uuahnq",
+      "source": "Amazon",
+      "createdAt": "2026-07-12T09:15:39.000Z",
+      "text": "[Amazon] Clipse - Lord Willin’ [2xLP] - $19.20",
+      "artist": "Clipse",
+      "title": "Lord Willin’ [2xLP]",
+      "label": "Star Trak Entertainment",
+      "genres": [
+        "Hip Hop",
+        "Gangsta"
+      ],
+      "price": 19.2,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G8MN9BTN",
+      "knownArtist": false,
+      "year": "2018",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6a/ef/25/6aef259e-9776-f668-6f9e-b4decfe9c85d/mzi.xhrxhuay.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Clipse are a critically acclaimed hip hop duo that formed in Virginia Beach, Virginia in 1992. They announced the end of their career together at a live show in 2010 and remained firm on this stance, up until 2024 when Pharrell announced a new album with them.",
+      "bioUrl": "https://www.last.fm/music/Clipse",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31uu736m",
       "source": "Amazon",
