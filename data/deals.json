@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-14T16:42:12.994Z",
+  "updatedAt": "2026-07-14T20:41:27.113Z",
   "deals": [
+    {
+      "id": "reddit-t31uwfvzj",
+      "source": "Amazon",
+      "createdAt": "2026-07-14T17:49:08.000Z",
+      "text": "(Amazon) Various Artists - Frozen: The Songs [Zoetrope Picture Disc] @ $17.98",
+      "artist": "Various Artists",
+      "title": "Frozen: The Songs [Zoetrope Picture Disc]",
+      "label": "Dino Music",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "price": 17.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CFDF5YG9",
+      "knownArtist": false,
+      "year": "1988",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/6d/14/b16d14cb-8cf0-791e-333a-7e1fe14a5e60/19UMGIM71453.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31uwdrhz",
       "source": "Walmart",
