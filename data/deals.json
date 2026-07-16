@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-07-16T17:48:38.120Z",
+  "updatedAt": "2026-07-16T20:39:24.057Z",
   "deals": [
+    {
+      "id": "reddit-t31uyd9ok",
+      "source": "Amazon",
+      "createdAt": "2026-07-16T19:48:13.000Z",
+      "text": "(Amazon) The Dears - Life Is Beautiful! Life Is Beautiful! Life Is Beautiful! @ $15.31",
+      "artist": "The Dears",
+      "title": "Life Is Beautiful! Life Is Beautiful! Life Is Beautiful!",
+      "label": "Next Door Records",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Art Rock"
+      ],
+      "price": 15.31,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FPSKN2WY",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://i.discogs.com/KhU-_mmi2fPgjpVfzbsbnA6ndpGriCshu3w0EB0j3qc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjAy/MzI0LTE3NjI1OTkz/NjItNDQ3Ni5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "The Dears is an indie rock band which formed in 1995 in Montreal, Quebec, Canada. The band currently consists of Murray Lightburn (vocals, guitar, bass), Natalia Yanchak (keyboards, vocals) and Jeff Luciani (drums).",
+      "bioUrl": "https://www.last.fm/music/The+Dears",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31uyd772",
+      "source": "Amazon",
+      "createdAt": "2026-07-16T19:45:37.000Z",
+      "text": "(Amazon) Buddy Guy - I Was Walking Through The Woods Chess Acoustic Sounds Series [180g LP] @ $17.94",
+      "artist": "Buddy Guy",
+      "title": "I Was Walking Through The Woods Chess Acoustic Sounds Series [180g LP]",
+      "label": null,
+      "genres": [],
+      "price": 17.94,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GXBDKW9M",
+      "knownArtist": false,
+      "bio": "Buddy Guy (born George Guy, July 30, 1936 in Lettsworth, Louisiana) is an American blues music and rock music guitarist, as well as a singer.",
+      "bioUrl": "https://www.last.fm/music/Buddy+Guy",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31uy9kp0",
       "source": "Amazon",
