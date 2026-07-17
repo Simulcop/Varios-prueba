@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-07-17T14:25:16.527Z",
+  "updatedAt": "2026-07-17T15:52:55.007Z",
   "deals": [
+    {
+      "id": "reddit-t31uz293x",
+      "source": "Amazon",
+      "createdAt": "2026-07-17T15:01:26.000Z",
+      "text": "[Amazon] The Kinks - Kinda Kinks - $29.98",
+      "artist": "The Kinks",
+      "title": "Kinda Kinks",
+      "label": "Reprise Records",
+      "genres": [
+        "Rock",
+        "Pop Rock",
+        "Mod"
+      ],
+      "price": 29.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0B46T2VZZ",
+      "knownArtist": false,
+      "year": "1965",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/17/c2/ec/17c2ec7c-d65d-7d7d-1f66-0f7558606173/4050538365214.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Kinks were an English rock band formed in London in 1962. The original line-up consisted of brothers Ray Davies (lead vocals, rhythm guitar) and Dave Davies (lead guitar, vocals), Pete Quaife (bass), and Mick Avory (drums, percussion).",
+      "bioUrl": "https://www.last.fm/music/The+Kinks",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31uynhdv",
       "source": "Amazon",
