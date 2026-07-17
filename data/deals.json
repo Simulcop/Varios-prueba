@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-07-17T15:52:55.007Z",
+  "updatedAt": "2026-07-17T17:00:41.919Z",
   "deals": [
+    {
+      "id": "reddit-t31uz5dfr",
+      "source": "Amazon",
+      "createdAt": "2026-07-17T16:56:14.000Z",
+      "text": "[Amazon] Jim Camacho - One Glorious Day $10.42 Lowest",
+      "artist": "Jim Camacho",
+      "title": "One Glorious Day $10.42 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 10.42,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G2HQTGHP",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/e2/2a/3fe22acf-4a6a-4310-532b-3b713df97f75/199350507328.jpg/400x400bb.jpg",
+      "bio": "Jim Camacho is a songwriter. He is a singer, musician and producer. He is a playwright, actor and sound designer. He hosts a video series and he writes songs for other artists to perform. A Miami native, he began by co-founding the standout group The Goods, which was active during the 1990s.",
+      "bioUrl": "https://www.last.fm/music/Jim+Camacho",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31uz56jh",
+      "source": "Amazon",
+      "createdAt": "2026-07-17T16:49:14.000Z",
+      "text": "[Amazon] Black Map ‎– Hex $19.69",
+      "artist": null,
+      "title": "Black Map ‎– Hex",
+      "label": "Spinefarm Records",
+      "genres": [
+        "Rock",
+        "Hard Rock"
+      ],
+      "price": 19.69,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0DVB9G4P4",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/88/7c/26887c0a-e0f0-4314-c2fe-08c348db38a5/5401148006902_cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
+    {
+      "id": "reddit-t31uz4syi",
+      "source": "Amazon",
+      "createdAt": "2026-07-17T16:35:24.000Z",
+      "text": "[Amazon] The Hackensaw Boys ‎– A Fireproof House Of Sunshine EP $5.72",
+      "artist": null,
+      "title": "The Hackensaw Boys ‎– A Fireproof House Of Sunshine EP",
+      "label": "Free Dirt Records",
+      "genres": [
+        "Folk, World, & Country"
+      ],
+      "price": 5.72,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B07QWNQGQT",
+      "knownArtist": false,
+      "year": "2019",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/40/ab/9240abec-dc1d-0d28-70de-605d7ca36edd/211.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
+    {
+      "id": "reddit-t31uz4gwh",
+      "source": "Amazon",
+      "createdAt": "2026-07-17T16:23:09.000Z",
+      "text": "[Amazon] Heavy Moss – Dead Slow (White Color) $7.27",
+      "artist": null,
+      "title": "Heavy Moss – Dead Slow (White Color)",
+      "label": "p(doom) records",
+      "genres": [
+        "Rock",
+        "Alternative Rock"
+      ],
+      "price": 7.27,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FNX5TFRM",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/19/84/fd19841d-0a61-93c9-276c-1b4fd3edc0d3/24UMGIM93429.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31uz293x",
       "source": "Amazon",
