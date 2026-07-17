@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-17T20:55:19.268Z",
+  "updatedAt": "2026-07-17T21:42:40.481Z",
   "deals": [
+    {
+      "id": "reddit-t31uzckqi",
+      "source": "Amazon",
+      "createdAt": "2026-07-17T21:20:03.000Z",
+      "text": "[Amazon] Herbie Hancock - Maiden Voyage Blue Note Classic Edition - $20.74 - 365 day low",
+      "artist": "Herbie Hancock",
+      "title": "Maiden Voyage Blue Note Classic Edition - $20.74 - 365 day low",
+      "label": null,
+      "genres": [],
+      "price": 20.74,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://a.co/d/0cFRc9EU",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/23/49/49/234949c3-db74-f0eb-30f5-d715526e459b/19UMGIM73745.rgb.jpg/400x400bb.jpg",
+      "bio": "Herbert Jeffrey Hancock (born 12 April 1940) is an American jazz pianist, keyboard player, bandleader and composer.",
+      "bioUrl": "https://www.last.fm/music/Herbie+Hancock",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31uzbaau",
       "source": "Amazon",
