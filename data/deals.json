@@ -1,6 +1,49 @@
 {
-  "updatedAt": "2026-07-17T19:58:32.900Z",
+  "updatedAt": "2026-07-17T20:55:19.268Z",
   "deals": [
+    {
+      "id": "reddit-t31uzbaau",
+      "source": "Amazon",
+      "createdAt": "2026-07-17T20:30:40.000Z",
+      "text": "[Amazon] Sarah McLachlan - Better Broken $13.17 Lowest",
+      "artist": "Sarah McLachlan",
+      "title": "Better Broken $13.17 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 13.17,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FCVG14KL",
+      "knownArtist": false,
+      "bio": "Sarah McLachlan (born Sarah Ann McLachlan January 28, 1968 in Halifax, Nova Scotia, Canada) is a Grammy-winning musician, singer and songwriter. She is known for the emotional sound of her ballads.",
+      "bioUrl": "https://www.last.fm/music/Sarah+McLachlan",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31uzb7l4",
+      "source": "Amazon",
+      "createdAt": "2026-07-17T20:27:53.000Z",
+      "text": "[Amazon] D.O.A. – The Black Spot (Cherry Red Color) $14.78",
+      "artist": null,
+      "title": "D.O.A. – The Black Spot (Cherry Red Color)",
+      "label": "Mercury",
+      "genres": [
+        "Latin",
+        "Classical",
+        "Brass & Military",
+        "Instrumental"
+      ],
+      "price": 14.78,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Black-Spot-Cherry-Red/dp/B0G67DX5RB",
+      "knownArtist": false,
+      "year": "2011",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/1b/cc/aa/dj.qmitdigl.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31uz72nz",
       "source": "Amazon",
