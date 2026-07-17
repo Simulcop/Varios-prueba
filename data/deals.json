@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-17T22:39:41.383Z",
+  "updatedAt": "2026-07-17T23:42:59.506Z",
   "deals": [
+    {
+      "id": "reddit-t31uzend5",
+      "source": "Amazon",
+      "createdAt": "2026-07-17T22:45:40.000Z",
+      "text": "[Amazon] Dokken - The Elektra Albums 1983-1987 [5 LP Boxset] $71.03",
+      "artist": "Dokken",
+      "title": "The Elektra Albums 1983-1987 [5 LP Boxset]",
+      "label": "Elektra",
+      "genres": [
+        "Rock",
+        "Hard Rock",
+        "Glam",
+        "Heavy Metal"
+      ],
+      "price": 71.03,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0BJCRC1XG",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://i.discogs.com/ruXN5tKeHDkLPi4VqbDzDmMFWtTS3_fT-Hn2gpPvAH8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTE5/MDgwLTE2NzQ5NTQy/MDYtMjk2Ni5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Dokken is an American heavy metal band formed in Los Angeles in 1978. The group disbanded in 1989 and reunited in 1993. During the 1980s, Dokken achieved commercial success with several singles that entered the Billboard Hot 100, including \"Alone Again\", \"In My Dreams\", and \"Burning Like a Flame\".",
+      "bioUrl": "https://www.last.fm/music/Dokken",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31uzdy9e",
       "source": "Amazon",
