@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-18T19:58:57.726Z",
+  "updatedAt": "2026-07-18T20:49:59.895Z",
   "deals": [
+    {
+      "id": "reddit-t31v06m7r",
+      "source": "Amazon",
+      "createdAt": "2026-07-18T20:34:02.000Z",
+      "text": "[Amazon] Thrice - Identity Crisis - $16.68",
+      "artist": "Thrice",
+      "title": "Identity Crisis",
+      "label": "Sub City Records",
+      "genres": [
+        "Rock",
+        "Post-Hardcore",
+        "Melodic Hardcore",
+        "Emo"
+      ],
+      "price": 16.68,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FW9RBSKV?tag=redyeet-20",
+      "knownArtist": false,
+      "year": "2001",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/19/50/ed195071-7d0e-f340-efbf-f1207f4b35db/0790692001965.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Thrice is an American post-hardcore band that formed in Irvine, California in 1998. The lineup consists of Dustin Kensrue (vocals and guitar), Teppei Teranishi (guitar, keys), Eddie Breckenridge (bass), and Riley Breckenridge (drums).",
+      "bioUrl": "https://www.last.fm/music/Thrice",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v05jey",
       "source": "Amazon",
