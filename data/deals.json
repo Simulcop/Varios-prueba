@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-07-18T22:39:03.885Z",
+  "updatedAt": "2026-07-18T23:42:47.132Z",
   "deals": [
+    {
+      "id": "reddit-t31v09yy0",
+      "source": "Amazon",
+      "createdAt": "2026-07-18T22:57:52.000Z",
+      "text": "(Amazon) Paul McCartney and Wings - WINGS Deluxe [3xLP] @ $58.73",
+      "artist": "Paul McCartney and Wings",
+      "title": "WINGS Deluxe [3xLP]",
+      "label": "MPL",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Pop Rock"
+      ],
+      "price": 58.73,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FPDFGNZG",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c3/54/7f/c3547f47-a087-50f3-76f2-b3b6aa1fe6a6/13CMGIM00038.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Paul McCartney and Wings was a rock music band led by Paul McCartney, formed a couple of years after the dissolution of The Beatles. It achieved widespread popularity during the 1970s despite continual personnel changes.",
+      "bioUrl": "https://www.last.fm/music/Paul+McCartney+&+Wings",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31v09tzw",
+      "source": "Amazon",
+      "createdAt": "2026-07-18T22:51:31.000Z",
+      "text": "(Amazon) The Power Station [40th Anniversary] - The Power Station [2xLP] @ $21.96",
+      "artist": "The Power Station [40th Anniversary]",
+      "title": "The Power Station [2xLP]",
+      "label": "Original Disco Culture",
+      "genres": [
+        "Electronic",
+        "Funk / Soul",
+        "Disco",
+        "Funk"
+      ],
+      "price": 21.96,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FZWRS6XF",
+      "knownArtist": false,
+      "year": "2020",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/97/d8/7997d848-9c83-64a0-7335-a1d13232e0f4/5026854580692.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31v071my",
       "source": "Amazon",
