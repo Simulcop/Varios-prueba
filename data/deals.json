@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-18T20:49:59.895Z",
+  "updatedAt": "2026-07-18T21:41:03.207Z",
   "deals": [
+    {
+      "id": "reddit-t31v071my",
+      "source": "Amazon",
+      "createdAt": "2026-07-18T20:51:48.000Z",
+      "text": "[Amazon] Grey October Sound - Lo-Fi Ghibli - $37.99",
+      "artist": "Grey October Sound",
+      "title": "Lo-Fi Ghibli",
+      "label": "P-Vine Records",
+      "genres": [
+        "Hip Hop",
+        "Pop"
+      ],
+      "price": 37.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G41JB61J?tag=redyeet-20",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/62/7e/4c627ecf-a2df-21d5-8f4d-51fdf13b79b6/PCD-94124.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31v06m7r",
       "source": "Amazon",
