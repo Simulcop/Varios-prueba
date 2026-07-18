@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-07-17T23:42:59.506Z",
+  "updatedAt": "2026-07-18T01:30:13.853Z",
   "deals": [
+    {
+      "id": "reddit-t31uzhhw7",
+      "source": "Amazon",
+      "createdAt": "2026-07-18T00:50:30.000Z",
+      "text": "[Amazon] The Damned - Not Like Everybody Else $15.83",
+      "artist": "The Damned",
+      "title": "Not Like Everybody Else",
+      "label": "Ear Music",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Goth Rock",
+        "Psychedelic Rock"
+      ],
+      "price": 15.83,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FWS1WQT3/",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/2a/0f/cd2a0fa3-e58b-a274-0341-293470cc41b1/4029759212003.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Damned are an English punk rock band formed in London in 1976 by lead vocalist Dave Vanian, guitarist Brian James, bassist (and later guitarist) Captain Sensible and drummer Rat Scabies.",
+      "bioUrl": "https://www.last.fm/music/The+Damned",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31uzgfep",
+      "source": "Amazon",
+      "createdAt": "2026-07-18T00:01:41.000Z",
+      "text": "[Amazon] Ministry - The Squirrely Years Revisited $21.11",
+      "artist": "Ministry",
+      "title": "The Squirrely Years Revisited",
+      "label": "Cleopatra",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Industrial",
+        "Alternative Metal"
+      ],
+      "price": 21.11,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0DVZFP3VY",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://i.discogs.com/TlkGbISMGoxsSskslORiqu2BDgP-HWqA_jMcKkNrpcY/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDY3/Mjk0LTE3NDMwMjI2/NjEtNzc2MC5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Ministry is an American industrial metal band formed in Chicago in 1981 by Al Jourgensen. The group began as a synth pop project and later became one of the early contributors to industrial rock and industrial metal during the late 1980s.",
+      "bioUrl": "https://www.last.fm/music/Ministry",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31uzend5",
       "source": "Amazon",
