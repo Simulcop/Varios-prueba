@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-18T17:47:14.436Z",
+  "updatedAt": "2026-07-18T18:47:37.570Z",
   "deals": [
+    {
+      "id": "reddit-t31v02eim",
+      "source": "Amazon",
+      "createdAt": "2026-07-18T17:47:57.000Z",
+      "text": "[Amazon] Alexandre Desplat - Frankenstein (Original Motion Picture Soundtrack) - $30.09",
+      "artist": "Alexandre Desplat",
+      "title": "Frankenstein (Original Motion Picture Soundtrack)",
+      "label": "Netflix Music, LLC",
+      "genres": [
+        "Stage & Screen",
+        "Soundtrack"
+      ],
+      "price": 30.09,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G17CVPXR?tag=redyeet-20",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/53/14/3853140d-207a-9c56-6f14-8378dc817165/810123167630.png/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Alexandre Michel Gérard Desplat (born 23 August 1961) is a French film composer, of Greek descent.",
+      "bioUrl": "https://www.last.fm/music/Alexandre+Desplat",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v029t6",
       "source": "Amazon",
