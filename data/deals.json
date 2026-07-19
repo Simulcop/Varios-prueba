@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-07-18T23:42:47.132Z",
+  "updatedAt": "2026-07-19T01:47:32.513Z",
   "deals": [
+    {
+      "id": "reddit-t31v0c1s5",
+      "source": "NHVV",
+      "createdAt": "2026-07-19T00:30:32.000Z",
+      "text": "[NHVV] 30% Off 200+ New and Used LPs",
+      "artist": null,
+      "title": "30% Off 200+ New and Used LPs",
+      "label": null,
+      "genres": [],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://nhvintagevinyl.com/collections/30_off",
+      "knownArtist": false
+    },
     {
       "id": "reddit-t31v09yy0",
       "source": "Amazon",
