@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T15:47:31.525Z",
+  "updatedAt": "2026-07-19T16:45:00.266Z",
   "deals": [
     {
       "id": "reddit-t31v0tfyt",
@@ -15687,33 +15687,6 @@
       "amazonUrl": "https://www.amazon.com/dp/B0GCZCDTZJ",
       "knownArtist": false,
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/31/b4/b331b4ee-684b-c8f6-e93d-0ba2341e22b0/118532.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31undokf",
-      "source": "Amazon",
-      "createdAt": "2026-07-04T16:40:58.000Z",
-      "text": "(Amazon) Duke Pearson - The Right Touch Blue Note Tone Poet Series [180g] @ $22.74",
-      "artist": "Duke Pearson",
-      "title": "The Right Touch Blue Note Tone Poet Series [180g]",
-      "label": "Blue Note",
-      "genres": [
-        "Jazz",
-        "Soul-Jazz",
-        "Post Bop",
-        "Latin Jazz"
-      ],
-      "price": 22.74,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0C7W73KXX",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://i.discogs.com/2R3ykW85BVz9_l5SJ2hcmrI7FSAFScxU8jUlORBKYhE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODY5/MDQ2LTE2OTE0ODE4/NjEtNTc1OC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Born Columbus Calvin Pearson, Jr. in Atlanta, Georgia, Pearson first studied brass instruments at the early age of five, but dental issues forced him to pursue another instrument and he started to learn the piano.",
-      "bioUrl": "https://www.last.fm/music/Duke+Pearson",
-      "bioSource": "Last.fm"
     }
   ]
 }
