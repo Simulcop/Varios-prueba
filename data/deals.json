@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T22:14:06.415Z",
+  "updatedAt": "2026-07-19T23:24:58.206Z",
   "deals": [
     {
       "id": "reddit-t31v133y9",
@@ -15528,33 +15528,6 @@
       "enrichedVia": "discogs",
       "bio": "Sun Ra (1914 – 1993) was an innovative jazz composer, bandleader, piano and synthesiser player, who came to be known as much for his Cosmic Afro-futurist Philosophy as for his phenomenal musical compositions and performances.",
       "bioUrl": "https://www.last.fm/music/Sun+Ra",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31unlvcv",
-      "source": "Amazon",
-      "createdAt": "2026-07-04T22:28:39.000Z",
-      "text": "[Amazon] Ciara - CiCi (Deluxe) [2 LP] $18.25",
-      "artist": "Ciara",
-      "title": "CiCi (Deluxe) [2 LP]",
-      "label": "Epic",
-      "genres": [
-        "Hip Hop",
-        "Funk / Soul",
-        "Pop",
-        "Contemporary R&B"
-      ],
-      "price": 18.25,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G2KMW1WS",
-      "knownArtist": false,
-      "year": "2013",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/61/9c/9b619c23-26ed-7160-fc4d-15f0a8d539ee/617513743791.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Ciara Princess Wilson is an American singer. Born in Fort Hood, Texas, her family eventually settled in Atlanta, Georgia, where she joined the girl group Hearsay. She later signed a publishing deal and befriended producer Jazze Pha, who recorded demos that would appear on her debut album.",
-      "bioUrl": "https://www.last.fm/music/Ciara",
       "bioSource": "Last.fm"
     }
   ]
