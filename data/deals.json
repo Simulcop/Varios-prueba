@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-07-19T21:11:51.641Z",
+  "updatedAt": "2026-07-19T22:14:06.415Z",
   "deals": [
+    {
+      "id": "reddit-t31v133y9",
+      "source": "Bandcamp",
+      "createdAt": "2026-07-19T22:05:45.000Z",
+      "text": "[Bandcamp] psych rock band the Weird Sisters 7” records on sale for $5! “Lost in the Chronic” & “Ride that Satellite”",
+      "artist": null,
+      "title": "psych rock band the Weird Sisters 7” records on sale for $5! “Lost in the Chronic” & “Ride that Satellite”",
+      "label": null,
+      "genres": [],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://watchitburnrecords.bandcamp.com/album/lost-in-the-chronic-ride-that-satellite",
+      "knownArtist": false
+    },
     {
       "id": "reddit-t31v10n3y",
       "source": "Amazon",
@@ -15539,33 +15555,6 @@
       "enrichedVia": "discogs",
       "bio": "Ciara Princess Wilson is an American singer. Born in Fort Hood, Texas, her family eventually settled in Atlanta, Georgia, where she joined the girl group Hearsay. She later signed a publishing deal and befriended producer Jazze Pha, who recorded demos that would appear on her debut album.",
       "bioUrl": "https://www.last.fm/music/Ciara",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31unl6py",
-      "source": "Walmart",
-      "createdAt": "2026-07-04T21:57:37.000Z",
-      "text": "[Walmart] Daniel Johnston - Yip Jump Music - $13.98",
-      "artist": "Daniel Johnston",
-      "title": "Yip Jump Music",
-      "label": "Eternal Yip Eye Music",
-      "genres": [
-        "Rock",
-        "Lo-Fi",
-        "Emo",
-        "Art Rock"
-      ],
-      "price": 13.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mpu2j6gde22f",
-      "knownArtist": false,
-      "year": "2007",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/c7/24/19/mzi.hsrvxuky.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Daniel Johnston (born Daniel Dale Johnston in Sacramento, CA, on 22 January 1961; died in Waller, TX, on 10 September 2019) was an American singer-songwriter and visual artist regarded as a significant figure in outsider, lo-fi, and alternative music scenes.",
-      "bioUrl": "https://www.last.fm/music/Daniel+Johnston",
       "bioSource": "Last.fm"
     }
   ]
