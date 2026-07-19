@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T18:51:54.228Z",
+  "updatedAt": "2026-07-19T20:02:51.906Z",
   "deals": [
     {
       "id": "reddit-t31v0tfyt",
@@ -15644,49 +15644,6 @@
       "year": "2025",
       "cover": "https://i.discogs.com/ZSLjxYZ7IBtYbZnxmpRhz4ZruSivx8lQZR3cGjxxuSE/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc2/Mjc3LTE3NjMyNjY2/MTEtODg0Ni5qcGVn.jpeg",
       "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31unhv92",
-      "source": "Amazon",
-      "createdAt": "2026-07-04T19:31:43.000Z",
-      "text": "[Amazon] Linda Ayupuka - God Created Everything - $19.95",
-      "artist": "Linda Ayupuka",
-      "title": "God Created Everything",
-      "label": "Mais Um Discos",
-      "genres": [
-        "Jazz",
-        "Folk, World, & Country",
-        "African"
-      ],
-      "price": 19.95,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09YQ1SB6H",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/12/89/c1/1289c18a-7215-1f2f-b89f-3ae17d097515/4062548046151.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Ghanaian singer",
-      "bioUrl": "https://www.discogs.com/artist/7016531-Linda-Ayupuka",
-      "bioSource": "Discogs"
-    },
-    {
-      "id": "reddit-t31unh5ra",
-      "source": "Amazon",
-      "createdAt": "2026-07-04T19:02:23.000Z",
-      "text": "[Amazon] Storey Littleton - At a Diner (Blue Color) $13.56 Lowest",
-      "artist": "Storey Littleton",
-      "title": "At a Diner (Blue Color) $13.56 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 13.56,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GCZCDTZJ",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/31/b4/b331b4ee-684b-c8f6-e93d-0ba2341e22b0/118532.jpg/400x400bb.jpg"
     }
   ]
 }
