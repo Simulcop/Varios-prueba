@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T11:04:32.018Z",
+  "updatedAt": "2026-07-19T12:11:04.845Z",
   "deals": [
     {
       "id": "reddit-t31v0hizw",
@@ -15923,33 +15923,6 @@
       "enrichedVia": "discogs",
       "bio": "Kiss (commonly styled in all caps as KISS) was an American rock band formed in New York City in 1973 by Paul Stanley (vocals, rhythm guitar), Gene Simmons (vocals, bass guitar), Ace Frehley (lead guitar, vocals), and Peter Criss (drums, vocals).",
       "bioUrl": "https://www.last.fm/music/Kiss",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31un6ihu",
-      "source": "Amazon",
-      "createdAt": "2026-07-04T11:19:45.000Z",
-      "text": "[Amazon] Alvvays - Blue Rev - Blue Vinyl - $22.99",
-      "artist": "Alvvays",
-      "title": "Blue Rev - Blue Vinyl",
-      "label": "Polyvinyl Record Company",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Indie Pop",
-        "Shoegaze"
-      ],
-      "price": 22.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mpswu7gaqs25",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/d1/be/57d1be08-4faf-06b5-3de6-165b194e0091/5400863086077.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Alvvays are a Grammy-nominated Canadian dream pop band formed in Prince Edward Island, Canada in 2011.",
-      "bioUrl": "https://www.last.fm/music/Alvvays",
       "bioSource": "Last.fm"
     }
   ]
