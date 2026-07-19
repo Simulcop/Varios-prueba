@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T13:58:34.070Z",
+  "updatedAt": "2026-07-19T14:55:42.628Z",
   "deals": [
     {
       "id": "reddit-t31v0quiw",
@@ -15798,82 +15798,6 @@
       "enrichedVia": "discogs",
       "bio": "The Lumineers is an American folk rock band based in Denver, Colorado formed by Wesley Schultz (lead vocals, guitar) and Jeremiah Fraites (drums, percussion). Schultz and Fraites began writing and performing together in Ramsey, New Jersey in 2005.",
       "bioUrl": "https://www.last.fm/music/The+Lumineers",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31un9z8e",
-      "source": "Amazon",
-      "createdAt": "2026-07-04T14:06:57.000Z",
-      "text": "[Amazon] Keri Hilson - In A Perfect World $24.60",
-      "artist": "Keri Hilson",
-      "title": "In A Perfect World",
-      "label": "Mosley Music Group",
-      "genres": [
-        "Funk / Soul",
-        "Pop",
-        "Contemporary R&B"
-      ],
-      "price": 24.6,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Perfect-World-2-LP/dp/B0GCPXLMS3",
-      "knownArtist": false,
-      "year": "2009",
-      "cover": "https://i.discogs.com/r-DLyJvBLiMttnROKh9KvJ_BusxZS7U8C7DFZB0tKG0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODkz/OTEtMTM1MzI0MDEw/NS0zOTU0LmpwZWc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Keri Lynn Hilson (born December 5, 1982 in Decatur, Georgia, USA) is a Grammy nominated American R&B singer-songwriter signed to Timbaland's Mosley Music Group.",
-      "bioUrl": "https://www.last.fm/music/Keri+Hilson",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31un9ybc",
-      "source": "Amazon",
-      "createdAt": "2026-07-04T14:05:49.000Z",
-      "text": "[Amazon] Tyler Hubbard - Tyler Hubbard (Cobalt Blue) [2xLP] - $13.70",
-      "artist": "Tyler Hubbard",
-      "title": "Tyler Hubbard (Cobalt Blue) [2xLP]",
-      "label": "EMI Records Nashville",
-      "genres": [
-        "Folk, World, & Country",
-        "Country"
-      ],
-      "price": 13.7,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BKWFJ4J2",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5d/95/55/5d95559e-3e53-6f44-2d35-9610fbef9b88/22UM1IM11588.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Tyler Hubbard is a singer-songwriter, and musician, best known as a member of the Nashville-based duo Florida Georgia Line. After that duo went on hiatus in 2021, Hubbard began recording as a solo artist on EMI Nashville.",
-      "bioUrl": "https://www.last.fm/music/Tyler+Hubbard",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31un9xop",
-      "source": "Amazon",
-      "createdAt": "2026-07-04T14:05:06.000Z",
-      "text": "[Amazon] Bahamas - Sad Hunk - $17.99",
-      "artist": "Bahamas",
-      "title": "Sad Hunk",
-      "label": "Brushfire Records",
-      "genres": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "price": 17.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B08GFL6NK1",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b5/0d/fb/b50dfb41-1f78-33f2-1d44-9a9c3753ef47/20UMGIM63557.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "There is more than one artist with this name, including: 1) Bahamas is Canadian musician Afie Jurvanen (born April 28, 1981, in Toronto). 2) Bahamas was a French prog-rock band; 3) Bahamas was a Polish disco artist. 1) Bahamas is Canadian musician Afie Jurvanen (born April 28, 1981, in Toronto).",
-      "bioUrl": "https://www.last.fm/music/Bahamas",
       "bioSource": "Last.fm"
     }
   ]
