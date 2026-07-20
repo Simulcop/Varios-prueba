@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T23:24:58.206Z",
+  "updatedAt": "2026-07-20T01:00:26.638Z",
   "deals": [
     {
       "id": "reddit-t31v133y9",
@@ -15428,106 +15428,6 @@
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/5e/55/ec5e5573-f35a-ac73-2cba-a88084780bcd/859790399753_cover.jpg/400x400bb.jpg",
       "bio": "There are 8 artists named Duel: 1.Duel - Twin Violin Classical Music 2.Duel - is a Hungarian Producer with the real name Attila Szabó 3.Duel - 80s Retro Synthe Pop Band from Tokyo Japan. 4.duel - was an underground swedish shoegaze band 5. Duel - is a French pop group 6.",
       "bioUrl": "https://www.last.fm/music/Duel",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31unoe6x",
-      "source": "Amazon",
-      "createdAt": "2026-07-05T00:30:27.000Z",
-      "text": "(Amazon) Andy Mackay & Phil Manzanera - Roxymphony [LP] @ $13.93",
-      "artist": "Andy Mackay & Phil Manzanera",
-      "title": "Roxymphony [LP]",
-      "label": "Expression Records",
-      "genres": [
-        "Pop",
-        "Classical",
-        "Stage & Screen"
-      ],
-      "price": 13.93,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CFC25B9K",
-      "knownArtist": false,
-      "year": "2019",
-      "cover": "https://i.discogs.com/wig1J7Ha7B3zqrawfGMoPlvXeEHy882-o-iI2bCTkCA/rs:fit/g:sm/q:90/h:801/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQ0/NjEzLTE1Nzg1MzE4/MDItNzI5OS5qcGVn.jpeg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31unobvi",
-      "source": "Amazon",
-      "createdAt": "2026-07-05T00:27:06.000Z",
-      "text": "(Amazon) Foy Vance - The Wake [Blue 2xLP] @ $22.30",
-      "artist": "Foy Vance",
-      "title": "The Wake [Blue 2xLP]",
-      "label": "Rounder Records",
-      "genres": [
-        "Folk, World, & Country",
-        "Folk"
-      ],
-      "price": 22.3,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GFCKCPQW",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/38/23/10382352-9f9c-3f40-7e03-77debc3e9256/25CRGIM51992.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Foy Vance is a songsmith born in Bangor, County Down, who is now living in London. He released his first single \"Gabriel and the vagabond\" c/w with \"Indiscriminate Act of kindness\" on December 18th, 2006 on Wurdamouth Records.",
-      "bioUrl": "https://www.last.fm/music/Foy+Vance",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31unnjyl",
-      "source": "Amazon",
-      "createdAt": "2026-07-04T23:49:05.000Z",
-      "text": "[Amazon] Cole Swindell - Spanish Moss (Amazon Exclusive) [Forest Green 2 LP] @ $7.07",
-      "artist": "Cole Swindell",
-      "title": "Spanish Moss (Amazon Exclusive) [Forest Green 2 LP]",
-      "label": "Warner Music Nashville",
-      "genres": [
-        "Folk, World, & Country",
-        "Country"
-      ],
-      "price": 7.07,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0F2GT42FK",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/df/28/cfdf28c7-3920-43f3-f814-fac3a3834f26/093624831303.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Country music superstar Cole Swindell, who Rolling Stone has called \"a proven hit-maker,\" has solidified himself as a hit songwriter, recording artist and headlining performer over the past 11 years.",
-      "bioUrl": "https://www.last.fm/music/Cole+Swindell",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31unnj7n",
-      "source": "Amazon",
-      "createdAt": "2026-07-04T23:48:07.000Z",
-      "text": "[Amazon] Sun Ra - Space Is The Place (Verve By Request Series) @ $22.99",
-      "artist": "Sun Ra",
-      "title": "Space Is The Place (Verve By Request Series)",
-      "label": "Blue Thumb Records",
-      "genres": [
-        "Jazz",
-        "Free Jazz",
-        "Space-Age",
-        "Spiritual Jazz"
-      ],
-      "price": 22.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CBMT1YBP",
-      "knownArtist": false,
-      "year": "1973",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e7/31/78/e731786e-eba2-2d1c-6ff6-ff6e2354d48c/00011105024921.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Sun Ra (1914 – 1993) was an innovative jazz composer, bandleader, piano and synthesiser player, who came to be known as much for his Cosmic Afro-futurist Philosophy as for his phenomenal musical compositions and performances.",
-      "bioUrl": "https://www.last.fm/music/Sun+Ra",
       "bioSource": "Last.fm"
     }
   ]
