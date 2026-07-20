@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-20T22:47:35.315Z",
+  "updatedAt": "2026-07-20T23:47:43.471Z",
   "deals": [
+    {
+      "id": "reddit-t31v20tlw",
+      "source": "Amazon",
+      "createdAt": "2026-07-20T22:57:53.000Z",
+      "text": "(Amazon) Beastie Boys - To The 5 Boroughs [3xLP] @ $97.92",
+      "artist": "Beastie Boys",
+      "title": "To The 5 Boroughs [3xLP]",
+      "label": "Capitol Records",
+      "genres": [
+        "Hip Hop",
+        "Rock",
+        "Electro",
+        "Pop Rap"
+      ],
+      "price": 97.92,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GP7LR8L9",
+      "knownArtist": false,
+      "year": "2017",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/f7/da/34f7da40-bc06-de2c-de19-5e7f403e3b8e/13UABIM29277.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Beastie Boys were an American hip-hop trio from New York City, United States: Brooklyn and Manhattan.",
+      "bioUrl": "https://www.last.fm/music/Beastie+Boys",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v20a9n",
       "source": "Amazon",
@@ -15760,33 +15787,6 @@
       "enrichedVia": "discogs",
       "bio": "Plain White T's are a pop-punk band formed in 1997 in Illinois, United States. The band is best known for their number-one hit song \"Hey There Delilah\", which achieved platinum status in 2007 and earned two Grammy nominations.",
       "bioUrl": "https://www.last.fm/music/Plain+White+T%27s",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uoh6t6",
-      "source": "Amazon",
-      "createdAt": "2026-07-05T23:41:10.000Z",
-      "text": "(Amazon) Dead Can Dance - Into The Labyrinth @ $16.19",
-      "artist": "Dead Can Dance",
-      "title": "Into The Labyrinth",
-      "label": "4AD",
-      "genres": [
-        "Electronic",
-        "Classical",
-        "Folk, World, & Country",
-        "Modern Classical"
-      ],
-      "price": 16.19,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://amzn.to/4p60uVz",
-      "knownArtist": false,
-      "year": "2016",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/be/6b/e4/be6be43c-d76e-dcc5-c629-ddb7c36cd027/652637271164.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Dead Can Dance is a British-Australian musical project formed in 1981 in Melbourne by Lisa Gerrard and Brendan Perry. The band relocated to London, England, in May 1982.",
-      "bioUrl": "https://www.last.fm/music/Dead+Can+Dance",
       "bioSource": "Last.fm"
     }
   ]
