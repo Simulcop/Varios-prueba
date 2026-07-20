@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-20T20:16:03.972Z",
+  "updatedAt": "2026-07-20T21:38:41.425Z",
   "deals": [
+    {
+      "id": "reddit-t31v1y4t7",
+      "source": "Amazon",
+      "createdAt": "2026-07-20T21:09:41.000Z",
+      "text": "(Amazon) Bad Moves - Tell No One @ $10.18",
+      "artist": "Bad Moves",
+      "title": "Tell No One",
+      "label": "Don Giovanni Records",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Indie Pop",
+        "Power Pop"
+      ],
+      "price": 10.18,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B07FTSJ44C",
+      "knownArtist": false,
+      "year": "2018",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fc/94/5b/fc945b5e-a11d-51a0-bbe8-4febc7f5ba85/dj.xrhoeslx.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Bad Moves is four friends making upbeat power-pop about anxiety and identity, drawing on a sound that stretches from forbears like The Nerves and Cheap Trick to contemporary artists like Sheer Mag and Haim. After years knocking around the Washington, D.C.",
+      "bioUrl": "https://www.last.fm/music/Bad+Moves",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v1tcty",
       "source": "Amazon",
@@ -15714,32 +15741,6 @@
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/03/27/8f032708-9eca-d295-e8cd-afc4b0845328/25UM1IM06439.rgb.jpg/400x400bb.jpg",
       "bio": "Destin Route (b. October 31, 1989), better known by the stage name JID, is an American rapper from Zone 6, Atlanta, Georgia.",
       "bioUrl": "https://www.last.fm/music/JID",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uodljb",
-      "source": "Amazon",
-      "createdAt": "2026-07-05T21:09:26.000Z",
-      "text": "[Amazon] Grateful Dead - Long Strange Trip (Highlights from the Motion Picture Soundtrack) [2xLP] - $21.15",
-      "artist": "Grateful Dead",
-      "title": "Long Strange Trip (Highlights from the Motion Picture Soundtrack) [2xLP]",
-      "label": "Warner Bros. Records",
-      "genres": [
-        "Rock",
-        "Folk Rock",
-        "Classic Rock"
-      ],
-      "price": 21.15,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Strange-Highlights-Motion-Picture-Soundtrack/dp/B0711J9JRT/",
-      "knownArtist": false,
-      "year": "1977",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/a1/df/83/a1df83c6-7eae-97b2-8be8-fb916416ea6d/603497868230.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Grateful Dead was an American rock band formed in 1965 in Palo Alto, California. Remembered for an eclectic style that fused elements of rock, folk, country, jazz, bluegrass, blues, gospel, and psychedelic rock, for live performances of lengthy instrumental jams, and for its devoted fan base known…",
-      "bioUrl": "https://www.last.fm/music/Grateful+Dead",
       "bioSource": "Last.fm"
     }
   ]
