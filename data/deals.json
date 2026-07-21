@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T20:40:47.364Z",
+  "updatedAt": "2026-07-21T21:55:37.768Z",
   "deals": [
     {
       "id": "reddit-t31v2p3g5",
@@ -14832,32 +14832,6 @@
       "knownArtist": false,
       "bio": "311 was formed in 1990 in Omaha, Nebraska, by singer/guitarist Nick Hexum, singer S.A. Martinez, guitarist Tim Mahoney, drummer Chad Sexton and bassist P-Nut. The band now resides in Los Angeles, California. 311 mix rock, rap, reggae and funk into their own unique sound.",
       "bioUrl": "https://www.last.fm/music/311",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31upa995",
-      "source": "Walmart",
-      "createdAt": "2026-07-06T21:07:54.000Z",
-      "text": "[Walmart] The Doors - Greatest Hits - $15.76",
-      "artist": "The Doors",
-      "title": "Greatest Hits",
-      "label": "Elektra",
-      "genres": [
-        "Rock",
-        "Blues Rock",
-        "Psychedelic Rock"
-      ],
-      "price": 15.76,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mpyyo646s22h",
-      "knownArtist": false,
-      "year": "1980",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0b/c1/03/0bc10342-a863-560f-15ef-0348f49d23e6/12UMGIM57106.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Doors was an American rock band formed in Los Angeles in 1965, consisting of vocalist Jim Morrison, keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore.",
-      "bioUrl": "https://www.last.fm/music/The+Doors",
       "bioSource": "Last.fm"
     }
   ]
