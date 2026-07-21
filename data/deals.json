@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-21T16:16:30.247Z",
+  "updatedAt": "2026-07-21T17:50:07.078Z",
   "deals": [
+    {
+      "id": "reddit-t31v2p3g5",
+      "source": "Amazon",
+      "createdAt": "2026-07-21T17:27:41.000Z",
+      "text": "(Amazon) Queens Of The Stone Age - Villains @ $20.99",
+      "artist": "Queens Of The Stone Age",
+      "title": "Villains",
+      "label": "Matador",
+      "genres": [
+        "Rock",
+        "Alternative Rock",
+        "Hard Rock",
+        "Stoner Rock"
+      ],
+      "price": 20.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B071G991VW",
+      "knownArtist": false,
+      "year": "2017",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/fd/1b/29fd1bfa-da42-c393-6ad8-012b108e9a5e/191401218276.png/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Queens of the Stone Age (abbreviated QOTSA or QotSA) is an American rock band formed in 1996 by vocalist and guitarist Josh Homme following the breakup of his previous band Kyuss.",
+      "bioUrl": "https://www.last.fm/music/Queens+of+the+Stone+Age",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v2melz",
       "source": "Amazon",
@@ -15140,132 +15167,6 @@
       "lowest": false,
       "amazonUrl": "https://www.amazon.com/dp/B01BW9NM0W",
       "knownArtist": false
-    },
-    {
-      "id": "reddit-t31up48nn",
-      "source": "Amazon",
-      "createdAt": "2026-07-06T17:34:09.000Z",
-      "text": "(Amazon) [Regional] L.A. Guns - Live! A Night On The Sunset Strip @ $19.62",
-      "artist": "L.A. Guns",
-      "title": "Live! A Night On The Sunset Strip",
-      "label": "Deadline Music",
-      "genres": [
-        "Rock",
-        "Hard Rock"
-      ],
-      "price": 19.62,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CHG2WYWD",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/04/40/6c/mzi.jskzehqg.tif/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "L.A. Guns are an American hard rock band from Los Angeles, formed in 1983. The current lineup consists of Tracii Guns (lead guitar), Phil Lewis (lead vocals), Ace Von Johnson (rhythm guitar, backing vocals), Johnny Martin (bass, backing vocals), Adam Hamilton (studio drums), and Shawn Duncan (live…",
-      "bioUrl": "https://www.last.fm/music/L.A.+Guns",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31up44zl",
-      "source": "Amazon",
-      "createdAt": "2026-07-06T17:30:37.000Z",
-      "text": "(Amazon) [Regional] Charles Mingus With Hampton Hawes And Danny Richmond - Mingus Three [LP, Deluxe Edition] @ $22.38",
-      "artist": "Charles Mingus With Hampton Hawes And Danny Richmond",
-      "title": "Mingus Three [LP, Deluxe Edition]",
-      "label": "Jubilee",
-      "genres": [
-        "Jazz",
-        "Bop"
-      ],
-      "price": 22.38,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09V3BS9N6",
-      "knownArtist": false,
-      "year": "1957",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/73/90/6a739041-9648-4a5c-d9a4-7798cd8b9bfe/603497841042.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31up3toy",
-      "source": "Amazon",
-      "createdAt": "2026-07-06T17:19:59.000Z",
-      "text": "(Amazon) [Regional] Black Sabbath - Vol 4 [180g] @ $24.38",
-      "artist": "Black Sabbath",
-      "title": "Vol 4 [180g]",
-      "label": "Vertigo",
-      "genres": [
-        "Rock",
-        "Hard Rock",
-        "Heavy Metal"
-      ],
-      "price": 24.38,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00WTNT426",
-      "knownArtist": false,
-      "year": "1972",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/65/68/ac/6568ace4-0c7a-6387-47ed-2f4c3411ff4d/075992725927.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Black Sabbath were an English heavy metal band formed in Birmingham in 1968 by guitarist Tony Iommi, drummer Bill Ward, bassist Geezer Butler, and vocalist Ozzy Osbourne.",
-      "bioUrl": "https://www.last.fm/music/Black+Sabbath",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31up3onn",
-      "source": "Amazon",
-      "createdAt": "2026-07-06T17:15:04.000Z",
-      "text": "(Amazon) Type O Negative - Bloody Kisses: Suspended In Dusk [2xLP, 30th Anniversary Edition] @ $32.87",
-      "artist": "Type O Negative",
-      "title": "Bloody Kisses: Suspended In Dusk [2xLP, 30th Anniversary Edition]",
-      "label": "Roadrunner Records",
-      "genres": [
-        "Rock",
-        "Heavy Metal",
-        "Doom Metal",
-        "Goth Rock"
-      ],
-      "price": 32.87,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CS3XB9DV",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://i.discogs.com/b9gQAIcwHc4ti0nqY87ac0niid-7nGFfn1yLVO3RW-Q/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjQ0/MTY5LTE3MTE3MzQ4/MTktNzk3Ni5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Type O Negative was a gothic metal / doom metal band formed in Brooklyn, New York, US in 1990. They are well known for their dry, morbid and ironic sense of humor and their often slow and brooding music.",
-      "bioUrl": "https://www.last.fm/music/Type+O+Negative",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31up3fqu",
-      "source": "Amazon",
-      "createdAt": "2026-07-06T17:06:26.000Z",
-      "text": "(Amazon) [Regional] Exciter - Heavy Metal Maniac [Gatefold] @ $15.82",
-      "artist": "Exciter",
-      "title": "Heavy Metal Maniac [Gatefold]",
-      "label": "Shrapnel Records",
-      "genres": [
-        "Rock",
-        "Heavy Metal",
-        "Speed Metal"
-      ],
-      "price": 15.82,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BZLLTX3Q",
-      "knownArtist": false,
-      "year": "1983",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/41/61/ee41612a-404a-d43d-7e00-1c8c3081db79/884977146295.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Exciter is a speed metal band from Ottawa, Ontario, Canada. Despite many changes in personnel, they have managed to keep a small but dedicated following for over 25 years. In 1978 the band Hell Razor formed in Ottawa ON,Canada.",
-      "bioUrl": "https://www.last.fm/music/Exciter",
-      "bioSource": "Last.fm"
     }
   ]
 }
