@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T10:15:54.927Z",
+  "updatedAt": "2026-07-21T12:06:14.603Z",
   "deals": [
     {
       "id": "reddit-t31v2c41s",
@@ -15165,119 +15165,6 @@
       "bio": "Udo Dirkschneider, the former Accept singer has been releasing music through his project Dirkschneider & The Old Gang aka DATOG.",
       "bioUrl": "https://www.last.fm/music/Dirkschneider+&+The+Old+Gang",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uovemz",
-      "source": "Amazon",
-      "createdAt": "2026-07-06T12:05:03.000Z",
-      "text": "[Amazon] Tori Amos - Strange Little Girls I Don't Like Mondays Version $19.60",
-      "artist": "Tori Amos",
-      "title": "Strange Little Girls I Don't Like Mondays Version",
-      "label": "Rhino Records",
-      "genres": [
-        "Rock",
-        "Alternative Rock"
-      ],
-      "price": 19.6,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G6G9ZGD6/",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/5f/a0/33/mzi.dcgazvrs.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Tori Amos (born Myra Ellen Amos; 22 August 1963) is an American singer-songwriter and pianist, recognised for her classically trained mezzo-soprano voice.",
-      "bioUrl": "https://www.last.fm/music/Tori+Amos",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uouetl",
-      "source": "Amazon",
-      "createdAt": "2026-07-06T11:17:40.000Z",
-      "text": "[Amazon] Bill Evans Trio - Haunted Heart: The Legendary Riverside Studio Recordings[180g 5 LP] $99.20",
-      "artist": "Bill Evans Trio",
-      "title": "Haunted Heart: The Legendary Riverside Studio Recordings[180g 5 LP]",
-      "label": "Craft Recordings",
-      "genres": [
-        "Jazz"
-      ],
-      "price": 99.2,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FNRZTX3Z",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/e1/c9/3ae1c9d2-c99e-d4e5-8be1-caf52dd3f8f4/24CRGIM47597.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "One of the most famous and influential jazz pianists of the 20th century, Bill Evans formed the acclaimed piano trio in 1959, along with bassist Scott LaFaro and drummer Paul Motian.",
-      "bioUrl": "https://www.last.fm/music/Bill+Evans+Trio",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uoudqt",
-      "source": "Amazon",
-      "createdAt": "2026-07-06T11:16:07.000Z",
-      "text": "[Amazon] Various Artists - Sin City (Original Motion Picture Soundtrack) [Translucent Blood Red] - $19.67",
-      "artist": "Various Artists",
-      "title": "Sin City (Original Motion Picture Soundtrack) [Translucent Blood Red]",
-      "label": "Syndicate Records",
-      "genres": [
-        "Folk, World, & Country"
-      ],
-      "price": 19.67,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GKW2T836",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c2/51/84/c2518439-d810-7f1f-c9ff-396c9fa7d266/886448132882.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31uotewp",
-      "source": "Amazon",
-      "createdAt": "2026-07-06T10:25:56.000Z",
-      "text": "[Amazon] Radiator Hospital - Distorting Time - $18.59",
-      "artist": "Radiator Hospital",
-      "title": "Distorting Time",
-      "label": null,
-      "genres": [],
-      "price": 18.59,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0H4M7B8VW",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/0b/46/3f0b4653-01a2-4264-439c-12ce9e8c9c73/65882.jpg/400x400bb.jpg",
-      "bio": "Radiator Hospital is a DIY pop band currently based in Philadelphia, PA.",
-      "bioUrl": "https://www.last.fm/music/Radiator+Hospital",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uotdkv",
-      "source": "Amazon",
-      "createdAt": "2026-07-06T10:23:56.000Z",
-      "text": "[Amazon] Nas, DJ Premier - Light-Years [2xLP] - $24.30",
-      "artist": "Nas, DJ Premier",
-      "title": "Light-Years [2xLP]",
-      "label": "Mass Appeal",
-      "genres": [
-        "Hip Hop"
-      ],
-      "price": 24.3,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G4XZFHT8",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/89/b1/a989b14b-0dc4-4f2d-0eb2-3d985410bffd/198391792038.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Born: March 21, 1966, Houston, Texas , best known for being one half of the rap duo , is also a DJ and record producer. has produced almost all of 's tracks as well as tracks for many other groups and solo artists since the 1990s. He has produced tracks for such artists as , , , , , , and .",
-      "bioUrl": "https://www.discogs.com/artist/21151-DJ-Premier",
-      "bioSource": "Discogs"
     }
   ]
 }
