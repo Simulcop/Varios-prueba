@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T17:50:07.078Z",
+  "updatedAt": "2026-07-21T19:04:35.633Z",
   "deals": [
     {
       "id": "reddit-t31v2p3g5",
@@ -15125,48 +15125,6 @@
       "bio": "Pentatonix (often abbreviated as PTX) is an American a cappella group of five vocalists originating from Arlington, Texas.",
       "bioUrl": "https://www.last.fm/music/Pentatonix",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31up5oz5",
-      "source": "Amazon",
-      "createdAt": "2026-07-06T18:23:40.000Z",
-      "text": "(Amazon) Nina Hagen - HiGHWAY TO HEAVEN [LP] @ $23.80",
-      "artist": "Nina Hagen",
-      "title": "HiGHWAY TO HEAVEN [LP]",
-      "label": "Grönland Records",
-      "genres": [
-        "Rock",
-        "Folk, World, & Country",
-        "Gospel"
-      ],
-      "price": 23.8,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G61T8WS7",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/2f/39/922f398c-8492-d30f-6c50-3b5d14884fa8/cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Catharina \"Nina\" Hagen (born 11 March 1955) is a German singer, songwriter, and actress, recognized for her theatrical vocal style and her prominence during the punk and Neue Deutsche Welle movements in the late 1970s and early 1980s.",
-      "bioUrl": "https://www.last.fm/music/Nina+Hagen",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31up4uzk",
-      "source": "Amazon",
-      "createdAt": "2026-07-06T17:55:31.000Z",
-      "text": "(Amazon) Montgomery & Kelly - Smokin' at the Half Note [180g LP] @ $19.99 ($14.99 w/YMMV coupon!)",
-      "artist": "Montgomery & Kelly",
-      "title": "Smokin' at the Half Note [180g LP] @ $19.99 ($14.99 w/YMMV coupon!)",
-      "label": null,
-      "genres": [],
-      "price": 14.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B01BW9NM0W",
-      "knownArtist": false
     }
   ]
 }
