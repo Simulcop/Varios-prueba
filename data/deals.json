@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-20T23:47:43.471Z",
+  "updatedAt": "2026-07-21T01:47:25.580Z",
   "deals": [
+    {
+      "id": "reddit-t31v236gr",
+      "source": "Amazon",
+      "createdAt": "2026-07-21T00:39:20.000Z",
+      "text": "(Amazon) These New Puritans - Crooked Wing @ $18.40",
+      "artist": "These New Puritans",
+      "title": "Crooked Wing",
+      "label": "Domino",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Art Rock",
+        "Avantgarde"
+      ],
+      "price": 18.4,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0DYZMPCFL",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/e0/e6/48e0e604-c6d2-6733-beb0-e7ba7433ad31/887828055364.png/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "These New Puritans is an English music group/band from Southend-on-Sea, England. It consists mainly of Jack Barnett (principal songwriter, vocalist, producer, multi-instrumentalist) and his twin brother George Barnett (drums, electronics, producer, artwork).",
+      "bioUrl": "https://www.last.fm/music/These+New+Puritans",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v20tlw",
       "source": "Amazon",
