@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T04:59:56.352Z",
+  "updatedAt": "2026-07-22T07:36:11.791Z",
   "deals": [
     {
       "id": "reddit-t31v35ni4",
@@ -15075,56 +15075,6 @@
       "enrichedVia": "discogs",
       "bio": "Frank Vincent Zappa (born December 21, 1940 in Baltimore, Maryland, United States – December 4, 1993 in Los Angeles, California, United States) was an American composer, guitarist, singer, bandleader and producer.",
       "bioUrl": "https://www.last.fm/music/Frank+Zappa",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31upmfyo",
-      "source": "Amazon",
-      "createdAt": "2026-07-07T06:07:23.000Z",
-      "text": "[Amazon] Tyler Keith - I Confess @ $7.89",
-      "artist": "Tyler Keith",
-      "title": "I Confess",
-      "label": "Black & Wyatt Records",
-      "genres": [
-        "Rock",
-        "Garage Rock",
-        "Rock & Roll"
-      ],
-      "price": 7.89,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FZWN8QC7",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/9c/ea/509cea3c-1b82-f1b7-fe66-07a3e494a362/Tyler_Keith_-_I_Confess_front_cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Tyler Keith was born in the panhandle of Florida. After High School he moved to Mississippi to study writing at Ole Miss with Barry Hannah.",
-      "bioUrl": "https://www.last.fm/music/Tyler+Keith",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31upmfl3",
-      "source": "Amazon",
-      "createdAt": "2026-07-07T06:06:51.000Z",
-      "text": "[Amazon] Mark Mallman - Magic Time - Orange @ $11.06",
-      "artist": "Mark Mallman",
-      "title": "Magic Time - Orange",
-      "label": "Hygh Tension Records",
-      "genres": [
-        "Rock"
-      ],
-      "price": 11.06,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G42QJC1B",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/lPT-yPK6PloVWIZF9IyYhtAN1d6Gu-jOsG_X6m3OT9s/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDM2/MjcyLTE3NTY1MDgz/MTMtNjA2MS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Mallman began playing the piano at 3 years old. “I found a severe magnetism in pounding my fists on the thing.” His live performances are an unforgettable experience; approaching the keyboard like an electric guitar, lyrics like an existentialist writer, and the stage like a circus performer.",
-      "bioUrl": "https://www.last.fm/music/Mark+Mallman",
       "bioSource": "Last.fm"
     }
   ]
