@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-07-21T23:48:19.641Z",
+  "updatedAt": "2026-07-22T01:46:37.592Z",
   "deals": [
+    {
+      "id": "reddit-t31v2zf5v",
+      "source": "Amazon",
+      "createdAt": "2026-07-21T23:49:40.000Z",
+      "text": "(Amazon) Various - \"Over The Edge\" - Music From The Soundtrack @ $15.00",
+      "artist": "Various",
+      "title": "\"Over The Edge\" - Music From The Soundtrack",
+      "label": "MCA Records",
+      "genres": [
+        "Rock",
+        "Soundtrack",
+        "Alternative Rock",
+        "Hard Rock"
+      ],
+      "price": 15,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GP24ZHHF",
+      "knownArtist": false,
+      "year": "1991",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/cf/da/60cfdaed-e33d-4f11-dae6-12ab04b75a8c/00196922993985_Cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31v2yry2",
       "source": "Amazon",
@@ -14900,30 +14924,6 @@
       "enrichedVia": "discogs",
       "bio": "Dinosaur Jr. is an American alternative rock band which formed in 1983 in Amherst, Massachusetts. The band was formed by J Mascis (guitar and vocals) and his high school classmate Lou Barlow (bass guitar), following the break-up of their hardcore punk band Deep Wound.",
       "bioUrl": "https://www.last.fm/music/Dinosaur+Jr.",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31upelvf",
-      "source": "Amazon",
-      "createdAt": "2026-07-06T23:55:07.000Z",
-      "text": "[Amazon] Loretta Lynn - Full Circle @ $10.99",
-      "artist": "Loretta Lynn",
-      "title": "Full Circle",
-      "label": "Legacy",
-      "genres": [
-        "Folk, World, & Country"
-      ],
-      "price": 10.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B017I1G2R8",
-      "knownArtist": false,
-      "year": "2016",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music42/v4/8b/39/20/8b392003-7d95-b2b7-0428-ce89681ba0f4/mzm.gffqwsox.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Loretta Lynn (April 14, 1932 - October 4, 2022) was an American country singer who was the leading country female vocalist during much of the 1960s and 1970s.",
-      "bioUrl": "https://www.last.fm/music/Loretta+Lynn",
       "bioSource": "Last.fm"
     }
   ]
