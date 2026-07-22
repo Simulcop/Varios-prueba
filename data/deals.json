@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T12:09:56.110Z",
+  "updatedAt": "2026-07-22T14:31:49.982Z",
   "deals": [
     {
       "id": "reddit-t31v35ni4",
@@ -14897,113 +14897,6 @@
       "enrichedVia": "discogs",
       "bio": "Casey Dienel (born March 10, 1985) is an American singer-songwriter and pianist. She released her debut album, Wind-Up Canary, in 2006 on Hush Records.",
       "bioUrl": "https://www.last.fm/music/Casey+Dienel",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31upwqbx",
-      "source": "Amazon",
-      "createdAt": "2026-07-07T14:27:55.000Z",
-      "text": "(Amazon) Claire Rousay - A Little Death @ $17.34",
-      "artist": "Claire Rousay",
-      "title": "A Little Death",
-      "label": "Thrill Jockey Records",
-      "genres": [
-        "Electronic",
-        "Ambient",
-        "Experimental",
-        "Sound Collage"
-      ],
-      "price": 17.34,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00UUUBTXW",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/d4/d2/3ad4d274-5faf-f3a0-9e46-a3749fefefd7/790377063769.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "claire rousay is a Canadian-American experimental / ambient / emo ambient sound artist and composer from Winnipeg, Manitoba, Canada.",
-      "bioUrl": "https://www.last.fm/music/Claire+Rousay",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31upwlef",
-      "source": "Amazon",
-      "createdAt": "2026-07-07T14:22:48.000Z",
-      "text": "(Amazon) Nils Petter Molvaer - Khmer Live In Bergen [Marbled LP] @ $16.81",
-      "artist": "Nils Petter Molvaer",
-      "title": "Khmer Live In Bergen [Marbled LP]",
-      "label": "Edition Records",
-      "genres": [
-        "Electronic",
-        "Jazz",
-        "Contemporary Jazz",
-        "Future Jazz"
-      ],
-      "price": 16.81,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FCQN5HBW",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/ea_Ebwhz5xUbk7Z1jrTBJWOU7BSY_rgG5MwnXRUsH8c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDg2/NTM4LTE3NTc3NjE1/OTgtODEyOC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Nils Petter Molvær (born September 18 1960 in Sula, Norway) is a Norwegian trumpet player, composer and producer, who connects multiple music styles - jazz, ambient, house, electronic and break beats, as well as elements from hip hop, rock and pop music - and melts them into convincing soundscapes…",
-      "bioUrl": "https://www.last.fm/music/Nils+Petter+Molv%C3%A6r",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31upulwz",
-      "source": "Amazon",
-      "createdAt": "2026-07-07T13:08:12.000Z",
-      "text": "[Amazon] Megadeth - Rust in Peace - $21.03",
-      "artist": "Megadeth",
-      "title": "Rust in Peace",
-      "label": "Capitol Records",
-      "genres": [
-        "Rock",
-        "Thrash",
-        "Heavy Metal"
-      ],
-      "price": 21.03,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00008EUMA",
-      "knownArtist": false,
-      "year": "2008",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/fe/a7/dffea722-e8d7-b2ac-2b31-e207fb738b8e/13UABIM36806.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Megadeth is an American thrash metal band formed in Los Angeles in 1983 by vocalist and guitarist Dave Mustaine. The group is known for complex guitar work and precise musicianship and is regarded as one of the big four bands of American thrash metal along with Slayer, Anthrax and Metallica.",
-      "bioUrl": "https://www.last.fm/music/Megadeth",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31upth51",
-      "source": "Amazon",
-      "createdAt": "2026-07-07T12:21:53.000Z",
-      "text": "[Amazon] Big Pun - Capital Punishment [2 LP] - $17.17",
-      "artist": "Big Pun",
-      "title": "Capital Punishment [2 LP]",
-      "label": "Loud Records",
-      "genres": [
-        "Hip Hop",
-        "Boom Bap",
-        "Hardcore Hip-Hop",
-        "Gangsta"
-      ],
-      "price": 17.17,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0C3JSQR6V",
-      "knownArtist": false,
-      "year": "1998",
-      "cover": "https://i.discogs.com/k4b5-sXOW4dVbb9lDewTPbyvD6uoPOtndyEK1Wzvv-g/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDk1/NC0xNzMzNzY2NjY5/LTI4NjkuanBlZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "(Note: scrobbles for \"Big Pun\" redirect here due to an incorrect redirect. Disable automatic spelling corrections in your settings to fix this.) Christopher Lee Rios (November 9, 1971 - February 7, 2000), better known as Big Pun or Big Punisher, was a Puerto Rican American rapper who emerged from…",
-      "bioUrl": "https://www.last.fm/music/Big+Punisher",
       "bioSource": "Last.fm"
     }
   ]
