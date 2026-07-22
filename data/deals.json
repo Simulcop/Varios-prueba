@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T07:36:11.791Z",
+  "updatedAt": "2026-07-22T10:15:20.893Z",
   "deals": [
     {
       "id": "reddit-t31v35ni4",
@@ -15004,77 +15004,6 @@
       "enrichedVia": "discogs",
       "bio": "(Note: scrobbles for \"Big Pun\" redirect here due to an incorrect redirect. Disable automatic spelling corrections in your settings to fix this.) Christopher Lee Rios (November 9, 1971 - February 7, 2000), better known as Big Pun or Big Punisher, was a Puerto Rican American rapper who emerged from…",
       "bioUrl": "https://www.last.fm/music/Big+Punisher",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31upqq3y",
-      "source": "Walmart",
-      "createdAt": "2026-07-07T10:09:06.000Z",
-      "text": "[Walmart] NoFx - Half Album - $15.99",
-      "artist": "NoFx",
-      "title": "Half Album",
-      "label": "Fat Wreck Chords",
-      "genres": [
-        "Rock",
-        "Punk"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mq2ecimmds2m",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://i.discogs.com/Q1AOpbY0x386Fi9qofpvZttZw_z7SbiQ6_MkvFs7TbU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDk2/MTE3LTE3MTM5OTMw/NzEtNDE2My5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "NOFX was an American punk rock band formed in Los Angeles in 1983. Bassist/lead vocalist Fat Mike, rhythm guitarist Eric Melvin and drummer Erik Sandin were original founding and longest-serving members of the band, who have appeared on every release by the band, although Sandin departed briefly in…",
-      "bioUrl": "https://www.last.fm/music/NOFX",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31upqoat",
-      "source": "Amazon",
-      "createdAt": "2026-07-07T10:06:23.000Z",
-      "text": "[Amazon] Alicia Keys - Unplugged 20th Anniv - $18.20",
-      "artist": "Alicia Keys",
-      "title": "Unplugged 20th Anniv",
-      "label": null,
-      "genres": [],
-      "price": 18.2,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mq27osr4322m",
-      "knownArtist": false,
-      "bio": "Alicia Augello Cook (born January 25, 1981), better known by her stage name Alicia Keys, is an American recording artist, musician and actress. She was raised by a single mother in the Hell's Kitchen area of Manhattan in New York City, New York, United States.",
-      "bioUrl": "https://www.last.fm/music/Alicia+Keys",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31upqnfv",
-      "source": "Walmart",
-      "createdAt": "2026-07-07T10:05:07.000Z",
-      "text": "[Walmart] Frank Zappa - Zoot Allures - $15.99",
-      "artist": "Frank Zappa",
-      "title": "Zoot Allures",
-      "label": "Warner Bros. Records",
-      "genres": [
-        "Rock",
-        "Blues Rock",
-        "Avantgarde",
-        "Prog Rock"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mq2e263rik2m",
-      "knownArtist": false,
-      "year": "1976",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e5/22/ea/e522ea32-ddb2-3fd8-f6ba-bbf95045d5fa/00824302556726.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Frank Vincent Zappa (born December 21, 1940 in Baltimore, Maryland, United States – December 4, 1993 in Los Angeles, California, United States) was an American composer, guitarist, singer, bandleader and producer.",
-      "bioUrl": "https://www.last.fm/music/Frank+Zappa",
       "bioSource": "Last.fm"
     }
   ]
