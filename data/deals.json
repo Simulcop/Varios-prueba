@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-07-22T16:14:43.997Z",
+  "updatedAt": "2026-07-22T17:47:14.650Z",
   "deals": [
+    {
+      "id": "reddit-t31v3lvm8",
+      "source": "Amazon",
+      "createdAt": "2026-07-22T16:53:53.000Z",
+      "text": "(Amazon) [Regional] Daft Punk - Human After All (Remixes) [2xLP] @ $15.41",
+      "artist": "Daft Punk",
+      "title": "Human After All (Remixes) [2xLP]",
+      "label": "Virgin",
+      "genres": [
+        "Electronic",
+        "House",
+        "Abstract",
+        "Electro"
+      ],
+      "price": 15.41,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FW5B4ZG2",
+      "knownArtist": false,
+      "year": "2005",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/03/13/4e03130f-918e-cbd2-e99f-26ed67480411/724386091956.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Daft Punk was a French electronic music duo formed in 1993 in Paris by Thomas Bangalter and Guy-Manuel de Homem-Christo. They became widely known in the late 1990s as part of the French house movement, incorporating elements of house, funk, disco, techno, rock, and synth-pop.",
+      "bioUrl": "https://www.last.fm/music/Daft+Punk",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31v3lnm3",
+      "source": "Amazon",
+      "createdAt": "2026-07-22T16:46:03.000Z",
+      "text": "(Amazon) Berliner Philharmonic Brass - Frohe Weihnachten @ $16.46",
+      "artist": "Berliner Philharmonic Brass",
+      "title": "Frohe Weihnachten",
+      "label": null,
+      "genres": [],
+      "price": 16.46,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FWY9G4ZK",
+      "knownArtist": false,
+      "bio": "Wind orchestra of the Berliner Philharmoniker. Please, do not confuse with .",
+      "bioUrl": "https://www.discogs.com/artist/567751-Blasorchester-der-Berliner-Philharmoniker",
+      "bioSource": "Discogs"
+    },
     {
       "id": "reddit-t31v3jn1l",
       "source": "Amazon",
@@ -14853,57 +14899,6 @@
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/4d/d7/da4dd7de-933f-9abd-9771-819e3b00bd77/886447249321_Cover.jpg/400x400bb.jpg",
       "bio": "Joan Jett (born Joan Marie Larkin on September 22, 1958 in Wynnewood, Pennsylvania) is an American rock singer and guitarist.",
       "bioUrl": "https://www.last.fm/music/Joan+Jett",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uq1tm5",
-      "source": "Amazon",
-      "createdAt": "2026-07-07T17:27:33.000Z",
-      "text": "[Amazon] Straylight Run - Live At The Patchogue Theatre [2 LP] $11.08",
-      "artist": "Straylight Run",
-      "title": "Live At The Patchogue Theatre [2 LP]",
-      "label": "Craft Recordings",
-      "genres": [
-        "Rock",
-        "Emo"
-      ],
-      "price": 11.08,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B096D19Y5M",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2c/e1/e8/2ce1e825-1093-7b97-e037-57b27e42a234/21CRGIM27398.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Straylight Run was the project of ex-Taking Back Sunday members John Nolan and Shaun Cooper. The band formed in May 2003 shortly after John and Shaun left Taking Back Sunday due to personal differences with lead singer Adam Lazzara.",
-      "bioUrl": "https://www.last.fm/music/Straylight+Run",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uq04t1",
-      "source": "Amazon",
-      "createdAt": "2026-07-07T16:28:07.000Z",
-      "text": "(Amazon) Art Blakey and the Jazz Messengers - Mosaic @ $16.78",
-      "artist": "Art Blakey and the Jazz Messengers",
-      "title": "Mosaic",
-      "label": "Blue Note",
-      "genres": [
-        "Jazz",
-        "Bop",
-        "Hard Bop"
-      ],
-      "price": 16.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00Q7OO5W2",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://i.discogs.com/mZczguslr75KOf2pPSHjx3krSBSj7RVxcIYfDTNHzeY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQw/MDkyLTE2OTc3OTUz/MjctODQ4MS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Art Blakey and Horace Silver formed the Jazz Messengers in 1955 and co-led it. When Silver dropped out in the group's first year the group name was changed to Art Blakey & The Jazz Messengers.",
-      "bioUrl": "https://www.last.fm/music/Art+Blakey+&+The+Jazz+Messengers",
       "bioSource": "Last.fm"
     }
   ]
