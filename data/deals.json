@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T17:53:24.414Z",
+  "updatedAt": "2026-07-23T18:59:34.641Z",
   "deals": [
     {
       "id": "reddit-t31v4kile",
@@ -14260,48 +14260,6 @@
       "year": "2021",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/80/c7/5880c767-267b-d62d-6e4f-3d4f29eb707d/46986.jpg/400x400bb.jpg",
       "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31ur0eni",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T18:01:01.000Z",
-      "text": "(Amazon) Various Artists - The Home Of Northern Soul - Wigan Casino Chapter 2 [2xLP] @ $15.49",
-      "artist": "Various Artists",
-      "title": "The Home Of Northern Soul - Wigan Casino Chapter 2 [2xLP]",
-      "label": null,
-      "genres": [],
-      "price": 15.49,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0D8CGC5NY",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/cc/4f/9dcc4faa-7650-a9fd-445c-054e2b401099/LM24001327.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31ur089a",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T17:55:00.000Z",
-      "text": "(Amazon) Black Star Riders - Wrong Side of Paradise - Blue @ $20.80",
-      "artist": "Black Star Riders",
-      "title": "Wrong Side of Paradise - Blue",
-      "label": "Earache",
-      "genres": [
-        "Rock",
-        "Classic Rock"
-      ],
-      "price": 20.8,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BS7115MM",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/eb/11/91/eb11910e-a0c7-5433-820f-7ad7026efb03/BSR_WrongSideOfParadise.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Black Star Riders is a hard rock band formed in December 2012. The band was created when members of the 2011–2012 line-up of Thin Lizzy decided to record new material but chose not to release it under the Thin Lizzy name.",
-      "bioUrl": "https://www.last.fm/music/Black+Star+Riders",
-      "bioSource": "Last.fm"
     }
   ]
 }
