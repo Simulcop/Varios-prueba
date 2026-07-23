@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-23T22:47:35.873Z",
+  "updatedAt": "2026-07-23T23:52:24.490Z",
   "deals": [
+    {
+      "id": "reddit-t31v4uap7",
+      "source": "Amazon",
+      "createdAt": "2026-07-23T23:24:59.000Z",
+      "text": "[Amazon] The 1975 - Notes On A Conditional Form - 2LP Clear Vinyl - $26.97",
+      "artist": "The 1975",
+      "title": "Notes On A Conditional Form - 2LP Clear Vinyl",
+      "label": "Dirty Hit",
+      "genres": [
+        "Electronic",
+        "Jazz",
+        "Rock",
+        "Pop"
+      ],
+      "price": 26.97,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrdyaskcnk2f",
+      "knownArtist": false,
+      "year": "2020",
+      "cover": "https://i.discogs.com/PXnQdUNHhX6789bYD_v7JWJZ7zszyi2oGUJz3Jv1KI8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzk0/NDM4LTE2OTc1NTc0/MjQtOTI2MC5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "The 1975 are an English pop rock band formed in 2002 in Wilmslow, Cheshire. Now based in Manchester, the band consists of lead vocalist, producer, lyricist and rhythm guitarist Matty Healy (the son of actors Denise Welch and Tim Healy), lead guitarist Adam Hann, bassist Ross MacDonald, and…",
+      "bioUrl": "https://www.last.fm/music/The+1975",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v4sr4r",
       "source": "Amazon",
@@ -14040,107 +14067,6 @@
       "enrichedVia": "discogs",
       "bio": "Willie Hugh Nelson (born April 29, 1933) is an American musician, actor, and activist.",
       "bioUrl": "https://www.last.fm/music/Willie+Nelson",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ur9aax",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T23:26:49.000Z",
-      "text": "(Amazon) [Regional] Midlake - The Courage Of Others [2xLP Deluxe Edition] @ $30.79",
-      "artist": "Midlake",
-      "title": "The Courage Of Others [2xLP Deluxe Edition]",
-      "label": "Bella Union",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Folk Rock"
-      ],
-      "price": 30.79,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0DZM264QD",
-      "knownArtist": false,
-      "year": "2010",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/e4/a5/d1/e4a5d1bc-e089-9ce2-6cd0-23c3b17a701c/cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Midlake is an American rock band from Denton, Texas, that formed in 1999. The band first gained popularity in Europe. Midlake began in 1999 by a group of jazz students at the University of North Texas.",
-      "bioUrl": "https://www.last.fm/music/Midlake",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ur8v2s",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T23:09:48.000Z",
-      "text": "(Amazon) Brian Eno - FOREVERANDEVERNOMORE @ $15.82",
-      "artist": "Brian Eno",
-      "title": "FOREVERANDEVERNOMORE",
-      "label": "Opal Records",
-      "genres": [
-        "Electronic",
-        "Ambient"
-      ],
-      "price": 15.82,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0B6DNXFZ1",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/88/79/5d/88795d01-7201-83bb-4ef5-447fa6af5438/22UMGIM67461.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Brian Peter George Eno (born 15 May 1948) is an English musician, songwriter, record producer, visual artist, sound designer, author, and political activist.",
-      "bioUrl": "https://www.last.fm/music/Brian+Eno",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ur8nj0",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T23:01:18.000Z",
-      "text": "(Amazon) Roomful Of Blues - Steppin' Out! @ $16.48",
-      "artist": "Roomful Of Blues",
-      "title": "Steppin' Out!",
-      "label": "Alligator Records",
-      "genres": [
-        "Blues",
-        "Rhythm & Blues"
-      ],
-      "price": 16.48,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FK9QN4VM",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/28/a4/d828a401-af54-96da-4ed1-b8d1e523f133/116397.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Roomful of Blues is an American horn-driven musical ensemble that plays jump blues. The group was formed in Westerly, Rhode Island in 1967, by guitarist Duke Robillard and pianist Al Copley.",
-      "bioUrl": "https://www.last.fm/music/Roomful+Of+Blues",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ur8fmq",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T22:52:29.000Z",
-      "text": "(Amazon) The Phoenix Foundation - Fandango @ $11.36",
-      "artist": "The Phoenix Foundation",
-      "title": "Fandango",
-      "label": "Memphis Industries",
-      "genres": [
-        "Rock",
-        "Alternative Rock"
-      ],
-      "price": 11.36,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00B5RN7V6",
-      "knownArtist": false,
-      "year": "2013",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/f6/42/85f642d5-6aa4-925b-1d1d-1790cf4d2b11/13978.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "There are two bands called The Phoenix Foundation; one from New Zealand and a lesser-known act from Finland. New Zealand's The Phoenix Foundation formed in Wellington, New Zealand by founding members Samuel Flynn Scott, Luke Buda and Conrad Wedde in 1997.",
-      "bioUrl": "https://www.last.fm/music/The+Phoenix+Foundation",
       "bioSource": "Last.fm"
     }
   ]
