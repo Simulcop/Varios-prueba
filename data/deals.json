@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T05:16:59.251Z",
+  "updatedAt": "2026-07-23T07:54:26.973Z",
   "deals": [
     {
       "id": "reddit-t31v42mbp",
@@ -14695,68 +14695,6 @@
       "bio": "British singer-songwriter born in London on July 21, 1948. His musical career was interrupted in 1969 when he contracted tuberculosis. He converted to Islam in 1977, adopting the name Yusuf Islam the following year. Inducted into the Rock and Roll Hall of Fame 2014. Brother of .",
       "bioUrl": "https://www.discogs.com/artist/37606-Cat-Stevens",
       "bioSource": "Discogs"
-    },
-    {
-      "id": "reddit-t31uqm28o",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T07:53:55.000Z",
-      "text": "[Amazon] Chase Atlantic - Dalliance [Ghostly Blue 12\" EP] @ $9.48",
-      "artist": "Chase Atlantic",
-      "title": "Dalliance [Ghostly Blue 12\" EP]",
-      "label": null,
-      "genres": [],
-      "price": 9.48,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FWRWTJ7B",
-      "knownArtist": false,
-      "bio": "Chase Atlantic (occasionally stylized as CHASE ATLANTIC) are an Australian R&B band and production trio from Cairns, Queensland, formed in 2014. The group consists of three members: Christian Anthony, Clinton Cave and Mitchel Cave. Chase Atlantic has released seven EP's and four albums.",
-      "bioUrl": "https://www.last.fm/music/Chase+Atlantic",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uqkg8d",
-      "source": "Amazon US",
-      "createdAt": "2026-07-08T06:21:19.000Z",
-      "text": "[Amazon US] South West Regional Coupons (Northern California/Central Valley?)",
-      "artist": null,
-      "title": "South West Regional Coupons (Northern California/Central Valley?)",
-      "label": null,
-      "genres": [],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/promotion/psp/A1RJHTQMDPF9DR",
-      "knownArtist": false
-    },
-    {
-      "id": "reddit-t31uqk4bi",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T06:03:04.000Z",
-      "text": "(Amazon) Wounds - Cold in Berlin (Blue/Black Smoke) @ $14.37",
-      "artist": "Wounds",
-      "title": "Cold in Berlin (Blue/Black Smoke)",
-      "label": "New Heavy Sounds",
-      "genres": [
-        "Rock",
-        "Stoner Rock",
-        "Post-Punk",
-        "Gothic Metal"
-      ],
-      "price": 14.37,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://amzn.to/4aGkdVO",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/VjyKrSkt7alonML5keFX_RKvvRV5mEWwBVsKFuhHn1w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDYx/ODQwLTE3NjcxNjQy/NzUtNjY5Mi5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "There are multiple artists with the name Wounds. 1) Wounds is a technical death metal band from Chicago, self-described as \"Brutal Tech Metal Straight Outta Chicago!\" To date, they have released an EP and one album.",
-      "bioUrl": "https://www.last.fm/music/Wounds",
-      "bioSource": "Last.fm"
     }
   ]
 }
