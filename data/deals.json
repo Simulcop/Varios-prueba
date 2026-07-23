@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T18:59:34.641Z",
+  "updatedAt": "2026-07-23T20:14:44.263Z",
   "deals": [
     {
       "id": "reddit-t31v4kile",
@@ -14220,46 +14220,6 @@
       "bio": "Janelle Monáe (born Janelle Monáe Robinson on December 1, 1985 in Kansas City, Kansas) is an American singer, songwriter, dancer, producer, actor and performer. She has received ten Grammy Award nominations, and is the recipient of a Screen Actors Guild Award and a Children's and Family Emmy Award.",
       "bioUrl": "https://www.last.fm/music/Janelle+Mon%C3%A1e",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ur30po",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T19:31:43.000Z",
-      "text": "[Amazon] Nick Allison - Trouble in My High Beams $9.81 Lowest",
-      "artist": "Nick Allison",
-      "title": "Trouble in My High Beams $9.81 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 9.81,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FH2TFJZN",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/89/8b/4e898b2c-d5c9-67b1-7692-d486978f7621/859786149560_cover.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31ur2uct",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T19:25:25.000Z",
-      "text": "[Amazon] Natalie Jane Hill ‎– Solely $12.65",
-      "artist": null,
-      "title": "Natalie Jane Hill ‎– Solely",
-      "label": "Dear Life Records",
-      "genres": [
-        "Folk, World, & Country",
-        "Appalachian Music",
-        "Folk"
-      ],
-      "price": 12.65,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09J7QC2Z7",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/80/c7/5880c767-267b-d62d-6e4f-3d4f29eb707d/46986.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
     }
   ]
 }
