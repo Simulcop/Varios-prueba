@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T10:11:52.090Z",
+  "updatedAt": "2026-07-23T12:08:28.117Z",
   "deals": [
     {
       "id": "reddit-t31v42mbp",
@@ -14568,32 +14568,6 @@
       "enrichedVia": "discogs",
       "bio": "Napalm Death is an English grindcore band that was formed in Meriden, Warwickshire in 1981. Since 1986, none of the band's original members have remained in the group besides Mick Harris which left after playing on Harmony Corruption(1990).",
       "bioUrl": "https://www.last.fm/music/Napalm+Death",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uqol8j",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T10:20:26.000Z",
-      "text": "[Amazon] REM - Fables of the Reconstruction - $16.78",
-      "artist": "REM",
-      "title": "Fables of the Reconstruction",
-      "label": "I.R.S. Records",
-      "genres": [
-        "Rock",
-        "Indie Rock",
-        "Alternative Rock"
-      ],
-      "price": 16.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mq4vgaiatc2g",
-      "knownArtist": false,
-      "year": "1985",
-      "cover": "https://i.discogs.com/uC0MRw2cMl1_cIK3pG1XKcUlzXt-eywCr3OTCz30YDw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDcy/Mi0xMzc2NjEwMTI5/LTUzNTIuanBlZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "R.E.M. was an American rock band formed in Athens, Georgia, in 1980 by drummer Bill Berry, guitarist Peter Buck, bassist Mike Mills, and vocalist Michael Stipe. The group emerged from the local music scene while its members were associated with the University of Georgia.",
-      "bioUrl": "https://www.last.fm/music/R.E.M.",
       "bioSource": "Last.fm"
     }
   ]
