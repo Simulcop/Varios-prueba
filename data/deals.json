@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T07:54:26.973Z",
+  "updatedAt": "2026-07-23T10:11:52.090Z",
   "deals": [
     {
       "id": "reddit-t31v42mbp",
@@ -14595,106 +14595,6 @@
       "bio": "R.E.M. was an American rock band formed in Athens, Georgia, in 1980 by drummer Bill Berry, guitarist Peter Buck, bassist Mike Mills, and vocalist Michael Stipe. The group emerged from the local music scene while its members were associated with the University of Georgia.",
       "bioUrl": "https://www.last.fm/music/R.E.M.",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uqmemj",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T08:14:01.000Z",
-      "text": "[Amazon] Dillon Locke - Rations [2 LP] @ $13.92",
-      "artist": "Dillon Locke",
-      "title": "Rations [2 LP]",
-      "label": "Full Plate",
-      "genres": [
-        "Hip Hop"
-      ],
-      "price": 13.92,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FX5K4CJ1",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/dOn678iqGj1QpKMgzTvjsjp9xEXNPPVgG2dcz5_hJrQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTMw/Mjk2LTE3NzIxMTY1/MTItODk4Ni5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Paten Locke a.k.a (25 August 1974 – 5 August 2019) was an American hip-hop MC, DJ and producer, born and raised in Boston, Massachusetts, he relocated to Chicago, Illinois for two years followed by time spent in College Park, Maryland before settling in Jacksonville, Florida, United States of…",
-      "bioUrl": "https://www.discogs.com/artist/878056-Paten-Locke",
-      "bioSource": "Discogs"
-    },
-    {
-      "id": "reddit-t31uqmdbx",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T08:11:58.000Z",
-      "text": "[Amazon] ThxSoMch - The Sound of You Laughing @ $10.00",
-      "artist": "ThxSoMch",
-      "title": "The Sound of You Laughing",
-      "label": "Atlantic Records",
-      "genres": [
-        "Rock"
-      ],
-      "price": 10,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FY761S15",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/22/ad/3222ad6a-f27d-0fca-08dc-31edb0a7cf5d/075679604293.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "ThxSoMch, real name Carter De Filippis, is a singer-songwriter originating from Toronto, Canada. His musical style blend elements of post-punk revival, emo rap, and indie rock. ThxSoMch made his debut on September 4, 2022, with the release of \"Runaway (Move Quick),\" marking his inaugural single.",
-      "bioUrl": "https://www.last.fm/music/ThxSoMch",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uqm5pe",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T07:59:41.000Z",
-      "text": "[Amazon] Shovel Dance Collective - The Water is the Shovel of the Shore @ $14.43",
-      "artist": "Shovel Dance Collective",
-      "title": "The Water is the Shovel of the Shore",
-      "label": "Memorials Of Distinction",
-      "genres": [
-        "Non-Music",
-        "Folk, World, & Country"
-      ],
-      "price": 14.43,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CWLGJ4H1",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/34/2a/dc/342adc98-71c7-86cc-715c-e6d8c4f09d10/cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Nurturing a passion for the folk music of the British Isles and Ireland with experimental tendencies. They are simultaneously traditional and experimental, seeing folk music as a living communal activity, inviting and generous to those it speaks to.",
-      "bioUrl": "https://www.last.fm/music/Shovel+Dance+Collective",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uqm36f",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T07:55:33.000Z",
-      "text": "[Amazon] Yusuf/Cat Stevens - Tell 'Em I'm Gone! [Yellow] @ $14.03",
-      "artist": "Yusuf/Cat Stevens",
-      "title": "Tell 'Em I'm Gone! [Yellow]",
-      "label": "Legacy",
-      "genres": [
-        "Rock",
-        "Blues",
-        "Folk, World, & Country",
-        "Folk Rock"
-      ],
-      "price": 14.03,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0F9S2DF68",
-      "knownArtist": false,
-      "year": "2014",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/80/21/ac/8021ac19-0387-e8ff-42a2-1128536d89c6/4050538460933.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "British singer-songwriter born in London on July 21, 1948. His musical career was interrupted in 1969 when he contracted tuberculosis. He converted to Islam in 1977, adopting the name Yusuf Islam the following year. Inducted into the Rock and Roll Hall of Fame 2014. Brother of .",
-      "bioUrl": "https://www.discogs.com/artist/37606-Cat-Stevens",
-      "bioSource": "Discogs"
     }
   ]
 }
