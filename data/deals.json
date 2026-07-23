@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T20:14:44.263Z",
+  "updatedAt": "2026-07-23T21:33:00.443Z",
   "deals": [
     {
       "id": "reddit-t31v4kile",
@@ -14194,31 +14194,6 @@
       "enrichedVia": "discogs",
       "bio": "Olivia Newton-John (born in Cambridge on 26 September 1948; died 8 August 2022) was a British-born Australian-raised singer, songwriter, actress, entrepreneur and activist.",
       "bioUrl": "https://www.last.fm/music/Olivia+Newton-John",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ur6767",
-      "source": "Amazon",
-      "createdAt": "2026-07-08T21:25:39.000Z",
-      "text": "(Amazon) Janelle Monáe - Dirty Computer [2xLP] @ $16.99",
-      "artist": "Janelle Monáe",
-      "title": "Dirty Computer [2xLP]",
-      "label": "Atlantic",
-      "genres": [
-        "Funk / Soul",
-        "Contemporary R&B"
-      ],
-      "price": 16.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B079YTSSNH",
-      "knownArtist": false,
-      "year": "2018",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1a/cb/c9/1acbc9b5-d32a-ad24-cc25-a6e9f924dcf7/075679876904.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Janelle Monáe (born Janelle Monáe Robinson on December 1, 1985 in Kansas City, Kansas) is an American singer, songwriter, dancer, producer, actor and performer. She has received ten Grammy Award nominations, and is the recipient of a Screen Actors Guild Award and a Children's and Family Emmy Award.",
-      "bioUrl": "https://www.last.fm/music/Janelle+Mon%C3%A1e",
       "bioSource": "Last.fm"
     }
   ]
