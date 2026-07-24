@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-24T10:08:09.297Z",
+  "updatedAt": "2026-07-24T11:58:47.918Z",
   "deals": [
+    {
+      "id": "reddit-t31v58wwy",
+      "source": "Amazon",
+      "createdAt": "2026-07-24T11:39:31.000Z",
+      "text": "[Amazon] Gil Scott Heron/Brian Jackson - Winter in America - $25.49",
+      "artist": "Gil Scott Heron/Brian Jackson",
+      "title": "Winter in America",
+      "label": "Strata-East",
+      "genres": [
+        "Jazz",
+        "Funk / Soul",
+        "Soul-Jazz",
+        "Jazz-Funk"
+      ],
+      "price": 25.49,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrfbbxxzz22k",
+      "knownArtist": false,
+      "year": "1974",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/83/48/94/mzi.olnzcoeq.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Gil Scott-Heron (born April 1, 1949 in Chicago, died May 27, 2011 in New York City) was an American poet and musician, known primarily for his late 1960s and early 1970s work as a spoken word performer, associated with African American militant activists.",
+      "bioUrl": "https://www.last.fm/music/Gil+Scott-Heron",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v56voh",
       "source": "Amazon",
