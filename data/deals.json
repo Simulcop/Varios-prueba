@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T22:53:11.933Z",
+  "updatedAt": "2026-07-24T23:56:25.838Z",
   "deals": [
     {
       "id": "reddit-t31v5pxq3",
@@ -13857,116 +13857,6 @@
       "amazonUrl": "https://www.amazon.com/dp/B0GJ6TTL7W",
       "knownArtist": false,
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/09/73/660973a3-84a7-4fd5-12ed-83b0d8c97837/cover.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31us7d14",
-      "source": "Amazon",
-      "createdAt": "2026-07-09T23:53:36.000Z",
-      "text": "(Amazon) Thrillhouse - Smile [Ocean Color vinyl] @ $19.23",
-      "artist": "Thrillhouse",
-      "title": "Smile [Ocean Color vinyl]",
-      "label": "Spirit of Spike Island Records",
-      "genres": [
-        "Rock"
-      ],
-      "price": 19.23,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GFXGG9TB",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/3b/10/fc3b10d2-8d96-de03-5146-a102b2774a3b/121313.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Thrillhouse is a British alt/indie band from Brighton.",
-      "bioUrl": "https://www.last.fm/music/Thrillhouse",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31us7b5u",
-      "source": "Amazon",
-      "createdAt": "2026-07-09T23:51:23.000Z",
-      "text": "(Amazon) Khruangbin - Hasta El Cielo Analog [LP, 7\"] @ $27.99",
-      "artist": "Khruangbin",
-      "title": "Hasta El Cielo Analog [LP, 7\"]",
-      "label": null,
-      "genres": [],
-      "price": 27.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B07SH9TRX1",
-      "knownArtist": false,
-      "bio": "Khruangbin (IPA: /ˈkɹʌŋbɪn/) is an American three-piece band from Houston, Texas, formed of Laura Lee on bass, Mark Speer on guitar, and Donald Johnson on drums.",
-      "bioUrl": "https://www.last.fm/music/Khruangbin",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31us7844",
-      "source": "Amazon",
-      "createdAt": "2026-07-09T23:47:48.000Z",
-      "text": "(Amazon) From Fall To Spring - Entry Wounds Limited Magenta @ $20.10",
-      "artist": "From Fall To Spring",
-      "title": "Entry Wounds Limited Magenta",
-      "label": "Arising Empire",
-      "genres": [
-        "Rock",
-        "Metalcore",
-        "Nu Metal"
-      ],
-      "price": 20.1,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FL2XN81X",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/snLdcLxX6sd-MCKBEmBaV5y6_tKrO3cu9iuZTCTnhMw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTk3/MDk2LTE3NTg3OTk2/NjgtNzI3NC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "From Fall To Spring is a Rockband with five members based in the Southwest of Germany. Their music is best described as modern rock, although the love for the metalcore-genre that all bandmembers share is clearly heard in every song of the band.",
-      "bioUrl": "https://www.last.fm/music/From+Fall+to+Spring",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31us71wm",
-      "source": "Amazon",
-      "createdAt": "2026-07-09T23:40:38.000Z",
-      "text": "(Amazon) Dickey Betts & Great Southern - Official Bootleg Vol. 1 (AQUA BLUE OPAQUE VINYL) [2xLP] @ $18.75",
-      "artist": "Dickey Betts & Great Southern",
-      "title": "Official Bootleg Vol. 1 (AQUA BLUE OPAQUE VINYL) [2xLP]",
-      "label": "Sunset Blvd.",
-      "genres": [
-        "Rock",
-        "Blues",
-        "Southern Rock"
-      ],
-      "price": 18.75,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FHKC38RS",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/b4/46/4db44669-2cc2-f218-40a9-7380acc7d548/634457055230.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Dickey Betts & Great Southern was an American rock band formed and led by guitarist Dickey Betts (died 2024) that released their eponymous album in 1977.",
-      "bioUrl": "https://www.last.fm/music/Dickey+Betts+&+Great+Southern",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31us7182",
-      "source": "Warner Records",
-      "createdAt": "2026-07-09T23:39:49.000Z",
-      "text": "[Warner Records] Madonna: CONFESSIONS II - 12-track black vinyl BILT alternate cover $16",
-      "artist": "Madonna: CONFESSIONS II",
-      "title": "12-track black vinyl BILT alternate cover $16",
-      "label": null,
-      "genres": [],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://shop.warnerrecords.com/products/confessions-ii-12-track-vinyl-lp-bilt-edition",
-      "knownArtist": false
     }
   ]
 }
