@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-07-24T20:10:51.928Z",
+  "updatedAt": "2026-07-24T21:34:00.414Z",
   "deals": [
+    {
+      "id": "reddit-t31v5oabu",
+      "source": "Walmart",
+      "createdAt": "2026-07-24T21:14:26.000Z",
+      "text": "[Walmart] Misfits - Evilive - $16.78",
+      "artist": "Misfits",
+      "title": "Evilive",
+      "label": "Plan 9",
+      "genres": [
+        "Rock",
+        "Hardcore",
+        "Punk"
+      ],
+      "price": 16.78,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrgbg6py3223",
+      "knownArtist": false,
+      "year": "1987",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/07/76/3e/07763ecd-676b-fe04-7a1f-1c3352601eb0/00724356060555.tif/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Misfits are an American punk rock band formed in Lodi, New Jersey in 1977. Often recognized as the progenitors of the horror punk subgenre, blending punk and other musical influences with horror film themes and imagery.",
+      "bioUrl": "https://www.last.fm/music/Misfits",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31v5mst0",
+      "source": "Amazon",
+      "createdAt": "2026-07-24T20:20:08.000Z",
+      "text": "[Amazon] Black Lung - Forever Beyond (Blue Color) $18.64",
+      "artist": "Black Lung",
+      "title": "Forever Beyond (Blue Color)",
+      "label": "Hymen Records",
+      "genres": [
+        "Electronic",
+        "Illbient",
+        "IDM",
+        "Experimental"
+      ],
+      "price": 18.64,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G8344VKD",
+      "knownArtist": false,
+      "year": "2003",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/a7/5b/aea75b98-5ca9-8c82-8ef4-4f7588213d03/2763.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "There are multiple artists named Black Lung: 1) Black Lung is an electronic and industrial music project by Australian musician David Thrussell, also known for his industrial band Snog and the more ambient Soma.",
+      "bioUrl": "https://www.last.fm/music/Black+Lung",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v5mgzu",
       "source": "Amazon",
@@ -13887,55 +13940,6 @@
       "bio": "The New York Dolls were an American rock band formed in New York City in 1971, now famous as a proto-punk band.",
       "bioUrl": "https://www.last.fm/music/New+York+Dolls",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31us1u9y",
-      "source": "Amazon",
-      "createdAt": "2026-07-09T20:20:25.000Z",
-      "text": "(Amazon) Anthony Ramos - Love And Lies Black/Platinum Swirl [Black/Platinum Swirl LP] @ $6.25",
-      "artist": "Anthony Ramos",
-      "title": "Love And Lies Black/Platinum Swirl [Black/Platinum Swirl LP]",
-      "label": "Republic Records",
-      "genres": [
-        "Funk / Soul",
-        "Pop"
-      ],
-      "price": 6.25,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09QDFXT1Q",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://i.discogs.com/C8vXcFz5W7ccyDfvARqTRya8rI6cKKTWPzL8gNqLEQU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzg5/MzE2LTE2NTM5MjQ0/ODAtMzYwOC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Anthony Ramos Martinez (born November 1, 1991) is an American actor. In 2015, he originated the roles of John Laurens, Alexander Hamilton's best friend, and Philip Hamilton, Alexander Hamilton's eldest son, in the Broadway musical Hamilton.",
-      "bioUrl": "https://www.last.fm/music/Anthony+Ramos",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31us1sjv",
-      "source": "Amazon",
-      "createdAt": "2026-07-09T20:18:43.000Z",
-      "text": "(Amazon) Beta Trip - Superette (RED ECO MIX VINYL) [LP] @ $7.94",
-      "artist": "Beta Trip",
-      "title": "Superette (RED ECO MIX VINYL) [LP]",
-      "label": "FACTOR",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Alternative Rock",
-        "Indie Pop"
-      ],
-      "price": 7.94,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FPSPJ2XF",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/82/4e/b5824e28-7b7b-7c17-2e19-90ced3244436/115067.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
     }
   ]
 }
