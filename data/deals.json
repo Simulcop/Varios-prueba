@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T21:15:03.344Z",
+  "updatedAt": "2026-07-25T22:23:39.444Z",
   "deals": [
     {
       "id": "reddit-t31v6jdjc",
@@ -12420,32 +12420,6 @@
       "bio": "John Scofield (born December 26, 1951 in Dayton, Ohio, USA) is a jazz guitarist and composer, who played and eventually collaborated with Miles Davis. A bebop master, Scofield is simultaneously well acquainted with R&B and blues styles which he mixes seamlessly with his jazz playing.",
       "bioUrl": "https://www.last.fm/music/John+Scofield",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ut17hm",
-      "source": "Amazon",
-      "createdAt": "2026-07-10T21:44:50.000Z",
-      "text": "[Amazon] Your Inland Empire - Your Inland Empire @ $14.06",
-      "artist": "Your Inland Empire",
-      "title": "Your Inland Empire",
-      "label": "Season Of Mist",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Industrial"
-      ],
-      "price": 14.06,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FQPGM34Z",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/33/83/373383da-3876-dc9f-da42-bb9e301dcc7e/822603014952.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Your Inland Empire is a French industrial metal / sludge metal / darkwave metal band.",
-      "bioUrl": "https://www.discogs.com/artist/16698658-Your-Inland-Empire",
-      "bioSource": "Discogs"
     }
   ]
 }
