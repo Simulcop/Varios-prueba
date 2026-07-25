@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T14:44:18.906Z",
+  "updatedAt": "2026-07-25T15:56:58.858Z",
   "deals": [
     {
       "id": "reddit-t31v67jtr",
@@ -13062,33 +13062,6 @@
       "enrichedVia": "discogs",
       "bio": "Thee Headcoats was one of the various band monikers assumed by garage rock primitive Billy Childish (aka Bill Hamper), a native of The Medway Towns, Kent, England.",
       "bioUrl": "https://www.last.fm/music/Thee+Headcoats",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31usrm7k",
-      "source": "Amazon",
-      "createdAt": "2026-07-10T15:54:08.000Z",
-      "text": "(Amazon) Frank Zappa & the Mothers of Invention - Weasels Ripped My Flesh @ $16.78",
-      "artist": "Frank Zappa & the Mothers of Invention",
-      "title": "Weasels Ripped My Flesh",
-      "label": "Bizarre Records",
-      "genres": [
-        "Jazz",
-        "Rock",
-        "Blues Rock",
-        "Free Jazz"
-      ],
-      "price": 16.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B01M06KOLG",
-      "knownArtist": false,
-      "year": "1970",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/a9/f3/6aa9f3e5-16f1-7c6d-aa35-b4bcb3482c3f/00824302555729.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Frank Vincent Zappa (born December 21, 1940 in Baltimore, Maryland, United States – December 4, 1993 in Los Angeles, California, United States) was an American composer, guitarist, singer, bandleader and producer.",
-      "bioUrl": "https://www.last.fm/music/Frank+Zappa",
       "bioSource": "Last.fm"
     }
   ]
