@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-25T07:31:23.470Z",
+  "updatedAt": "2026-07-25T09:28:16.246Z",
   "deals": [
+    {
+      "id": "reddit-t31v6388s",
+      "source": "Amazon",
+      "createdAt": "2026-07-25T09:05:42.000Z",
+      "text": "[Amazon] The Jack Moves - Love Machine @ $8.59",
+      "artist": "The Jack Moves",
+      "title": "Love Machine",
+      "label": "Everloving Records",
+      "genres": [
+        "Funk / Soul",
+        "Contemporary R&B"
+      ],
+      "price": 8.59,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/gp/product/B0FBR8NWFR/ref=ox_sc_act_image_4?smid=ATVPDKIKX0DER&amp;psc=1",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://i.discogs.com/Zudmd13FaJeItZIcAsbY6bjZr4fR7FJDDnp-135poWk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTg0/NjQwLTE3NTY3Njk1/MjAtNzUxNS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Teddy Powell and Zee Desmondes",
+      "bioUrl": "https://www.discogs.com/artist/3837545-The-Jack-Moves",
+      "bioSource": "Discogs"
+    },
     {
       "id": "reddit-t31v5z6hg",
       "source": "Amazon",
@@ -13296,83 +13321,6 @@
       "enrichedVia": "discogs",
       "bio": "Depeche Mode is an English electronic band formed in Basildon, Essex, in 1980. The original line-up included Dave Gahan, Martin Gore, Andy Fletcher, and Vince Clarke. Since 2022, the band has consisted of Gahan and Gore.",
       "bioUrl": "https://www.last.fm/music/Depeche+Mode",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31usif0l",
-      "source": "Walmart",
-      "createdAt": "2026-07-10T09:14:17.000Z",
-      "text": "[Walmart] Silversun Pickups - Swoon - 2LP - $19.99",
-      "artist": "Silversun Pickups",
-      "title": "Swoon - 2LP",
-      "label": "Dangerbird Records",
-      "genres": [
-        "Rock",
-        "Indie Rock"
-      ],
-      "price": 19.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mqbsmyp7p22z",
-      "knownArtist": false,
-      "year": "2009",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/67/46/ef6746fa-bdf4-c09f-ed9c-388dc5e019b9/121459.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Silversun Pickups is an American alternative rock band which formed in Los Angeles, California, United States in 2000. The band members are friends who had played together previously or in mutual friends' bands. The name Silversun Pickups refers to a liquor store across the road L.A.",
-      "bioUrl": "https://www.last.fm/music/Silversun+Pickups",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ushj02",
-      "source": "Amazon",
-      "createdAt": "2026-07-10T08:21:47.000Z",
-      "text": "[Amazon] John Coltrane - The Best Of John Coltrane @ $18.02",
-      "artist": "John Coltrane",
-      "title": "The Best Of John Coltrane",
-      "label": "Atlantic",
-      "genres": [
-        "Jazz",
-        "Hard Bop"
-      ],
-      "price": 18.02,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GGP1NDXF",
-      "knownArtist": false,
-      "year": "1970",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/7c/8e/ca7c8ee1-d14d-1914-3a1f-89a07ca26c22/06UMGIM00821.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "John William Coltrane (Hamlet, North Carolina, September 23, 1926 – Huntington, New York, July 17, 1967) was an American jazz saxophonist and composer. American jazz great John Coltrane emerged in the 1950s, playing tenor and soprano sax with Dizzy Gillespie, Miles Davis and Thelonious Monk.",
-      "bioUrl": "https://www.last.fm/music/John+Coltrane",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ush8mu",
-      "source": "Amazon",
-      "createdAt": "2026-07-10T08:05:03.000Z",
-      "text": "[Amazon] Bob Dylan - Mixing Up The Medicine - $23.92",
-      "artist": "Bob Dylan",
-      "title": "Mixing Up The Medicine",
-      "label": "Columbia",
-      "genres": [
-        "Rock",
-        "Folk, World, & Country",
-        "Folk",
-        "Folk Rock"
-      ],
-      "price": 23.92,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CF4KW1Q1",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://i.discogs.com/ytxEmf9GM1T20dxWFgacpG9wvdjf_Egq1FZAdPpt7G0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ5/ODY2LTE3Mjc2NTc0/NTYtODgzNC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Bob Dylan (born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter. Recognized as one of the most influential songwriters of all time, Dylan has been a prominent figure in popular culture over a career spanning more than six decades.",
-      "bioUrl": "https://www.last.fm/music/Bob+Dylan",
       "bioSource": "Last.fm"
     }
   ]
