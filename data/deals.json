@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-25T22:23:39.444Z",
+  "updatedAt": "2026-07-25T23:27:06.290Z",
   "deals": [
+    {
+      "id": "reddit-t31v6mgfb",
+      "source": "Amazon",
+      "createdAt": "2026-07-25T22:50:57.000Z",
+      "text": "[Amazon] New York Dolls - New York Dolls - $16.78",
+      "artist": "New York Dolls",
+      "title": "New York Dolls",
+      "label": "Mercury",
+      "genres": [
+        "Rock",
+        "Glam",
+        "Hard Rock",
+        "Punk"
+      ],
+      "price": 16.78,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrixbz37r22o",
+      "knownArtist": false,
+      "year": "1973",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9f/bf/68/9fbf68a5-f2f2-6f89-3576-964c4fffb5ff/00602537890804.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The New York Dolls were an American rock band formed in New York City in 1971, now famous as a proto-punk band.",
+      "bioUrl": "https://www.last.fm/music/New+York+Dolls",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v6jdjc",
       "source": "Amazon",
@@ -12347,78 +12374,6 @@
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/4b/c3/904bc37d-dfc2-ca38-86f8-bd483798517d/25UM1IM23176.rgb.jpg/400x400bb.jpg",
       "bio": "The Rolling Stones are an English rock band formed in London in 1962. They have been active for more than six decades and are widely regarded as one of the most commercially successful and influential bands of the rock era.",
       "bioUrl": "https://www.last.fm/music/The+Rolling+Stones",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ut2w5g",
-      "source": "Amazon",
-      "createdAt": "2026-07-10T22:52:08.000Z",
-      "text": "(Amazon) Prong - Live and Uncleansed @ $20.77",
-      "artist": "Prong",
-      "title": "Live and Uncleansed",
-      "label": "Steamhammer",
-      "genres": [
-        "Rock",
-        "Hardcore",
-        "Thrash",
-        "Industrial"
-      ],
-      "price": 20.77,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G717M46S",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/0b/37/7b0b37c1-763e-1058-f22e-38ba14d1608f/4001617108970.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Prong is a metal band from New York City, New York, US, formed in 1986. Prong had two independent releases, Primitive Origins and Force Fed. The albums attracted the attention of Epic Records, which signed the trio in 1989.",
-      "bioUrl": "https://www.last.fm/music/Prong",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ut2kiu",
-      "source": "Amazon",
-      "createdAt": "2026-07-10T22:39:04.000Z",
-      "text": "(Amazon) Amanda Whiting - The Liminality Of Her @ $17.12",
-      "artist": "Amanda Whiting",
-      "title": "The Liminality Of Her",
-      "label": "First Word Records",
-      "genres": [
-        "Jazz",
-        "Modal",
-        "Fusion"
-      ],
-      "price": 17.12,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CWVTCDX8",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/a8/f9/4fa8f970-fa46-006a-6ba6-351c7634d432/5050580819986.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Classically-trained Welsh jazz harpist and educator. Biography: Amanda started classical harp at the age of six and at sixteen was awarded a specialist scholarship to Wells Cathedral School.",
-      "bioUrl": "https://www.last.fm/music/Amanda+Whiting",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ut2bfm",
-      "source": "Amazon",
-      "createdAt": "2026-07-10T22:28:53.000Z",
-      "text": "(Amazon) John Scofield - Meant To Be Blue Note Classic Edition [2xLP] @ $25.83 lowest",
-      "artist": "John Scofield",
-      "title": "Meant To Be Blue Note Classic Edition [2xLP] @ $25.83 lowest",
-      "label": null,
-      "genres": [],
-      "price": 25.83,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G8X1PRV6",
-      "knownArtist": false,
-      "bio": "John Scofield (born December 26, 1951 in Dayton, Ohio, USA) is a jazz guitarist and composer, who played and eventually collaborated with Miles Davis. A bebop master, Scofield is simultaneously well acquainted with R&B and blues styles which he mixes seamlessly with his jazz playing.",
-      "bioUrl": "https://www.last.fm/music/John+Scofield",
       "bioSource": "Last.fm"
     }
   ]
