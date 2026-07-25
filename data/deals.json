@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-07-25T09:28:16.246Z",
+  "updatedAt": "2026-07-25T10:51:29.412Z",
   "deals": [
+    {
+      "id": "reddit-t31v64e46",
+      "source": "Amazon",
+      "createdAt": "2026-07-25T10:10:34.000Z",
+      "text": "[Amazon] Jim Carroll Band - Catholic Boy - $23.98",
+      "artist": "Jim Carroll Band",
+      "title": "Catholic Boy",
+      "label": "ATCO Records",
+      "genres": [
+        "Rock",
+        "New Wave",
+        "Art Rock"
+      ],
+      "price": 23.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrhmqpkmnc2f",
+      "knownArtist": false,
+      "year": "1980",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/46/b4/ad/46b4adc7-c5ed-1cbe-6c11-e7a2b4260bc5/194491216061.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Jim Carroll Band was a New Wave/punk rock group formed by poet and writer Jim Carroll, in 1978, after encouragement from Patti Smith. The band was formerly called Amsterdam, based San Francisco, California.",
+      "bioUrl": "https://www.last.fm/music/The+Jim+Carroll+Band",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v6388s",
       "source": "Amazon",
@@ -13243,84 +13269,6 @@
       "enrichedVia": "discogs",
       "bio": "Sunny Day Real Estate is an American alternative rock band formed in Seattle, Washington in 1992. The band helped bring the emo subgenre from an underground musical phenomenon to a wider audience.",
       "bioUrl": "https://www.last.fm/music/Sunny+Day+Real+Estate",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31usjpdo",
-      "source": "Amazon",
-      "createdAt": "2026-07-10T10:25:17.000Z",
-      "text": "[Amazon] U2 - The Unforgettable Fire - $24.38",
-      "artist": "U2",
-      "title": "The Unforgettable Fire",
-      "label": "Island Records",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Pop Rock"
-      ],
-      "price": 24.38,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mqbwmppp7k2y",
-      "knownArtist": false,
-      "year": "1984",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/45/51/40455196-536d-d9a2-c8a7-4129ce944a67/17UMGIM94892.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "U2 are an Irish rock band formed in Dublin in 1976. The group comprises Paul \"Bono\" Hewson (lead vocals and rhythm guitar), David \"the Edge\" Evans (lead guitar, keyboards, and backing vocals), Adam Clayton (bass guitar), and Larry Mullen Jr. (drums and percussion).",
-      "bioUrl": "https://www.last.fm/music/U2",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31usjn99",
-      "source": "Amazon",
-      "createdAt": "2026-07-10T10:22:10.000Z",
-      "text": "[Amazon] REM - Fables of the Reconstruction - $16.78",
-      "artist": "REM",
-      "title": "Fables of the Reconstruction",
-      "label": "I.R.S. Records",
-      "genres": [
-        "Rock",
-        "Indie Rock",
-        "Alternative Rock"
-      ],
-      "price": 16.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mq4vgaiatc2g",
-      "knownArtist": false,
-      "year": "1985",
-      "cover": "https://i.discogs.com/uC0MRw2cMl1_cIK3pG1XKcUlzXt-eywCr3OTCz30YDw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDcy/Mi0xMzc2NjEwMTI5/LTUzNTIuanBlZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "R.E.M. was an American rock band formed in Athens, Georgia, in 1980 by drummer Bill Berry, guitarist Peter Buck, bassist Mike Mills, and vocalist Michael Stipe. The group emerged from the local music scene while its members were associated with the University of Georgia.",
-      "bioUrl": "https://www.last.fm/music/R.E.M.",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31usixsx",
-      "source": "Amazon",
-      "createdAt": "2026-07-10T09:44:18.000Z",
-      "text": "[Amazon] Depeche Mode - Ghosts Again (Remixes) - $18.79",
-      "artist": "Depeche Mode",
-      "title": "Ghosts Again (Remixes)",
-      "label": "Columbia",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Synth-pop"
-      ],
-      "price": 18.79,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CLH3WC8Y",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ae/57/ab/ae57ab66-32ba-8351-9aca-b85f8f1e6a8b/196871074353.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Depeche Mode is an English electronic band formed in Basildon, Essex, in 1980. The original line-up included Dave Gahan, Martin Gore, Andy Fletcher, and Vince Clarke. Since 2022, the band has consisted of Gahan and Gore.",
-      "bioUrl": "https://www.last.fm/music/Depeche+Mode",
       "bioSource": "Last.fm"
     }
   ]
