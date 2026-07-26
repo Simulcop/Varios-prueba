@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-26T09:50:55.512Z",
+  "updatedAt": "2026-07-26T11:13:28.159Z",
   "deals": [
+    {
+      "id": "reddit-t31v6zlxa",
+      "source": "Amazon",
+      "createdAt": "2026-07-26T10:00:43.000Z",
+      "text": "[Amazon] Gorillaz - Plastic Beach - 2LP - $20.98",
+      "artist": "Gorillaz",
+      "title": "Plastic Beach - 2LP",
+      "label": "Parlophone",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "price": 20.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B003QSHIPS?ref=clp_hp_h_pc",
+      "knownArtist": false,
+      "year": "2010",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/f9/b9/b8f9b9f8-a609-bde2-0302-349436ffc508/825646291038.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Gorillaz are an English virtual band created in 1998 by musician Damon Albarn and artist Jamie Hewlett. The project is centered on four fictional members: 2-D, Murdoc Niccals, Noodle and Russel Hobbs.",
+      "bioUrl": "https://www.last.fm/music/Gorillaz",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v6twxs",
       "source": "Walmart",
