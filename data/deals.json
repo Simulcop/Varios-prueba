@@ -1,6 +1,65 @@
 {
-  "updatedAt": "2026-07-26T14:24:04.832Z",
+  "updatedAt": "2026-07-26T15:36:12.405Z",
   "deals": [
+    {
+      "id": "reddit-t31v76rt1",
+      "source": "Amazon",
+      "createdAt": "2026-07-26T15:20:03.000Z",
+      "text": "[Amazon] Sleaford Mods ‎– The Demise Of Planet X $16.43 Lowest",
+      "artist": null,
+      "title": "Sleaford Mods ‎– The Demise Of Planet X $16.43 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 16.43,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FVS18RXJ",
+      "knownArtist": false
+    },
+    {
+      "id": "reddit-t31v76orw",
+      "source": "Amazon",
+      "createdAt": "2026-07-26T15:16:57.000Z",
+      "text": "[Amazon] Chris Bacon, Wednesday Addams, Nevermore Academy Orchestra - Wednesday: Season 2: Soundtrack Highlights From The Netflix Series $13.14 Lowest",
+      "artist": "Chris Bacon, Wednesday Addams, Nevermore Academy Orchestra",
+      "title": "Wednesday: Season 2: Soundtrack Highlights From The Netflix Series $13.14 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 13.14,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FNY3Q8HD",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/69/0c/bc690c6a-12cb-326d-cdee-5fc470197696/196873397955.jpg/400x400bb.jpg"
+    },
+    {
+      "id": "reddit-t31v76o34",
+      "source": "Amazon",
+      "createdAt": "2026-07-26T15:16:14.000Z",
+      "text": "[Amazon] Brooke Ligertwood - SEVEN $10.99",
+      "artist": "Brooke Ligertwood",
+      "title": "SEVEN",
+      "label": "Capitol CMG Label Group",
+      "genres": [
+        "Pop",
+        "Religious",
+        "Soft Rock"
+      ],
+      "price": 10.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B09WYW2RXL",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/04/37/d8/0437d867-c2c0-d86f-e088-11a564787eed/22UMGIM05475.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Born on December 15, 1983, in New Zealand, contemporary Christian singer-songwriter and record producer Brooke Gabrielle Ligertwood (formerly Fraser) comes from a family with a strong sporting background. Her father is Bernard Gabriel Fraser, a former New Zealand rugby union player.",
+      "bioUrl": "https://www.last.fm/music/Brooke+Ligertwood",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v74yo9",
       "source": "Amazon",
@@ -12519,30 +12578,6 @@
       "enrichedVia": "discogs",
       "bio": "The Rolling Stones are an English rock band formed in London in 1962. They have been active for more than six decades and are widely regarded as one of the most commercially successful and influential bands of the rock era.",
       "bioUrl": "https://www.last.fm/music/The+Rolling+Stones",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31utlmao",
-      "source": "Amazon",
-      "createdAt": "2026-07-11T14:29:40.000Z",
-      "text": "[Amazon] The Offspring - Greatest Hits - $22.98",
-      "artist": "The Offspring",
-      "title": "Greatest Hits",
-      "label": "Columbia",
-      "genres": [
-        "Rock"
-      ],
-      "price": 22.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09T5T9HWD",
-      "knownArtist": false,
-      "year": "2014",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/73/09/44730929-7217-c9d6-f9c6-b296ae18ce65/24CRGIM42865.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Offspring is an American rock band formed in Garden Grove, California, in 1984.",
-      "bioUrl": "https://www.last.fm/music/The+Offspring",
       "bioSource": "Last.fm"
     }
   ]
