@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T17:55:08.273Z",
+  "updatedAt": "2026-07-26T18:57:24.708Z",
   "deals": [
     {
       "id": "reddit-t31v77yf4",
@@ -12443,33 +12443,6 @@
       "enrichedVia": "discogs",
       "bio": "There are multiple artists with the name Journey: 1. Journey is an American rock band formed in San Francisco in 1973 by former members of Santana, the Steve Miller Band, and Frumious Bandersnatch.",
       "bioUrl": "https://www.last.fm/music/Journey",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31utr47n",
-      "source": "Amazon",
-      "createdAt": "2026-07-11T18:04:22.000Z",
-      "text": "[Amazon] Celine Dion - Falling Into You - $32.12",
-      "artist": "Celine Dion",
-      "title": "Falling Into You",
-      "label": "Columbia",
-      "genres": [
-        "Pop",
-        "Ballad",
-        "Vocal",
-        "Europop"
-      ],
-      "price": 32.12,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GGWCR2LL?tag=yeetfm-20",
-      "knownArtist": false,
-      "year": "2018",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fd/2c/fa/fd2cfa89-c6c4-e564-8e6e-7f03a5377744/886447854761.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Céline Marie Claudette Dion (born 30 March 1968) is a Canadian singer, entrepreneur and philanthropist. She is known for her vocal range and technical proficiency and has achieved significant commercial success in both French- and English-language markets.",
-      "bioUrl": "https://www.last.fm/music/C%C3%A9line+Dion",
       "bioSource": "Last.fm"
     }
   ]
