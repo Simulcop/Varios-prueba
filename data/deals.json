@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T04:51:56.784Z",
+  "updatedAt": "2026-07-26T07:30:45.381Z",
   "deals": [
     {
       "id": "reddit-t31v6twxs",
@@ -12493,32 +12493,6 @@
       "enrichedVia": "discogs",
       "bio": "Fleetwood Mac were a British and American rock band formed in London in 1967 by singer and guitarist Peter Green. The band was named by combining the surnames of drummer Mick Fleetwood and bassist John McVie, who joined shortly after its formation.",
       "bioUrl": "https://www.last.fm/music/Fleetwood+Mac",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31utc411",
-      "source": "Amazon",
-      "createdAt": "2026-07-11T06:15:51.000Z",
-      "text": "[Amazon] Pianos Become the Teeth - Keep You [2xLP] - $20.50",
-      "artist": "Pianos Become the Teeth",
-      "title": "Keep You [2xLP]",
-      "label": "Epitaph",
-      "genres": [
-        "Rock",
-        "Emo",
-        "Indie Rock"
-      ],
-      "price": 20.5,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00NNQJMAM",
-      "knownArtist": false,
-      "year": "2014",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/36/79/cf/3679cf84-a1b8-127d-0cc4-d14e85899b09/616892180456.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Pianos Become the Teeth are an American post-hardcore band from Baltimore, Maryland. They perform a style of music inspired by post-rock and early screamo acts. The group reissued their debut album Old Pride in 2010 through Topshelf Records.",
-      "bioUrl": "https://www.last.fm/music/Pianos+Become+the+Teeth",
       "bioSource": "Last.fm"
     }
   ]
