@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T23:27:06.290Z",
+  "updatedAt": "2026-07-26T01:05:20.187Z",
   "deals": [
     {
       "id": "reddit-t31v6mgfb",
@@ -12355,26 +12355,6 @@
       "year": "1968",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/63/2b/40632b92-3622-5f6f-1d89-487379c0f6fc/19CRGIM11556.rgb.jpg/400x400bb.jpg",
       "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31ut5rby",
-      "source": "Amazon",
-      "createdAt": "2026-07-11T00:55:35.000Z",
-      "text": "[Amazon] The Rolling Stones - Black and Blue: Super Deluxe Box Set $77.09 Lowest",
-      "artist": "The Rolling Stones",
-      "title": "Black and Blue: Super Deluxe Box Set $77.09 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 77.09,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Black-Blue-Super-Deluxe-Blu-ray/dp/B0FPGM3GJW",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/4b/c3/904bc37d-dfc2-ca38-86f8-bd483798517d/25UM1IM23176.rgb.jpg/400x400bb.jpg",
-      "bio": "The Rolling Stones are an English rock band formed in London in 1962. They have been active for more than six decades and are widely regarded as one of the most commercially successful and influential bands of the rock era.",
-      "bioUrl": "https://www.last.fm/music/The+Rolling+Stones",
-      "bioSource": "Last.fm"
     }
   ]
 }
