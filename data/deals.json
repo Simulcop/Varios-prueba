@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T16:48:32.625Z",
+  "updatedAt": "2026-07-26T17:55:08.273Z",
   "deals": [
     {
       "id": "reddit-t31v77yf4",
@@ -12470,32 +12470,6 @@
       "enrichedVia": "discogs",
       "bio": "Céline Marie Claudette Dion (born 30 March 1968) is a Canadian singer, entrepreneur and philanthropist. She is known for her vocal range and technical proficiency and has achieved significant commercial success in both French- and English-language markets.",
       "bioUrl": "https://www.last.fm/music/C%C3%A9line+Dion",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31utq76q",
-      "source": "Amazon",
-      "createdAt": "2026-07-11T17:29:51.000Z",
-      "text": "[Amazon] Black Label Society - Shot To Hell - $23.60",
-      "artist": "Black Label Society",
-      "title": "Shot To Hell",
-      "label": "Roadrunner Records",
-      "genres": [
-        "Rock",
-        "Southern Rock",
-        "Heavy Metal"
-      ],
-      "price": 23.6,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GK2DWDLD?tag=yeetfm-20",
-      "knownArtist": false,
-      "year": "2006",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/d7/a6/fbd7a6b7-ea91-093c-372a-34dee3aae8bb/634164604424.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Black Label Society is a heavy metal band formed by former Ozzy Osbourne/Pride & Glory guitar player Zakk Wylde in Los Angeles, California in 1998. They have released ten albums to date, eight of which are studio albums.",
-      "bioUrl": "https://www.last.fm/music/Black+Label+Society",
       "bioSource": "Last.fm"
     }
   ]
