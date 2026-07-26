@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T22:27:24.863Z",
+  "updatedAt": "2026-07-26T23:27:49.528Z",
   "deals": [
     {
       "id": "reddit-t31v7dozi",
@@ -12490,82 +12490,6 @@
       "amazonUrl": "https://www.amazon.com/dp/B0FY3G7TPH",
       "knownArtist": false,
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/aa/02/a4/aa02a419-178d-c241-14ff-b323e867fa3a/4050486994344.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31uty6a5",
-      "source": "Amazon",
-      "createdAt": "2026-07-11T22:52:40.000Z",
-      "text": "(Amazon) Autograph - Turn Up The Radio - The Anthology [2xLP] @ $22.45",
-      "artist": "Autograph",
-      "title": "Turn Up The Radio - The Anthology [2xLP]",
-      "label": "Cleopatra Records",
-      "genres": [
-        "Rock",
-        "Hard Rock"
-      ],
-      "price": 22.45,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CK512NM3",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://i.discogs.com/UskrRG2P-DLbZln1JhRzB7p7v2cFRkYpsAlxhwSfrSs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTY4/OTE2LTE3NDY0NTU3/NjAtMTg1NS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Autograph was an American glam metal band from Los Angeles, California. Best known for their 1984 hit \"Turn up the Radio\" (with a music video that was a regular staple on MTV) and initially active from 1983 to 1989, the band was reformed during 2002-2005 by their founder Steve Plunkett and released…",
-      "bioUrl": "https://www.last.fm/music/Autograph",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uty2rk",
-      "source": "Amazon",
-      "createdAt": "2026-07-11T22:48:10.000Z",
-      "text": "(Amazon) Shakira - Oral Fixation Vol. 2 (20th Anniversary) [2xLP] @ $18.92",
-      "artist": "Shakira",
-      "title": "Oral Fixation Vol. 2 (20th Anniversary) [2xLP]",
-      "label": "Epic",
-      "genres": [
-        "Rock",
-        "Latin",
-        "Pop Rock"
-      ],
-      "price": 18.92,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0F64JYRDJ",
-      "knownArtist": false,
-      "year": "2005",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/b5/8a/0db58a8b-7b17-dd53-3464-116a415d0f49/196872648836.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Shakira Isabel Mebarak Ripoll is a Colombian singer. Born and raised in Barranquilla, She made her recording debut with Sony Music Colombia at the age of 13.",
-      "bioUrl": "https://www.last.fm/music/Shakira",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31utxxpi",
-      "source": "Amazon",
-      "createdAt": "2026-07-11T22:41:48.000Z",
-      "text": "(Amazon) Willie Nelson - Country Music [2xLP] @ $20.50",
-      "artist": "Willie Nelson",
-      "title": "Country Music [2xLP]",
-      "label": "United Artists Records",
-      "genres": [
-        "Folk, World, & Country",
-        "Country"
-      ],
-      "price": 20.5,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GD25BR2R",
-      "knownArtist": false,
-      "year": "1975",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/8a/44/f38a442e-2846-f9f1-402b-3f4608ac2966/25CRGIM52369.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Willie Hugh Nelson (born April 29, 1933) is an American musician, actor, and activist.",
-      "bioUrl": "https://www.last.fm/music/Willie+Nelson",
-      "bioSource": "Last.fm"
     }
   ]
 }
