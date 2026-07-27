@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-07-27T17:15:00.470Z",
+  "updatedAt": "2026-07-27T18:52:40.438Z",
   "deals": [
+    {
+      "id": "reddit-t31v88t5y",
+      "source": "Amazon US",
+      "createdAt": "2026-07-27T18:28:02.000Z",
+      "text": "[Amazon US] South West Regional Coupons (Northern California/Central Valley?)",
+      "artist": null,
+      "title": "South West Regional Coupons (Northern California/Central Valley?)",
+      "label": null,
+      "genres": [],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/promotion/psp/A2YZM5YLOM8JIY",
+      "knownArtist": false
+    },
+    {
+      "id": "reddit-t31v86xm0",
+      "source": "IndieVinylDen.com",
+      "createdAt": "2026-07-27T17:24:32.000Z",
+      "text": "[IndieVinylDen.com] 25% off in-stock items code UghMondays",
+      "artist": null,
+      "title": "25% off in-stock items code UghMondays",
+      "label": null,
+      "genres": [],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.indievinylden.com/discount/UghMondays?redirect=%2Fcollections%2Fin-stock-items",
+      "knownArtist": false
+    },
     {
       "id": "reddit-t31v83n2v",
       "source": "Amazon",
@@ -12832,58 +12864,6 @@
       "enrichedVia": "discogs",
       "bio": "Hellbound Glory is pure Scumbag Country, as real as the grime and grit on old abandoned buildings in the towns like Reno NV, Butte MT, Aberdeen WA, and Fresno CA that the members of the band grew up in.",
       "bioUrl": "https://www.last.fm/music/Hellbound+Glory",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uullk1",
-      "source": "Amazon",
-      "createdAt": "2026-07-12T17:22:37.000Z",
-      "text": "(Amazon) [Regional] Rihanna - A Girl Like Me [2xLP] @ $17.41",
-      "artist": "Rihanna",
-      "title": "A Girl Like Me [2xLP]",
-      "label": "Def Jam Recordings",
-      "genres": [
-        "Electronic",
-        "Funk / Soul",
-        "Pop",
-        "Dance-pop"
-      ],
-      "price": 17.41,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B000ERU810",
-      "knownArtist": false,
-      "year": "2016",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/35/c6/58/35c65858-52cd-94f5-2f8f-fbaa811a49da/16UMGIM58854.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Robyn Rihanna Fenty (born February 20, 1988), professionally known mononymously as Rihanna, is a Barbadian singer, songwriter, actress, businesswoman, entrepreneur and fashion designer.",
-      "bioUrl": "https://www.last.fm/music/Rihanna",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uuldul",
-      "source": "Amazon",
-      "createdAt": "2026-07-12T17:15:01.000Z",
-      "text": "(Amazon) [Regional] Alice Cooper - The Revenge of Alice Cooper [2xLP] @ $18.39",
-      "artist": "Alice Cooper",
-      "title": "The Revenge of Alice Cooper [2xLP]",
-      "label": "Ear Music",
-      "genres": [
-        "Rock",
-        "Hard Rock"
-      ],
-      "price": 18.39,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0F59PDWMY",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/36/73/a236735e-3033-c05c-e3fe-e3852942020f/4029759203735.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Alice Cooper (born Vincent Damon Furnier; February 4, 1948) is an American singer and songwriter. With a career spanning more than five decades, Cooper is known for his raspy singing voice and theatrical stage shows featuring props and illusions.",
-      "bioUrl": "https://www.last.fm/music/Alice+Cooper",
       "bioSource": "Last.fm"
     }
   ]
