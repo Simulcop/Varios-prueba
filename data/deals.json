@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T21:35:07.195Z",
+  "updatedAt": "2026-07-27T22:52:42.435Z",
   "deals": [
     {
       "id": "reddit-t31v8c23c",
@@ -12795,25 +12795,6 @@
       "enrichedVia": "discogs",
       "bio": "William Royce \"Boz\" Scaggs (born June 8, 1944) is an American singer, songwriter, and guitarist. In the early 1960s, he played in the Ardells with Steve Miller and was a member of the Steve Miller Band from 1967 to 1968.",
       "bioUrl": "https://www.last.fm/music/Boz+Scaggs",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uusau1",
-      "source": "Amazon",
-      "createdAt": "2026-07-12T21:36:38.000Z",
-      "text": "(Amazon) Mulligan, Gerry - Nocturne Double Black Hand Numbered [2xLP] @ $35.07",
-      "artist": "Mulligan, Gerry",
-      "title": "Nocturne Double Black Hand Numbered [2xLP]",
-      "label": null,
-      "genres": [],
-      "price": 35.07,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0DWSHZNL5",
-      "knownArtist": false,
-      "bio": "Gerald Joseph “Gerry” Mulligan (April 6, 1927 – January 20, 1996) from Queens, NY was an American jazz baritone saxophonist, composer and arranger. Mulligan started on the piano before learning clarinet and the various saxophones. His initial reputation was as an arranger.",
-      "bioUrl": "https://www.last.fm/music/Gerry+Mulligan",
       "bioSource": "Last.fm"
     }
   ]
