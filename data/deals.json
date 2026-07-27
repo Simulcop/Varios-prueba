@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-07-26T23:27:49.528Z",
+  "updatedAt": "2026-07-27T01:07:40.147Z",
   "deals": [
+    {
+      "id": "reddit-t31v7jr4c",
+      "source": "Walmart",
+      "createdAt": "2026-07-26T23:33:17.000Z",
+      "text": "[Walmart] Kehlani - Blue Water Road - $14.98",
+      "artist": "Kehlani",
+      "title": "Blue Water Road",
+      "label": "Atlantic",
+      "genres": [
+        "Funk / Soul",
+        "Contemporary R&B",
+        "Soul"
+      ],
+      "price": 14.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrlk3dtsqk2d",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/66/a8/de/66a8de5e-ad81-57b4-3183-25a9779845f5/075679779731.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Kehlani Ashley Parrish (born April 24, 1995), known professionally as Kehlani, is an American singer and songwriter. Kehlani is originally from Oakland, California where they achieved initial fame as a member of the teen pop group, Poplyfe, which was a finalist on America's Got Talent.",
+      "bioUrl": "https://www.last.fm/music/Kehlani",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v7dozi",
       "source": "Amazon",
@@ -12473,23 +12499,6 @@
       "year": "1977",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/a7/4f/f1/a74ff187-0bc7-4206-f21f-73315e5ec86a/5019148619062_cover.jpg/400x400bb.jpg",
       "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31utzycv",
-      "source": "Amazon",
-      "createdAt": "2026-07-12T00:10:27.000Z",
-      "text": "[Amazon] Dictaphone – Poems From A Rooftop (Coke Bottle Green Vinyl) $14.86 Lowest",
-      "artist": null,
-      "title": "Dictaphone – Poems From A Rooftop (Coke Bottle Green Vinyl) $14.86 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 14.86,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FY3G7TPH",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/aa/02/a4/aa02a419-178d-c241-14ff-b323e867fa3a/4050486994344.jpg/400x400bb.jpg"
     }
   ]
 }
