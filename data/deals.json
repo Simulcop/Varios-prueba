@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-07-28T20:39:40.774Z",
+  "updatedAt": "2026-07-28T21:55:48.923Z",
   "deals": [
+    {
+      "id": "reddit-t31v9ce1s",
+      "source": "Amazon",
+      "createdAt": "2026-07-28T21:50:23.000Z",
+      "text": "(Amazon) [Regional] Frank Zappa & The Mothers Of Invention - Whisky A Go Go 1968 [2xLP] [Highlights] @ $21.28",
+      "artist": "Frank Zappa & The Mothers Of Invention",
+      "title": "Whisky A Go Go 1968 [2xLP] [Highlights]",
+      "label": "Zappa Records",
+      "genres": [
+        "Rock",
+        "Art Rock",
+        "Avantgarde",
+        "Experimental"
+      ],
+      "price": 21.28,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0D26LD2M8",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7a/39/28/7a39286d-cd3f-78a4-040e-0620e0fd68c4/24UMGIM13692.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Frank Vincent Zappa (born December 21, 1940 in Baltimore, Maryland, United States – December 4, 1993 in Los Angeles, California, United States) was an American composer, guitarist, singer, bandleader and producer.",
+      "bioUrl": "https://www.last.fm/music/Frank+Zappa",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31v9cccj",
+      "source": "Amazon",
+      "createdAt": "2026-07-28T21:48:30.000Z",
+      "text": "[Amazon] Rosie Tucker - Sucker Supreme $12.24 Lowest",
+      "artist": "Rosie Tucker",
+      "title": "Sucker Supreme $12.24 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 12.24,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0915766CZ",
+      "knownArtist": false,
+      "bio": "Rosie Tucker is an American songwriter and multi-instrumentalist based in Los Angeles, CA. Rosie Tucker is a non-sequitur equestrian, a nonbinary, amphibious harbinger of doom. Listen at your own peril.",
+      "bioUrl": "https://www.last.fm/music/Rosie+Tucker",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v9a3x3",
       "source": "Amazon",
@@ -194,6 +240,31 @@
       "bio": "Born in Buenos Aires in 1960, he spent the first ten years of his life growing up in Argentina before embarking on a journey northwards to Wisconsin, North America.",
       "bioUrl": "https://www.last.fm/music/Dominic+Miller",
       "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31v97mzc",
+      "source": "Amazon",
+      "createdAt": "2026-07-28T18:54:55.000Z",
+      "text": "(Amazon) Solomon Hicks - How Did I Ever Get This Blue @ $17.44",
+      "artist": "Solomon Hicks",
+      "title": "How Did I Ever Get This Blue",
+      "label": "Mascot Label Group",
+      "genres": [
+        "Blues",
+        "Rhythm & Blues"
+      ],
+      "price": 17.44,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FRY8HH1X",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/85/c5/e385c52c-c00c-c680-f3c8-2e17d80eceae/8712725751205.png/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "\"King\" Solomon Hicks (born in Harlem, New York, February 8, 1995) is an American guitarist, blues, jazz singer, and composer. His style of music ranges from jazz, blues, classical, gospel, R&B, funk, Afro-Cuban, and classic rock.",
+      "bioUrl": "https://www.discogs.com/artist/7747656-King-Solomon-Hicks",
+      "bioSource": "Discogs"
     },
     {
       "id": "reddit-t31v97gt9",
@@ -11748,32 +11819,6 @@
       "bio": "Spanish band from Madrid.",
       "bioUrl": "https://www.discogs.com/artist/9281257-Dharmacide",
       "bioSource": "Discogs"
-    },
-    {
-      "id": "reddit-t31uvnqpv",
-      "source": "Amazon",
-      "createdAt": "2026-07-13T20:46:44.000Z",
-      "text": "(Amazon) Shelly Manne And His Friends - My Fair Lady - Contemporary Records Acoustic Sounds Series @ $12.89",
-      "artist": "Shelly Manne And His Friends",
-      "title": "My Fair Lady - Contemporary Records Acoustic Sounds Series",
-      "label": "Craft Recordings",
-      "genres": [
-        "Jazz",
-        "Cool Jazz",
-        "Hard Bop"
-      ],
-      "price": 12.89,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09TTHCMK7",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://i.discogs.com/ZzQgDnEDlzKjfMkvpW6PWbmCNkzz09yjri0vX4jIkWA/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTA0/Njc2LTE2OTMyNjAy/NzMtMTQ3OS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Shelly Manne (June 11, 1920 – September 26, 1984), born Sheldon Manne in New York City, was an American jazz drummer.",
-      "bioUrl": "https://www.last.fm/music/Shelly+Manne",
-      "bioSource": "Last.fm"
     }
   ]
 }
