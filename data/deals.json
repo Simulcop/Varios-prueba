@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-07-29T20:42:57.901Z",
+  "updatedAt": "2026-07-29T21:49:55.911Z",
   "deals": [
+    {
+      "id": "reddit-t31va9be8",
+      "source": "Amazon",
+      "createdAt": "2026-07-29T21:15:13.000Z",
+      "text": "(Amazon) Troye Sivan - Blue Neighbourhood 'Ten Years On' 10th Anniversary Blush Pink/Aqua Blue [2xLP] @ $29.14",
+      "artist": "Troye Sivan",
+      "title": "Blue Neighbourhood 'Ten Years On' 10th Anniversary Blush Pink/Aqua Blue [2xLP]",
+      "label": "EMI",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Pop",
+        "Synth-pop"
+      ],
+      "price": 29.14,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G31RCTNZ",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://i.discogs.com/Krxo6wbYty52QHLOsyo1wcaKwe5E-WryLf1prrNMXTM/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDMx/NjM4LTE3NzEwMTc1/NTYtNjA2MS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Troye Sivan Mellet is an Australian singer, actor and former YouTuber. As a YouTube personality, Sivan uploaded video blogs regularly and, as of 2021, has over 7.3 million subscribers and over 1.3 billion total views.",
+      "bioUrl": "https://www.last.fm/music/Troye+Sivan",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31va8sl8",
+      "source": "Target",
+      "createdAt": "2026-07-29T20:55:32.000Z",
+      "text": "[Target] The Strokes - Reality Awaits - $23.99",
+      "artist": "The Strokes",
+      "title": "Reality Awaits",
+      "label": "RCA",
+      "genres": [
+        "Rock",
+        "Alternative Rock"
+      ],
+      "price": 23.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrssoqj62k2u",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://i.discogs.com/bkk0Qkt8sNnxiRssg9x8IEhDR7R3diST3mRDFjSO9e4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTY1/ODk0LTE3ODUxODk3/NTMtNTI5OC5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "The Strokes is an American indie rock band, known for their distinctive sound and cultural impact, particularly in the early 2000s. Members Julian Casablancas (vocals), Nick Valensi (guitar), Albert Hammond Jr.",
+      "bioUrl": "https://www.last.fm/music/The+Strokes",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31va6p9s",
       "source": "Amazon",
@@ -11924,52 +11976,6 @@
       "enrichedVia": "discogs",
       "bio": "There is more than one artist with this name, including: 1) C.O.B. (an abbreviation of Clive's Original Band) was a 70s British folk band led by Clive Palmer (of The Incredible String Band). 2) C.O.B. is musician Anthony Wayne Moore. 3) C.O.B. is a Thrash Metal band from South Korea. 1) C.O.B.",
       "bioUrl": "https://www.last.fm/music/C.O.B.",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uwlobq",
-      "source": "Amazon",
-      "createdAt": "2026-07-14T21:20:09.000Z",
-      "text": "[Amazon] Willie Nelson - Pretty Paper (Blue Sky Vinyl) $12.20",
-      "artist": "Willie Nelson",
-      "title": "Pretty Paper (Blue Sky Vinyl)",
-      "label": "Columbia",
-      "genres": [
-        "Folk, World, & Country",
-        "Country",
-        "Holiday"
-      ],
-      "price": 12.2,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CKKQJFKM",
-      "knownArtist": false,
-      "year": "1980",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7f/38/cd/7f38cd87-9049-d21e-94b8-611ea9d2ecfc/074643618922.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Willie Hugh Nelson (born April 29, 1933) is an American musician, actor, and activist.",
-      "bioUrl": "https://www.last.fm/music/Willie+Nelson",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uwl72p",
-      "source": "Amazon",
-      "createdAt": "2026-07-14T21:02:35.000Z",
-      "text": "[Amazon] Grateful Dead - Blues For Allah $16.04 w/coupon",
-      "artist": "Grateful Dead",
-      "title": "Blues For Allah $16.04 w/coupon",
-      "label": null,
-      "genres": [],
-      "price": 16.04,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://a.co/d/09Ke8bE1",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/45/eb/05/45eb053a-24eb-b9f1-93d3-82e1f8fa24ba/603497920778.jpg/400x400bb.jpg",
-      "bio": "Grateful Dead was an American rock band formed in 1965 in Palo Alto, California. Remembered for an eclectic style that fused elements of rock, folk, country, jazz, bluegrass, blues, gospel, and psychedelic rock, for live performances of lengthy instrumental jams, and for its devoted fan base known…",
-      "bioUrl": "https://www.last.fm/music/Grateful+Dead",
       "bioSource": "Last.fm"
     }
   ]
