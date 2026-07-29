@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-29T10:59:57.234Z",
+  "updatedAt": "2026-07-29T13:02:13.474Z",
   "deals": [
+    {
+      "id": "reddit-t31v9tp27",
+      "source": "Amazon",
+      "createdAt": "2026-07-29T11:39:37.000Z",
+      "text": "[Amazon] Fever Ray - Fever Ray - Ltd Ed White - Numbered (2000 copies) - $27.53",
+      "artist": "Fever Ray",
+      "title": "Fever Ray - Ltd Ed White - Numbered (2000 copies)",
+      "label": "Caroline International",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Alternative Rock",
+        "Synth-pop"
+      ],
+      "price": 27.53,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GL9BNYDW",
+      "knownArtist": false,
+      "year": "2021",
+      "cover": "https://i.discogs.com/EYcxduHDTuvKHXy5dI4seN-fuIXJ-S0Yalg9pPhgIxA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTc0/NjQxLTE2MTIwMDI2/MDQtNzU0NC5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Fever Ray is an alias of Swedish musician Karin Dreijer, formerly of The Knife. They debuted with the single \"If I Had A Heart\" (15 Dec 2008) under the alias, followed by the self-titled album Fever Ray (2009). Their second album, Plunge was released in October 2017 without prior announcement.",
+      "bioUrl": "https://www.last.fm/music/Fever+Ray",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v9n99b",
       "source": "Amazon",
