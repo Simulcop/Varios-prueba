@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-07-29T05:11:41.934Z",
+  "updatedAt": "2026-07-29T08:01:51.680Z",
   "deals": [
+    {
+      "id": "reddit-t31v9n99b",
+      "source": "Amazon",
+      "createdAt": "2026-07-29T05:52:21.000Z",
+      "text": "[Amazon] Megadeth - Super Collider $17.72",
+      "artist": "Megadeth",
+      "title": "Super Collider",
+      "label": "Tradecraft",
+      "genres": [
+        "Rock",
+        "Heavy Metal"
+      ],
+      "price": 17.72,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B00CEJ2ATO/",
+      "knownArtist": false,
+      "year": "2013",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ca/8d/c6/ca8dc69b-7f53-fbe2-11e3-9583ec653008/00602537396771.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Megadeth is an American thrash metal band formed in Los Angeles in 1983 by vocalist and guitarist Dave Mustaine. The group is known for complex guitar work and precise musicianship and is regarded as one of the big four bands of American thrash metal along with Slayer, Anthrax and Metallica.",
+      "bioUrl": "https://www.last.fm/music/Megadeth",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31v9msqt",
+      "source": "Amazon",
+      "createdAt": "2026-07-29T05:28:13.000Z",
+      "text": "[Amazon] Ultravox - The Collection 2025 [2 LP] $18.82",
+      "artist": "Ultravox",
+      "title": "The Collection 2025 [2 LP]",
+      "label": "Chrysalis Catalogue",
+      "genres": [
+        "Electronic",
+        "Pop",
+        "New Wave",
+        "Synth-pop"
+      ],
+      "price": 18.82,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FV92PXNQ",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://i.discogs.com/r2F5euMnfi7HwxN-VoeOOQ-OC0t8EX-eIjR5Lwktgv4/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzQw/NDIwLTE3NjUzNjU4/NjctNjg3OS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Ultravox (formerly Ultravox!) have been one of the primary exponents of the British new wave synthpop music movement since the late 70s. The band is particularly associated with the New Romantic scene, although it both pre- and post-dated the peak of that movement by several years.",
+      "bioUrl": "https://www.last.fm/music/Ultravox",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v9lzvk",
       "source": "Amazon",
@@ -11895,73 +11947,6 @@
       "bio": "There are multiple artists using this name: 1. Incubus is an American alternative rock band formed in 1991 and based in Calabasas, California.",
       "bioUrl": "https://www.last.fm/music/Incubus",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uw1wx8",
-      "source": "Amazon",
-      "createdAt": "2026-07-14T07:40:53.000Z",
-      "text": "[Amazon] VA - Eddie Piller Presents British Mod Sounds Of The 1960s [2xLP] - $27.49",
-      "artist": "VA",
-      "title": "Eddie Piller Presents British Mod Sounds Of The 1960s [2xLP]",
-      "label": null,
-      "genres": [],
-      "price": 27.49,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09KCM877G",
-      "knownArtist": false
-    },
-    {
-      "id": "reddit-t31uw1vyq",
-      "source": "Amazon",
-      "createdAt": "2026-07-14T07:39:15.000Z",
-      "text": "[Amazon] Future - Pluto [2xLP] - $28.80",
-      "artist": "Future",
-      "title": "Pluto [2xLP]",
-      "label": "Epic",
-      "genres": [
-        "Hip Hop",
-        "Trap",
-        "Pop Rap",
-        "Contemporary R&B"
-      ],
-      "price": 28.8,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CHWF6MWY",
-      "knownArtist": false,
-      "year": "2017",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/25/41/4e/25414e8c-0201-866a-2e0c-1315ff649f6a/886448218852.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Nayvadius DeMun Cash (born Nayvadius DeMun Wilburn), better known by his stage name Future, is an American rapper, singer, songwriter, and record producer from the Kirkwood neighborhood of Atlanta, Georgia.",
-      "bioUrl": "https://www.last.fm/music/Future",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uw1vfn",
-      "source": "Amazon",
-      "createdAt": "2026-07-14T07:38:20.000Z",
-      "text": "[Amazon] Steven Universe: Season 1 - Original Soundtrack [4xLP] - $54.99",
-      "artist": "Steven Universe: Season 1",
-      "title": "Original Soundtrack [4xLP]",
-      "label": "Varèse Sarabande",
-      "genres": [
-        "Electronic",
-        "Classical",
-        "Stage & Screen",
-        "Soundtrack"
-      ],
-      "price": 54.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GN9LW15S",
-      "knownArtist": false,
-      "year": "2012",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/33/7c/0a337cb5-7752-62bf-cdda-4067b7b30d7e/859720734890.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
     }
   ]
 }
