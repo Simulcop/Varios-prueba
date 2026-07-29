@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-07-28T23:51:46.157Z",
+  "updatedAt": "2026-07-29T01:44:41.635Z",
   "deals": [
+    {
+      "id": "reddit-t31v9goi6",
+      "source": "Amazon",
+      "createdAt": "2026-07-29T00:42:44.000Z",
+      "text": "(Amazon) Armand Hammer & Alchemist - Mercy @ $21.23",
+      "artist": "Armand Hammer & Alchemist",
+      "title": "Mercy",
+      "label": "Backwoodz Studioz",
+      "genres": [
+        "Hip Hop",
+        "Conscious",
+        "Hardcore Hip-Hop"
+      ],
+      "price": 21.23,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://a.co/d/0aCNsNGR",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://i.discogs.com/o9QErq-_H5b-rkHnFOnWhSCYEwyfOUWE5FQwdE7XSVs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTY5/MTQ0LTE3NjIyNzUw/OTktMjAzNy5qcGVn.jpeg",
+      "enrichedVia": "discogs"
+    },
+    {
+      "id": "reddit-t31v9fi20",
+      "source": "Amazon",
+      "createdAt": "2026-07-28T23:53:36.000Z",
+      "text": "(Amazon) The Academy Is - Almost There (White LP) @ $15.57",
+      "artist": "The Academy Is",
+      "title": "Almost There (White LP)",
+      "label": "I Surrender Records",
+      "genres": [
+        "Rock",
+        "Pop Punk",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "price": 15.57,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GGMFQPRG",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://i.discogs.com/w9I1fec9av1xSy1YHf3Sls2AEEbBZhoRZzQUFuVV9aU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE5/NjM1LTE3NzQ4MjYy/ODctNTc3Ny5wbmc.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "The Academy Is... are a rock band which formed in 2003 in Chicago, Illinois, United States. The band's current lineup consists of lead vocalist William Beckett, rhythm guitarist Mike Carden, bassist Adam T. Siska, and drummer Andy \"The Butcher\" Mrotek.",
+      "bioUrl": "https://www.last.fm/music/The+Academy+Is...",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31v9dtit",
       "source": "Amazon",
@@ -11826,23 +11876,6 @@
       "amazonUrl": "https://www.amazon.com/dp/B0FZLZY85T",
       "knownArtist": false,
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/94/df/4594df3e-9b91-dcdd-f92f-f2534a80b234/780163668926.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31uvux0f",
-      "source": "Amazon",
-      "createdAt": "2026-07-14T01:42:47.000Z",
-      "text": "[Amazon] LeAnn Rimes ‎– Greatest Hits Christmas (Frosted Holiday Color) $11.60 Lowest",
-      "artist": null,
-      "title": "LeAnn Rimes ‎– Greatest Hits Christmas (Frosted Holiday Color) $11.60 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 11.6,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FNRN4Q9N",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/f4/4b/3af44bed-bdf7-9892-19de-517f44437de0/194646008763.png/400x400bb.jpg"
     }
   ]
 }
