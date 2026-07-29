@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T21:49:55.911Z",
+  "updatedAt": "2026-07-29T22:51:57.056Z",
   "deals": [
     {
       "id": "reddit-t31va9be8",
@@ -11949,33 +11949,6 @@
       "enrichedVia": "discogs",
       "bio": "Donna Adrian Gaines (December 31, 1948 – May 17, 2012), known professionally as Donna Summer, was an American singer and songwriter who rose to prominence during the disco era of the 1970s.",
       "bioUrl": "https://www.last.fm/music/Donna+Summer",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uwnoke",
-      "source": "Amazon",
-      "createdAt": "2026-07-14T22:36:39.000Z",
-      "text": "(Amazon) C.O.B. - Spirit Of Love @ $13.04",
-      "artist": "C.O.B.",
-      "title": "Spirit Of Love",
-      "label": "CBS",
-      "genres": [
-        "Rock",
-        "Folk, World, & Country",
-        "Folk",
-        "Psychedelic Rock"
-      ],
-      "price": 13.04,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B08WS6B6CF",
-      "knownArtist": false,
-      "year": "1970",
-      "cover": "https://i.discogs.com/6E_Ee9h258b3aa8VYG6V3c92aaucRqdoCjizgYjPUHU/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjY0/NjQtMTUzNTc4MzE4/MC0zNDY5LmpwZWc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "There is more than one artist with this name, including: 1) C.O.B. (an abbreviation of Clive's Original Band) was a 70s British folk band led by Clive Palmer (of The Incredible String Band). 2) C.O.B. is musician Anthony Wayne Moore. 3) C.O.B. is a Thrash Metal band from South Korea. 1) C.O.B.",
-      "bioUrl": "https://www.last.fm/music/C.O.B.",
       "bioSource": "Last.fm"
     }
   ]
