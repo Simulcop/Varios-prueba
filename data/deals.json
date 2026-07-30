@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T23:53:57.188Z",
+  "updatedAt": "2026-07-30T01:27:46.992Z",
   "deals": [
     {
       "id": "reddit-t31vad7lo",
@@ -11763,86 +11763,6 @@
       "lowest": false,
       "amazonUrl": "https://www.amazon.com/dp/B0FMX62PZ9",
       "knownArtist": false
-    },
-    {
-      "id": "reddit-t31uwr7jp",
-      "source": "Amazon",
-      "createdAt": "2026-07-15T01:05:55.000Z",
-      "text": "[Amazon] The Who - Who Are You (Deluxe 4LP Box Set) $58.51",
-      "artist": "The Who",
-      "title": "Who Are You (Deluxe 4LP Box Set)",
-      "label": "Polydor",
-      "genres": [
-        "Rock",
-        "Pop Rock",
-        "Hard Rock"
-      ],
-      "price": 58.51,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FHPG1R7N/",
-      "knownArtist": false,
-      "year": "1978",
-      "cover": "https://i.discogs.com/C1ew0fDueqk9z_Ua2DgKxJlNzjGkDqdr-GSTX1F1BN4/rs:fit/g:sm/q:90/h:592/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTk5/Mi0xMzkyNjUzNzE5/LTU1MTUuanBlZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "The Who are an English rock band formed in London in 1964. The group's classic line-up consisted of vocalist Roger Daltrey, guitarist and principal songwriter Pete Townshend, bassist John Entwistle, and drummer Keith Moon.",
-      "bioUrl": "https://www.last.fm/music/The+Who",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uwqcpn",
-      "source": "Amazon",
-      "createdAt": "2026-07-15T00:27:02.000Z",
-      "text": "[Amazon] Prince - HITnRun Phase One $14.10",
-      "artist": "Prince",
-      "title": "HITnRun Phase One",
-      "label": "NPG Records",
-      "genres": [
-        "Electronic",
-        "Hip Hop",
-        "Funk / Soul",
-        "Pop"
-      ],
-      "price": 14.1,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FYK1GMHJ",
-      "knownArtist": false,
-      "year": "2015",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/82/37/a4/8237a47f-8f31-9820-ec72-29c10432c157/15UMGIM45105.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Prince Rogers Nelson (June 7, 1958 - April 21, 2016), known professionally as Prince, was an American singer, songwriter, musician, dancer, actor, and filmmaker. He was associated with the development of the Minneapolis sound, a style that combined elements of funk, rock, pop, R&B, and new wave.",
-      "bioUrl": "https://www.last.fm/music/Prince",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uwpomu",
-      "source": "Amazon",
-      "createdAt": "2026-07-14T23:58:48.000Z",
-      "text": "[Amazon] TLC - FanMail [2 LP] $24.61",
-      "artist": "TLC",
-      "title": "FanMail [2 LP]",
-      "label": "LaFace Records",
-      "genres": [
-        "Electronic",
-        "Funk / Soul",
-        "Contemporary R&B",
-        "Electro"
-      ],
-      "price": 24.61,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G17866QH/",
-      "knownArtist": false,
-      "year": "1999",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/19/0c/2d190ce6-a157-6364-b5b4-e9b00265d313/mzi.ucefobwj.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "TLC is an American girl group formed in 1990 in Atlanta, Georgia. The group's best-known line-up was composed of Tionne \"T-Boz\" Watkins, Lisa \"Left Eye\" Lopes, and Rozonda \"Chilli\" Thomas.",
-      "bioUrl": "https://www.last.fm/music/TLC",
-      "bioSource": "Last.fm"
     }
   ]
 }
