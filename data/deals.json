@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-07-30T13:27:48.747Z",
+  "updatedAt": "2026-07-30T15:30:10.405Z",
   "deals": [
+    {
+      "id": "reddit-t31vau9km",
+      "source": "Amazon",
+      "createdAt": "2026-07-30T13:52:11.000Z",
+      "text": "[Amazon] Sonic Youth - Washing Machine - $25.01",
+      "artist": "Sonic Youth",
+      "title": "Washing Machine",
+      "label": "DGC",
+      "genres": [
+        "Rock",
+        "Experimental",
+        "Indie Rock",
+        "Noise Rock"
+      ],
+      "price": 25.01,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0152ENQF4",
+      "knownArtist": false,
+      "year": "2015",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/96/6a/0e966a38-e4f6-9dc7-2736-4965d0007a9b/00602547566416.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Sonic Youth was an influential American experimental rock band formed in New York City, New York, United States in 1981 and are currently on an indefinite hiatus.",
+      "bioUrl": "https://www.last.fm/music/Sonic+Youth",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vat25f",
       "source": "Walmart",
@@ -11331,57 +11358,6 @@
       "enrichedVia": "discogs",
       "bio": "The Rolling Stones are an English rock band formed in London in 1962. They have been active for more than six decades and are widely regarded as one of the most commercially successful and influential bands of the rock era.",
       "bioUrl": "https://www.last.fm/music/The+Rolling+Stones",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ux6fds",
-      "source": "Amazon",
-      "createdAt": "2026-07-15T13:49:49.000Z",
-      "text": "[Amazon] The Strokes - First Impressions Of Earth - $21.04",
-      "artist": "The Strokes",
-      "title": "First Impressions Of Earth",
-      "label": "RCA",
-      "genres": [
-        "Rock",
-        "Indie Rock"
-      ],
-      "price": 21.04,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B000CC1U0U",
-      "knownArtist": false,
-      "year": "2006",
-      "cover": "https://i.discogs.com/_SNihi7OS3ZFuNZuwNyh60_BUcB64BE1eiSuOvbGdBQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY4/MC0xNDkzMDU5MjAz/LTgyNDUuanBlZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "The Strokes is an American indie rock band, known for their distinctive sound and cultural impact, particularly in the early 2000s. Members Julian Casablancas (vocals), Nick Valensi (guitar), Albert Hammond Jr.",
-      "bioUrl": "https://www.last.fm/music/The+Strokes",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ux62wx",
-      "source": "Amazon",
-      "createdAt": "2026-07-15T13:36:18.000Z",
-      "text": "[Amazon] Sonny Clark - Dial 'S' For Sonny (Blue Note Classic Vinyl Series) - $18.73",
-      "artist": "Sonny Clark",
-      "title": "Dial 'S' For Sonny (Blue Note Classic Vinyl Series)",
-      "label": "Blue Note",
-      "genres": [
-        "Jazz",
-        "Bop",
-        "Hard Bop"
-      ],
-      "price": 18.73,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09TVD9HP9",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/7d/35/53/7d35530a-63b2-8baa-3761-30c1624037b1/00724385658556.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Conrad Yeatis \"Sonny\" Clark (July 21, 1931 – January 13, 1963) was an American jazz pianist who mainly worked in the hard bop idiom. Clark was born and raised in Herminie, Pennsylvania, a coal mining town southeast of Pittsburgh. At age 12, he moved to Pittsburgh.",
-      "bioUrl": "https://www.last.fm/music/Sonny+Clark",
       "bioSource": "Last.fm"
     }
   ]
