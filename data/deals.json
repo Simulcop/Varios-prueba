@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-07-30T18:52:50.921Z",
+  "updatedAt": "2026-07-30T20:10:46.215Z",
   "deals": [
+    {
+      "id": "reddit-t31vb3izq",
+      "source": "Amazon",
+      "createdAt": "2026-07-30T19:25:54.000Z",
+      "text": "[Amazon] Lyn Christopher – Lyn Christopher: Remastered (Light Blue Color) $16.51",
+      "artist": null,
+      "title": "Lyn Christopher – Lyn Christopher: Remastered (Light Blue Color)",
+      "label": "Paramount Records",
+      "genres": [
+        "Rock",
+        "Funk / Soul",
+        "Pop",
+        "Soul"
+      ],
+      "price": 16.51,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FH1TSPHP",
+      "knownArtist": false,
+      "year": "1973",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/50/e0/9d50e07b-7056-e431-81ee-81f88c5b5d04/00602537755905.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31vb1thk",
       "source": "Amazon",
