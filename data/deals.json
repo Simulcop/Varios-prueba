@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-07-30T20:10:46.215Z",
+  "updatedAt": "2026-07-30T21:38:44.956Z",
   "deals": [
+    {
+      "id": "reddit-t31vb5j05",
+      "source": "Amazon",
+      "createdAt": "2026-07-30T20:38:09.000Z",
+      "text": "[Amazon] Mother Love Bone - Shine [180g Eco-Vinyl 12\" EP] $13.67",
+      "artist": "Mother Love Bone",
+      "title": "Shine [180g Eco-Vinyl 12\" EP]",
+      "label": "Music On Vinyl",
+      "genres": [
+        "Rock",
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "price": 13.67,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FJQDGVZL",
+      "knownArtist": false,
+      "year": "2013",
+      "cover": "https://i.discogs.com/umpjtIRINfF3DchIORFVfydZOW2WY0uHYOLQgHNAXAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzYx/NDItMTM5NDU2NTk0/MC0zOTMwLmpwZWc.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Mother Love Bone was a grunge band which formed in Seattle, Washington, United States in 1988. The band consisted of Andrew Wood (vocals, keyboards), Bruce Fairweather (guitar), Stone Gossard (guitar), Jeff Ament (bass) and Greg Gilmore (drums).",
+      "bioUrl": "https://www.last.fm/music/Mother+Love+Bone",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vb3izq",
       "source": "Amazon",
@@ -11193,59 +11219,6 @@
       "enrichedVia": "discogs",
       "bio": "The Verve were an English rock band formed in Wigan in 1990 by lead vocalist Richard Ashcroft, guitarist Nick McCabe, bass guitarist Simon Jones, and drummer Peter Salisbury. Guitarist and keyboardist Simon Tong joined the band during its first reunion.",
       "bioUrl": "https://www.last.fm/music/The+Verve",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uxixzl",
-      "source": "Amazon",
-      "createdAt": "2026-07-15T21:28:32.000Z",
-      "text": "(Amazon) MF Doom - Mouse & The Mask [2xLP] @ $28.78",
-      "artist": "MF Doom",
-      "title": "Mouse & The Mask [2xLP]",
-      "label": "Epitaph",
-      "genres": [
-        "Electronic",
-        "Hip Hop",
-        "Experimental"
-      ],
-      "price": 28.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B000AO9O8K",
-      "knownArtist": false,
-      "year": "2005",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/40/b5/2340b514-8149-da62-3fe5-f6e5bd3ec172/0878390000593_cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Daniel Dumile (born Dumile Daniel Thompson; July 13, 1971 – October 31, 2020), known professionally as MF DOOM or simply DOOM, was a British-American rapper, songwriter, and record producer.",
-      "bioUrl": "https://www.last.fm/music/MF+DOOM",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uxirmr",
-      "source": "Amazon",
-      "createdAt": "2026-07-15T21:22:03.000Z",
-      "text": "(Amazon) Peaches - No Lube So Rude [Electric Blue] @ $25.07",
-      "artist": "Peaches",
-      "title": "No Lube So Rude [Electric Blue]",
-      "label": "Kill Rock Stars",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Pop",
-        "Electroclash"
-      ],
-      "price": 25.07,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G3W15M9K",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://i.discogs.com/EOdGcVbJBb_bKjVKdMrhCZCzlFuQsPgFy2d_uU1jxFs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTMy/NzQ3LTE3NzE2ODM1/MTQtNjY4Ni5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Several artists/groups: 1) Merrill Nisker (born 1966 in Toronto), better known as Peaches, is an electroclash artist whose songs are mainly focused on sexuality 2) A swedish kids band formed by Tåve and Isabelle in 2000. Their music is sing-a-long disco/pop tunes. The band is now on hiatus.",
-      "bioUrl": "https://www.last.fm/music/Peaches",
       "bioSource": "Last.fm"
     }
   ]
