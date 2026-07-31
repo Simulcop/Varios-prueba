@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T02:33:35.777Z",
+  "updatedAt": "2026-07-31T05:56:09.543Z",
   "deals": [
     {
       "id": "reddit-t31vbcs5o",
@@ -11485,33 +11485,6 @@
       "enrichedVia": "discogs",
       "bio": "Caroline Elizabeth Rose (born October 19, 1989) is an American singer, songwriter, musician and producer. After releasing two records of folk and country-inspired music, she released a pop-rock album Loner in 2018. Superstar was released on March 6, 2020.",
       "bioUrl": "https://www.last.fm/music/Caroline+Rose",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uxsi5i",
-      "source": "Amazon",
-      "createdAt": "2026-07-16T04:27:19.000Z",
-      "text": "[Amazon] Pylon - Gyrate - $21.00",
-      "artist": "Pylon",
-      "title": "Gyrate",
-      "label": "DB Recs",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "New Wave",
-        "Indie Rock"
-      ],
-      "price": 21,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FV2LCKX1",
-      "knownArtist": false,
-      "year": "1980",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bd/df/da/bddfdac7-e522-475a-078f-ac71b9e2334e/607396649334.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Pylon was an American post-punk band formed in Athens, Georgia in 1978. For most of the band's career, they consisted of Vanessa Briscoe Hay (vocals), Randall Bewley (guitar), Michael Lachowski (bass) and Curtis Crowe (drums).",
-      "bioUrl": "https://www.last.fm/music/Pylon",
       "bioSource": "Last.fm"
     }
   ]
