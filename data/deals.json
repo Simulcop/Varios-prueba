@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T11:21:03.309Z",
+  "updatedAt": "2026-07-31T13:11:43.753Z",
   "deals": [
     {
       "id": "reddit-t31vbcs5o",
@@ -11276,33 +11276,6 @@
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fc/bd/f1/fcbdf148-d69c-26e6-eb85-2bb3b4c3b3bf/mzi.wnwbzsyg.jpg/400x400bb.jpg",
       "bio": "Jimmie Lawrence Vaughan (born in March 20, 1951 in Dallas, Texas) is an American blues guitarist and singer. He is the older brother of Stevie Ray Vaughan. Jimmie Vaughan's style was influenced by Freddie King who gave him personal advice. Also two other blues guitarists, Albert King and B. B.",
       "bioUrl": "https://www.last.fm/music/Jimmie+Vaughan",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uy1ti5",
-      "source": "Amazon",
-      "createdAt": "2026-07-16T12:44:00.000Z",
-      "text": "[Amazon] Ryo Fukui - Scenery - $20.99",
-      "artist": "Ryo Fukui",
-      "title": "Scenery",
-      "label": "We Release Jazz",
-      "genres": [
-        "Jazz",
-        "Bop",
-        "Modal",
-        "Cool Jazz"
-      ],
-      "price": 20.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B07HXKCV13",
-      "knownArtist": false,
-      "year": "2018",
-      "cover": "https://i.discogs.com/657PgMHwp1Bz9rKmKHT_NbvRFQhzMn3hnZIpXwHWIvs/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk4/OTA3LTE2MDU5NjIx/MzktODM0NS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Ryo Fukui (福居良) was a Japanese jazz pianist. He was born in 1948 in Biratori, Hokkaido. He released his debut album Scenery in 1976 and was based in Sapporo, where he played regularly at the Slowboat jazz club. Ryo Fukui died on March 15, 2016.",
-      "bioUrl": "https://www.last.fm/music/Ryo+Fukui",
       "bioSource": "Last.fm"
     }
   ]
