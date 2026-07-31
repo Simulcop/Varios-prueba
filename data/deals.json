@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-07-31T21:34:40.419Z",
+  "updatedAt": "2026-07-31T22:51:53.894Z",
   "deals": [
+    {
+      "id": "reddit-t31vc4kyk",
+      "source": "Amazon",
+      "createdAt": "2026-07-31T21:55:23.000Z",
+      "text": "(Amazon) O'Reillys & The Paddyhats - Dogs On The Leash [Mint Green & Orange Splatter] @ $15.79",
+      "artist": "O'Reillys & The Paddyhats",
+      "title": "Dogs On The Leash [Mint Green & Orange Splatter]",
+      "label": "Metalville",
+      "genres": [
+        "Rock"
+      ],
+      "price": 15.79,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B084Z7XWBY",
+      "knownArtist": false,
+      "year": "2021",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/44/ad/0744ad47-ce79-b3b4-d66a-e43feea541b1/cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31vc3z8d",
       "source": "Amazon",
@@ -11414,85 +11435,6 @@
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/42/4a/bf424a7d-d043-ac17-7d03-7d33d6e18ad5/761971506280.jpg/400x400bb.jpg",
       "bio": "The story of New York's Springhouse treads the all-too-familiar waters of the critically acclaimed band that's never able to get the commercial attention it justly deserves.",
       "bioUrl": "https://www.last.fm/music/Springhouse",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uyhoje",
-      "source": "Amazon",
-      "createdAt": "2026-07-16T22:34:43.000Z",
-      "text": "[Amazon] Big Pun - Capital Punishment [2 LP] $17.17",
-      "artist": "Big Pun",
-      "title": "Capital Punishment [2 LP]",
-      "label": "Loud Records",
-      "genres": [
-        "Hip Hop",
-        "Boom Bap",
-        "Hardcore Hip-Hop",
-        "Gangsta"
-      ],
-      "price": 17.17,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0C3JSQR6V",
-      "knownArtist": false,
-      "year": "1998",
-      "cover": "https://i.discogs.com/k4b5-sXOW4dVbb9lDewTPbyvD6uoPOtndyEK1Wzvv-g/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDk1/NC0xNzMzNzY2NjY5/LTI4NjkuanBlZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "(Note: scrobbles for \"Big Pun\" redirect here due to an incorrect redirect. Disable automatic spelling corrections in your settings to fix this.) Christopher Lee Rios (November 9, 1971 - February 7, 2000), better known as Big Pun or Big Punisher, was a Puerto Rican American rapper who emerged from…",
-      "bioUrl": "https://www.last.fm/music/Big+Punisher",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uyhk2g",
-      "source": "Amazon",
-      "createdAt": "2026-07-16T22:29:30.000Z",
-      "text": "[Amazon] MGMT - 11.11.11 - $19.30",
-      "artist": "MGMT",
-      "title": "11.11.11",
-      "label": "MGMT Records",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Pop",
-        "Indie Rock"
-      ],
-      "price": 19.3,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mqsbur3swc2b",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f9/2b/e6/f92be6c6-c690-107e-d921-57fefea4baba/197187304028.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "MGMT is an American alternative band which formed in 2002 in Middletown, Connecticut, United States.",
-      "bioUrl": "https://www.last.fm/music/MGMT",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uyh40c",
-      "source": "Amazon",
-      "createdAt": "2026-07-16T22:11:11.000Z",
-      "text": "(Amazon) L.A. Guns - Man In The Moon (Solar Flare Hand Poured Effect) [25th Anniversary Edition] @ $25.15",
-      "artist": "L.A. Guns",
-      "title": "Man In The Moon (Solar Flare Hand Poured Effect) [25th Anniversary Edition]",
-      "label": "Spitfire Records",
-      "genres": [
-        "Rock",
-        "Hard Rock"
-      ],
-      "price": 25.15,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G7KS4L4Y",
-      "knownArtist": false,
-      "year": "2001",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/c6/f0/b3/c6f0b3a4-a134-45c2-655a-2d8021eae532/670211517927.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "L.A. Guns are an American hard rock band from Los Angeles, formed in 1983. The current lineup consists of Tracii Guns (lead guitar), Phil Lewis (lead vocals), Ace Von Johnson (rhythm guitar, backing vocals), Johnny Martin (bass, backing vocals), Adam Hamilton (studio drums), and Shawn Duncan (live…",
-      "bioUrl": "https://www.last.fm/music/L.A.+Guns",
       "bioSource": "Last.fm"
     }
   ]
