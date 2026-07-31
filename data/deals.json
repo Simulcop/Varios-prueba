@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T05:56:09.543Z",
+  "updatedAt": "2026-07-31T08:39:12.681Z",
   "deals": [
     {
       "id": "reddit-t31vbcs5o",
@@ -11406,85 +11406,6 @@
       "enrichedVia": "discogs",
       "bio": "Susto is an American indie-rock band based in Charleston. Justin Osborne needed a break. He'd been writing music and making albums since he was 15, and by the age of 26, he felt like he was spinning his wheels.",
       "bioUrl": "https://www.last.fm/music/Susto",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uxvwhs",
-      "source": "Amazon",
-      "createdAt": "2026-07-16T07:32:32.000Z",
-      "text": "[Amazon] Sam & Dave - Hold On, I'm Comin' - $18.30",
-      "artist": "Sam & Dave",
-      "title": "Hold On, I'm Comin'",
-      "label": "Atlantic",
-      "genres": [
-        "Funk / Soul",
-        "Rhythm & Blues",
-        "Soul"
-      ],
-      "price": 18.3,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GBXXYJZM",
-      "knownArtist": false,
-      "year": "1969",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/45/62/eb/4562eb8e-9912-f488-37ed-80519bb52a96/s06.gfvgsbgq.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Sam & Dave was an American soul and rhythm and blues (R&B) duo remembered for their gospel-infused performances.",
-      "bioUrl": "https://www.last.fm/music/Sam+&+Dave",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uxvuw6",
-      "source": "Amazon",
-      "createdAt": "2026-07-16T07:29:54.000Z",
-      "text": "[Amazon] Mary J. Blige - Good Morning Gorgeous (Deluxe) - $14.29",
-      "artist": "Mary J. Blige",
-      "title": "Good Morning Gorgeous (Deluxe)",
-      "label": "Mary Jane Productions",
-      "genres": [
-        "Funk / Soul",
-        "Soul",
-        "Contemporary R&B"
-      ],
-      "price": 14.29,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BQPRSBZV",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7a/08/b3/7a08b3a8-f7f7-5b04-26ba-5399bb2ffc94/810043689175.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Mary Jane Blige (born January 11, 1971 in Bronx, New York, United States), is an American R&B, Soul, and Hip Hop singer, songwriter, rapper and actress. Known as The Queen of Hip-Hop Soul and The Queen of R&B, she has sold over 75 million records worldwide.",
-      "bioUrl": "https://www.last.fm/music/Mary+J.+Blige",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uxuoff",
-      "source": "Amazon",
-      "createdAt": "2026-07-16T06:22:49.000Z",
-      "text": "[Amazon] Caroline Rose - Superstar - $16.10",
-      "artist": "Caroline Rose",
-      "title": "Superstar",
-      "label": "New West Records",
-      "genres": [
-        "Electronic",
-        "Funk / Soul",
-        "Pop",
-        "Nu-Disco"
-      ],
-      "price": 16.1,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B083K2LLHF",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://i.discogs.com/KCxIiwGsKKdtINkwchRsXkUa5sDsG2c-R99V8yEGwz8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAz/NjU3LTE3Njc4MDg0/NzMtNzU5OS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Caroline Elizabeth Rose (born October 19, 1989) is an American singer, songwriter, musician and producer. After releasing two records of folk and country-inspired music, she released a pop-rock album Loner in 2018. Superstar was released on March 6, 2020.",
-      "bioUrl": "https://www.last.fm/music/Caroline+Rose",
       "bioSource": "Last.fm"
     }
   ]
