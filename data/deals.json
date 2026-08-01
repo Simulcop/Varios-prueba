@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-01T01:55:26.690Z",
+  "updatedAt": "2026-08-01T05:19:46.345Z",
   "deals": [
+    {
+      "id": "reddit-t31vcdnmw",
+      "source": "Monster Music",
+      "createdAt": "2026-08-01T04:46:27.000Z",
+      "text": "[Monster Music] These Arms Are Snakes - Easter (Indie Excl. Translucent Blue) - $12.49",
+      "artist": "These Arms Are Snakes",
+      "title": "Easter (Indie Excl. Translucent Blue)",
+      "label": "Jade Tree",
+      "genres": [
+        "Rock",
+        "Post-Hardcore",
+        "Math Rock"
+      ],
+      "price": 12.49,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://monstermusicsc.com/UPC/045778221400",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/77/36/59/77365921-ecf6-b8f0-40f6-044ca552db36/792258111866.png/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Born out of the ashes of seminal art thrashers Botch and Minneapolis punk heroes Kill Sadie, Seattle's These Arms are Snakes have fast-become an integral part of the Pacific Northwest's ever-dynamic musical fabric.",
+      "bioUrl": "https://www.last.fm/music/These+Arms+Are+Snakes",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vcbezx",
+      "source": "Music Direct",
+      "createdAt": "2026-08-01T02:56:31.000Z",
+      "text": "[Music Direct] 15% Off Select MoFi Titles",
+      "artist": null,
+      "title": "15% Off Select MoFi Titles",
+      "label": null,
+      "genres": [],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.musicdirect.com/mofi-music-sale/used-mofi-music/?_kx=RoQTmrlM_yr9rq0FUJIKomI5C0mAL3wYgEcOsdM7RGQ.UjEVRp",
+      "knownArtist": false
+    },
     {
       "id": "reddit-t31vc9thy",
       "source": "Amazon",
@@ -11455,52 +11497,6 @@
       "enrichedVia": "discogs",
       "bio": "The Kinks were an English rock band formed in London in 1962. The original line-up consisted of brothers Ray Davies (lead vocals, rhythm guitar) and Dave Davies (lead guitar, vocals), Pete Quaife (bass), and Mick Avory (drums, percussion).",
       "bioUrl": "https://www.last.fm/music/The+Kinks",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uynhdv",
-      "source": "Amazon",
-      "createdAt": "2026-07-17T02:52:30.000Z",
-      "text": "[Amazon] DARKSIDE - Nothing $20.68",
-      "artist": "DARKSIDE",
-      "title": "Nothing",
-      "label": "Matador",
-      "genres": [
-        "Electronic",
-        "Downtempo",
-        "Experimental",
-        "Ambient"
-      ],
-      "price": 20.68,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0DRT6Y7QQ",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/fd/63/81fd63f1-acaf-6e90-aef4-a380e62a4a9b/191401211574.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "There are multiple artists using this name. 1. Darkside is Dave Harrington, Nicolas Jaar and Tlacael Sparza. 2. Darkside is an Austrian death metal band. 3. A doomcore musician from the UK. 4. Short lived US Rock band. 1.",
-      "bioUrl": "https://www.last.fm/music/Darkside",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uymxaf",
-      "source": "Amazon",
-      "createdAt": "2026-07-17T02:26:17.000Z",
-      "text": "[Amazon] Coalesce - Live at BBC's Maida Vale Studios $9.52 Lowest",
-      "artist": "Coalesce",
-      "title": "Live at BBC's Maida Vale Studios $9.52 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 9.52,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0D73897F7",
-      "knownArtist": false,
-      "bio": "Coalesce is a Kansas City based mathcore band. Their music is characterized by strange shifting tempos, noise, groove, and boundless creativity paralleled only by the band's peers in groups like Converge, Botch, and The Dillinger Escape Plan.",
-      "bioUrl": "https://www.last.fm/music/Coalesce",
       "bioSource": "Last.fm"
     }
   ]
