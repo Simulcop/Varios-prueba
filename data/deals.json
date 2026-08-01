@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-08-01T22:24:17.552Z",
+  "updatedAt": "2026-08-01T23:25:50.404Z",
   "deals": [
+    {
+      "id": "reddit-t31vd18c7",
+      "source": "Amazon",
+      "createdAt": "2026-08-01T22:51:20.000Z",
+      "text": "(Amazon) Harry Styles - Kiss All The Time. Disco, Occasionally. @ $17.05",
+      "artist": "Harry Styles",
+      "title": "Kiss All The Time. Disco, Occasionally.",
+      "label": "Erskine Records",
+      "genres": [
+        "Pop",
+        "Alt-Pop"
+      ],
+      "price": 17.05,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GH2D6SJV",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor.",
+      "bioUrl": "https://www.last.fm/music/Harry+Styles",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vd16l3",
+      "source": "Amazon",
+      "createdAt": "2026-08-01T22:49:10.000Z",
+      "text": "(Amazon) Cesare Cremonini - Cremonini Live25 [3xLP] @ $27.05",
+      "artist": "Cesare Cremonini",
+      "title": "Cremonini Live25 [3xLP]",
+      "label": "Universal Music Group",
+      "genres": [
+        "Pop"
+      ],
+      "price": 27.05,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FT7YFZ88",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/d5/1b/f1d51bf6-acb5-88eb-c089-3a72df3d5cbf/25UM1IM51967.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Cesare Cremonini (born on March 27, 1980 in Bologna, Italy) is an Italian singer-songwriter. Cremonini was the leader of Lùnapop, a successful and popular Italian pop band between 1999 and 2002. In 2002 Lùnapop was disbanded. He has since pursued a successful solo career.",
+      "bioUrl": "https://www.last.fm/music/Cesare+Cremonini",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vcua68",
       "source": "NHVV",
@@ -11292,33 +11341,6 @@
       "enrichedVia": "discogs",
       "bio": "Ministry is an American industrial metal band formed in Chicago in 1981 by Al Jourgensen. The group began as a synth pop project and later became one of the early contributors to industrial rock and industrial metal during the late 1980s.",
       "bioUrl": "https://www.last.fm/music/Ministry",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uzend5",
-      "source": "Amazon",
-      "createdAt": "2026-07-17T22:45:40.000Z",
-      "text": "[Amazon] Dokken - The Elektra Albums 1983-1987 [5 LP Boxset] $71.03",
-      "artist": "Dokken",
-      "title": "The Elektra Albums 1983-1987 [5 LP Boxset]",
-      "label": "Elektra",
-      "genres": [
-        "Rock",
-        "Hard Rock",
-        "Glam",
-        "Heavy Metal"
-      ],
-      "price": 71.03,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BJCRC1XG",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://i.discogs.com/ruXN5tKeHDkLPi4VqbDzDmMFWtTS3_fT-Hn2gpPvAH8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTE5/MDgwLTE2NzQ5NTQy/MDYtMjk2Ni5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Dokken is an American heavy metal band formed in Los Angeles in 1978. The group disbanded in 1989 and reunited in 1993. During the 1980s, Dokken achieved commercial success with several singles that entered the Billboard Hot 100, including \"Alone Again\", \"In My Dreams\", and \"Burning Like a Flame\".",
-      "bioUrl": "https://www.last.fm/music/Dokken",
       "bioSource": "Last.fm"
     }
   ]
