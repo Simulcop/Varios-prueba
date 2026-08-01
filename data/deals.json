@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-01T07:40:20.425Z",
+  "updatedAt": "2026-08-01T09:49:41.486Z",
   "deals": [
+    {
+      "id": "reddit-t31vchsal",
+      "source": "Barnes & Noble",
+      "createdAt": "2026-08-01T08:33:18.000Z",
+      "text": "[Barnes & Noble] Filter - Short Bus - Red Velvet Vinyl - $20.00",
+      "artist": "Filter",
+      "title": "Short Bus - Red Velvet Vinyl",
+      "label": "Craft Recordings",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Alternative Rock",
+        "Industrial"
+      ],
+      "price": 20,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrz2kyhgpc2a",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://i.discogs.com/54dPtPypN19z_n8zSGttzF2kE0mTryLV-Ab2Hv3GBkY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODgw/MzkwLTE3NTU3ODY3/NzUtNTkxOS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Filter is an American rock band formed in 1993 in Cleveland, Ohio, by singer Richard Patrick and guitarist and programmer Brian Liesegang. Patrick founded the band after leaving Nine Inch Nails, with whom he had performed as a touring guitarist.",
+      "bioUrl": "https://www.last.fm/music/Filter",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vchm4o",
+      "source": "Barnes & Noble",
+      "createdAt": "2026-08-01T08:23:10.000Z",
+      "text": "[Barnes & Noble] Radiohead - The Bends - $26.99",
+      "artist": "Radiohead",
+      "title": "The Bends",
+      "label": "Capitol Records",
+      "genres": [
+        "Rock",
+        "Alternative Rock"
+      ],
+      "price": 26.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mryzzj2za22a",
+      "knownArtist": false,
+      "year": "2008",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/a9/5c/1ba95cac-b245-d386-63fb-6b857aa9dce8/634904078065.png/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Radiohead are an English rock band formed in Abingdon, Oxfordshire, in 1985. The band consists of Thom Yorke (vocals, guitar, piano, keyboards); brothers Jonny Greenwood (guitar, keyboards, other instruments) and Colin Greenwood (bass); Ed O'Brien (guitar, backing vocals); and Philip Selway (drums,…",
+      "bioUrl": "https://www.last.fm/music/Radiohead",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vcdnmw",
       "source": "Monster Music",
