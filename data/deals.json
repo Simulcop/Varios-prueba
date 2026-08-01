@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-01T11:10:31.551Z",
+  "updatedAt": "2026-08-01T12:31:33.141Z",
   "deals": [
+    {
+      "id": "reddit-t31vcles3",
+      "source": "Amazon",
+      "createdAt": "2026-08-01T11:55:15.000Z",
+      "text": "[Amazon] Cheap Trick - All Washed Up - Graphite Marble Vinyl - $20.34",
+      "artist": "Cheap Trick",
+      "title": "All Washed Up - Graphite Marble Vinyl",
+      "label": "BMG",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Pop Rock",
+        "Power Pop"
+      ],
+      "price": 20.34,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FMMXWVWZ",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://i.discogs.com/v3p7XP5hFYRZLgdMVYwhAqdleahKrbOhppqXx04lvRg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjU0/ODQ1LTE3NjMzNDQ5/OTgtODA1Mi5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Cheap Trick is an American power pop/rock n roll band from Rockford, Illinois that's played for over four decades, and in 2016 was inducted into the Rock & Roll Hall of Fame.",
+      "bioUrl": "https://www.last.fm/music/Cheap+Trick",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vchsal",
       "source": "Barnes & Noble",
