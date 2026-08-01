@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-08-01T17:53:02.062Z",
+  "updatedAt": "2026-08-01T18:54:51.997Z",
   "deals": [
+    {
+      "id": "reddit-t31vcua68",
+      "source": "NHVV",
+      "createdAt": "2026-08-01T18:07:57.000Z",
+      "text": "[NHVV] More titles marked to 30% off",
+      "artist": null,
+      "title": "More titles marked to 30% off",
+      "label": "Not On Label (Lithopedian Self-released)",
+      "genres": [
+        "Electronic",
+        "Noise",
+        "Rhythmic Noise"
+      ],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://nhvintagevinyl.com/collections/30_off",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://i.discogs.com/kyqr6gRnXSIqED0E2vydOt-OcICJ_BHJbM193YuTznc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAw/MDMzLTE3NTAyMjY4/NjYtNjgyNy5qcGVn.jpeg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31vcteql",
       "source": "Amazon",
@@ -11515,52 +11538,6 @@
       "year": "2011",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/1b/cc/aa/dj.qmitdigl.jpg/400x400bb.jpg",
       "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31uz72nz",
-      "source": "Amazon",
-      "createdAt": "2026-07-17T17:56:39.000Z",
-      "text": "(Amazon) [Regional] The Awakening - Hear, Sense and Feel (Remastered) (Blue/Black Swirl) @ $18.77",
-      "artist": "The Awakening",
-      "title": "Hear, Sense and Feel (Remastered) (Blue/Black Swirl)",
-      "label": "Black Jazz Records",
-      "genres": [
-        "Jazz",
-        "Soul-Jazz",
-        "Modal",
-        "Spiritual Jazz"
-      ],
-      "price": 18.77,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G4QQJBKY",
-      "knownArtist": false,
-      "year": "1972",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c3/d8/8e/c3d88e32-dc49-2496-e423-f90709776637/195081379968.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Awakening is a name of at least six bands: 1) A Johannesburg (South Africa), gothic rock band 2) A 1970s U.S.",
-      "bioUrl": "https://www.last.fm/music/The+Awakening",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31uz70gm",
-      "source": "Amazon",
-      "createdAt": "2026-07-17T17:54:30.000Z",
-      "text": "(Amazon) Lowertown - Ugly Duckling Union - Green @ $12.43",
-      "artist": "Lowertown",
-      "title": "Ugly Duckling Union - Green",
-      "label": null,
-      "genres": [],
-      "price": 12.43,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GMYNR24Z",
-      "knownArtist": false,
-      "bio": "Lowertown is the music project of Avsha The Awesome (real name Avsha Weinberg) and Olivia O., based in Atlanta, Georgia. They independently released their first project, Friends, on January 28, 2019.",
-      "bioUrl": "https://www.last.fm/music/Lowertown",
-      "bioSource": "Last.fm"
     }
   ]
 }
