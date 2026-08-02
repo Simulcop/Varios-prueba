@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-08-02T14:23:45.417Z",
+  "updatedAt": "2026-08-02T15:35:06.470Z",
   "deals": [
+    {
+      "id": "reddit-t31vdk22k",
+      "source": "Amazon",
+      "createdAt": "2026-08-02T14:51:06.000Z",
+      "text": "[Amazon] The Flaming Lips - Yoshimi Battles the Pink Robot - $20.69",
+      "artist": "The Flaming Lips",
+      "title": "Yoshimi Battles the Pink Robot",
+      "label": "Warner Bros. Records",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Psychedelic Rock",
+        "Indie Rock"
+      ],
+      "price": 20.69,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B006UREQIO",
+      "knownArtist": false,
+      "year": "2002",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/1f/f5/8f1ff578-4952-563a-7c4a-ab65e040ce95/093624913450.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Flaming Lips is an American neo-psychedelic band, formed in Oklahoma City, Oklahoma, United States in 1983.",
+      "bioUrl": "https://www.last.fm/music/The+Flaming+Lips",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vdjvsl",
+      "source": "Amazon",
+      "createdAt": "2026-08-02T14:43:52.000Z",
+      "text": "[Amazon] Geese - Getting Killed (Clear Vinyl) - $17.59",
+      "artist": "Geese",
+      "title": "Getting Killed (Clear Vinyl)",
+      "label": "Partisan Records",
+      "genres": [
+        "Rock",
+        "Folk Rock",
+        "Experimental",
+        "Indie Rock"
+      ],
+      "price": 17.59,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "http://www.amazon.com/dp/B0FGY42593",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://i.discogs.com/tr7Yy5Ip4y5T75YojKDCZddvjZagrZkFtALq8jhd9K0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA5/NjI3LTE3NTg5ODQ0/NjQtNzAzOS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Geese is an American rock band formed in 2016 in Brooklyn, New York. The group consists of Cameron Winter on vocals, keyboards, and guitar, Emily Green on guitar, Dominic DiGesu on bass, and Max Bassin on drums. For live performances, the band is accompanied by keyboardist Sam Revaz.",
+      "bioUrl": "https://www.last.fm/music/Geese",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vdjago",
       "source": "Amazon",
