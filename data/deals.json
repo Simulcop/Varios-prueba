@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-02T21:15:22.742Z",
+  "updatedAt": "2026-08-02T22:24:26.501Z",
   "deals": [
+    {
+      "id": "reddit-t31vduj4c",
+      "source": "Walmart",
+      "createdAt": "2026-08-02T21:44:39.000Z",
+      "text": "[Walmart] Livingston - A Hometown Odyssey - $21.03",
+      "artist": "Livingston",
+      "title": "A Hometown Odyssey",
+      "label": "Republic Records",
+      "genres": [
+        "Pop",
+        "Indie Pop",
+        "Alt-Pop"
+      ],
+      "price": 21.03,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3ms4xcf2aak27",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/67/00/40670071-f55d-f92d-d27d-8da46a6ea650/24UMGIM65185.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "There are threee artists/bands performing under the name Livingston: 1) A musical project put together by Canadian folklorist Henry Svec featuring Misha Bower and El Ron Maltan among others.",
+      "bioUrl": "https://www.last.fm/music/Livingston",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vdsl1t",
       "source": "Amazon",
