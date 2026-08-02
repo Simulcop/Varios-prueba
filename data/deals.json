@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-08-02T20:06:14.729Z",
+  "updatedAt": "2026-08-02T21:15:22.742Z",
   "deals": [
+    {
+      "id": "reddit-t31vdsl1t",
+      "source": "Amazon",
+      "createdAt": "2026-08-02T20:25:55.000Z",
+      "text": "[Amazon] Glenn Danzig - Who Killed Marilyn? - $19.98",
+      "artist": "Glenn Danzig",
+      "title": "Who Killed Marilyn?",
+      "label": "Plan 9",
+      "genres": [
+        "Rock",
+        "Punk"
+      ],
+      "price": 19.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CN9PH1M8",
+      "knownArtist": false,
+      "year": "1981",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/e9/4f/71e94fa4-446e-dea8-7297-9cd9980d5109/889466436161.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Glenn Danzig (born Glenn Allen Anzalone; June 23, 1955) is an American singer, songwriter, musician, and record producer from Lodi, New Jersey. He is the founder of the bands Misfits, Samhain and Danzig.",
+      "bioUrl": "https://www.last.fm/music/Glenn+Danzig",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vdsjxx",
+      "source": "Amazon",
+      "createdAt": "2026-08-02T20:24:41.000Z",
+      "text": "[Amazon] Dust - Sky Is Falling - $16.90",
+      "artist": "Dust",
+      "title": "Sky Is Falling",
+      "label": "Virgin",
+      "genres": [
+        "Rock"
+      ],
+      "price": 16.9,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FNBRFT8C",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://i.discogs.com/1J4Z-nmvj3_ZAGtxTcqSf0NEmVDQbXI0AFeiSu4tYqQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzY4/MTUzLTE3NjAzOTQ0/ODUtMzk0MC5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "There is more than one artist with this name: 1) Dust is an angst-fueled hard rock power trio from New York. They had some early punk spirit while standing firm in what was to become metal. Self titled 1st lp released 1971. 2nd album Hard Attack released 1972.",
+      "bioUrl": "https://www.last.fm/music/Dust",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vdqmxq",
       "source": "Amazon",
@@ -11556,55 +11605,6 @@
       "year": "2020",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/97/d8/7997d848-9c83-64a0-7335-a1d13232e0f4/5026854580692.jpg/400x400bb.jpg",
       "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31v071my",
-      "source": "Amazon",
-      "createdAt": "2026-07-18T20:51:48.000Z",
-      "text": "[Amazon] Grey October Sound - Lo-Fi Ghibli - $37.99",
-      "artist": "Grey October Sound",
-      "title": "Lo-Fi Ghibli",
-      "label": "P-Vine Records",
-      "genres": [
-        "Hip Hop",
-        "Pop"
-      ],
-      "price": 37.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G41JB61J?tag=redyeet-20",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/62/7e/4c627ecf-a2df-21d5-8f4d-51fdf13b79b6/PCD-94124.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31v06m7r",
-      "source": "Amazon",
-      "createdAt": "2026-07-18T20:34:02.000Z",
-      "text": "[Amazon] Thrice - Identity Crisis - $16.68",
-      "artist": "Thrice",
-      "title": "Identity Crisis",
-      "label": "Sub City Records",
-      "genres": [
-        "Rock",
-        "Post-Hardcore",
-        "Melodic Hardcore",
-        "Emo"
-      ],
-      "price": 16.68,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FW9RBSKV?tag=redyeet-20",
-      "knownArtist": false,
-      "year": "2001",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/19/50/ed195071-7d0e-f340-efbf-f1207f4b35db/0790692001965.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Thrice is an American post-hardcore band that formed in Irvine, California in 1998. The lineup consists of Dustin Kensrue (vocals and guitar), Teppei Teranishi (guitar, keys), Eddie Breckenridge (bass), and Riley Breckenridge (drums).",
-      "bioUrl": "https://www.last.fm/music/Thrice",
-      "bioSource": "Last.fm"
     }
   ]
 }
