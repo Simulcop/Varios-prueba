@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-08-03T21:36:21.705Z",
+  "updatedAt": "2026-08-03T22:52:19.866Z",
   "deals": [
+    {
+      "id": "reddit-t31ver70m",
+      "source": "Amazon",
+      "createdAt": "2026-08-03T21:52:36.000Z",
+      "text": "(Amazon) [Regional Coupon] Kenny Dorham - The Complete 'Round About at the Cafe Bohemia (Blue Note Tone Poet Edition) [3xLP] @ $39.76",
+      "artist": "Kenny Dorham",
+      "title": "The Complete 'Round About at the Cafe Bohemia (Blue Note Tone Poet Edition) [3xLP]",
+      "label": "Blue Note",
+      "genres": [
+        "Jazz",
+        "Hard Bop"
+      ],
+      "price": 39.76,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GNZ31HT1",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e0/82/6c/e0826cef-ea9b-d393-142c-840108960469/00602547154835.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "McKinley Howard (Kenny) Dorham (August 30, 1924 - December 5, 1972) was an American jazz trumpeter, singer, and composer born in Fairfield, Texas. Dorham was one of the most active bebop trumpeters.",
+      "bioUrl": "https://www.last.fm/music/Kenny+Dorham",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31ver09n",
+      "source": "Amazon",
+      "createdAt": "2026-08-03T21:45:14.000Z",
+      "text": "(Amazon) Tasha Cobbs Leonard - TASHA Foggy Horizon [2xLP] @ $25.99",
+      "artist": "Tasha Cobbs Leonard",
+      "title": "TASHA Foggy Horizon [2xLP]",
+      "label": "Motown Gospel",
+      "genres": [
+        "Funk / Soul",
+        "Pop",
+        "Gospel"
+      ],
+      "price": 25.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FJYFMPHF",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://st.discogs.com/f9b8335beaeb3f51f779406ef108f749aeae8676/images/spacer.gif",
+      "enrichedVia": "discogs",
+      "bio": "Natasha Tameika \"Tasha\" Cobbs Leonard (born July 7, 1981) is an American gospel musician and songwriter. She released the extended play Grace in 2013 with EMI Gospel (now Motown Gospel). The EP reached No. 61 on the Billboard charts.",
+      "bioUrl": "https://www.last.fm/music/Tasha+Cobbs+Leonard",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31veoa22",
       "source": "Amazon US",
@@ -12003,22 +12054,6 @@
       "amazonUrl": "https://www.amazon.com/dp/B0FMYRQ5Z4",
       "knownArtist": false,
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/69/a3/b2/mzi.vazplukq.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31v133y9",
-      "source": "Bandcamp",
-      "createdAt": "2026-07-19T22:05:45.000Z",
-      "text": "[Bandcamp] psych rock band the Weird Sisters 7” records on sale for $5! “Lost in the Chronic” & “Ride that Satellite”",
-      "artist": null,
-      "title": "psych rock band the Weird Sisters 7” records on sale for $5! “Lost in the Chronic” & “Ride that Satellite”",
-      "label": null,
-      "genres": [],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://watchitburnrecords.bandcamp.com/album/lost-in-the-chronic-ride-that-satellite",
-      "knownArtist": false
     }
   ]
 }
