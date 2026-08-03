@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-02T23:26:21.479Z",
+  "updatedAt": "2026-08-03T01:04:05.192Z",
   "deals": [
+    {
+      "id": "reddit-t31vdysyu",
+      "source": "Amazon",
+      "createdAt": "2026-08-03T00:51:29.000Z",
+      "text": "[Amazon] Bruce Springsteen - Greetings From Asbury Park, N.J. $10.99",
+      "artist": "Bruce Springsteen",
+      "title": "Greetings From Asbury Park, N.J.",
+      "label": "Columbia",
+      "genres": [
+        "Rock",
+        "Classic Rock"
+      ],
+      "price": 10.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B00TPVW3AK",
+      "knownArtist": false,
+      "year": "1973",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d0/4a/a2/d04aa204-3210-0ef9-6bac-cbb0905fc467/074643190329.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Bruce Frederick Joseph Springsteen (born 23 September 1949) is an American singer, songwriter, and guitarist. Nicknamed \"the Boss\", he has released 21 studio albums spanning six decades, most of which feature the E Street Band, his backing band since 1972.",
+      "bioUrl": "https://www.last.fm/music/Bruce+Springsteen",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vdvsut",
       "source": "For $ale",
@@ -11581,22 +11606,6 @@
       "bio": "The Weather Station is a Canadian folk music project of Tamara Lindeman, formed in 2006. It is said that the Weather Station was born in a closet. One day, Tamara Lindeman sat down to make music she had never heard.",
       "bioUrl": "https://www.last.fm/music/The+Weather+Station",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v0c1s5",
-      "source": "NHVV",
-      "createdAt": "2026-07-19T00:30:32.000Z",
-      "text": "[NHVV] 30% Off 200+ New and Used LPs",
-      "artist": null,
-      "title": "30% Off 200+ New and Used LPs",
-      "label": null,
-      "genres": [],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://nhvintagevinyl.com/collections/30_off",
-      "knownArtist": false
     }
   ]
 }
