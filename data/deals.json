@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-08-03T01:04:05.192Z",
+  "updatedAt": "2026-08-03T04:57:14.010Z",
   "deals": [
+    {
+      "id": "reddit-t31ve3pao",
+      "source": "Amazon",
+      "createdAt": "2026-08-03T04:52:36.000Z",
+      "text": "[Amazon] Jordan Patterson - The Hermit - $17.07",
+      "artist": "Jordan Patterson",
+      "title": "The Hermit",
+      "label": "Not On Label (Jordan Patterson (3) Self-released)",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country",
+        "Alternative Rock"
+      ],
+      "price": 17.07,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G847H5TG",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/12/a9/7812a941-d969-7fd1-e31a-ece69f4024f3/8721416299476.png/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "North Carolina-born, Los Angeles-raised Jordan Patterson is an American singer-songwriter and producer creating catharsis from a folk and alternative landscape. Blunt, raw and decisive, Patterson is creating a world within her self-recorded and produced songs.",
+      "bioUrl": "https://www.last.fm/music/Jordan+Patterson",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31ve14rs",
+      "source": "Amazon",
+      "createdAt": "2026-08-03T02:42:14.000Z",
+      "text": "[Amazon] Kadavar – Kids Abandoning Destiny Among Vanity And Ruin $12.37",
+      "artist": null,
+      "title": "Kadavar – Kids Abandoning Destiny Among Vanity And Ruin",
+      "label": "Clouds Hill",
+      "genres": [
+        "Rock",
+        "Psychedelic Rock",
+        "Hard Rock",
+        "Stoner Rock"
+      ],
+      "price": 12.37,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FP2Z3K6X",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://i.discogs.com/7GgDdstIphoCu0nAiOcaG7fTkHPvnLW9sh2a6DuQyMQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTkz/MzIxLTE3NjI5NzUy/NzQtMTc1Ni5qcGVn.jpeg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31vdysyu",
       "source": "Amazon",
@@ -11561,50 +11612,6 @@
       "knownArtist": false,
       "bio": "Formed by teenage best friends Avery Tucker and Harmony Tividad in 2013, Girlpool evolved dramatically in a relatively short time frame.",
       "bioUrl": "https://www.last.fm/music/Girlpool",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v0flma",
-      "source": "Amazon",
-      "createdAt": "2026-07-19T03:27:16.000Z",
-      "text": "[Amazon] Slash - Live At The S.E.R.P.E.N.T. Festival (Tri-Color Vinyl) $16.60 Lowest",
-      "artist": "Slash",
-      "title": "Live At The S.E.R.P.E.N.T. Festival (Tri-Color Vinyl) $16.60 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 16.6,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FQX25NNC",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/3c/25/4b3c25cf-2ab1-2f29-038c-9072310601a0/4029759209249.jpg/400x400bb.jpg",
-      "bio": "Saul Hudson (born 23 July 1965, Stoke-on-Trent, England), better known by his stage name Slash, is a British-American musician. He is the lead guitarist of the American hard rock band Guns N' Roses, with whom he performed and recorded between 1985 and 1996, and rejoined in 2016.",
-      "bioUrl": "https://www.last.fm/music/Slash",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v0e1dw",
-      "source": "Amazon",
-      "createdAt": "2026-07-19T02:08:02.000Z",
-      "text": "[Amazon] The Weather Station - How Is It That I Should Look At The Stars $11.84",
-      "artist": "The Weather Station",
-      "title": "How Is It That I Should Look At The Stars",
-      "label": "Fat Possum Records",
-      "genres": [
-        "Folk, World, & Country"
-      ],
-      "price": 11.84,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09R512RSV",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/aa/3d/3a/aa3d3ac0-25d8-1721-a057-ec9d363c1958/196292662214.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Weather Station is a Canadian folk music project of Tamara Lindeman, formed in 2006. It is said that the Weather Station was born in a closet. One day, Tamara Lindeman sat down to make music she had never heard.",
-      "bioUrl": "https://www.last.fm/music/The+Weather+Station",
       "bioSource": "Last.fm"
     }
   ]
