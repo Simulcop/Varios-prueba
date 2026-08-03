@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-08-03T18:43:17.567Z",
+  "updatedAt": "2026-08-03T20:20:30.853Z",
   "deals": [
+    {
+      "id": "reddit-t31veoa22",
+      "source": "Amazon US",
+      "createdAt": "2026-08-03T20:02:49.000Z",
+      "text": "[Amazon US] South West Regional Coupons (Northern California/Central Valley?)",
+      "artist": null,
+      "title": "South West Regional Coupons (Northern California/Central Valley?)",
+      "label": null,
+      "genres": [],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/promotion/psp/A1IIB1XLP5TVT8",
+      "knownArtist": false
+    },
+    {
+      "id": "reddit-t31veo0kv",
+      "source": "Walmart",
+      "createdAt": "2026-08-03T19:53:08.000Z",
+      "text": "[Walmart] ELO - El Dorado - 180g - $18.86",
+      "artist": "ELO",
+      "title": "El Dorado - 180g",
+      "label": null,
+      "genres": [],
+      "price": 18.86,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3ms7bjbhq6k2d",
+      "knownArtist": false,
+      "bio": "Electric Light Orchestra (ELO) are an English rock band formed in Birmingham in 1970 by Jeff Lynne, Roy Wood and Bev Bevan. Their music combines rock and pop with orchestral and classical influences.",
+      "bioUrl": "https://www.last.fm/music/Electric+Light+Orchestra",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vejwks",
       "source": "Amazon",
@@ -11984,40 +12019,6 @@
       "lowest": false,
       "amazonUrl": "https://watchitburnrecords.bandcamp.com/album/lost-in-the-chronic-ride-that-satellite",
       "knownArtist": false
-    },
-    {
-      "id": "reddit-t31v10n3y",
-      "source": "Amazon",
-      "createdAt": "2026-07-19T20:14:49.000Z",
-      "text": "[Amazon] Françoise Hardy – L'Amitié (Opaque Baby Blue Color) $14.59 Lowest",
-      "artist": null,
-      "title": "Françoise Hardy – L'Amitié (Opaque Baby Blue Color) $14.59 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 14.59,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FJYQW997",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/d2/38/aad2388f-e02d-7375-c119-ef007bb34e77/196872921403.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31v10iic",
-      "source": "Amazon",
-      "createdAt": "2026-07-19T20:09:39.000Z",
-      "text": "[Amazon] Jill Barber – A Holly Jolly Jill Barber Christmas (Jack Pine Evergreen Color) $7.06 Lowest",
-      "artist": null,
-      "title": "Jill Barber – A Holly Jolly Jill Barber Christmas (Jack Pine Evergreen Color) $7.06 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 7.06,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FV2L877J",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/db/c5/6edbc592-f684-78d8-bcb6-e7746c781387/116810.jpg/400x400bb.jpg"
     }
   ]
 }
