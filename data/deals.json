@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-08-03T11:53:30.066Z",
+  "updatedAt": "2026-08-03T14:16:28.478Z",
   "deals": [
+    {
+      "id": "reddit-t31veei5o",
+      "source": "Amazon",
+      "createdAt": "2026-08-03T14:09:11.000Z",
+      "text": "[Amazon] Judas Priest - British Steel - $18.97",
+      "artist": "Judas Priest",
+      "title": "British Steel",
+      "label": "CBS",
+      "genres": [
+        "Rock",
+        "Heavy Metal"
+      ],
+      "price": 18.97,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B01MZCQ0YX",
+      "knownArtist": false,
+      "year": "1980",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/3e/ce/c7/3ecec7e6-66a3-7ca8-d70f-5a4512aa21ba/dj.stjulnox.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Judas Priest are an English heavy metal band formed in Birmingham in 1969. They have sold over 50 million albums and are considered a significant influence within the heavy metal genre.",
+      "bioUrl": "https://www.last.fm/music/Judas+Priest",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31veddfl",
+      "source": "Amazon",
+      "createdAt": "2026-08-03T13:25:10.000Z",
+      "text": "[Amazon] R.E.M. - Fables Of The Reconstruction - $16.78",
+      "artist": "R.E.M.",
+      "title": "Fables Of The Reconstruction",
+      "label": "I.R.S. Records",
+      "genres": [
+        "Rock",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "price": 16.78,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CZWTRGCG",
+      "knownArtist": false,
+      "year": "1985",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6f/f9/38/6ff93885-9b51-a27e-2736-11e0abde7a27/13UABIM31546.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "R.E.M. was an American rock band formed in Athens, Georgia, in 1980 by drummer Bill Berry, guitarist Peter Buck, bassist Mike Mills, and vocalist Michael Stipe. The group emerged from the local music scene while its members were associated with the University of Georgia.",
+      "bioUrl": "https://www.last.fm/music/R.E.M.",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31veb7cz",
       "source": "Amazon",
@@ -11743,58 +11794,6 @@
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/f9/32/7cf932a7-aa32-2532-6e1b-2ed16d930445/14CMGIM01195.rgb.jpg/400x400bb.jpg",
       "bio": "Sir James Paul McCartney (born 18 June 1942) is an English musician, singer, songwriter, and composer. He is best known as a member of the Beatles, where he served primarily as bassist and shared songwriting and lead vocal responsibilities with John Lennon.",
       "bioUrl": "https://www.last.fm/music/Paul+McCartney",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v0quiw",
-      "source": "Amazon",
-      "createdAt": "2026-07-19T13:38:19.000Z",
-      "text": "[Amazon] Yusuf/Cat Stevens - On The Road To Findout: Greatest Hits - $17.25",
-      "artist": "Yusuf/Cat Stevens",
-      "title": "On The Road To Findout: Greatest Hits",
-      "label": "Island Records",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Folk, World, & Country"
-      ],
-      "price": 17.25,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://a.co/d/0iecwffw",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/6a/f1/fe6af1a1-886c-3c5b-435c-5e24fd2083ef/25UMGIM94231.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "British singer-songwriter born in London on July 21, 1948. His musical career was interrupted in 1969 when he contracted tuberculosis. He converted to Islam in 1977, adopting the name Yusuf Islam the following year. Inducted into the Rock and Roll Hall of Fame 2014. Brother of .",
-      "bioUrl": "https://www.discogs.com/artist/37606-Cat-Stevens",
-      "bioSource": "Discogs"
-    },
-    {
-      "id": "reddit-t31v0qkxf",
-      "source": "Amazon",
-      "createdAt": "2026-07-19T13:26:26.000Z",
-      "text": "[Amazon] New Found Glory - Listen Up! - $21.35",
-      "artist": "New Found Glory",
-      "title": "Listen Up!",
-      "label": "Pure Noise Records",
-      "genres": [
-        "Rock",
-        "Pop Punk",
-        "Punk"
-      ],
-      "price": 21.35,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FT3PV2ZC?tag=redyeet-20",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/5d/a5/5d5da5bc-dc67-d3e4-c783-4046ddd78176/199538361230.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "New Found Glory (often abbreviated to NFG) are an American pop-punk band based in South Florida (Coral Springs). The band consists of Jordan Pundik (vocals), Chad Gilbert (guitar), Ian Grushka (bass) and Cyrus Bolooki (drums).",
-      "bioUrl": "https://www.last.fm/music/New+Found+Glory",
       "bioSource": "Last.fm"
     }
   ]
