@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-08-03T08:24:46.205Z",
+  "updatedAt": "2026-08-03T11:53:30.066Z",
   "deals": [
+    {
+      "id": "reddit-t31veb7cz",
+      "source": "Amazon",
+      "createdAt": "2026-08-03T11:50:22.000Z",
+      "text": "[Amazon] Iron & Wine - Hen's Teeth $20",
+      "artist": "Iron & Wine",
+      "title": "Hen's Teeth $20",
+      "label": null,
+      "genres": [],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GDVTSHQQ/",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/65/59/1c6559a0-28e0-f732-bfaa-ff2e8585bd7d/098787170764.png/400x400bb.jpg",
+      "bio": "Iron & Wine is the stage and recording name of folk rock singer and composer Sam Beam (born July 26, 1974). He currently resides in Dripping Springs, Texas, outside Austin.",
+      "bioUrl": "https://www.last.fm/music/Iron+&+Wine",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vea1oc",
+      "source": "Amazon",
+      "createdAt": "2026-08-03T10:50:37.000Z",
+      "text": "[Amazon] Horace Silver - Silver in Seattle: Live at the Penthouse $16",
+      "artist": "Horace Silver",
+      "title": "Silver in Seattle: Live at the Penthouse $16",
+      "label": "Blue Note",
+      "genres": [
+        "Jazz",
+        "Hard Bop"
+      ],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FM48R7XN/",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/19/20/82192084-c184-c531-33c1-ce3b6261e7e9/25UMGIM95592.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Horace Silver (September 2, 1928 - June 18, 2014) was an American jazz pianist and composer. He is known for his distinctive humorous and funky playing style, and for his pioneering contributions to hard bop.",
+      "bioUrl": "https://www.last.fm/music/Horace+Silver",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31ve78h0",
       "source": "Amazon",
