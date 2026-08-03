@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-08-03T14:16:28.478Z",
+  "updatedAt": "2026-08-03T16:44:29.261Z",
   "deals": [
+    {
+      "id": "reddit-t31veimml",
+      "source": "Amazon",
+      "createdAt": "2026-08-03T16:39:19.000Z",
+      "text": "(Amazon) Tori Amos - Strange Little Girls I Don't Like Mondays Version [2xLP] @ $15.18 LOWEST PLUS YMMV Coupon @ $12.14",
+      "artist": "Tori Amos",
+      "title": "Strange Little Girls I Don't Like Mondays Version [2xLP] @ $15.18 LOWEST PLUS YMMV Coupon",
+      "label": null,
+      "genres": [],
+      "price": 12.14,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G6G9ZGD6",
+      "knownArtist": false,
+      "bio": "Tori Amos (born Myra Ellen Amos; 22 August 1963) is an American singer-songwriter and pianist, recognised for her classically trained mezzo-soprano voice.",
+      "bioUrl": "https://www.last.fm/music/Tori+Amos",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31veei5o",
       "source": "Amazon",
@@ -11775,26 +11794,6 @@
       "amazonUrl": "https://www.amazon.com/dp/B0FV2L877J",
       "knownArtist": false,
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/db/c5/6edbc592-f684-78d8-bcb6-e7746c781387/116810.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31v0tfyt",
-      "source": "Amazon",
-      "createdAt": "2026-07-19T15:26:16.000Z",
-      "text": "[Amazon] Paul McCartney - Wonderful Christmastime 7\" $6.80 Lowest",
-      "artist": "Paul McCartney",
-      "title": "Wonderful Christmastime 7\" $6.80 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 6.8,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://a.co/d/04OTdWwS",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/f9/32/7cf932a7-aa32-2532-6e1b-2ed16d930445/14CMGIM01195.rgb.jpg/400x400bb.jpg",
-      "bio": "Sir James Paul McCartney (born 18 June 1942) is an English musician, singer, songwriter, and composer. He is best known as a member of the Beatles, where he served primarily as bassist and shared songwriting and lead vocal responsibilities with John Lennon.",
-      "bioUrl": "https://www.last.fm/music/Paul+McCartney",
-      "bioSource": "Last.fm"
     }
   ]
 }
