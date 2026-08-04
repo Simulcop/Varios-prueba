@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-04T08:21:33.347Z",
+  "updatedAt": "2026-08-04T11:01:11.846Z",
   "deals": [
+    {
+      "id": "reddit-t31vf4qxm",
+      "source": "Amazon",
+      "createdAt": "2026-08-04T08:48:47.000Z",
+      "text": "[Amazon] Vampire Weekend - Vampire Weekend - $20.99",
+      "artist": "Vampire Weekend",
+      "title": "Vampire Weekend",
+      "label": "XL Recordings",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Indie Rock"
+      ],
+      "price": 20.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0010X758Q",
+      "knownArtist": false,
+      "year": "2008",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8d/51/fd/8d51fdc8-1924-92f4-4603-4b50f93acda5/886448304548.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Vampire Weekend is an American indie rock band formed in February 2006 in New York, New York, United States. The band consists of Ezra Koenig (vocals, guitar), Chris Baio (bass) and Christopher Tomson (drums).",
+      "bioUrl": "https://www.last.fm/music/Vampire+Weekend",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vf2v3a",
       "source": "Amazon",
@@ -11954,84 +11980,6 @@
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/13/a3/0413a364-7a3c-d89e-9fe8-fb5ff97cab12/49223.jpg/400x400bb.jpg",
       "bio": "Andrew Bird (born July 11, 1973) is an American musician. He was born in Lake Bluff, Illinois but currently resides in the Los Angeles area. Bird is a singer, a violinist and, since 2004, a guitarist. He is also an accomplished whistler.",
       "bioUrl": "https://www.last.fm/music/Andrew+Bird",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v1hsiz",
-      "source": "Amazon",
-      "createdAt": "2026-07-20T10:35:38.000Z",
-      "text": "[Amazon] Bryan Adams - Roll With The Punches $22.60",
-      "artist": "Bryan Adams",
-      "title": "Roll With The Punches",
-      "label": "Bad Records",
-      "genres": [
-        "Rock",
-        "Soft Rock"
-      ],
-      "price": 22.6,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0F79LDL5V",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/06/c9/6606c92c-b629-2e56-e235-372869359dcf/5059449222011.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Bryan Guy Adams (born November 5, 1959) is a Canadian singer-songwriter, musician, record producer, and photographer. He has sold an estimated 75 to more than 100 million records worldwide and is regarded as one of the best-selling music artists.",
-      "bioUrl": "https://www.last.fm/music/Bryan+Adams",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v1h5zb",
-      "source": "Amazon",
-      "createdAt": "2026-07-20T10:01:18.000Z",
-      "text": "[Amazon] Miles Davis & Quincy Jones - Live At Montreux $25.80",
-      "artist": "Miles Davis & Quincy Jones",
-      "title": "Live At Montreux",
-      "label": "Warner Bros. Records",
-      "genres": [
-        "Jazz",
-        "Bop",
-        "Big Band"
-      ],
-      "price": 25.8,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GP23CV3W/",
-      "knownArtist": false,
-      "year": "1993",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/b0/ba/b9/mzi.oqpbvmby.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Throughout a professional career lasting 50 years, Miles Davis played the trumpet in a lyrical, introspective, and melodic style, often employing a stemless Harmon mute to make his sound more personal and intimate.",
-      "bioUrl": "https://www.last.fm/music/Miles+Davis+&+Quincy+Jones",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v1ghio",
-      "source": "Amazon",
-      "createdAt": "2026-07-20T09:21:51.000Z",
-      "text": "[Amazon] Duran Duran - Thank You - 2LP - $28.30",
-      "artist": "Duran Duran",
-      "title": "Thank You - 2LP",
-      "label": "Capitol Records",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Pop",
-        "Pop Rock"
-      ],
-      "price": 28.3,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mr2xqnvm3c2p",
-      "knownArtist": false,
-      "year": "1993",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6a/32/b6/6a32b6b8-51c6-0d08-4b34-d27c71373a0b/724382941958.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Duran Duran (named after a character in Roger Vadim's sci-fi classic, Barbarella) is an electronic pop rock band that was part of the New Wave movement of the 80s and 90s. Duran Duran have sold over 100 million records, making them one of the world's best-selling music artists.",
-      "bioUrl": "https://www.last.fm/music/Duran+Duran",
       "bioSource": "Last.fm"
     }
   ]
