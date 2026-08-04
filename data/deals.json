@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-08-04T20:49:42.633Z",
+  "updatedAt": "2026-08-04T22:04:07.239Z",
   "deals": [
+    {
+      "id": "reddit-t31vfn2bi",
+      "source": "Amazon",
+      "createdAt": "2026-08-04T21:07:30.000Z",
+      "text": "(Amazon) [Regional Coupon] Miles Davis, Quincy Jones - Live At Montreux [Rhino Reserve] @ $23.23",
+      "artist": "Miles Davis, Quincy Jones",
+      "title": "Live At Montreux [Rhino Reserve]",
+      "label": "Warner Bros. Records",
+      "genres": [
+        "Jazz",
+        "Bop",
+        "Big Band"
+      ],
+      "price": 23.23,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GP23CV3W",
+      "knownArtist": false,
+      "year": "1993",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/b0/ba/b9/mzi.oqpbvmby.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Throughout a professional career lasting 50 years, Miles Davis played the trumpet in a lyrical, introspective, and melodic style, often employing a stemless Harmon mute to make his sound more personal and intimate.",
+      "bioUrl": "https://www.last.fm/music/Miles+Davis+&+Quincy+Jones",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vfmjnl",
+      "source": "Amazon",
+      "createdAt": "2026-08-04T20:48:08.000Z",
+      "text": "(Amazon) Gorillaz - Plastic Beach [2xLP] @ $20.98",
+      "artist": "Gorillaz",
+      "title": "Plastic Beach [2xLP]",
+      "label": "Parlophone",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "price": 20.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B003QSHIPS",
+      "knownArtist": false,
+      "year": "2010",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/f9/b9/b8f9b9f8-a609-bde2-0302-349436ffc508/825646291038.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Gorillaz are an English virtual band created in 1998 by musician Damon Albarn and artist Jamie Hewlett. The project is centered on four fictional members: 2-D, Murdoc Niccals, Noodle and Russel Hobbs.",
+      "bioUrl": "https://www.last.fm/music/Gorillaz",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vfklan",
       "source": "Walmart",
@@ -11694,33 +11747,6 @@
       "enrichedVia": "discogs",
       "bio": "There are multiple artists with this name: 1) Kadavar is a progressive/hard/psychedelic rock band from Berlin, Germany. They play retro rock/proto-metal with occult themes. See Bandcamp for releases.",
       "bioUrl": "https://www.last.fm/music/Kadavar",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v1y4t7",
-      "source": "Amazon",
-      "createdAt": "2026-07-20T21:09:41.000Z",
-      "text": "(Amazon) Bad Moves - Tell No One @ $10.18",
-      "artist": "Bad Moves",
-      "title": "Tell No One",
-      "label": "Don Giovanni Records",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Indie Pop",
-        "Power Pop"
-      ],
-      "price": 10.18,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B07FTSJ44C",
-      "knownArtist": false,
-      "year": "2018",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fc/94/5b/fc945b5e-a11d-51a0-bbe8-4febc7f5ba85/dj.xrhoeslx.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Bad Moves is four friends making upbeat power-pop about anxiety and identity, drawing on a sound that stretches from forbears like The Nerves and Cheap Trick to contemporary artists like Sheer Mag and Haim. After years knocking around the Washington, D.C.",
-      "bioUrl": "https://www.last.fm/music/Bad+Moves",
       "bioSource": "Last.fm"
     }
   ]
