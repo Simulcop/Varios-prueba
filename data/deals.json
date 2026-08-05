@@ -1,6 +1,81 @@
 {
-  "updatedAt": "2026-08-04T23:30:49.297Z",
+  "updatedAt": "2026-08-05T01:43:28.414Z",
   "deals": [
+    {
+      "id": "reddit-t31vft889",
+      "source": "Amazon",
+      "createdAt": "2026-08-05T01:25:57.000Z",
+      "text": "[Amazon] Kelly Moran ‎– Don't Trust Mirrors $18.10",
+      "artist": null,
+      "title": "Kelly Moran ‎– Don't Trust Mirrors",
+      "label": "Warp Records",
+      "genres": [
+        "Electronic",
+        "Classical",
+        "Experimental",
+        "Modern Classical"
+      ],
+      "price": 18.1,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FS6BF5SB",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/32/29/4e32298e-ba51-d306-8c82-7783f9094bf6/5056818804199.png/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
+    {
+      "id": "reddit-t31vft36a",
+      "source": "Amazon",
+      "createdAt": "2026-08-05T01:19:24.000Z",
+      "text": "[Amazon] Angelo Badalamenti - Music from Twin Peaks Original TV Series 1 Soundtrack $23.25",
+      "artist": "Angelo Badalamenti",
+      "title": "Music from Twin Peaks Original TV Series 1 Soundtrack",
+      "label": "Primetime",
+      "genres": [
+        "Stage & Screen",
+        "Theme",
+        "Soundtrack",
+        "Score"
+      ],
+      "price": 23.25,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B01MSDGE6W",
+      "knownArtist": false,
+      "year": "1994",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/91/95/49/91954948-c2f7-579a-7ec6-61d4b8f02bdd/dj.pprunfmw.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Angelo Daniel Badalamenti (22 March 1937 – 11 December 2022) was an American composer and arranger best known for his film and television scores, particularly his collaborations with director David Lynch.",
+      "bioUrl": "https://www.last.fm/music/Angelo+Badalamenti",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vfst12",
+      "source": "Amazon",
+      "createdAt": "2026-08-05T01:06:28.000Z",
+      "text": "[Amazon] Bomba Estéreo ‎– Blow Up: 20th Anniversary Edition (Lime Green Marble Vinyl) $19.49",
+      "artist": null,
+      "title": "Bomba Estéreo ‎– Blow Up: 20th Anniversary Edition (Lime Green Marble Vinyl)",
+      "label": "Nacional Records",
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Latin",
+        "Cumbia"
+      ],
+      "price": 19.49,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Blow-Up-Bomba-Est%C3%A9reo/dp/B0FPLST8KC",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/f9/cd/d9/mzi.xjizdoir.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31vfpv5q",
       "source": "Amazon",
@@ -11677,33 +11752,6 @@
       "enrichedVia": "discogs",
       "bio": "The Royal Philharmonic Orchestra (RPO) is a British orchestra based in London. It tours widely, and is sometimes called \"Britain's national orchestra\". The RPO was founded in 1946 by Thomas Beecham and played its first concert in Croydon on September 15, 1946.",
       "bioUrl": "https://www.last.fm/music/The+Royal+Philharmonic+Orchestra",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v236gr",
-      "source": "Amazon",
-      "createdAt": "2026-07-21T00:39:20.000Z",
-      "text": "(Amazon) These New Puritans - Crooked Wing @ $18.40",
-      "artist": "These New Puritans",
-      "title": "Crooked Wing",
-      "label": "Domino",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Art Rock",
-        "Avantgarde"
-      ],
-      "price": 18.4,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0DYZMPCFL",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/e0/e6/48e0e604-c6d2-6733-beb0-e7ba7433ad31/887828055364.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "These New Puritans is an English music group/band from Southend-on-Sea, England. It consists mainly of Jack Barnett (principal songwriter, vocalist, producer, multi-instrumentalist) and his twin brother George Barnett (drums, electronics, producer, artwork).",
-      "bioUrl": "https://www.last.fm/music/These+New+Puritans",
       "bioSource": "Last.fm"
     }
   ]
