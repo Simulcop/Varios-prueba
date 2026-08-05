@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T07:34:41.803Z",
+  "updatedAt": "2026-08-05T10:25:36.982Z",
   "deals": [
     {
       "id": "reddit-t31vfzhtc",
@@ -11718,23 +11718,6 @@
       "bio": "Johnny Blue Skies is the shape-shifting alter ego and current musical moniker of acclaimed country and rock artist Sturgill Simpson. The Dark Clouds act as his official backing band and recording unit, creating a loose, freewheeling, and 1970s-inspired rock and roll sound.",
       "bioUrl": "https://www.last.fm/music/Johnny+Blue+Skies+&+The+Dark+Clouds",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v2c41s",
-      "source": "Ebay",
-      "createdAt": "2026-07-21T08:11:04.000Z",
-      "text": "[Ebay] Free Waltz by Shine Grooves 12\" Limited Edition Yellow LP $14.99 and Free Shipping (Ambient Jazz Electronic)",
-      "artist": null,
-      "title": "Free Waltz by Shine Grooves 12\" Limited Edition Yellow LP $14.99 and Free Shipping (Ambient Jazz Electronic)",
-      "label": null,
-      "genres": [],
-      "price": 14.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.ebay.com/itm/287359264463",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/7d/69/5f7d69f4-285e-a6fe-ba90-ebf8a36da73b/artwork.jpg/400x400bb.jpg"
     }
   ]
 }
