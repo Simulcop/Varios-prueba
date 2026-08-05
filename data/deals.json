@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-05T20:02:08.988Z",
+  "updatedAt": "2026-08-05T21:40:56.707Z",
   "deals": [
+    {
+      "id": "reddit-t31vgkrm8",
+      "source": "Amazon",
+      "createdAt": "2026-08-05T21:34:21.000Z",
+      "text": "(Amazon) Stevie Nicks - Stand Back: 1981-2017 [6xLP Box Set] @ $96.99",
+      "artist": "Stevie Nicks",
+      "title": "Stand Back: 1981-2017 [6xLP Box Set]",
+      "label": "Rhino Records",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Pop Rock"
+      ],
+      "price": 96.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B07NR8Q1C2",
+      "knownArtist": false,
+      "year": "2019",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/cf/9e/b4cf9e73-0530-8fb4-b925-a80e9633b73c/603497852444.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Stephanie Lynn \"Stevie\" Nicks (born May 26, 1948)[1] is an American singer, songwriter, and producer known for her work with the band Fleetwood Mac and as a solo artist.",
+      "bioUrl": "https://www.last.fm/music/Stevie+Nicks",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vgg6bb",
       "source": "Amazon",
@@ -11517,31 +11543,6 @@
       "knownArtist": false,
       "bio": "Salomón Villada Hoyos, also known as Ferxxo or Feid, is a prominent Colombian singer and songwriter in urban music. Born on August 19, 1992, in Medellín, Colombia, he developed a passion for music from a young age and participated in music extension courses with his parents.",
       "bioUrl": "https://www.last.fm/music/Feid",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v2voqr",
-      "source": "Amazon",
-      "createdAt": "2026-07-21T21:20:54.000Z",
-      "text": "[Amazon] Lou Reed - Transformer - $21.98",
-      "artist": "Lou Reed",
-      "title": "Transformer",
-      "label": "RCA Victor",
-      "genres": [
-        "Rock",
-        "Glam"
-      ],
-      "price": 21.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mr6qbkh6ns2v",
-      "knownArtist": false,
-      "year": "1972",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/e7/69/2ae76967-b94e-3b80-a079-93202eeb6157/886445151930.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Lewis Allan Reed (March 2, 1942 – October 27, 2013) was an American musician, songwriter, and poet. He was the guitarist, singer, and principal songwriter for the rock band the Velvet Underground and had a solo career that spanned five decades.",
-      "bioUrl": "https://www.last.fm/music/Lou+Reed",
       "bioSource": "Last.fm"
     }
   ]
