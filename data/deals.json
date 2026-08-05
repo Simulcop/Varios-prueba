@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-05T16:26:11.414Z",
+  "updatedAt": "2026-08-05T18:01:09.264Z",
   "deals": [
+    {
+      "id": "reddit-t31vgdxu0",
+      "source": "Amazon",
+      "createdAt": "2026-08-05T17:27:42.000Z",
+      "text": "[Amazon] L.A. Guns - Man In The Moon (Metallic Silver, 25th Anniversary Edition) - $25.56",
+      "artist": "L.A. Guns",
+      "title": "Man In The Moon (Metallic Silver, 25th Anniversary Edition)",
+      "label": "Spitfire Records",
+      "genres": [
+        "Rock",
+        "Hard Rock"
+      ],
+      "price": 25.56,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G7K7D9TK",
+      "knownArtist": false,
+      "year": "2001",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/c6/f0/b3/c6f0b3a4-a134-45c2-655a-2d8021eae532/670211517927.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "L.A. Guns are an American hard rock band from Los Angeles, formed in 1983. The current lineup consists of Tracii Guns (lead guitar), Phil Lewis (lead vocals), Ace Von Johnson (rhythm guitar, backing vocals), Johnny Martin (bass, backing vocals), Adam Hamilton (studio drums), and Shawn Duncan (live…",
+      "bioUrl": "https://www.last.fm/music/L.A.+Guns",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vgdwne",
+      "source": "Amazon",
+      "createdAt": "2026-08-05T17:26:30.000Z",
+      "text": "[Amazon] Caroline Rose - Superstar (Neon Pink) - $20.02",
+      "artist": "Caroline Rose",
+      "title": "Superstar (Neon Pink)",
+      "label": "New West Records",
+      "genres": [
+        "Electronic",
+        "Funk / Soul",
+        "Pop",
+        "Nu-Disco"
+      ],
+      "price": 20.02,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0DKMKFMX3",
+      "knownArtist": false,
+      "year": "2020",
+      "cover": "https://i.discogs.com/KCxIiwGsKKdtINkwchRsXkUa5sDsG2c-R99V8yEGwz8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAz/NjU3LTE3Njc4MDg0/NzMtNzU5OS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Caroline Elizabeth Rose (born October 19, 1989) is an American singer, songwriter, musician and producer. After releasing two records of folk and country-inspired music, she released a pop-rock album Loner in 2018. Superstar was released on March 6, 2020.",
+      "bioUrl": "https://www.last.fm/music/Caroline+Rose",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vgaldz",
       "source": "Pure Noise",
@@ -11437,33 +11489,6 @@
       "enrichedVia": "discogs",
       "bio": "Lewis Allan Reed (March 2, 1942 – October 27, 2013) was an American musician, songwriter, and poet. He was the guitarist, singer, and principal songwriter for the rock band the Velvet Underground and had a solo career that spanned five decades.",
       "bioUrl": "https://www.last.fm/music/Lou+Reed",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v2p3g5",
-      "source": "Amazon",
-      "createdAt": "2026-07-21T17:27:41.000Z",
-      "text": "(Amazon) Queens Of The Stone Age - Villains @ $20.99",
-      "artist": "Queens Of The Stone Age",
-      "title": "Villains",
-      "label": "Matador",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Hard Rock",
-        "Stoner Rock"
-      ],
-      "price": 20.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B071G991VW",
-      "knownArtist": false,
-      "year": "2017",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/fd/1b/29fd1bfa-da42-c393-6ad8-012b108e9a5e/191401218276.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Queens of the Stone Age (abbreviated QOTSA or QotSA) is an American rock band formed in 1996 by vocalist and guitarist Josh Homme following the breakup of his previous band Kyuss.",
-      "bioUrl": "https://www.last.fm/music/Queens+of+the+Stone+Age",
       "bioSource": "Last.fm"
     }
   ]
