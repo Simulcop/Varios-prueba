@@ -1,4 +1,4 @@
-name: Vinyl Deal Radar - sondeo
+name: Juan Deals - sondeo
 
 # Lee X periodicamente y te avisa por WhatsApp si hay deals que casan con tus
 # alertas. Los runners de GitHub tienen salida a internet (e IPs distintas, que
@@ -22,6 +22,8 @@ concurrency:
 jobs:
   poll:
     runs-on: ubuntu-latest
+    # Backstop: si algo se cuelga, corta el job (no lo dejes 15+ min).
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
 
@@ -55,7 +57,14 @@ jobs:
           ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
           DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }} # bio de respaldo (clave gratis)
-        run: node scripts/run-fetch.mjs
+        # Si la lectura tarda mas de 8 min (red lenta/API colgada), la cortamos y
+        # OMITIMOS esta vuelta sin marcar el run como fallido (asi no llegan emails
+        # de "Run failed" por cuelgues transitorios). La siguiente vuelta reintenta.
+        run: |
+          timeout 480 node scripts/run-fetch.mjs || {
+            echo "::warning::Lectura cortada por tiempo/error transitorio; se omite esta vuelta."
+            exit 0
+          }
 
       # Publica el feed real: si data/deals.json cambio, lo commitea. La web de
       # Render se auto-despliega con este commit y muestra los deals frescos.
