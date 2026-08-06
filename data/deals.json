@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-06T10:28:37.617Z",
+  "updatedAt": "2026-08-06T12:25:44.608Z",
   "deals": [
+    {
+      "id": "reddit-t31vh1a2k",
+      "source": "Amazon",
+      "createdAt": "2026-08-06T11:13:47.000Z",
+      "text": "[Amazon] Bad Religion - Stranger Than Fiction - $15.99",
+      "artist": "Bad Religion",
+      "title": "Stranger Than Fiction",
+      "label": "Epitaph",
+      "genres": [
+        "Rock",
+        "Punk",
+        "Melodic Hardcore",
+        "Alternative Rock"
+      ],
+      "price": 15.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0794NXCP6",
+      "knownArtist": false,
+      "year": "2018",
+      "cover": "https://i.discogs.com/5zhCbMKk-W98VDpuq8htkldQgT57tR6c6Ku0SCGKkiE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMz/MzMxLTE2MzAzMzk0/MTgtNzE0OC5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Bad Religion is a punk rock band from Los Angeles, California, known for the social commentary in their lyrics. The band was formed in 1979 by high school students Greg Graffin (vocals), Jay Bentley (bass guitar), Jay Ziskrout (drums), and Brett Gurewitz (guitar).",
+      "bioUrl": "https://www.last.fm/music/Bad+Religion",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vgwwtf",
       "source": "Amazon",
