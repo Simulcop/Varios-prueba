@@ -23,7 +23,7 @@ jobs:
   poll:
     runs-on: ubuntu-latest
     # Backstop: si algo se cuelga, corta el job (no lo dejes 15+ min).
-    timeout-minutes: 12
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -61,7 +61,9 @@ jobs:
         # OMITIMOS esta vuelta sin marcar el run como fallido (asi no llegan emails
         # de "Run failed" por cuelgues transitorios). La siguiente vuelta reintenta.
         run: |
-          timeout 480 node scripts/run-fetch.mjs || {
+          # -k 30: si a los 300s no murio con SIGTERM, lo mata a la fuerza (SIGKILL)
+          # 30s despues. Asi un cuelgue NUNCA llega al limite del job (que si emailea).
+          timeout -k 30 300 node scripts/run-fetch.mjs || {
             echo "::warning::Lectura cortada por tiempo/error transitorio; se omite esta vuelta."
             exit 0
           }
