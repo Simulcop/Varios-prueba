@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-08-07T18:40:09.556Z",
+  "updatedAt": "2026-08-07T19:44:17.993Z",
   "deals": [
+    {
+      "id": "reddit-t31vi9axk",
+      "source": "Bandcamp",
+      "createdAt": "2026-08-07T18:52:33.000Z",
+      "text": "[Bandcamp] King Gizz 45s on sale for $7! On random colored vinyl. Test pressings also on sale for $15!",
+      "artist": null,
+      "title": "King Gizz 45s on sale for $7! On random colored vinyl. Test pressings also on sale for $15!",
+      "label": null,
+      "genres": [],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://watchitburnrecords.bandcamp.com/album/doom-city-gamma-knife-live-at-red-rocks-2022",
+      "knownArtist": false
+    },
     {
       "id": "reddit-t31vi87b6",
       "source": "Get On Down",
