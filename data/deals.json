@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T13:45:51.029Z",
+  "updatedAt": "2026-08-07T14:44:54.964Z",
   "deals": [
     {
       "id": "reddit-t31vi0koc",
@@ -11258,59 +11258,6 @@
       "enrichedVia": "discogs",
       "bio": "Wolves in the Throne Room is a black metal band which formed in Olympia, Washington, United States in 2002.",
       "bioUrl": "https://www.last.fm/music/Wolves+in+the+Throne+Room",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v4fu6j",
-      "source": "Amazon",
-      "createdAt": "2026-07-23T14:39:29.000Z",
-      "text": "[Amazon] 5 Seconds Of Summer - Sounds Good Feels Good - $21.69",
-      "artist": "5 Seconds Of Summer",
-      "title": "Sounds Good Feels Good",
-      "label": "Hi Or Hey Records",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Pop Rock",
-        "Pop Punk"
-      ],
-      "price": 21.69,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Sounds-Good-Feels-LP/dp/B013VTMZSG",
-      "knownArtist": false,
-      "year": "2015",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/37/12/2e3712c7-606e-288f-7131-b4271b0b0a4c/15UMGIM42291.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "5 Seconds of Summer (also known as 5SOS) is a 4-piece Australian pop rock/pop punk band.",
-      "bioUrl": "https://www.last.fm/music/5+Seconds+of+Summer",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v4fkfc",
-      "source": "Amazon",
-      "createdAt": "2026-07-23T14:29:31.000Z",
-      "text": "[Amazon] Metallica - Ride the Lightning - 180g - $19.34",
-      "artist": "Metallica",
-      "title": "Ride the Lightning - 180g",
-      "label": "Blackened",
-      "genres": [
-        "Rock",
-        "Thrash",
-        "Speed Metal"
-      ],
-      "price": 19.34,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B01BUX7Z7Q",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1d/7d/88/1d7d88ea-3bfd-9f20-2c86-630a32aac634/dj.mapicmzf.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Metallica is an American heavy metal band formed in Los Angeles in 1981 by vocalist and guitarist James Hetfield and drummer Lars Ulrich, and later based primarily in San Francisco. The band is regarded as one of the leading acts in thrash metal, alongside Megadeth, Anthrax, and Slayer.",
-      "bioUrl": "https://www.last.fm/music/Metallica",
       "bioSource": "Last.fm"
     }
   ]
