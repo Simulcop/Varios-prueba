@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T03:24:07.385Z",
+  "updatedAt": "2026-08-07T05:10:23.741Z",
   "deals": [
     {
       "id": "reddit-t31vhpaox",
@@ -11184,31 +11184,6 @@
       "enrichedVia": "discogs",
       "bio": "Metallica is an American heavy metal band formed in Los Angeles in 1981 by vocalist and guitarist James Hetfield and drummer Lars Ulrich, and later based primarily in San Francisco. The band is regarded as one of the leading acts in thrash metal, alongside Megadeth, Anthrax, and Slayer.",
       "bioUrl": "https://www.last.fm/music/Metallica",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v42mbp",
-      "source": "Amazon",
-      "createdAt": "2026-07-23T03:48:51.000Z",
-      "text": "[Amazon] The Replacements - Don't Tell a Soul $16.99",
-      "artist": "The Replacements",
-      "title": "Don't Tell a Soul",
-      "label": "Sire",
-      "genres": [
-        "Rock",
-        "Indie Rock"
-      ],
-      "price": 16.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B01MXMJWK2",
-      "knownArtist": false,
-      "year": "1989",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/81/00/fb/8100fbba-8e62-803f-d28d-77bd130d1214/081227990244.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Replacements was an American alternative rock band that formed in Minneapolis, Minnesota in 1979. The band originally started off as a hardcore punk outfit but began to incorporate folk and power pop influences in their sound.",
-      "bioUrl": "https://www.last.fm/music/The+Replacements",
       "bioSource": "Last.fm"
     }
   ]
