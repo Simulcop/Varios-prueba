@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T14:44:54.964Z",
+  "updatedAt": "2026-08-07T15:44:21.383Z",
   "deals": [
     {
       "id": "reddit-t31vi0koc",
@@ -11207,57 +11207,6 @@
       "enrichedVia": "discogs",
       "bio": "Bent Knee is an American art rock band formed in Boston, Massachusetts in 2009. The band performs in multiple genres and draws from multiple influences, including pop, industrial rock, hip hop, and avant-garde.",
       "bioUrl": "https://www.last.fm/music/Bent+Knee",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v4gyyq",
-      "source": "Amazon",
-      "createdAt": "2026-07-23T15:21:19.000Z",
-      "text": "[Amazon] Piebald - If It Weren't for Venetian Blinds, It Would Be Curtains for Us All - $19.97",
-      "artist": "Piebald",
-      "title": "If It Weren't for Venetian Blinds, It Would Be Curtains for Us All",
-      "label": "Big Wheel Recreation",
-      "genres": [
-        "Rock",
-        "Emo",
-        "Indie Rock"
-      ],
-      "price": 19.97,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G6FCJ6FN",
-      "knownArtist": false,
-      "year": "1999",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/10/be/b310be57-05e7-9c0c-f2b8-e932ea435e5b/18736656019.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Piebald was an indie/punk band formed in 1994 in Andover, Massachusetts. Piebald started as a hardcore band in the same scene that produced legends Converge but later moved to the Boston suburb of Somerville and became a staple of the Greater Boston indie rock scene.",
-      "bioUrl": "https://www.last.fm/music/Piebald",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v4guc1",
-      "source": "Amazon",
-      "createdAt": "2026-07-23T15:16:26.000Z",
-      "text": "[Amazon] Wolves in the Throne Room - Primordial Arcana - $19.98",
-      "artist": "Wolves in the Throne Room",
-      "title": "Primordial Arcana",
-      "label": "Relapse Records",
-      "genres": [
-        "Rock",
-        "Atmospheric Black Metal"
-      ],
-      "price": 19.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B096TRWRYL",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ae/27/7a/ae277a73-4e54-d124-ca31-d4925865c33f/781676458516.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Wolves in the Throne Room is a black metal band which formed in Olympia, Washington, United States in 2002.",
-      "bioUrl": "https://www.last.fm/music/Wolves+in+the+Throne+Room",
       "bioSource": "Last.fm"
     }
   ]
