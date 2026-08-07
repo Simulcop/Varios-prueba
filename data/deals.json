@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T22:03:07.571Z",
+  "updatedAt": "2026-08-07T23:02:19.128Z",
   "deals": [
     {
       "id": "reddit-t31vidae5",
@@ -11212,33 +11212,6 @@
       "bio": "The 1975 are an English pop rock band formed in 2002 in Wilmslow, Cheshire. Now based in Manchester, the band consists of lead vocalist, producer, lyricist and rhythm guitarist Matty Healy (the son of actors Denise Welch and Tim Healy), lead guitarist Adam Hann, bassist Ross MacDonald, and…",
       "bioUrl": "https://www.last.fm/music/The+1975",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v4sr4r",
-      "source": "Amazon",
-      "createdAt": "2026-07-23T22:22:26.000Z",
-      "text": "(Amazon) Judy Collins & Jonas Fjeld - Winter Stories @ $10.88",
-      "artist": "Judy Collins & Jonas Fjeld",
-      "title": "Winter Stories",
-      "label": "Cleopatra",
-      "genres": [
-        "Folk, World, & Country",
-        "Acoustic",
-        "Folk",
-        "Bluegrass"
-      ],
-      "price": 10.88,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0D8YXTM9H",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/57/19/0b/57190b57-fe74-1d80-9547-93b43a0e04b4/889466156069.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Chatham County Line are an Americana Band formed in 1999 in Raleigh, North Carolina. Official Bio: Come 2021, Chatham County Line will have been a staple of the North Carolina music scene for over two decades.",
-      "bioUrl": "https://www.discogs.com/artist/322981-Chatham-County-Line",
-      "bioSource": "Discogs"
     }
   ]
 }
