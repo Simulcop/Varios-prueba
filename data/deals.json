@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T23:02:19.128Z",
+  "updatedAt": "2026-08-07T23:55:15.385Z",
   "deals": [
     {
       "id": "reddit-t31vidae5",
@@ -11184,33 +11184,6 @@
       "enrichedVia": "discogs",
       "bio": "Gouge Away is an American hardcore band from Fort Lauderdale, Florida, currently signed to Deathwish Records. They were formed in 2012, and the following year, the band self-released a pair of EPs (Still Bored and Focus Your Anger) and toured in support of local charities and activist groups.",
       "bioUrl": "https://www.last.fm/music/Gouge+Away",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v4uap7",
-      "source": "Amazon",
-      "createdAt": "2026-07-23T23:24:59.000Z",
-      "text": "[Amazon] The 1975 - Notes On A Conditional Form - 2LP Clear Vinyl - $26.97",
-      "artist": "The 1975",
-      "title": "Notes On A Conditional Form - 2LP Clear Vinyl",
-      "label": "Dirty Hit",
-      "genres": [
-        "Electronic",
-        "Jazz",
-        "Rock",
-        "Pop"
-      ],
-      "price": 26.97,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrdyaskcnk2f",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://i.discogs.com/PXnQdUNHhX6789bYD_v7JWJZ7zszyi2oGUJz3Jv1KI8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzk0/NDM4LTE2OTc1NTc0/MjQtOTI2MC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "The 1975 are an English pop rock band formed in 2002 in Wilmslow, Cheshire. Now based in Manchester, the band consists of lead vocalist, producer, lyricist and rhythm guitarist Matty Healy (the son of actors Denise Welch and Tim Healy), lead guitarist Adam Hann, bassist Ross MacDonald, and…",
-      "bioUrl": "https://www.last.fm/music/The+1975",
       "bioSource": "Last.fm"
     }
   ]
