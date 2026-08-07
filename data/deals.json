@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-07T21:11:50.740Z",
+  "updatedAt": "2026-08-07T22:03:07.571Z",
   "deals": [
+    {
+      "id": "reddit-t31vidae5",
+      "source": "Get On Down",
+      "createdAt": "2026-08-07T21:25:47.000Z",
+      "text": "[Get On Down] Snoop Dogg - Tha Doggfather (Vapors Colored 2xLP) - $24.98",
+      "artist": "Snoop Dogg",
+      "title": "Tha Doggfather (Vapors Colored 2xLP)",
+      "label": "The New And \"Untouchable\" Death Row Records",
+      "genres": [
+        "Hip Hop",
+        "Gangsta"
+      ],
+      "price": 24.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.discogs.com/release/21169663-Snoop-Doggy-Dogg-Tha-Doggfather",
+      "knownArtist": false,
+      "year": "1996",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/96/2b/54962b01-37cd-f48d-0b04-db5655fff07b/729.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Snoop Dogg (born Calvin Cordozar Broadus Jr.; October 20, 1971), previously known as Snoop Doggy Dogg, is an American rapper, singer, record producer, songwriter, and actor. He is a prominent figure in West Coast hip-hop and played a significant role in the popularization of G-funk and gangsta rap.",
+      "bioUrl": "https://www.last.fm/music/Snoop+Dogg",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31viazkh",
       "source": "Amazon",
@@ -11214,58 +11239,6 @@
       "bio": "Chatham County Line are an Americana Band formed in 1999 in Raleigh, North Carolina. Official Bio: Come 2021, Chatham County Line will have been a staple of the North Carolina music scene for over two decades.",
       "bioUrl": "https://www.discogs.com/artist/322981-Chatham-County-Line",
       "bioSource": "Discogs"
-    },
-    {
-      "id": "reddit-t31v4rm6s",
-      "source": "Amazon",
-      "createdAt": "2026-07-23T21:38:42.000Z",
-      "text": "(Amazon) HTRK - Nostalgia @ $14.34",
-      "artist": "HTRK",
-      "title": "Nostalgia",
-      "label": "Fire Records",
-      "genres": [
-        "Rock",
-        "Industrial",
-        "Experimental",
-        "Ethereal"
-      ],
-      "price": 14.34,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B07WRFK4HV",
-      "knownArtist": false,
-      "year": "2007",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f3/30/0a/f3300aba-54d6-c848-4810-d6fab26879ee/829410616263_cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Originated in Melbourne, Australia, art rock project HTRK -- pronounced \"Hate Rock\" (also known before as Hate Rock Trio) -- began performing in 2003.",
-      "bioUrl": "https://www.last.fm/music/HTRK",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v4rlrp",
-      "source": "Amazon",
-      "createdAt": "2026-07-23T21:38:15.000Z",
-      "text": "(Amazon) Tyler Hubbard - Tyler Hubbard [2xLP Cobalt Blue] @ $12.44",
-      "artist": "Tyler Hubbard",
-      "title": "Tyler Hubbard [2xLP Cobalt Blue]",
-      "label": "EMI Records Nashville",
-      "genres": [
-        "Folk, World, & Country",
-        "Country"
-      ],
-      "price": 12.44,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BKWFJ4J2",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5d/95/55/5d95559e-3e53-6f44-2d35-9610fbef9b88/22UM1IM11588.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Tyler Hubbard is a singer-songwriter, and musician, best known as a member of the Nashville-based duo Florida Georgia Line. After that duo went on hiatus in 2021, Hubbard began recording as a solo artist on EMI Nashville.",
-      "bioUrl": "https://www.last.fm/music/Tyler+Hubbard",
-      "bioSource": "Last.fm"
     }
   ]
 }
