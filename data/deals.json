@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T17:00:00.935Z",
+  "updatedAt": "2026-08-08T17:33:39.399Z",
   "deals": [
     {
       "id": "reddit-t31viy9ix",
@@ -10702,77 +10702,6 @@
       "enrichedVia": "discogs",
       "bio": "Joy Division was an English post-punk band formed in 1976 in Salford, Greater Manchester, United Kingdom.",
       "bioUrl": "https://www.last.fm/music/Joy+Division",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5i36m",
-      "source": "Walmart",
-      "createdAt": "2026-07-24T17:31:24.000Z",
-      "text": "[Walmart] Boards of Canada - Music Has the Right to Children - 2LP - $23.41",
-      "artist": "Boards of Canada",
-      "title": "Music Has the Right to Children - 2LP",
-      "label": "Warp Records",
-      "genres": [
-        "Electronic",
-        "IDM",
-        "Ambient"
-      ],
-      "price": 23.41,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrfux4nrc22i",
-      "knownArtist": false,
-      "year": "2013",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/b5/4c/c2/b54cc20d-03f5-f2c4-4a0d-9b51ad65af89/dj.txuslqgv.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Boards of Canada are a Scottish electronic music duo consisting of brothers Mike Sandison and Marcus Eoin. They initially signed to Skam Records and later to Warp Records in the 1990s, gaining wider recognition after the release of their debut studio album \"Music Has the Right to Children\" in 1998.",
-      "bioUrl": "https://www.last.fm/music/Boards+of+Canada",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5hsu3",
-      "source": "Walmart",
-      "createdAt": "2026-07-24T17:21:23.000Z",
-      "text": "[Walmart] V/A - The Tarantino Experience Reloaded - 2LP Yellow / Red Vinyl - $22.76",
-      "artist": "V/A",
-      "title": "The Tarantino Experience Reloaded - 2LP Yellow / Red Vinyl",
-      "label": null,
-      "genres": [],
-      "price": 22.76,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrfub5mpzc2i",
-      "knownArtist": false,
-      "bio": "Warning! Deleting this artist may remove other artists and scrobbles from your library - please handle this with caution! Note: You can view albums tagged as 'Various Artists' in your library here.",
-      "bioUrl": "https://www.last.fm/music/Various+Artists",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5hfu2",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T17:09:01.000Z",
-      "text": "(Amazon) Cephalic Carnage - Exploiting Dysfunction Deluxe 25th Anniversary [2xLP] @ $22.91",
-      "artist": "Cephalic Carnage",
-      "title": "Exploiting Dysfunction Deluxe 25th Anniversary [2xLP]",
-      "label": "Relapse Records",
-      "genres": [
-        "Rock",
-        "Grindcore",
-        "Death Metal"
-      ],
-      "price": 22.91,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G157CPXD",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/7b/b7/4b/dj.uylxjzpn.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Formed in Denver, Colorado, United States Cephalic Carnage has set out to break down musical barriers by raising both the expectations and standards of extremity in heavy music.",
-      "bioUrl": "https://www.last.fm/music/Cephalic+Carnage",
       "bioSource": "Last.fm"
     }
   ]
