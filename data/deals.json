@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:20:47.495Z",
+  "updatedAt": "2026-08-08T21:53:00.469Z",
   "deals": [
     {
       "id": "reddit-t31vj4v63",
@@ -10322,33 +10322,6 @@
       "enrichedVia": "discogs",
       "bio": "The Acacia Strain is an American metal band formed in 2001. Originally from Chicopee, Massachusetts, the band is now based in Albany, New York. They are currently signed to Rise Records.",
       "bioUrl": "https://www.last.fm/music/The+Acacia+Strain",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5ota8",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T21:34:13.000Z",
-      "text": "[Amazon] Refused - The Shape of Punk to Come - 2LP - $24.49",
-      "artist": "Refused",
-      "title": "The Shape of Punk to Come - 2LP",
-      "label": "Epitaph",
-      "genres": [
-        "Rock",
-        "Hardcore",
-        "Punk",
-        "Prog Rock"
-      ],
-      "price": 24.49,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrgcjpt2s223",
-      "knownArtist": false,
-      "year": "2010",
-      "cover": "https://i.discogs.com/_PWXAbzNKI7mX6jcG-lBBLEOX3t2h0wDdtl9LWRehNk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDYz/MzI5LTE2NDU5ODg2/NjUtNDg0My5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Refused is a hardcore band from Umeå, Sweden, formed in 1991. Members include vocalist Dennis Lyxzén, guitarist Kristofer Steen, drummer David Sandström, and bassist Magnus Flagge. Many sources cite the band as extremely influential in the development of underground music.",
-      "bioUrl": "https://www.last.fm/music/Refused",
       "bioSource": "Last.fm"
     }
   ]
