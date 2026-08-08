@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T20:54:53.643Z",
+  "updatedAt": "2026-08-08T21:20:47.495Z",
   "deals": [
     {
       "id": "reddit-t31vj4v63",
@@ -10349,32 +10349,6 @@
       "enrichedVia": "discogs",
       "bio": "Refused is a hardcore band from Umeå, Sweden, formed in 1991. Members include vocalist Dennis Lyxzén, guitarist Kristofer Steen, drummer David Sandström, and bassist Magnus Flagge. Many sources cite the band as extremely influential in the development of underground music.",
       "bioUrl": "https://www.last.fm/music/Refused",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5oabu",
-      "source": "Walmart",
-      "createdAt": "2026-07-24T21:14:26.000Z",
-      "text": "[Walmart] Misfits - Evilive - $16.78",
-      "artist": "Misfits",
-      "title": "Evilive",
-      "label": "Plan 9",
-      "genres": [
-        "Rock",
-        "Hardcore",
-        "Punk"
-      ],
-      "price": 16.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrgbg6py3223",
-      "knownArtist": false,
-      "year": "1987",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/07/76/3e/07763ecd-676b-fe04-7a1f-1c3352601eb0/00724356060555.tif/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Misfits are an American punk rock band formed in Lodi, New Jersey in 1977. Often recognized as the progenitors of the horror punk subgenre, blending punk and other musical influences with horror film themes and imagery.",
-      "bioUrl": "https://www.last.fm/music/Misfits",
       "bioSource": "Last.fm"
     }
   ]
