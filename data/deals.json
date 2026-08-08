@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T05:13:27.557Z",
+  "updatedAt": "2026-08-08T06:03:13.866Z",
   "deals": [
     {
       "id": "reddit-t31vimi1u",
@@ -11031,31 +11031,6 @@
       "enrichedVia": "discogs",
       "bio": "Spın̈al Tap is the name of a fictional English hard rock / 80s heavy metal band, created for the 1984 rockumentary film This Is Spın̈al Tap. However, due to the success of the film, the band went on to record and release three albums.",
       "bioUrl": "https://www.last.fm/music/Spinal+Tap",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v52lhq",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T05:53:45.000Z",
-      "text": "[Amazon] Alice Cooper - The Revenge of Alice Cooper [2 LP] $20.03",
-      "artist": "Alice Cooper",
-      "title": "The Revenge of Alice Cooper [2 LP]",
-      "label": "Ear Music",
-      "genres": [
-        "Rock",
-        "Hard Rock"
-      ],
-      "price": 20.03,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0F59PDWMY",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/36/73/a236735e-3033-c05c-e3fe-e3852942020f/4029759203735.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Alice Cooper (born Vincent Damon Furnier; February 4, 1948) is an American singer and songwriter. With a career spanning more than five decades, Cooper is known for his raspy singing voice and theatrical stage shows featuring props and illusions.",
-      "bioUrl": "https://www.last.fm/music/Alice+Cooper",
       "bioSource": "Last.fm"
     }
   ]
