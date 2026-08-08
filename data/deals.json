@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-08T14:04:30.911Z",
+  "updatedAt": "2026-08-08T14:55:43.197Z",
   "deals": [
+    {
+      "id": "reddit-t31vixh4c",
+      "source": "Amazon",
+      "createdAt": "2026-08-08T14:30:10.000Z",
+      "text": "[Amazon] Playboi Carti - Whole Lotta Red [2 LP] - 5 Year Anniversary Rain Cloud White - $27.99",
+      "artist": "Playboi Carti",
+      "title": "Whole Lotta Red [2 LP] - 5 Year Anniversary Rain Cloud White",
+      "label": null,
+      "genres": [],
+      "price": 27.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FXB7Z18R",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/91/cc/37/91cc3757-159a-0b90-1074-7e5fab69cb4a/842812153174.jpg/400x400bb.jpg",
+      "bio": "Jordan Terrell Carter (born September 13, 1996 which is confirmed via recent bodycam footage from last year), known professionally as Playboi Carti, is an American rapper.",
+      "bioUrl": "https://www.last.fm/music/Playboi+Carti",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vioaff",
       "source": "Amazon",
