@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T16:20:50.232Z",
+  "updatedAt": "2026-08-08T17:00:00.935Z",
   "deals": [
     {
       "id": "reddit-t31viy9ix",
@@ -10773,103 +10773,6 @@
       "enrichedVia": "discogs",
       "bio": "Formed in Denver, Colorado, United States Cephalic Carnage has set out to break down musical barriers by raising both the expectations and standards of extremity in heavy music.",
       "bioUrl": "https://www.last.fm/music/Cephalic+Carnage",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5h5w7",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T16:59:28.000Z",
-      "text": "(Amazon) Wall of Voodoo - Museums @ $14.79",
-      "artist": "Wall of Voodoo",
-      "title": "Museums",
-      "label": "I.R.S. Records",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "New Wave",
-        "Alternative Rock"
-      ],
-      "price": 14.79,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GG5KSY3H",
-      "knownArtist": false,
-      "year": "1985",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/03/2c/d9032c36-367d-c541-a0a7-875b459cce22/810137044743_cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Wall of Voodoo were a New Wave band from Los Angeles, California, United States, best known for the 1983 hit \"Mexican Radio\". The band's sound was considered a fusion of synthesizer-based New Wave music with the style of spaghetti-western composers such as Ennio Morricone.",
-      "bioUrl": "https://www.last.fm/music/Wall+of+Voodoo",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5h26c",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T16:55:55.000Z",
-      "text": "(Amazon) Jennifer Lopez, Diego Luna, Tonatium - Kiss of the Spider Woman Soundtrack @ $16.38",
-      "artist": "Jennifer Lopez, Diego Luna, Tonatium",
-      "title": "Kiss of the Spider Woman Soundtrack",
-      "label": null,
-      "genres": [],
-      "price": 16.38,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FTG8JMYQ",
-      "knownArtist": false
-    },
-    {
-      "id": "reddit-t31v5gteu",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T16:47:13.000Z",
-      "text": "(Amazon) Carlos Niño & Friends - I'm Just Chillin', On Fire [2xLP] @ $19.64",
-      "artist": "Carlos Niño & Friends",
-      "title": "I'm Just Chillin', On Fire [2xLP]",
-      "label": "International Anthem Recording Company",
-      "genres": [
-        "Electronic",
-        "Jazz",
-        "Funk / Soul",
-        "Ambient"
-      ],
-      "price": 19.64,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0C78L6K7K",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9a/0f/00/9a0f0068-19c9-deda-0141-e35754fb3e20/96970.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "It was then, in early 2006, that Carlos Niño got to work on new tracks with members of Build An Ark and his other ensembles, (including TLFT.) Over the last couple years, he kept a collection of these pieces, knowing that they were comprising a whole idea that he wanted to express.",
-      "bioUrl": "https://www.last.fm/music/Carlos+Ni%C3%B1o+&+Friends",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5glbo",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T16:39:11.000Z",
-      "text": "(Amazon) Grateful Dead - Wake of the Flood 50th Anniversary [Picture Disc] @ $17.01",
-      "artist": "Grateful Dead",
-      "title": "Wake of the Flood 50th Anniversary [Picture Disc]",
-      "label": "Grateful Dead Records",
-      "genres": [
-        "Rock",
-        "Folk, World, & Country",
-        "Psychedelic Rock",
-        "Folk Rock"
-      ],
-      "price": 17.01,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CCWBLNM5",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/88/43/1d88432b-5b68-fa53-15df-2a6620b8fc08/603497833863.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Grateful Dead was an American rock band formed in 1965 in Palo Alto, California. Remembered for an eclectic style that fused elements of rock, folk, country, jazz, bluegrass, blues, gospel, and psychedelic rock, for live performances of lengthy instrumental jams, and for its devoted fan base known…",
-      "bioUrl": "https://www.last.fm/music/Grateful+Dead",
       "bioSource": "Last.fm"
     }
   ]
