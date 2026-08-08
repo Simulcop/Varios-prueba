@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-08-08T06:03:13.866Z",
+  "updatedAt": "2026-08-08T07:26:55.564Z",
   "deals": [
+    {
+      "id": "reddit-t31vioaff",
+      "source": "Amazon",
+      "createdAt": "2026-08-08T06:15:00.000Z",
+      "text": "[Amazon] My Panda Shall Fly - Tropical - $15.99",
+      "artist": "My Panda Shall Fly",
+      "title": "Tropical",
+      "label": "Soundway",
+      "genres": [
+        "Electronic",
+        "Folk, World, & Country",
+        "Abstract",
+        "Experimental"
+      ],
+      "price": 15.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B00KX3UZ54",
+      "knownArtist": false,
+      "year": "2014",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/de/40/e3/de40e377-6760-a14a-59fa-3598067a3ff2/5060091554856.png/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "With a clout that sees him gigging relentlessly and garnering plenty of support in the press, it's mad to think that Suren Seneviratne is still in the early stages of his career with just a smattering of releases behind him.",
+      "bioUrl": "https://www.last.fm/music/My+Panda+Shall+Fly",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vio7g9",
+      "source": "Amazon",
+      "createdAt": "2026-08-08T06:10:23.000Z",
+      "text": "[Amazon] Charles Mingus - Blues & Roots - $23.64",
+      "artist": "Charles Mingus",
+      "title": "Blues & Roots",
+      "label": "WaxTime",
+      "genres": [
+        "Jazz",
+        "Hard Bop",
+        "Post Bop"
+      ],
+      "price": 23.64,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GL34Y7S8",
+      "knownArtist": false,
+      "year": "2011",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/2c/7b/db/2c7bdb9b-3c2b-ca28-df6d-17a45c575e95/dj.jpfauufx.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Charles Mingus (22nd April 1922 – 5th January 1979) was an American jazz bassist, composer, bandleader, and occasional pianist from Los Angeles. He was also known for his activism against racial injustice.",
+      "bioUrl": "https://www.last.fm/music/Charles+Mingus",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vimi1u",
       "source": "Amazon",
@@ -11005,32 +11058,6 @@
       "enrichedVia": "discogs",
       "bio": "There are at least six artists with this name: 1. A popular hard rock band from the United Kingdom 2. A death metal band from Germany 3. An alternative rock band from Poland 4. A Eurodance group 5. A thrash metal band from the Czech Republic 1.",
       "bioUrl": "https://www.last.fm/music/The+Darkness",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v52zwc",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T06:14:17.000Z",
-      "text": "[Amazon] Spinal Tap - The End Continues $15.95",
-      "artist": "Spinal Tap",
-      "title": "The End Continues",
-      "label": "Interscope Records",
-      "genres": [
-        "Rock",
-        "Heavy Metal",
-        "Hard Rock"
-      ],
-      "price": 15.95,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FJYLM14Y/",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/EKqD0auQTwUba5SZcZ3bGR9r2y6P3spTzpIoT30A0Q0/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzg2/MTIyLTE3NjQzMzg1/OTQtMjIyMS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Spın̈al Tap is the name of a fictional English hard rock / 80s heavy metal band, created for the 1984 rockumentary film This Is Spın̈al Tap. However, due to the success of the film, the band went on to record and release three albums.",
-      "bioUrl": "https://www.last.fm/music/Spinal+Tap",
       "bioSource": "Last.fm"
     }
   ]
