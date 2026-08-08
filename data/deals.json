@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-08T23:18:55.020Z",
+  "updatedAt": "2026-08-08T23:51:18.885Z",
   "deals": [
+    {
+      "id": "reddit-t31vjab4m",
+      "source": "Amazon",
+      "createdAt": "2026-08-08T23:30:25.000Z",
+      "text": "[Amazon] Carrie Underwood - Cry Pretty (Pink) $15.99",
+      "artist": "Carrie Underwood",
+      "title": "Cry Pretty (Pink)",
+      "label": "Capitol Records Nashville",
+      "genres": [
+        "Rock",
+        "Folk, World, & Country",
+        "Country Rock",
+        "Country"
+      ],
+      "price": 15.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B07F3M1H64",
+      "knownArtist": false,
+      "year": "2018",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7c/1f/45/7c1f45e0-ca95-5028-b1f1-0c0a0feec887/18UMGIM36175.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Carrie Marie Underwood (born March 10, 1983) is an American singer who rose to prominence after winning the fourth season of American Idol in 2005.",
+      "bioUrl": "https://www.last.fm/music/Carrie+Underwood",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vj4v63",
       "source": "eBay",
