@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T09:08:10.889Z",
+  "updatedAt": "2026-08-08T10:00:49.516Z",
   "deals": [
     {
       "id": "reddit-t31vioaff",
@@ -10979,32 +10979,6 @@
       "enrichedVia": "discogs",
       "bio": "Gil Scott-Heron (born April 1, 1949 in Chicago, died May 27, 2011 in New York City) was an American poet and musician, known primarily for his late 1960s and early 1970s work as a spoken word performer, associated with African American militant activists.",
       "bioUrl": "https://www.last.fm/music/Gil+Scott-Heron",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v56voh",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T09:53:51.000Z",
-      "text": "[Amazon] U2 - The Unforgettable Fire - $24.86",
-      "artist": "U2",
-      "title": "The Unforgettable Fire",
-      "label": "Island Records",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Pop Rock"
-      ],
-      "price": 24.86,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrf3fcstd22j",
-      "knownArtist": false,
-      "year": "1984",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/45/51/40455196-536d-d9a2-c8a7-4129ce944a67/17UMGIM94892.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "U2 are an Irish rock band formed in Dublin in 1976. The group comprises Paul \"Bono\" Hewson (lead vocals and rhythm guitar), David \"the Edge\" Evans (lead guitar, keyboards, and backing vocals), Adam Clayton (bass guitar), and Larry Mullen Jr. (drums and percussion).",
-      "bioUrl": "https://www.last.fm/music/U2",
       "bioSource": "Last.fm"
     }
   ]
