@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T19:50:15.570Z",
+  "updatedAt": "2026-08-08T20:17:56.168Z",
   "deals": [
     {
       "id": "reddit-t31vj4v63",
@@ -10402,32 +10402,6 @@
       "enrichedVia": "discogs",
       "bio": "There are multiple artists named Black Lung: 1) Black Lung is an electronic and industrial music project by Australian musician David Thrussell, also known for his industrial band Snog and the more ambient Soma.",
       "bioUrl": "https://www.last.fm/music/Black+Lung",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5mgzu",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T20:08:05.000Z",
-      "text": "[Amazon] Group Rhoda - Phase 5 $16.65",
-      "artist": "Group Rhoda",
-      "title": "Phase 5",
-      "label": "Dark Entries",
-      "genres": [
-        "Electronic",
-        "Synth-pop",
-        "Electro"
-      ],
-      "price": 16.65,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GHG53B18",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/db/a4/03dba40c-c863-efc2-f78d-6da662c17618/199900490568.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Group Rhoda is a solo project from SF. It is an attempt at dealing with opposition, sharpening intruitiion, following instincts and turning ideas into ... Songs available at http://soundcloud.com/group_rhoda",
-      "bioUrl": "https://www.last.fm/music/Group+Rhoda",
       "bioSource": "Last.fm"
     }
   ]
