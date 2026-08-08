@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T15:21:36.398Z",
+  "updatedAt": "2026-08-08T15:53:43.212Z",
   "deals": [
     {
       "id": "reddit-t31viy9ix",
@@ -10870,58 +10870,6 @@
       "enrichedVia": "discogs",
       "bio": "Grateful Dead was an American rock band formed in 1965 in Palo Alto, California. Remembered for an eclectic style that fused elements of rock, folk, country, jazz, bluegrass, blues, gospel, and psychedelic rock, for live performances of lengthy instrumental jams, and for its devoted fan base known…",
       "bioUrl": "https://www.last.fm/music/Grateful+Dead",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5ere3",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T15:33:32.000Z",
-      "text": "[Amazon] First Aid Kit - Drunken Trees - $16.99",
-      "artist": "First Aid Kit",
-      "title": "Drunken Trees",
-      "label": "Wichita",
-      "genres": [
-        "Pop",
-        "Country",
-        "Folk"
-      ],
-      "price": 16.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0024RIB8K",
-      "knownArtist": false,
-      "year": "2013",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cb/67/e6/cb67e679-3309-d27a-6804-be5e78d01e51/mzi.tccxymch.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "There are three bands called First Aid Kit: 1. Swedish indie/folk duo which consists of sisters Johanna (b. 31 October 1990) and Klara Söderberg (b. 8 January 1993) both from Enskede, Sweden. The sisters began composing songs in 2007, taking their name at random from an English dictionary.",
-      "bioUrl": "https://www.last.fm/music/First+Aid+Kit",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5ep4r",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T15:31:15.000Z",
-      "text": "[Amazon] Ride - Weather Diaries [2xLP] - $24.99",
-      "artist": "Ride",
-      "title": "Weather Diaries [2xLP]",
-      "label": "Wichita",
-      "genres": [
-        "Rock",
-        "Shoegaze",
-        "Alternative Rock"
-      ],
-      "price": 24.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FPSSGB7J",
-      "knownArtist": false,
-      "year": "2017",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/5d/ef/b5/5defb59a-97a0-a5a9-b686-7b731f50f5d4/5055036245104.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Ride is a shoegaze band that formed in 1988 in Oxford, England, consisting of Andy Bell, Mark Gardener, Laurence Colbert, and Steve Queralt. The band were initially part of the shoegaze scene that emerged in England during the early 1990s.",
-      "bioUrl": "https://www.last.fm/music/Ride",
       "bioSource": "Last.fm"
     }
   ]
