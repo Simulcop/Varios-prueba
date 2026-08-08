@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T12:27:21.132Z",
+  "updatedAt": "2026-08-08T13:26:05.983Z",
   "deals": [
     {
       "id": "reddit-t31vioaff",
@@ -10876,82 +10876,6 @@
       "enrichedVia": "discogs",
       "bio": "Ride is a shoegaze band that formed in 1988 in Oxford, England, consisting of Andy Bell, Mark Gardener, Laurence Colbert, and Steve Queralt. The band were initially part of the shoegaze scene that emerged in England during the early 1990s.",
       "bioUrl": "https://www.last.fm/music/Ride",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5adxa",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T12:46:06.000Z",
-      "text": "[Amazon] Over The Rhine - Blood Oranges In The Snow (Deluxe Edition) - $19.21",
-      "artist": "Over The Rhine",
-      "title": "Blood Oranges In The Snow (Deluxe Edition)",
-      "label": "Great Speckled Dog",
-      "genres": [
-        "Folk, World, & Country",
-        "Folk",
-        "Holiday"
-      ],
-      "price": 19.21,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B014SDJ7JE",
-      "knownArtist": false,
-      "year": "2015",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/ce/b9/a5/ceb9a52c-3553-fcb9-cb5e-b1d95cef724b/634457668126.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Over the Rhine is an American, Ohio-based band, the core of which is the husband-and-wife team of pianist/guitarist/bassist Linford Detweiler and vocalist/guitarist Karin Bergquist. The band originally began as a quartet with guitarist Ric Hordinski and drummer Brian Kelley.",
-      "bioUrl": "https://www.last.fm/music/Over+the+Rhine",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5a6dc",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T12:36:49.000Z",
-      "text": "[Amazon] Fiona Apple - When The Pawn... - $22.50",
-      "artist": "Fiona Apple",
-      "title": "When The Pawn...",
-      "label": "Epic",
-      "genres": [
-        "Rock",
-        "Pop"
-      ],
-      "price": 22.5,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CKK9WJPW",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://i.discogs.com/fpiqL_UAuv3NMZiniPf0wx6jYF5GODF1rRK6TpDR2sQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg4/NjkyLTE1OTcxMTI5/NTktMjE1Ni5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Fiona Apple McAfee-Maggart (born September 13, 1977) is an American singer-songwriter. She is known for her songwriting and has released five albums between 1996 and 2020, all of which reached the top 20 on the U.S. Billboard 200 chart. As of 2021, she has sold over 15 million records worldwide.",
-      "bioUrl": "https://www.last.fm/music/Fiona+Apple",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5a2da",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T12:31:57.000Z",
-      "text": "[Amazon] GWAR - Scumdogs XXX Live [Blue Marble] [2 LP] - $14.22",
-      "artist": "GWAR",
-      "title": "Scumdogs XXX Live [Blue Marble] [2 LP]",
-      "label": "Slave Pit Records",
-      "genres": [
-        "Rock",
-        "Heavy Metal"
-      ],
-      "price": 14.22,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0981SLJZR",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://i.discogs.com/Hi5kRg4PjlyEFQh4tQeRgHpGim4GSI3lm_oYxnliQ5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYz/NDk5LTE2MzExMzAx/MDgtMzIwMy5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "GWAR is a satirical thrash metal/punk band formed in 1985-1986 by a group of artists and musicians at Virginia Commonwealth University in Richmond, Virginia.",
-      "bioUrl": "https://www.last.fm/music/GWAR",
       "bioSource": "Last.fm"
     }
   ]
