@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T22:18:14.028Z",
+  "updatedAt": "2026-08-08T22:54:07.821Z",
   "deals": [
     {
       "id": "reddit-t31vj4v63",
@@ -10296,32 +10296,6 @@
       "enrichedVia": "discogs",
       "bio": "Drab Majesty is the Los Angeles-based darkwave/dream pop project led by Deb Demure, the androgynous alter-ego of multi-instrumentalist Andrew Clinco.",
       "bioUrl": "https://www.last.fm/music/Drab+Majesty",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5pxq3",
-      "source": "Walmart",
-      "createdAt": "2026-07-24T22:18:16.000Z",
-      "text": "[Walmart] The Acacia Strain - You Are Safe From God Here - $14.99",
-      "artist": "The Acacia Strain",
-      "title": "You Are Safe From God Here",
-      "label": "Rise Records",
-      "genres": [
-        "Rock",
-        "Deathcore",
-        "Metalcore"
-      ],
-      "price": 14.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.walmart.com/ip/The-Acacia-Strain-You-Are-Safe-From-God-Here-Music-Performance-Vinyl/17401206517?classType=REGULAR&amp;from=/search",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/HcNERhN4ayI9L0p3gWDZVgVPl7rvnUAldIxS3yqM9jk/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDcz/Mjg4LTE3NjE0MDcw/MDUtMTY0Ny5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "The Acacia Strain is an American metal band formed in 2001. Originally from Chicopee, Massachusetts, the band is now based in Albany, New York. They are currently signed to Rise Records.",
-      "bioUrl": "https://www.last.fm/music/The+Acacia+Strain",
       "bioSource": "Last.fm"
     }
   ]
