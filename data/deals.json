@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-08T02:50:45.957Z",
+  "updatedAt": "2026-08-08T04:05:12.433Z",
   "deals": [
+    {
+      "id": "reddit-t31vilo6i",
+      "source": "Amazon",
+      "createdAt": "2026-08-08T03:54:03.000Z",
+      "text": "[Amazon] Bella Poarch - Dolls EP - $18.97",
+      "artist": "Bella Poarch",
+      "title": "Dolls EP",
+      "label": "Warner Records",
+      "genres": [
+        "Pop"
+      ],
+      "price": 18.97,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0BMW49C6R",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/40/0c/cf400cb7-14f6-5f51-419d-4568a8a87133/054391240651.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Bella Poarch (born February 8, 1997) is a Filipino-American social media personality and singer. On August 17, 2020, she created the most liked video on TikTok, in which she lip syncs to the song \"Soph Aspin Send\" by British rapper Millie B.",
+      "bioUrl": "https://www.last.fm/music/Bella+Poarch",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31viiibp",
       "source": "Amazon",
@@ -11019,32 +11043,6 @@
       "amazonUrl": "https://www.amazon.com/dp/B0FGS31FSZ",
       "knownArtist": false,
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/46/8d/95468dd0-c57d-e1bf-8cec-8ccb9eca9b38/196873384382.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31v506zp",
-      "source": "Amazon",
-      "createdAt": "2026-07-24T03:52:39.000Z",
-      "text": "[Amazon] Soulfly - Chama $16.81",
-      "artist": "Soulfly",
-      "title": "Chama",
-      "label": "Nuclear Blast Records",
-      "genres": [
-        "Rock",
-        "Groove Metal",
-        "Thrash"
-      ],
-      "price": 16.81,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FM8QKVM4",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/sIfQlmCl99HO4domGU9TsZ1JY62sSrDBIHXzYPtEXGM/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDU0/NDAzLTE3NjEyMjM2/ODktMTM4NC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Soulfly is an Brazilian-American metal band formed in Phoenix, Arizona in 1997. The original lyrical content revolved around spirituality, political and religious themes, with later albums encompassing other themes including war, violence, aggression, slavery, hatred and anger.",
-      "bioUrl": "https://www.last.fm/music/Soulfly",
-      "bioSource": "Last.fm"
     }
   ]
 }
