@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-09T17:02:41.114Z",
+  "updatedAt": "2026-08-09T17:55:14.117Z",
   "deals": [
+    {
+      "id": "reddit-t31vjvhb3",
+      "source": "Amazon",
+      "createdAt": "2026-08-09T17:16:21.000Z",
+      "text": "[Amazon] Chaka Khan - Epiphany: The Best Of Chaka Khan - $17.33",
+      "artist": "Chaka Khan",
+      "title": "Epiphany: The Best Of Chaka Khan",
+      "label": "Rhino Records",
+      "genres": [
+        "Funk / Soul",
+        "Soul",
+        "Funk",
+        "Disco"
+      ],
+      "price": 17.33,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mso3lgebjc2c",
+      "knownArtist": false,
+      "year": "2021",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/55/fb/1355fbb0-60f1-d15e-12cb-ad0008b99524/mzi.zqdpvvdq.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Yvette Marie Stevens (born March 23, 1953), known professionally as Chaka Khan, is an American singer and songwriter. She began her career in the early 1970s as the lead vocalist of the funk band Rufus.",
+      "bioUrl": "https://www.last.fm/music/Chaka+Khan",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vjv8t2",
+      "source": "Amazon",
+      "createdAt": "2026-08-09T17:07:00.000Z",
+      "text": "[Amazon] Alphaville - FOREVER! Best Of 40 Years - $21.23",
+      "artist": "Alphaville",
+      "title": "FOREVER! Best Of 40 Years",
+      "label": "Warner Music Central Europe",
+      "genres": [
+        "Electronic",
+        "Synth-pop"
+      ],
+      "price": 21.23,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/FOREVER-Best-40-Years-Alphaville/dp/B0D85WWYZ6",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/d8/61/05d861b2-907d-4ee0-b560-23362182915a/5021732490711.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Alphaville is a German synth-pop band formed in 1982 in Münster. The group was founded by singer Marian Gold together with musicians Bernhard Lloyd and Frank Mertens, and rose to prominence during the 1980s with singles including \"Forever Young\", \"Big in Japan\", \"Sounds Like a Melody\", \"The Jet…",
+      "bioUrl": "https://www.last.fm/music/Alphaville",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vjv2m4",
       "source": "Amazon",
@@ -19,7 +71,7 @@
       "wasPrice": null,
       "discountPct": null,
       "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Very-Best-Talk/dp/B0DTJBT6GH",
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mso2p5sxjc2c",
       "knownArtist": false,
       "year": "1997",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/9b/ab/79/9bab79d7-d814-3db9-5ff3-a8b8af0bc019/724385573552.jpg/400x400bb.jpg",
@@ -10595,58 +10647,6 @@
       "lowest": false,
       "amazonUrl": "https://undefeated-records.com/collections/summer-sale",
       "knownArtist": false
-    },
-    {
-      "id": "reddit-t31v6e60m",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T17:20:13.000Z",
-      "text": "[Amazon] Michael Bublé - Call Me Irresponsible [2xLP] - $13.99",
-      "artist": "Michael Bublé",
-      "title": "Call Me Irresponsible [2xLP]",
-      "label": "143 Records",
-      "genres": [
-        "Jazz",
-        "Swing",
-        "Easy Listening"
-      ],
-      "price": 13.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0711BG7R3",
-      "knownArtist": false,
-      "year": "2007",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/96/f2/fc/96f2fcfc-f465-977c-e4a1-9be06bba07f6/093624942801.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Michael Steven Bublé (born September 9, 1975) is a Canadian singer and songwriter known for his interpretations of traditional pop standards and his contributions to reviving interest in the Great American Songbook.",
-      "bioUrl": "https://www.last.fm/music/Michael+Bubl%C3%A9",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v6e455",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T17:18:09.000Z",
-      "text": "[Amazon] Janet Jackson - All For You (2LP) - $19.79",
-      "artist": "Janet Jackson",
-      "title": "All For You (2LP)",
-      "label": "Virgin",
-      "genres": [
-        "Hip Hop",
-        "Funk / Soul",
-        "Contemporary R&B"
-      ],
-      "price": 19.79,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B07RWPD6DD",
-      "knownArtist": false,
-      "year": "2001",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/ab/25/04ab2585-dd7b-dfed-3afe-86800393a7c2/13ULAIM48853.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Janet Damita Jo Jackson (born May 16, 1966) is an American singer, songwriter, actress, and dancer. She is recognized for her contributions to pop music, including socially conscious and provocative themes in her recordings, as well as her choreography and stage performances.",
-      "bioUrl": "https://www.last.fm/music/Janet+Jackson",
-      "bioSource": "Last.fm"
     }
   ]
 }
