@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-09T14:58:57.487Z",
+  "updatedAt": "2026-08-09T15:31:47.403Z",
   "deals": [
+    {
+      "id": "reddit-t31vjsp93",
+      "source": "Amazon",
+      "createdAt": "2026-08-09T15:25:53.000Z",
+      "text": "[Amazon] Red Hot Chili Peppers - By The Way [LP] $30.91 (22% off)",
+      "artist": "Red Hot Chili Peppers",
+      "title": "By The Way [LP] $30.91 (22% off)",
+      "label": null,
+      "genres": [],
+      "price": 30.91,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B000068G5F",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/22/3e/ed/223eedeb-3ad1-2bd8-c863-ab6fb39d658a/093624920137.jpg/400x400bb.jpg",
+      "bio": "Red Hot Chili Peppers is an American rock band formed in Los Angeles in 1982, consisting of Anthony Kiedis (vocals), Flea (bass), John Frusciante (guitar), and Chad Smith (drums).",
+      "bioUrl": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vjry0s",
       "source": "Amazon",
