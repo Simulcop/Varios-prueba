@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T22:20:06.109Z",
+  "updatedAt": "2026-08-09T22:56:43.749Z",
   "deals": [
     {
       "id": "reddit-t31vk2uuq",
@@ -10652,33 +10652,6 @@
       "enrichedVia": "discogs",
       "bio": "The Flaming Lips is an American neo-psychedelic band, formed in Oklahoma City, Oklahoma, United States in 1983.",
       "bioUrl": "https://www.last.fm/music/The+Flaming+Lips",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v6mgfb",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T22:50:57.000Z",
-      "text": "[Amazon] New York Dolls - New York Dolls - $16.78",
-      "artist": "New York Dolls",
-      "title": "New York Dolls",
-      "label": "Mercury",
-      "genres": [
-        "Rock",
-        "Glam",
-        "Hard Rock",
-        "Punk"
-      ],
-      "price": 16.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrixbz37r22o",
-      "knownArtist": false,
-      "year": "1973",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9f/bf/68/9fbf68a5-f2f2-6f89-3576-964c4fffb5ff/00602537890804.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The New York Dolls were an American rock band formed in New York City in 1971, now famous as a proto-punk band.",
-      "bioUrl": "https://www.last.fm/music/New+York+Dolls",
       "bioSource": "Last.fm"
     }
   ]
