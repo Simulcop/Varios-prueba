@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-08-09T21:34:19.275Z",
+  "updatedAt": "2026-08-09T22:20:06.109Z",
   "deals": [
+    {
+      "id": "reddit-t31vk2uuq",
+      "source": "Polyvinyl Records",
+      "createdAt": "2026-08-09T22:10:53.000Z",
+      "text": "[Polyvinyl Records] Garage Sale",
+      "artist": null,
+      "title": "Garage Sale",
+      "label": "Up Records",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Electro",
+        "Indie Rock"
+      ],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.polyvinylrecords.com/collections/garage-sale-vinyl",
+      "knownArtist": false,
+      "year": "1995",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/76/ef/e276efbc-1a0f-4f45-9e19-f7ac620048db/637601200128_Cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
+    {
+      "id": "reddit-t31vk27hj",
+      "source": "Amazon",
+      "createdAt": "2026-08-09T21:43:49.000Z",
+      "text": "[Amazon] Grateful Dead - The Best Of The Grateful Dead: Skeletons From The Closet $12.22",
+      "artist": "Grateful Dead",
+      "title": "The Best Of The Grateful Dead: Skeletons From The Closet",
+      "label": "Warner Records",
+      "genres": [
+        "Rock",
+        "Folk Rock",
+        "Classic Rock"
+      ],
+      "price": 12.22,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B085K5S26S",
+      "knownArtist": false,
+      "year": "2020",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6b/ef/f2/6beff2d7-bb49-7dcf-38b6-75a1507d1340/dj.lycloaqa.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Grateful Dead was an American rock band formed in 1965 in Palo Alto, California. Remembered for an eclectic style that fused elements of rock, folk, country, jazz, bluegrass, blues, gospel, and psychedelic rock, for live performances of lengthy instrumental jams, and for its devoted fan base known…",
+      "bioUrl": "https://www.last.fm/music/Grateful+Dead",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vjy2v2",
       "source": "Amazon",
