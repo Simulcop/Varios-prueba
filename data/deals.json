@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-08-08T23:51:18.885Z",
+  "updatedAt": "2026-08-09T00:58:28.851Z",
   "deals": [
+    {
+      "id": "reddit-t31vjbroq",
+      "source": "Amazon",
+      "createdAt": "2026-08-09T00:39:47.000Z",
+      "text": "[Amazon] Pet Shop Boys - Nonetheless $17.58",
+      "artist": "Pet Shop Boys",
+      "title": "Nonetheless",
+      "label": "Parlophone",
+      "genres": [
+        "Electronic",
+        "Pop",
+        "Synth-pop"
+      ],
+      "price": 17.58,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CTKJ5ZTW",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/77/e2/2b/77e22ba6-fac5-3e0c-a0b2-d6dcfc9f413e/5054197959196.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Pet Shop Boys are an English synth-pop duo formed in London in 1981. The group consists of vocalist Neil Tennant and keyboardist Chris Lowe. They are among the most commercially successful acts in British popular music, having sold more than 100 million records worldwide.",
+      "bioUrl": "https://www.last.fm/music/Pet+Shop+Boys",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vjb0j8",
+      "source": "Amazon",
+      "createdAt": "2026-08-09T00:03:26.000Z",
+      "text": "[Amazon] My Morning Jacket - Live 2015 [3 LP] [White] $20.94",
+      "artist": "My Morning Jacket",
+      "title": "Live 2015 [3 LP] [White]",
+      "label": "ATO Records",
+      "genres": [
+        "Rock"
+      ],
+      "price": 20.94,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B08DD1H3ZZ",
+      "knownArtist": false,
+      "year": "2021",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e4/f1/89/e4f189b4-0ce0-3575-979f-ee1bb5a5b196/1059.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "My Morning Jacket is an American indie rock band formed in 1998 in Louisville, Kentucky, United States. The band consists of Jim James (vocals, guitar), Carl Broemel (guitar), \"Two Tone\" Tommy Blankenship (bass), Bo Koster (keyboards) and Patrick Hallahan (drums).",
+      "bioUrl": "https://www.last.fm/music/My+Morning+Jacket",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vjab4m",
       "source": "Amazon",
@@ -10296,33 +10346,6 @@
       "enrichedVia": "discogs",
       "bio": "THERAPY? is an alternative rock/punk rock band from Northern Ireland. The band was formed in 1989 by guitarist/vocalist Andy Cairns and drummer Fyfe Ewing. The band initially recorded their first demo with Andy filling in on bass guitar.",
       "bioUrl": "https://www.last.fm/music/Therapy%3F",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5szix",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T00:27:20.000Z",
-      "text": "[Amazon] Drab Majesty - Careless (Yellow & Green Vinyl) $16.10",
-      "artist": "Drab Majesty",
-      "title": "Careless (Yellow & Green Vinyl)",
-      "label": "Dais Records",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Synth-pop",
-        "New Wave"
-      ],
-      "price": 16.1,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FL9T6P1C",
-      "knownArtist": false,
-      "year": "2017",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cd/be/0c/cdbe0cbb-4595-7195-6a79-3b194b3b6dd9/cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Drab Majesty is the Los Angeles-based darkwave/dream pop project led by Deb Demure, the androgynous alter-ego of multi-instrumentalist Andrew Clinco.",
-      "bioUrl": "https://www.last.fm/music/Drab+Majesty",
       "bioSource": "Last.fm"
     }
   ]
