@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-09T06:38:39.088Z",
+  "updatedAt": "2026-08-09T07:44:43.268Z",
   "deals": [
+    {
+      "id": "reddit-t31vjj4a4",
+      "source": "Amazon",
+      "createdAt": "2026-08-09T07:10:35.000Z",
+      "text": "[Amazon] Toadies - Rubberneck [LP] $27.98",
+      "artist": "Toadies",
+      "title": "Rubberneck [LP]",
+      "label": "Interscope Records",
+      "genres": [
+        "Rock",
+        "Alternative Rock"
+      ],
+      "price": 27.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0H3LTPW76",
+      "knownArtist": false,
+      "year": "2014",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/30/0f/cd/300fcd20-bcbb-ed94-08d1-7211072d8f5f/00606949240226.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Toadies is an alternative rock band from Fort Worth, Texas. The band's best known lineup consisted of Vaden Todd Lewis (guitar, vocals) Mark Reznicek (drums), Lisa Umbarger (bass), and Clark Vogeler (guitar).",
+      "bioUrl": "https://www.last.fm/music/Toadies",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vjhfa9",
       "source": "Amazon",
