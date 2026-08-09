@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-09T23:25:21.340Z",
+  "updatedAt": "2026-08-09T23:56:02.197Z",
   "deals": [
+    {
+      "id": "reddit-t31vk5245",
+      "source": "Amazon",
+      "createdAt": "2026-08-09T23:47:44.000Z",
+      "text": "[Amazon] Jimmy Cliff - In Concert: The Best of Jimmy (Transparent Red Vinyl) $18.80",
+      "artist": "Jimmy Cliff",
+      "title": "In Concert: The Best of Jimmy (Transparent Red Vinyl)",
+      "label": "Reprise Records",
+      "genres": [
+        "Reggae",
+        "Roots Reggae",
+        "Reggae-Pop"
+      ],
+      "price": 18.8,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0D5RJTHNT",
+      "knownArtist": false,
+      "year": "1976",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/4d/44/e2/mzi.kdippxuu.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Jimmy Cliff OM (Jamaican Order of Merit) (born James Chambers in St. Catherine, Jamaica, on 1 April 1948; died 24 November 2025) was a Jamaican reggae musician remembered for songs like \"Sittin' in Limbo\", \"You Can Get It If You Really Want,\" \"Many Rivers to Cross\" and the title track from \"The…",
+      "bioUrl": "https://www.last.fm/music/Jimmy+Cliff",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vk48sm",
       "source": "Amazon",
