@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T19:09:43.939Z",
+  "updatedAt": "2026-08-09T19:54:04.597Z",
   "deals": [
     {
       "id": "reddit-t31vjy2v2",
@@ -10657,22 +10657,6 @@
       "bio": "The Clash were an English punk band from London, England, active from 1976 to 1985. One of the most successful and iconic bands from the first wave of punk in the 70s, they incorporated rock and roll, reggae, rockabilly, and many other music styles into their repertoire.",
       "bioUrl": "https://www.last.fm/music/The+Clash",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v6hyb2",
-      "source": "Undefeated Records",
-      "createdAt": "2026-07-25T19:45:39.000Z",
-      "text": "[Undefeated Records] 20% Off Summer Sale with code SUMMER20",
-      "artist": null,
-      "title": "20% Off Summer Sale with code SUMMER20",
-      "label": null,
-      "genres": [],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://undefeated-records.com/collections/summer-sale",
-      "knownArtist": false
     }
   ]
 }
