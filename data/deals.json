@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T20:20:19.287Z",
+  "updatedAt": "2026-08-09T20:59:32.043Z",
   "deals": [
     {
       "id": "reddit-t31vjy2v2",
@@ -10629,33 +10629,6 @@
       "enrichedVia": "discogs",
       "bio": "The New York Dolls were an American rock band formed in New York City in 1971, now famous as a proto-punk band.",
       "bioUrl": "https://www.last.fm/music/New+York+Dolls",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v6jdjc",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T20:42:14.000Z",
-      "text": "[Amazon] The Clash - Combat Rock (Remastered) - $10.99",
-      "artist": "The Clash",
-      "title": "Combat Rock (Remastered)",
-      "label": "Epic",
-      "genres": [
-        "Rock",
-        "Reggae",
-        "Dub",
-        "Punk"
-      ],
-      "price": 10.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Combat-Rock-Clash/dp/B00DYK3C9E/",
-      "knownArtist": false,
-      "year": "1982",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/b6/8a/71b68ab0-f2d7-5cf0-636c-c27de6ce8aed/886443520707.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Clash were an English punk band from London, England, active from 1976 to 1985. One of the most successful and iconic bands from the first wave of punk in the 70s, they incorporated rock and roll, reggae, rockabilly, and many other music styles into their repertoire.",
-      "bioUrl": "https://www.last.fm/music/The+Clash",
       "bioSource": "Last.fm"
     }
   ]
