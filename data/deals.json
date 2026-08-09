@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-09T12:29:14.795Z",
+  "updatedAt": "2026-08-09T13:30:52.766Z",
   "deals": [
+    {
+      "id": "reddit-t31vjpxhn",
+      "source": "Target",
+      "createdAt": "2026-08-09T13:29:19.000Z",
+      "text": "[Target] Grateful Dead - Skeletons From The Closet: Best Of Grateful Dead - $12.22",
+      "artist": "Grateful Dead",
+      "title": "Skeletons From The Closet: Best Of Grateful Dead",
+      "label": "Warner Records",
+      "genres": [
+        "Rock",
+        "Folk Rock",
+        "Classic Rock"
+      ],
+      "price": 12.22,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3msnovcrsss2r",
+      "knownArtist": false,
+      "year": "2020",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/b6/e2/e9b6e214-1f54-8386-913b-e245fa960ff6/603497920761.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Grateful Dead was an American rock band formed in 1965 in Palo Alto, California. Remembered for an eclectic style that fused elements of rock, folk, country, jazz, bluegrass, blues, gospel, and psychedelic rock, for live performances of lengthy instrumental jams, and for its devoted fan base known…",
+      "bioUrl": "https://www.last.fm/music/Grateful+Dead",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vjpuyh",
+      "source": "Target",
+      "createdAt": "2026-08-09T13:26:05.000Z",
+      "text": "[Target] Chicago - Greatest Hits - Yellow Vinyl - $12.02",
+      "artist": "Chicago",
+      "title": "Greatest Hits - Yellow Vinyl",
+      "label": "Rhino Records",
+      "genres": [
+        "Rock",
+        "Soft Rock",
+        "Pop Rock"
+      ],
+      "price": 12.02,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3msnookr2sk2r",
+      "knownArtist": false,
+      "year": "2020",
+      "cover": "https://i.discogs.com/ItSAtG_vLjEydNA_Rs1VZeNcMLSecqRTLdZUWZ9YSm8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUz/NzI0LTE1OTUyOTYy/OTctNTcyOS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Chicago is an American rock band formed in 1967 in Chicago, Illinois. The group has described itself as a \"rock and roll band with horns,\" and its music incorporates elements of classical music, jazz, R&B, and pop. The band emerged from several Chicago-area groups in the late 1960s.",
+      "bioUrl": "https://www.last.fm/music/Chicago",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vjj4a4",
       "source": "Amazon",
@@ -10191,83 +10243,6 @@
       "enrichedVia": "discogs",
       "bio": "Janet Damita Jo Jackson (born May 16, 1966) is an American singer, songwriter, actress, and dancer. She is recognized for her contributions to pop music, including socially conscious and provocative themes in her recordings, as well as her choreography and stage performances.",
       "bioUrl": "https://www.last.fm/music/Janet+Jackson",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v67jtr",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T12:49:58.000Z",
-      "text": "[Amazon] The Mountain Goats - Transcendental Youth - $15.99",
-      "artist": "The Mountain Goats",
-      "title": "Transcendental Youth",
-      "label": "Merge Records",
-      "genres": [
-        "Rock",
-        "Folk, World, & Country",
-        "Folk Rock",
-        "Acoustic"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B008OPE6J4",
-      "knownArtist": false,
-      "year": "2012",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/db/86/f2db86d5-c291-0293-53c2-765270b3643e/56537.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Mountain Goats are an American folk rock band formed in Claremont, California, in 1991, by singer-songwriter John Darnielle. The band is currently based in Chapel Hill, North Carolina. For many years, the sole member of the Mountain Goats was Darnielle, despite the plural moniker.",
-      "bioUrl": "https://www.last.fm/music/The+Mountain+Goats",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v67gxm",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T12:46:15.000Z",
-      "text": "[Amazon] Monstrosity - Screams from Beneath the Surface - $19.97",
-      "artist": "Monstrosity",
-      "title": "Screams from Beneath the Surface",
-      "label": "Metal Blade Records",
-      "genres": [
-        "Rock",
-        "Death Metal"
-      ],
-      "price": 19.97,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GHX6DLSS",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/e6/64/79e66443-2952-8ba3-c0ea-0aa523cfb024/Monstrosity_-_Screams_from_Beneath_the_Surface.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Monstrosity is an American death metal band formed in 1990 in Fort Lauderdale, Florida, as part of the Florida death metal scene. The founding members were drummer Lee Harrison, bassist Mark Van Erp, and vocalist George \"Corpsegrinder\" Fisher.",
-      "bioUrl": "https://www.last.fm/music/Monstrosity",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v674pw",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T12:30:23.000Z",
-      "text": "[Amazon] The Shins - Wincing the Night Away - $17.99",
-      "artist": "The Shins",
-      "title": "Wincing the Night Away",
-      "label": "Sub Pop",
-      "genres": [
-        "Rock",
-        "Indie Rock"
-      ],
-      "price": 17.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B000LP5FSG",
-      "knownArtist": false,
-      "year": "2007",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/b0/5f/79b05fca-d8d8-2029-84ca-8348bb5c8e23/TheShins_WincingTheNightAway_1425px.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Shins is an American alternative rock band centered around James Mercer. The band formed in 1997, in Albuquerque, New Mexico, United States as a side project of Mercer (previously of Blue Roof Dinner) and drummer Jesse Sandoval, who were both members of Flake Music.",
-      "bioUrl": "https://www.last.fm/music/The+Shins",
       "bioSource": "Last.fm"
     }
   ]
