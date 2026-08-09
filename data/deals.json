@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T08:30:36.255Z",
+  "updatedAt": "2026-08-09T09:29:10.667Z",
   "deals": [
     {
       "id": "reddit-t31vjj4a4",
@@ -10314,31 +10314,6 @@
       "bio": "The Jim Carroll Band was a New Wave/punk rock group formed by poet and writer Jim Carroll, in 1978, after encouragement from Patti Smith. The band was formerly called Amsterdam, based San Francisco, California.",
       "bioUrl": "https://www.last.fm/music/The+Jim+Carroll+Band",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v6388s",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T09:05:42.000Z",
-      "text": "[Amazon] The Jack Moves - Love Machine @ $8.59",
-      "artist": "The Jack Moves",
-      "title": "Love Machine",
-      "label": "Everloving Records",
-      "genres": [
-        "Funk / Soul",
-        "Contemporary R&B"
-      ],
-      "price": 8.59,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/gp/product/B0FBR8NWFR/ref=ox_sc_act_image_4?smid=ATVPDKIKX0DER&amp;psc=1",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/Zudmd13FaJeItZIcAsbY6bjZr4fR7FJDDnp-135poWk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTg0/NjQwLTE3NTY3Njk1/MjAtNzUxNS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Teddy Powell and Zee Desmondes",
-      "bioUrl": "https://www.discogs.com/artist/3837545-The-Jack-Moves",
-      "bioSource": "Discogs"
     }
   ]
 }
