@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T11:30:58.262Z",
+  "updatedAt": "2026-08-09T12:29:14.795Z",
   "deals": [
     {
       "id": "reddit-t31vjj4a4",
@@ -10268,25 +10268,6 @@
       "enrichedVia": "discogs",
       "bio": "The Shins is an American alternative rock band centered around James Mercer. The band formed in 1997, in Albuquerque, New Mexico, United States as a side project of Mercer (previously of Blue Roof Dinner) and drummer Jesse Sandoval, who were both members of Flake Music.",
       "bioUrl": "https://www.last.fm/music/The+Shins",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v672wu",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T12:27:57.000Z",
-      "text": "[Amazon] Alicia Keys - Unplugged 20th Anniv - $18.20",
-      "artist": "Alicia Keys",
-      "title": "Unplugged 20th Anniv",
-      "label": null,
-      "genres": [],
-      "price": 18.2,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FGRS1RRD",
-      "knownArtist": false,
-      "bio": "Alicia Augello Cook (born January 25, 1981), better known by her stage name Alicia Keys, is an American recording artist, musician and actress. She was raised by a single mother in the Hell's Kitchen area of Manhattan in New York City, New York, United States.",
-      "bioUrl": "https://www.last.fm/music/Alicia+Keys",
       "bioSource": "Last.fm"
     }
   ]
