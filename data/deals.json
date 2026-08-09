@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T00:58:28.851Z",
+  "updatedAt": "2026-08-09T03:01:01.885Z",
   "deals": [
     {
       "id": "reddit-t31vjbroq",
@@ -10256,96 +10256,6 @@
       "knownArtist": false,
       "bio": "Band of Horses is a US American folk/indie rock band which was formed in 2004 in Seattle.",
       "bioUrl": "https://www.last.fm/music/Band+of+Horses",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5w03r",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T02:45:57.000Z",
-      "text": "[Amazon] The Flaming Lips - Ego Tripping at the Gates of Hell (Glow In The Dark Green) $14.14",
-      "artist": "The Flaming Lips",
-      "title": "Ego Tripping at the Gates of Hell (Glow In The Dark Green)",
-      "label": "Warner Bros. Records",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Psychedelic Rock",
-        "Experimental"
-      ],
-      "price": 14.14,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BTJCFHDV",
-      "knownArtist": false,
-      "year": "2003",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2003/m11/d12/h14/s02.kpwwmjwl.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Flaming Lips is an American neo-psychedelic band, formed in Oklahoma City, Oklahoma, United States in 1983.",
-      "bioUrl": "https://www.last.fm/music/The+Flaming+Lips",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5v6u0",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T02:07:51.000Z",
-      "text": "[Amazon] Pavement - Hecklers Choice: Big Gums And Heavy Lifters - A Pavement Collection $16.29",
-      "artist": "Pavement",
-      "title": "Hecklers Choice: Big Gums And Heavy Lifters - A Pavement Collection",
-      "label": null,
-      "genres": [],
-      "price": 16.29,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FQXJ5BY5",
-      "knownArtist": false,
-      "bio": "Pavement is an American indie rock band formed in Stockton, California, in 1989. For most of the period to 1999, the band consisted of Stephen Malkmus (vocals, guitar), Scott \"Spiral Stairs\" Kannberg (guitar, vocals), Mark Ibold (bass), Steve West (drums) and Bob Nastanovich (percussion, vocals).",
-      "bioUrl": "https://www.last.fm/music/Pavement",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5v1j4",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T02:01:06.000Z",
-      "text": "[Amazon] Beastie Boys - To The 5 Boroughs: Deluxe Edition $83.72 Lowest",
-      "artist": "Beastie Boys",
-      "title": "To The 5 Boroughs: Deluxe Edition $83.72 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 83.72,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GP7LR8L9",
-      "knownArtist": false,
-      "bio": "Beastie Boys were an American hip-hop trio from New York City, United States: Brooklyn and Manhattan.",
-      "bioUrl": "https://www.last.fm/music/Beastie+Boys",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v5ulgl",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T01:40:05.000Z",
-      "text": "[Amazon] Therapy? - One Cure Fits All $19.80",
-      "artist": "Therapy?",
-      "title": "One Cure Fits All",
-      "label": "Spitfire Records",
-      "genres": [
-        "Rock",
-        "Alternative Rock"
-      ],
-      "price": 19.8,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GFC8XN5M",
-      "knownArtist": false,
-      "year": "2006",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/83/78/738378ef-31e9-82c6-ad39-8c6577147673/25UM1IM72839.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "THERAPY? is an alternative rock/punk rock band from Northern Ireland. The band was formed in 1989 by guitarist/vocalist Andy Cairns and drummer Fyfe Ewing. The band initially recorded their first demo with Andy filling in on bass guitar.",
-      "bioUrl": "https://www.last.fm/music/Therapy%3F",
       "bioSource": "Last.fm"
     }
   ]
