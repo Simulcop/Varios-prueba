@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T10:05:03.425Z",
+  "updatedAt": "2026-08-09T10:59:22.010Z",
   "deals": [
     {
       "id": "reddit-t31vjj4a4",
@@ -10287,32 +10287,6 @@
       "knownArtist": false,
       "bio": "Alicia Augello Cook (born January 25, 1981), better known by her stage name Alicia Keys, is an American recording artist, musician and actress. She was raised by a single mother in the Hell's Kitchen area of Manhattan in New York City, New York, United States.",
       "bioUrl": "https://www.last.fm/music/Alicia+Keys",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v64e46",
-      "source": "Amazon",
-      "createdAt": "2026-07-25T10:10:34.000Z",
-      "text": "[Amazon] Jim Carroll Band - Catholic Boy - $23.98",
-      "artist": "Jim Carroll Band",
-      "title": "Catholic Boy",
-      "label": "ATCO Records",
-      "genres": [
-        "Rock",
-        "New Wave",
-        "Art Rock"
-      ],
-      "price": 23.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrhmqpkmnc2f",
-      "knownArtist": false,
-      "year": "1980",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/46/b4/ad/46b4adc7-c5ed-1cbe-6c11-e7a2b4260bc5/194491216061.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Jim Carroll Band was a New Wave/punk rock group formed by poet and writer Jim Carroll, in 1978, after encouragement from Patti Smith. The band was formerly called Amsterdam, based San Francisco, California.",
-      "bioUrl": "https://www.last.fm/music/The+Jim+Carroll+Band",
       "bioSource": "Last.fm"
     }
   ]
