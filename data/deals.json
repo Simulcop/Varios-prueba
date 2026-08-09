@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-09T22:56:43.749Z",
+  "updatedAt": "2026-08-09T23:25:21.340Z",
   "deals": [
+    {
+      "id": "reddit-t31vk48sm",
+      "source": "Amazon",
+      "createdAt": "2026-08-09T23:10:40.000Z",
+      "text": "[Amazon] The Judds - Love Can Build A Bridge: Best Of The Judds $18.07",
+      "artist": "The Judds",
+      "title": "Love Can Build A Bridge: Best Of The Judds",
+      "label": "Curb Records",
+      "genres": [
+        "Folk, World, & Country",
+        "Country"
+      ],
+      "price": 18.07,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B09WZ45TM5",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/cb/91/d7cb913a-4516-fc09-53b4-9a747453ee5e/715187953666.png/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Judds was an American country music duo of Naomi Judd (born Diana Ellen Judd on 11 January 1946; died 30 April 2022) and her daughter Wynonna Judd. The duo signed to RCA Nashville in 1983 and released six studio albums between then and 1991.",
+      "bioUrl": "https://www.last.fm/music/The+Judds",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vk2uuq",
       "source": "Polyvinyl Records",
