@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-08-10T16:22:54.544Z",
+  "updatedAt": "2026-08-10T17:22:00.446Z",
   "deals": [
+    {
+      "id": "reddit-t31vkqir3",
+      "source": "Amazon",
+      "createdAt": "2026-08-10T16:57:54.000Z",
+      "text": "[Amazon] Oscar Peterson, Milt Jackson - Very Tall (Verve Acoustic Sound Series) $22.71",
+      "artist": "Oscar Peterson, Milt Jackson",
+      "title": "Very Tall (Verve Acoustic Sound Series)",
+      "label": "Verve Records",
+      "genres": [
+        "Jazz",
+        "Bop"
+      ],
+      "price": 22.71,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Very-Tall-Verve-Acoustic-Sound/dp/B0CJL1V4J1/",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/0b/7c/450b7ca8-a478-7291-78e2-079b0c3bc11e/06UMGIM63238.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": ", , ,",
+      "bioUrl": "https://www.discogs.com/artist/3511082-Oscar-Peterson-Milt-Jackson-Quartet",
+      "bioSource": "Discogs"
+    },
+    {
+      "id": "reddit-t31vkpynm",
+      "source": "Amazon",
+      "createdAt": "2026-08-10T16:37:54.000Z",
+      "text": "[Amazon] Art Blakey and the Jazz Messengers - 'S Make It (Verve Vault Series) $23.92",
+      "artist": "Art Blakey and the Jazz Messengers",
+      "title": "'S Make It (Verve Vault Series)",
+      "label": "Limelight",
+      "genres": [
+        "Jazz",
+        "Hard Bop"
+      ],
+      "price": 23.92,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Make-Verve-Vault-180g-LP/dp/B0GF61GNBG/",
+      "knownArtist": false,
+      "year": "1982",
+      "cover": "https://i.discogs.com/V8KzUO4uXbdudLHTYVmI7AHg1eO4qVOri_jfZABI3ac/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ4/NjMtMTY5MzMwMDA5/NC04NDYwLmpwZWc.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Art Blakey and Horace Silver formed the Jazz Messengers in 1955 and co-led it. When Silver dropped out in the group's first year the group name was changed to Art Blakey & The Jazz Messengers.",
+      "bioUrl": "https://www.last.fm/music/Art+Blakey+&+The+Jazz+Messengers",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vkohik",
       "source": "Indie Vinyl Den",
