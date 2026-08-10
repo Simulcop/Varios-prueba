@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-08-10T08:21:16.915Z",
+  "updatedAt": "2026-08-10T09:54:36.176Z",
   "deals": [
+    {
+      "id": "reddit-t31vkfcdt",
+      "source": "Amazon",
+      "createdAt": "2026-08-10T08:48:29.000Z",
+      "text": "[Amazon] Flight of the Conchords - Flight Of The Conchords - $14.50",
+      "artist": "Flight of the Conchords",
+      "title": "Flight Of The Conchords",
+      "label": "Sub Pop",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Folk, World, & Country",
+        "Stage & Screen"
+      ],
+      "price": 14.5,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3msppnymf7c2k",
+      "knownArtist": false,
+      "year": "2008",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/75/cd/c675cd23-8305-6862-cde4-4df58e47045a/mzi.laezwjop.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Flight of the Conchords is a Grammy award-winning folk/pop/comedy duo composed of Bret McKenzie formerly of The Black Seeds, Video Kid, and The Wellington International Ukulele Orchestra fame and Jemaine Clement formerly of The Humourbeasts, who met in 1998 while studying film and theatre in…",
+      "bioUrl": "https://www.last.fm/music/Flight+of+the+Conchords",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vkf9iu",
+      "source": "Amazon",
+      "createdAt": "2026-08-10T08:43:36.000Z",
+      "text": "[Amazon] Ray Charles - Greatest Hits - $17.99",
+      "artist": "Ray Charles",
+      "title": "Greatest Hits",
+      "label": "Columbia",
+      "genres": [
+        "Funk / Soul",
+        "Blues",
+        "Rhythm & Blues",
+        "Soul"
+      ],
+      "price": 17.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3msppduidwk2k",
+      "knownArtist": false,
+      "year": "1969",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/2c/fb/e42cfb89-6e07-1c5c-5271-b49c78438de7/dj.ueeuybev.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Ray Charles (Ray Charles Robinson, Albany, Georgia, September 23, 1930 - Beverly Hills, California, June 10, 2004), was an American singer-songwriter, musician, arranger, and band leader.",
+      "bioUrl": "https://www.last.fm/music/Ray+Charles",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vkc7yk",
       "source": "Amazon",
