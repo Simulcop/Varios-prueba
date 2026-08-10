@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-08-10T15:28:50.847Z",
+  "updatedAt": "2026-08-10T16:22:54.544Z",
   "deals": [
+    {
+      "id": "reddit-t31vkohik",
+      "source": "Indie Vinyl Den",
+      "createdAt": "2026-08-10T15:45:03.000Z",
+      "text": "[Indie Vinyl Den] Ugh, Mondays Sale 25% off in-stock items",
+      "artist": null,
+      "title": "Ugh, Mondays Sale 25% off in-stock items",
+      "label": null,
+      "genres": [],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.indievinylden.com/discount/UghMondays?redirect=%2Fcollections%2Fin-stock-items",
+      "knownArtist": false
+    },
     {
       "id": "reddit-t31vkmpb7",
       "source": "Amazon",
@@ -10435,31 +10451,6 @@
       "enrichedVia": "discogs",
       "bio": "The The Dave Brubeck Quartet was one of the most influential groups in modern jazz, formed in San Francisco in 1951 by pianist and composer Dave Brubeck.",
       "bioUrl": "https://www.last.fm/music/The+Dave+Brubeck+Quartet",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v77yf4",
-      "source": "Amazon",
-      "createdAt": "2026-07-26T16:04:13.000Z",
-      "text": "[Amazon] Aaron Parks - By All Means $19.03",
-      "artist": "Aaron Parks",
-      "title": "By All Means",
-      "label": "Blue Note",
-      "genres": [
-        "Jazz",
-        "Contemporary Jazz"
-      ],
-      "price": 19.03,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FPMS8DYS",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/a5/5c/f9a55c9a-e2a1-c00f-e02e-e80ea7bf3fd0/25UM1IM17854.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Pianist/composer Aaron Parks was raised in Seattle, WA. He began playing piano at age 10, learning mostly by ear, and was immediately attracted to improvised music.",
-      "bioUrl": "https://www.last.fm/music/Aaron+Parks",
       "bioSource": "Last.fm"
     }
   ]
