@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-10T18:10:47.173Z",
+  "updatedAt": "2026-08-10T19:27:42.893Z",
   "deals": [
+    {
+      "id": "reddit-t31vktfba",
+      "source": "Walmart",
+      "createdAt": "2026-08-10T18:41:14.000Z",
+      "text": "[Walmart] PJ Harvey - Dry - $17.99",
+      "artist": "PJ Harvey",
+      "title": "Dry",
+      "label": "Island Records",
+      "genres": [
+        "Rock",
+        "Alternative Rock"
+      ],
+      "price": 17.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3msqqrsqdpc2m",
+      "knownArtist": false,
+      "year": "2020",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c0/45/1e/c0451e40-256e-40f2-566e-5f387a74f346/00016255500127.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Polly Jean \"PJ\" Harvey, born 9 October 1969, is an English singer-songwriter. She is known primarily as a vocalist and guitarist, and is skilled in playing multiple instruments.",
+      "bioUrl": "https://www.last.fm/music/PJ+Harvey",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vksj2z",
       "source": "Amazon US",
@@ -10491,32 +10516,6 @@
       "enrichedVia": "discogs",
       "bio": "Tom Fogerty (November 9, 1941 – September 6, 1990) was a musician who played rhythm guitar in Creedence Clearwater Revival, and was the elder brother of John Fogerty, the lead singer and guitar player in that band. Tom Fogerty began playing rock and roll in high school, just as John Fogerty did.",
       "bioUrl": "https://www.last.fm/music/Tom+Fogerty",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v7dd9u",
-      "source": "Amazon",
-      "createdAt": "2026-07-26T19:22:20.000Z",
-      "text": "(Amazon) Dave Brubeck Quartet - Jazz At Oberlin (Original Jazz Classics Series) @ $24.89",
-      "artist": "Dave Brubeck Quartet",
-      "title": "Jazz At Oberlin (Original Jazz Classics Series)",
-      "label": "Craft Recordings",
-      "genres": [
-        "Jazz",
-        "Bop",
-        "Cool Jazz"
-      ],
-      "price": 24.89,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0C8LPMQ4G",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/79/a2/2e/79a22eae-def7-c583-c679-68f1a32860ba/00888072320703.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The The Dave Brubeck Quartet was one of the most influential groups in modern jazz, formed in San Francisco in 1951 by pianist and composer Dave Brubeck.",
-      "bioUrl": "https://www.last.fm/music/The+Dave+Brubeck+Quartet",
       "bioSource": "Last.fm"
     }
   ]
