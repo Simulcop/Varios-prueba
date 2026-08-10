@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T23:03:45.590Z",
+  "updatedAt": "2026-08-10T23:58:03.090Z",
   "deals": [
     {
       "id": "reddit-t31vktfba",
@@ -10370,32 +10370,6 @@
       "year": "2005",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ab/36/f7/ab36f7fb-98f3-8074-ecf0-9068ce0ba935/492.jpg/400x400bb.jpg",
       "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31v7jr4c",
-      "source": "Walmart",
-      "createdAt": "2026-07-26T23:33:17.000Z",
-      "text": "[Walmart] Kehlani - Blue Water Road - $14.98",
-      "artist": "Kehlani",
-      "title": "Blue Water Road",
-      "label": "Atlantic",
-      "genres": [
-        "Funk / Soul",
-        "Contemporary R&B",
-        "Soul"
-      ],
-      "price": 14.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrlk3dtsqk2d",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/66/a8/de/66a8de5e-ad81-57b4-3183-25a9779845f5/075679779731.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Kehlani Ashley Parrish (born April 24, 1995), known professionally as Kehlani, is an American singer and songwriter. Kehlani is originally from Oakland, California where they achieved initial fame as a member of the teen pop group, Poplyfe, which was a finalist on America's Got Talent.",
-      "bioUrl": "https://www.last.fm/music/Kehlani",
-      "bioSource": "Last.fm"
     }
   ]
 }
