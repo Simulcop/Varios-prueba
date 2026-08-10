@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-08-10T01:10:03.484Z",
+  "updatedAt": "2026-08-10T03:22:02.150Z",
   "deals": [
+    {
+      "id": "reddit-t31vk7nka",
+      "source": "Amazon",
+      "createdAt": "2026-08-10T01:47:51.000Z",
+      "text": "[Amazon] Hurray For The Riff Raff ‎– Live Forever $29.91 Lowest",
+      "artist": null,
+      "title": "Hurray For The Riff Raff ‎– Live Forever $29.91 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 29.91,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GPRFQD72",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/bb/4f/44/bb4f44a7-a10f-4de6-2311-e409cbbf39f3/859703231644_cover.jpg/400x400bb.jpg"
+    },
+    {
+      "id": "reddit-t31vk7e7k",
+      "source": "Amazon",
+      "createdAt": "2026-08-10T01:35:33.000Z",
+      "text": "[Amazon] Robber Robber – Wild Guess (Black and White Color) $14.24 Lowest",
+      "artist": null,
+      "title": "Robber Robber – Wild Guess (Black and White Color) $14.24 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 14.24,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G1JYGHS2",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/ec/ce/98ecce02-d311-6089-8396-856ca1d0d09f/117696.jpg/400x400bb.jpg"
+    },
     {
       "id": "reddit-t31vk5245",
       "source": "Amazon",
@@ -10649,60 +10683,6 @@
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ee/c9/4d/eec94d5e-fdf5-e6a0-2866-ff3a503e4601/5016958099763.png/400x400bb.jpg",
       "bio": "Poppy Ackroyd is a performer and composer from London, United Kingdom. Classically trained on violin and piano, she fell in love with contemporary piano music and with the piano beyond the keys, discovering the world of sound that could be made from other parts of the instrument.",
       "bioUrl": "https://www.last.fm/music/Poppy+Ackroyd",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v6pzmy",
-      "source": "Amazon",
-      "createdAt": "2026-07-26T01:32:37.000Z",
-      "text": "[Amazon] Beck - Everybody's Gotta Learn Sometime - Red Vinyl - $16.37",
-      "artist": "Beck",
-      "title": "Everybody's Gotta Learn Sometime - Red Vinyl",
-      "label": "Capitol Records",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Pop Rock",
-        "Acoustic"
-      ],
-      "price": 16.37,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrjacvb3pc2s",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/76/02/1376023a-8ac6-b041-f16b-6670008124f5/ticket.crmdtmqc.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Beck Hansen (born Bek David Campbell, July 8, 1970) is an American musician, singer-songwriter, and multi-instrumentalist. Beck's music is known for its pop-junk culture collage of musical styles, ironic lyrics, samples, drum machines, live instrumentation and heady sound effects.",
-      "bioUrl": "https://www.last.fm/music/Beck",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v6pqib",
-      "source": "Amazon",
-      "createdAt": "2026-07-26T01:20:27.000Z",
-      "text": "[Amazon] The Flaming Lips - Fight Test (Ruby Red Vinyl) $13.29",
-      "artist": "The Flaming Lips",
-      "title": "Fight Test (Ruby Red Vinyl)",
-      "label": "Warner Bros. Records",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Psychedelic Rock",
-        "Experimental"
-      ],
-      "price": 13.29,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0B7ZM44Z8",
-      "knownArtist": false,
-      "year": "2003",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/08/b2/af/mzi.qyujokaw.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Flaming Lips is an American neo-psychedelic band, formed in Oklahoma City, Oklahoma, United States in 1983.",
-      "bioUrl": "https://www.last.fm/music/The+Flaming+Lips",
       "bioSource": "Last.fm"
     }
   ]
