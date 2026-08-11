@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T16:47:03.338Z",
+  "updatedAt": "2026-08-11T17:49:47.607Z",
   "deals": [
     {
       "id": "reddit-t31vlmjus",
@@ -10134,22 +10134,6 @@
       "discountPct": null,
       "lowest": false,
       "amazonUrl": "https://www.amazon.com/promotion/psp/A2YZM5YLOM8JIY",
-      "knownArtist": false
-    },
-    {
-      "id": "reddit-t31v86xm0",
-      "source": "IndieVinylDen.com",
-      "createdAt": "2026-07-27T17:24:32.000Z",
-      "text": "[IndieVinylDen.com] 25% off in-stock items code UghMondays",
-      "artist": null,
-      "title": "25% off in-stock items code UghMondays",
-      "label": null,
-      "genres": [],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.indievinylden.com/discount/UghMondays?redirect=%2Fcollections%2Fin-stock-items",
       "knownArtist": false
     }
   ]
