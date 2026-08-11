@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T09:27:14.391Z",
+  "updatedAt": "2026-08-11T10:23:37.040Z",
   "deals": [
     {
       "id": "reddit-t31vlbzgw",
@@ -10511,58 +10511,6 @@
       "enrichedVia": "discogs",
       "bio": "X is an American punk rock band formed in Los Angeles, California in 1977. The original members are vocalist Exene Cervenka, vocalist-bassist John Doe, guitarist Billy Zoom and drummer D. J. Bonebrake. The band released seven studio albums from 1980 to 1993.",
       "bioUrl": "https://www.last.fm/music/X",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v7w72u",
-      "source": "Amazon",
-      "createdAt": "2026-07-27T10:12:34.000Z",
-      "text": "[Amazon] Band of Horses - Everything All the Time (20th Anniversary) [2 LP] $23.80",
-      "artist": "Band of Horses",
-      "title": "Everything All the Time (20th Anniversary) [2 LP]",
-      "label": "Sub Pop",
-      "genres": [
-        "Rock",
-        "Indie Rock"
-      ],
-      "price": 23.8,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GG5GYK1Q/",
-      "knownArtist": false,
-      "year": "2006",
-      "cover": "https://i.discogs.com/lPNPs309lX0unadN7vfHiaE1k4SEs9fM5pIUTcWJp9w/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDU1/Ni0xNjk3OTk2NTI2/LTE2MDguanBlZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Band of Horses is a US American folk/indie rock band which was formed in 2004 in Seattle.",
-      "bioUrl": "https://www.last.fm/music/Band+of+Horses",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v7vpk2",
-      "source": "Amazon",
-      "createdAt": "2026-07-27T09:45:33.000Z",
-      "text": "[Amazon] Jack Nitzsche - One Flew Over The Cuckoo's Nest Original Soundtrack $11.90",
-      "artist": "Jack Nitzsche",
-      "title": "One Flew Over The Cuckoo's Nest Original Soundtrack",
-      "label": "Fantasy",
-      "genres": [
-        "Rock",
-        "Stage & Screen",
-        "Folk Rock",
-        "Country Rock"
-      ],
-      "price": 11.9,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FRSRS6JC/",
-      "knownArtist": false,
-      "year": "1975",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/f9/e2/56f9e29e-1df1-28d7-6a1f-8b8d5982c4c9/25CRGIM50269.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Bernard Alfred (\"Jack\") Nitzsche (Chicago, April 22, 1937 – Hollywood, August 25, 2000) An important behind-the-scenes figure in popular music for 40 years, composer/songwriter/producer/arranger/studio musician Jack Nitzsche served a crucial function in 1960s rock & roll, from helping to create the…",
-      "bioUrl": "https://www.last.fm/music/Jack+Nitzsche",
       "bioSource": "Last.fm"
     }
   ]
