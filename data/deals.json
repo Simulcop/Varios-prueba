@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-11T08:03:51.417Z",
+  "updatedAt": "2026-08-11T09:27:14.391Z",
   "deals": [
+    {
+      "id": "reddit-t31vlbzgw",
+      "source": "Amazon",
+      "createdAt": "2026-08-11T08:50:48.000Z",
+      "text": "[Amazon] ELO - All Over The World: The Very Best of Electric Light Orchestra - 2LP - $25.54",
+      "artist": "ELO",
+      "title": "All Over The World: The Very Best of Electric Light Orchestra - 2LP",
+      "label": "Epic",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Symphonic Rock",
+        "Pop Rock"
+      ],
+      "price": 25.54,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mssaazdn7s2k",
+      "knownArtist": false,
+      "year": "1997",
+      "cover": "https://i.discogs.com/ylYF5bBNnF0nrp6QamT8gVjIq_rR_bNvDM5yVWpmo1s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDk3/NzItMTMyMDMzNzg0/Ny5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Electric Light Orchestra (ELO) are an English rock band formed in Birmingham in 1970 by Jeff Lynne, Roy Wood and Bev Bevan. Their music combines rock and pop with orchestral and classical influences.",
+      "bioUrl": "https://www.last.fm/music/Electric+Light+Orchestra",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vl6yfc",
       "source": "Amazon",
@@ -10536,80 +10563,6 @@
       "enrichedVia": "discogs",
       "bio": "Bernard Alfred (\"Jack\") Nitzsche (Chicago, April 22, 1937 – Hollywood, August 25, 2000) An important behind-the-scenes figure in popular music for 40 years, composer/songwriter/producer/arranger/studio musician Jack Nitzsche served a crucial function in 1960s rock & roll, from helping to create the…",
       "bioUrl": "https://www.last.fm/music/Jack+Nitzsche",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v7v3z7",
-      "source": "Amazon",
-      "createdAt": "2026-07-27T09:10:46.000Z",
-      "text": "[Amazon] Thee Oh Sees - Putrifiers II $19.50",
-      "artist": "Thee Oh Sees",
-      "title": "Putrifiers II",
-      "label": "In The Red Recordings",
-      "genres": [
-        "Rock",
-        "Garage Rock",
-        "Psychedelic Rock"
-      ],
-      "price": 19.5,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B008HVFBDU",
-      "knownArtist": false,
-      "year": "2012",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1b/46/dd/1b46dd83-1cc0-9f52-72b6-d7852f1ddf40/759718523522.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Osees (formerly 'Oh Sees') are a band from San Francisco, California, USA. The group began as an outlet for John Dwyer to release his instrumental, experimental home recordings, and over the course of several albums evolved into a full band.",
-      "bioUrl": "https://www.last.fm/music/Thee+Oh+Sees",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v7ugbz",
-      "source": "Walmart",
-      "createdAt": "2026-07-27T08:32:50.000Z",
-      "text": "[Walmart] Mac Miller - Watching Movies with the Sound Off - 2LP Brown Vinyl - $18.39",
-      "artist": "Mac Miller",
-      "title": "Watching Movies with the Sound Off - 2LP Brown Vinyl",
-      "label": "Rostrum Records",
-      "genres": [
-        "Hip Hop"
-      ],
-      "price": 18.39,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrmi7wm2cs25",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/ce/70/93ce70cb-6d52-2731-fa4b-775a4b347f98/887158475511.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Malcolm McCormick, also known by his stage name Mac Miller, was an American rapper, singer-songwriter and record producer from Pittsburgh, Pennsylvania. He was also a noted record producer under the pseudonym Larry Fisherman.",
-      "bioUrl": "https://www.last.fm/music/Mac+Miller",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v7u32u",
-      "source": "Amazon",
-      "createdAt": "2026-07-27T08:10:30.000Z",
-      "text": "[Amazon] The Unicorns - Who Will Cut Our Hair When We're Gone - 180g - Remastered - $23.80",
-      "artist": "The Unicorns",
-      "title": "Who Will Cut Our Hair When We're Gone - 180g - Remastered",
-      "label": "Caterpillar Records",
-      "genres": [
-        "Rock",
-        "Indie Rock"
-      ],
-      "price": 23.8,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00M2D7IJ4?ref=clp_hp_h_pc",
-      "knownArtist": false,
-      "cover": "https://i.discogs.com/wByFHDQuZdtYpzlCOHe-L4dOs-Y1LZtp3Y9dXrwMOW4/rs:fit/g:sm/q:90/h:596/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMw/NDQzLTE2NTkwNTk2/NzYtODUyMS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "The Montreal-based Unicorns was originally formed in December 2000 by Nick Thorburn (stage name Nick \"Neil\" Diamonds, as well as a host of other aliases) and Alden Penner (stage name, Alden Ginger; Elvis Presley's fiancée when he died was Ginger Alden).",
-      "bioUrl": "https://www.last.fm/music/The+Unicorns",
       "bioSource": "Last.fm"
     }
   ]
