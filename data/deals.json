@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T13:50:15.947Z",
+  "updatedAt": "2026-08-11T14:50:28.336Z",
   "deals": [
     {
       "id": "reddit-t31vlbzgw",
@@ -10278,32 +10278,6 @@
       "enrichedVia": "discogs",
       "bio": "Five Finger Death Punch, also abbreviated as 5FDP or FFDP, is an American heavy metal band from Las Vegas, Nevada, formed in 2005. The original lineup consisted of vocalist Ivan Moody, guitarists Zoltan Bathory and Caleb Andrew Bingham, bassist Matt Snell, and drummer Jeremy Spencer.",
       "bioUrl": "https://www.last.fm/music/Five+Finger+Death+Punch",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v8189r",
-      "source": "Amazon",
-      "createdAt": "2026-07-27T13:59:39.000Z",
-      "text": "[Amazon] Stanley Turrentine - Easy Walker (Blue Note Classic Vinyl Edition)[180g LP] $23.80",
-      "artist": "Stanley Turrentine",
-      "title": "Easy Walker (Blue Note Classic Vinyl Edition)[180g LP]",
-      "label": "Blue Note",
-      "genres": [
-        "Jazz",
-        "Hard Bop",
-        "Soul-Jazz"
-      ],
-      "price": 23.8,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GC4HX8K6/",
-      "knownArtist": false,
-      "year": "1968",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/4f/f4/de/4ff4de6f-0f61-af5d-e5de-712ac7243c1a/00724382990857.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Stanley William Turrentine, also known as \"Mr. T\" or \"The Sugar Man\", (April 5, 1934 – September 12, 2000) was an American jazz tenor saxophonist. Turrentine was born in Pittsburgh's Hill District into a musical family.",
-      "bioUrl": "https://www.last.fm/music/Stanley+Turrentine",
       "bioSource": "Last.fm"
     }
   ]
