@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T04:47:00.793Z",
+  "updatedAt": "2026-08-11T05:47:32.832Z",
   "deals": [
     {
       "id": "reddit-t31vl6yfc",
@@ -10610,50 +10610,6 @@
       "enrichedVia": "discogs",
       "bio": "The Montreal-based Unicorns was originally formed in December 2000 by Nick Thorburn (stage name Nick \"Neil\" Diamonds, as well as a host of other aliases) and Alden Penner (stage name, Alden Ginger; Elvis Presley's fiancée when he died was Ginger Alden).",
       "bioUrl": "https://www.last.fm/music/The+Unicorns",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v7qse9",
-      "source": "Amazon",
-      "createdAt": "2026-07-27T05:04:36.000Z",
-      "text": "[Amazon] Oscar Peterson Trio - At Baker’s Keyboard Lounge [Living Earth LP] $22.85",
-      "artist": "Oscar Peterson Trio",
-      "title": "At Baker’s Keyboard Lounge [Living Earth LP]",
-      "label": "Verve Records",
-      "genres": [
-        "Jazz"
-      ],
-      "price": 22.85,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GP7GQG5X",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/95/f2/ba95f2cc-dc91-8ce3-55c4-209cb3eca742/26UMGIM18522.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Oscar Emmanuel Peterson (15 August 1925 – 23 December 2007) was a Canadian jazz pianist, vocalist and composer.",
-      "bioUrl": "https://www.last.fm/music/Oscar+Peterson+Trio",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v7qlhw",
-      "source": "Amazon",
-      "createdAt": "2026-07-27T04:55:18.000Z",
-      "text": "(Amazon) Def Leppard - One Night Only Live At The Leadmill Sheffield May 19, 2023 Analog [2xLP] @ $29.10",
-      "artist": "Def Leppard",
-      "title": "One Night Only Live At The Leadmill Sheffield May 19, 2023 Analog [2xLP]",
-      "label": null,
-      "genres": [],
-      "price": 29.1,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0D659YMX5",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/56/6b/bb566b21-ed73-bf96-3699-809c035853d7/24UMGIM13003.rgb.jpg/400x400bb.jpg",
-      "bio": "Def Leppard are an English rock band formed in Sheffield in 1977. Since 1992, the band has consisted of Rick Savage (bass, backing vocals), Joe Elliott (lead vocals), Rick Allen (drums), Phil Collen (guitar, backing vocals), and Vivian Campbell (guitar, backing vocals).",
-      "bioUrl": "https://www.last.fm/music/Def+Leppard",
       "bioSource": "Last.fm"
     }
   ]
