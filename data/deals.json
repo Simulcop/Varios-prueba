@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T17:49:47.607Z",
+  "updatedAt": "2026-08-11T18:47:50.684Z",
   "deals": [
     {
       "id": "reddit-t31vlmjus",
@@ -10119,22 +10119,6 @@
       "bio": "Beastie Boys were an American hip-hop trio from New York City, United States: Brooklyn and Manhattan.",
       "bioUrl": "https://www.last.fm/music/Beastie+Boys",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v88t5y",
-      "source": "Amazon US",
-      "createdAt": "2026-07-27T18:28:02.000Z",
-      "text": "[Amazon US] South West Regional Coupons (Northern California/Central Valley?)",
-      "artist": null,
-      "title": "South West Regional Coupons (Northern California/Central Valley?)",
-      "label": null,
-      "genres": [],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/promotion/psp/A2YZM5YLOM8JIY",
-      "knownArtist": false
     }
   ]
 }
