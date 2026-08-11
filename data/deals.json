@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T22:31:46.220Z",
+  "updatedAt": "2026-08-11T23:30:18.618Z",
   "deals": [
     {
       "id": "reddit-t31vlmjus",
@@ -10064,33 +10064,6 @@
       "enrichedVia": "discogs",
       "bio": "Ella Jane Fitzgerald (April 25, 1917 – June 15, 1996) was an American singer, songwriter, and composer. She was known for her vocal range, precise diction, phrasing, timing, intonation, and improvisational ability, particularly in scat singing.",
       "bioUrl": "https://www.last.fm/music/Ella+Fitzgerald",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v8gqhh",
-      "source": "Amazon",
-      "createdAt": "2026-07-27T23:20:27.000Z",
-      "text": "(Amazon) [Regional] Miles Davis - The Complete Plugged Nickel Live 1965 [10xLP Box Set] @ $119.75",
-      "artist": "Miles Davis",
-      "title": "The Complete Plugged Nickel Live 1965 [10xLP Box Set]",
-      "label": "Columbia",
-      "genres": [
-        "Jazz",
-        "Hard Bop",
-        "Post Bop",
-        "Modal"
-      ],
-      "price": 119.75,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FT6TY1ZG",
-      "knownArtist": false,
-      "year": "1995",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/49/90/c1/4990c131-8f6a-102f-993c-91de282334c2/886444520270.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Miles Dewey Davis III (May 26, 1926 – September 28, 1991) was an American trumpeter, bandleader and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music.",
-      "bioUrl": "https://www.last.fm/music/Miles+Davis",
       "bioSource": "Last.fm"
     }
   ]
