@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T19:54:36.018Z",
+  "updatedAt": "2026-08-11T20:34:16.902Z",
   "deals": [
     {
       "id": "reddit-t31vlmjus",
@@ -10091,33 +10091,6 @@
       "enrichedVia": "discogs",
       "bio": "Miles Dewey Davis III (May 26, 1926 – September 28, 1991) was an American trumpeter, bandleader and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music.",
       "bioUrl": "https://www.last.fm/music/Miles+Davis",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v8c23c",
-      "source": "Amazon",
-      "createdAt": "2026-07-27T20:22:33.000Z",
-      "text": "[Amazon] Beastie Boys - To the 5 Boroughs (3LP) $75.35",
-      "artist": "Beastie Boys",
-      "title": "To the 5 Boroughs (3LP)",
-      "label": "Capitol Records",
-      "genres": [
-        "Hip Hop",
-        "Rock",
-        "Electro",
-        "Pop Rap"
-      ],
-      "price": 75.35,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://a.co/d/00SqGPVN",
-      "knownArtist": false,
-      "year": "2017",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/f7/da/34f7da40-bc06-de2c-de19-5e7f403e3b8e/13UABIM29277.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Beastie Boys were an American hip-hop trio from New York City, United States: Brooklyn and Manhattan.",
-      "bioUrl": "https://www.last.fm/music/Beastie+Boys",
       "bioSource": "Last.fm"
     }
   ]
