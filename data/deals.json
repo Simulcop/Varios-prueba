@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-11T15:51:22.507Z",
+  "updatedAt": "2026-08-11T16:47:03.338Z",
   "deals": [
+    {
+      "id": "reddit-t31vlmjus",
+      "source": "Amazon",
+      "createdAt": "2026-08-11T16:36:26.000Z",
+      "text": "[Amazon] Descendents - Milo Goes To College - $18.03",
+      "artist": "Descendents",
+      "title": "Milo Goes To College",
+      "label": "SST Records",
+      "genres": [
+        "Rock",
+        "Hardcore",
+        "Punk"
+      ],
+      "price": 18.03,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mst2bgnti224",
+      "knownArtist": false,
+      "year": "2010",
+      "cover": "https://i.discogs.com/u_nX-UJeW9v4MaD8Tf65FlOU8gEUa61-0BDDiN7lDtM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODEy/NDAtMTc3ODQ0MTA4/Ni0zNjgxLmpwZWc.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Descendents is an American punk rock band from Manhattan Beach, California formed in 1978 by guitarist Frank Navetta, bassist Tony Lombardo and drummer Bill Stevenson.",
+      "bioUrl": "https://www.last.fm/music/Descendents",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vlbzgw",
       "source": "Amazon",
