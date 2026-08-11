@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T11:11:35.508Z",
+  "updatedAt": "2026-08-11T12:04:40.327Z",
   "deals": [
     {
       "id": "reddit-t31vlbzgw",
@@ -10485,32 +10485,6 @@
       "enrichedVia": "discogs",
       "bio": "Bad Religion is a punk rock band from Los Angeles, California, known for the social commentary in their lyrics. The band was formed in 1979 by high school students Greg Graffin (vocals), Jay Bentley (bass guitar), Jay Ziskrout (drums), and Brett Gurewitz (guitar).",
       "bioUrl": "https://www.last.fm/music/Bad+Religion",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v7xiqk",
-      "source": "Amazon",
-      "createdAt": "2026-07-27T11:21:32.000Z",
-      "text": "[Amazon] X - Los Angeles (Amazon Exclusive LP) $16.60",
-      "artist": "X",
-      "title": "Los Angeles (Amazon Exclusive LP)",
-      "label": "Slash",
-      "genres": [
-        "Rock",
-        "Punk",
-        "Rock & Roll"
-      ],
-      "price": 16.6,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0C4FQYDH4/",
-      "knownArtist": false,
-      "year": "1980",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/c4/dc/a0c4dc37-1cf1-9f5a-c80c-af6f9945d07d/192562795828.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "X is an American punk rock band formed in Los Angeles, California in 1977. The original members are vocalist Exene Cervenka, vocalist-bassist John Doe, guitarist Billy Zoom and drummer D. J. Bonebrake. The band released seven studio albums from 1980 to 1993.",
-      "bioUrl": "https://www.last.fm/music/X",
       "bioSource": "Last.fm"
     }
   ]
