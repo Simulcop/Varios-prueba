@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T22:30:33.785Z",
+  "updatedAt": "2026-08-12T23:30:45.219Z",
   "deals": [
     {
       "id": "reddit-t31vmn5cq",
@@ -9261,57 +9261,6 @@
       "enrichedVia": "discogs",
       "bio": "The Academy Is... are a rock band which formed in 2003 in Chicago, Illinois, United States. The band's current lineup consists of lead vocalist William Beckett, rhythm guitarist Mike Carden, bassist Adam T. Siska, and drummer Andy \"The Butcher\" Mrotek.",
       "bioUrl": "https://www.last.fm/music/The+Academy+Is...",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v9dtit",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T22:45:32.000Z",
-      "text": "(Amazon) [Regional] Residents - Not Available @ $13.49",
-      "artist": "Residents",
-      "title": "Not Available",
-      "label": "Ralph Records",
-      "genres": [
-        "Electronic",
-        "Experimental"
-      ],
-      "price": 13.49,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00481KM5U",
-      "knownArtist": false,
-      "year": "1978",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/ea/17/0b/mzi.tnfeasvm.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Residents is an experimental music and visual arts group from Louisiana, United States, largely shrouded in mystery and myth. The Residents began recording in 1967, although many of these recordings from their early years have still gone unreleased to this day.",
-      "bioUrl": "https://www.last.fm/music/The+Residents",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v9dpn4",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T22:41:06.000Z",
-      "text": "(Amazon) Massive Wagons - Triggered! @ $12.90",
-      "artist": "Massive Wagons",
-      "title": "Triggered!",
-      "label": "Earache Records",
-      "genres": [
-        "Rock",
-        "Hard Rock",
-        "Heavy Metal"
-      ],
-      "price": 12.9,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0B5Y5ZPQ3",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://i.discogs.com/WmMQpXh4NA-l9ut9ev47zc5auzH_um9lo4suZyBOA1k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU0/Mjg5LTE2NjY4MDQy/MzMtMjkwMS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Massive Wagons are an English rock band, formed in the north Lancashire city of Lancaster in 2009. They released their debut album Fire It Up in 2012.",
-      "bioUrl": "https://www.last.fm/music/Massive+Wagons",
       "bioSource": "Last.fm"
     }
   ]
