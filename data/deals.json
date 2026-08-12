@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T09:36:42.271Z",
+  "updatedAt": "2026-08-12T10:51:57.235Z",
   "deals": [
     {
       "id": "reddit-t31vm92uf",
@@ -9897,33 +9897,6 @@
       "enrichedVia": "discogs",
       "bio": "1) The Charlatans, known in the United States as The Charlatans UK, is an English rock band formed in the West Midlands in 1988 and later developed in Northwich, Cheshire.",
       "bioUrl": "https://www.last.fm/music/The+Charlatans",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v8uaq5",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T10:23:40.000Z",
-      "text": "[Amazon] Motorhead - The Manticore Tapes $20.41",
-      "artist": "Motorhead",
-      "title": "The Manticore Tapes",
-      "label": "BMG",
-      "genres": [
-        "Rock",
-        "Hard Rock",
-        "Rock & Roll",
-        "Punk"
-      ],
-      "price": 20.41,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0F262HBV3",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/77/a5/c577a503-554e-a7c6-eac3-1c7c8b0dc688/4099964143652.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Motörhead were an English rock band formed in London in 1975 by bassist and lead vocalist Lemmy Kilmister, guitarist Larry Wallis, and drummer Lucas Fox. Kilmister was the primary songwriter and the only constant member.",
-      "bioUrl": "https://www.last.fm/music/Mot%C3%B6rhead",
       "bioSource": "Last.fm"
     }
   ]
