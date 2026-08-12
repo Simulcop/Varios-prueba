@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T19:33:45.751Z",
+  "updatedAt": "2026-08-12T20:33:10.427Z",
   "deals": [
     {
       "id": "reddit-t31vmn5cq",
@@ -9358,31 +9358,6 @@
       "knownArtist": false,
       "bio": "Rosie Tucker is an American songwriter and multi-instrumentalist based in Los Angeles, CA. Rosie Tucker is a non-sequitur equestrian, a nonbinary, amphibious harbinger of doom. Listen at your own peril.",
       "bioUrl": "https://www.last.fm/music/Rosie+Tucker",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v9a3x3",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T20:22:10.000Z",
-      "text": "[Amazon] De La Soul - De La Soul Is Dead - 2LP - $23.20",
-      "artist": "De La Soul",
-      "title": "De La Soul Is Dead - 2LP",
-      "label": "Chrysalis Records",
-      "genres": [
-        "Hip Hop",
-        "Jazzy Hip-Hop"
-      ],
-      "price": 23.2,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BTJ82HSD",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/93/2e/8e/932e8ed1-a720-df29-cfb0-d35a728b556f/810098505970.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "De La Soul is an American hip-hop group formed in 1988 in the Amityville area of Long Island, New York. They are best known for their eclectic sampling, quirky lyrics, and their contributions to the evolution of the jazz rap and alternative hip-hop subgenres.",
-      "bioUrl": "https://www.last.fm/music/De+La+Soul",
       "bioSource": "Last.fm"
     }
   ]
