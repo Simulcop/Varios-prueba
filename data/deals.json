@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T21:35:19.699Z",
+  "updatedAt": "2026-08-12T22:30:33.785Z",
   "deals": [
     {
       "id": "reddit-t31vmn5cq",
@@ -9312,52 +9312,6 @@
       "enrichedVia": "discogs",
       "bio": "Massive Wagons are an English rock band, formed in the north Lancashire city of Lancaster in 2009. They released their debut album Fire It Up in 2012.",
       "bioUrl": "https://www.last.fm/music/Massive+Wagons",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v9ce1s",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T21:50:23.000Z",
-      "text": "(Amazon) [Regional] Frank Zappa & The Mothers Of Invention - Whisky A Go Go 1968 [2xLP] [Highlights] @ $21.28",
-      "artist": "Frank Zappa & The Mothers Of Invention",
-      "title": "Whisky A Go Go 1968 [2xLP] [Highlights]",
-      "label": "Zappa Records",
-      "genres": [
-        "Rock",
-        "Art Rock",
-        "Avantgarde",
-        "Experimental"
-      ],
-      "price": 21.28,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0D26LD2M8",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7a/39/28/7a39286d-cd3f-78a4-040e-0620e0fd68c4/24UMGIM13692.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Frank Vincent Zappa (born December 21, 1940 in Baltimore, Maryland, United States – December 4, 1993 in Los Angeles, California, United States) was an American composer, guitarist, singer, bandleader and producer.",
-      "bioUrl": "https://www.last.fm/music/Frank+Zappa",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v9cccj",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T21:48:30.000Z",
-      "text": "[Amazon] Rosie Tucker - Sucker Supreme $12.24 Lowest",
-      "artist": "Rosie Tucker",
-      "title": "Sucker Supreme $12.24 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 12.24,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0915766CZ",
-      "knownArtist": false,
-      "bio": "Rosie Tucker is an American songwriter and multi-instrumentalist based in Los Angeles, CA. Rosie Tucker is a non-sequitur equestrian, a nonbinary, amphibious harbinger of doom. Listen at your own peril.",
-      "bioUrl": "https://www.last.fm/music/Rosie+Tucker",
       "bioSource": "Last.fm"
     }
   ]
