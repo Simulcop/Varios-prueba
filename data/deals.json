@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T05:24:03.837Z",
+  "updatedAt": "2026-08-12T06:50:58.904Z",
   "deals": [
     {
       "id": "reddit-t31vm4spv",
@@ -10057,32 +10057,6 @@
       "enrichedVia": "discogs",
       "bio": "New Found Glory (often abbreviated to NFG) are an American pop-punk band based in South Florida (Coral Springs). The band consists of Jordan Pundik (vocals), Chad Gilbert (guitar), Ian Grushka (bass) and Cyrus Bolooki (drums).",
       "bioUrl": "https://www.last.fm/music/New+Found+Glory",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v8q57t",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T06:35:14.000Z",
-      "text": "[Amazon] Melvins & Napalm Death - Savage Imperial Death March $13.65",
-      "artist": "Melvins & Napalm Death",
-      "title": "Savage Imperial Death March",
-      "label": "Amphetamine Reptile Records",
-      "genres": [
-        "Rock",
-        "Grindcore",
-        "Sludge Metal"
-      ],
-      "price": 13.65,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GKWC4T4M/",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/-_wlQZgF3_P2AueMpW9t9JHbpohoGi0MzFR1Wl_qeEQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTky/NzUwLTE3ODEyMDgx/OTItNjc3MC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "A collabortion between Melvins and Napalm Death.",
-      "bioUrl": "https://www.last.fm/music/Melvins+&+Napalm+Death",
       "bioSource": "Last.fm"
     }
   ]
