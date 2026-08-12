@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-08-12T08:09:10.271Z",
+  "updatedAt": "2026-08-12T09:36:42.271Z",
   "deals": [
+    {
+      "id": "reddit-t31vm92uf",
+      "source": "Walmart",
+      "createdAt": "2026-08-12T09:19:15.000Z",
+      "text": "[Walmart] The Postal Service - Everything Will Change - 2LP Lavender/Light Blue - $21.51",
+      "artist": "The Postal Service",
+      "title": "Everything Will Change - 2LP Lavender/Light Blue",
+      "label": null,
+      "genres": [],
+      "price": 21.51,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3msuscprb3k2s",
+      "knownArtist": false,
+      "bio": "The Postal Service was an American indie electropop band which formed in Seattle, Washington in 2001. The group consisted of Ben Gibbard (vocals, guitar, keyboards), Jimmy Tamborello (production, programming, synthesizers) and Jenny Lewis (vocals, guitar).",
+      "bioUrl": "https://www.last.fm/music/The+Postal+Service",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vm4spv",
       "source": "Vinyl Storage Solutions",
@@ -9905,84 +9924,6 @@
       "enrichedVia": "discogs",
       "bio": "Motörhead were an English rock band formed in London in 1975 by bassist and lead vocalist Lemmy Kilmister, guitarist Larry Wallis, and drummer Lucas Fox. Kilmister was the primary songwriter and the only constant member.",
       "bioUrl": "https://www.last.fm/music/Mot%C3%B6rhead",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v8tdv0",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T09:35:58.000Z",
-      "text": "[Amazon] The Who - Who Are You (180g Half Speed Master LP) $25.65",
-      "artist": "The Who",
-      "title": "Who Are You (180g Half Speed Master LP)",
-      "label": "Polydor",
-      "genres": [
-        "Rock",
-        "Pop Rock",
-        "Hard Rock"
-      ],
-      "price": 25.65,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FHZHGLP7",
-      "knownArtist": false,
-      "year": "1978",
-      "cover": "https://i.discogs.com/C1ew0fDueqk9z_Ua2DgKxJlNzjGkDqdr-GSTX1F1BN4/rs:fit/g:sm/q:90/h:592/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTk5/Mi0xMzkyNjUzNzE5/LTU1MTUuanBlZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "The Who are an English rock band formed in London in 1964. The group's classic line-up consisted of vocalist Roger Daltrey, guitarist and principal songwriter Pete Townshend, bassist John Entwistle, and drummer Keith Moon.",
-      "bioUrl": "https://www.last.fm/music/The+Who",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v8rww6",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T08:13:54.000Z",
-      "text": "[Amazon] Spinal Tap - Break Like The Wind $21.93",
-      "artist": "Spinal Tap",
-      "title": "Break Like The Wind",
-      "label": "MCA Records",
-      "genres": [
-        "Rock",
-        "Heavy Metal"
-      ],
-      "price": 21.93,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FHWZSKKW",
-      "knownArtist": false,
-      "year": "1992",
-      "cover": "https://i.discogs.com/pkfy4St2cuNVIYf3VP6a9kGfL4Lt5a91vdIsGGO8EFU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzA0/Ny0xNDMwNzQ4MzA4/LTI4MDMuanBlZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Spın̈al Tap is the name of a fictional English hard rock / 80s heavy metal band, created for the 1984 rockumentary film This Is Spın̈al Tap. However, due to the success of the film, the band went on to record and release three albums.",
-      "bioUrl": "https://www.last.fm/music/Spinal+Tap",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v8rw9c",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T08:12:48.000Z",
-      "text": "[Amazon] Prince - Around The World In A Day - $17.30",
-      "artist": "Prince",
-      "title": "Around The World In A Day",
-      "label": "Paisley Park",
-      "genres": [
-        "Rock",
-        "Funk / Soul",
-        "Pop",
-        "Minneapolis Sound"
-      ],
-      "price": 17.3,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FQ4BBJSG?ref=clp_hp_h_pc",
-      "knownArtist": false,
-      "year": "1985",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/de/3c/76/de3c7606-c57a-09d1-0ca0-32e020fc7660/886448892939.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Prince Rogers Nelson (June 7, 1958 - April 21, 2016), known professionally as Prince, was an American singer, songwriter, musician, dancer, actor, and filmmaker. He was associated with the development of the Minneapolis sound, a style that combined elements of funk, rock, pop, R&B, and new wave.",
-      "bioUrl": "https://www.last.fm/music/Prince",
       "bioSource": "Last.fm"
     }
   ]
