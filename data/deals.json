@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T06:50:58.904Z",
+  "updatedAt": "2026-08-12T08:09:10.271Z",
   "deals": [
     {
       "id": "reddit-t31vm4spv",
@@ -9983,80 +9983,6 @@
       "enrichedVia": "discogs",
       "bio": "Prince Rogers Nelson (June 7, 1958 - April 21, 2016), known professionally as Prince, was an American singer, songwriter, musician, dancer, actor, and filmmaker. He was associated with the development of the Minneapolis sound, a style that combined elements of funk, rock, pop, R&B, and new wave.",
       "bioUrl": "https://www.last.fm/music/Prince",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v8rsp6",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T08:07:04.000Z",
-      "text": "[Amazon] Anti-Flag- Lies They Tell Our Children - Olive Green Vinyl - $17.47",
-      "artist": "Anti-Flag- Lies They Tell Our Children",
-      "title": "Olive Green Vinyl",
-      "label": "Spinefarm Records",
-      "genres": [
-        "Rock",
-        "Pop Punk",
-        "Punk"
-      ],
-      "price": 17.47,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0B7W3H7JP?ref=clp_hp_h_pc",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://i.discogs.com/T1l9oChII1Q_kkFs-qLObVNqig41b12gxyqDbwzm398/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjI3/MzUxLTE2NzI1MjUw/MTEtMTIxMi5qcGVn.jpeg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31v8rgz6",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T07:48:35.000Z",
-      "text": "[Amazon] The Mountain Goats - Through This Fire Across from Peter Balkan [2 LP] $26.63",
-      "artist": "The Mountain Goats",
-      "title": "Through This Fire Across from Peter Balkan [2 LP]",
-      "label": "Cadmean Dawn",
-      "genres": [
-        "Rock",
-        "Indie Rock"
-      ],
-      "price": 26.63,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FNCZPVS3",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/df/1c/37df1ce5-70da-f184-1cea-d94f33ad4b7a/199538500943.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Mountain Goats are an American folk rock band formed in Claremont, California, in 1991, by singer-songwriter John Darnielle. The band is currently based in Chapel Hill, North Carolina. For many years, the sole member of the Mountain Goats was Darnielle, despite the plural moniker.",
-      "bioUrl": "https://www.last.fm/music/The+Mountain+Goats",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v8qsh5",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T07:10:06.000Z",
-      "text": "[Amazon] New Found Glory - Listen Up! $15.01",
-      "artist": "New Found Glory",
-      "title": "Listen Up!",
-      "label": "Pure Noise Records",
-      "genres": [
-        "Rock",
-        "Pop Punk",
-        "Punk"
-      ],
-      "price": 15.01,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FT3PV2ZC",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/5d/a5/5d5da5bc-dc67-d3e4-c783-4046ddd78176/199538361230.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "New Found Glory (often abbreviated to NFG) are an American pop-punk band based in South Florida (Coral Springs). The band consists of Jordan Pundik (vocals), Chad Gilbert (guitar), Ian Grushka (bass) and Cyrus Bolooki (drums).",
-      "bioUrl": "https://www.last.fm/music/New+Found+Glory",
       "bioSource": "Last.fm"
     }
   ]
