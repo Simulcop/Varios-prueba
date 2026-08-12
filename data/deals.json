@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T14:14:13.072Z",
+  "updatedAt": "2026-08-12T15:26:56.960Z",
   "deals": [
     {
       "id": "reddit-t31vm92uf",
@@ -9745,32 +9745,6 @@
       "enrichedVia": "discogs",
       "bio": "Mother Love Bone was a grunge band which formed in Seattle, Washington, United States in 1988. The band consisted of Andrew Wood (vocals, keyboards), Bruce Fairweather (guitar), Stone Gossard (guitar), Jeff Ament (bass) and Greg Gilmore (drums).",
       "bioUrl": "https://www.last.fm/music/Mother+Love+Bone",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v90qb8",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T14:50:59.000Z",
-      "text": "(Amazon) Rancid - Let the Dominoes Fall [LP] @ $17.11",
-      "artist": "Rancid",
-      "title": "Let the Dominoes Fall [LP]",
-      "label": "Hellcat Records",
-      "genres": [
-        "Rock",
-        "Ska",
-        "Punk"
-      ],
-      "price": 17.11,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0026IUSZG",
-      "knownArtist": false,
-      "year": "2009",
-      "cover": "https://i.discogs.com/FX2BVKeuPcgZS2dWNHsljpucVfD8NapV97vyk7bB4Pg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTYz/NDQtMTM5OTQ4NTU3/MC02ODMwLmpwZWc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Rancid is an American punk rock band formed in Berkeley, California, in 1991 by Tim Armstrong and Matt Freeman, both former members of Operation Ivy.",
-      "bioUrl": "https://www.last.fm/music/Rancid",
       "bioSource": "Last.fm"
     }
   ]
