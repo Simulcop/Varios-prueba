@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-08-12T03:32:59.250Z",
+  "updatedAt": "2026-08-12T05:24:03.837Z",
   "deals": [
+    {
+      "id": "reddit-t31vm4spv",
+      "source": "Vinyl Storage Solutions",
+      "createdAt": "2026-08-12T05:10:10.000Z",
+      "text": "[Vinyl Storage Solutions] National Vinyl Record Day Sale - 35% off sitewide - no code needed",
+      "artist": "National Vinyl Record Day Sale",
+      "title": "35% off sitewide - no code needed",
+      "label": null,
+      "genres": [],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://vinylstoragesolutions.ca/",
+      "knownArtist": false
+    },
+    {
+      "id": "reddit-t31vm40ey",
+      "source": "Amazon",
+      "createdAt": "2026-08-12T04:28:04.000Z",
+      "text": "[Amazon] Nine Inch Nails - TRON: Ares (Original Motion Picture Soundtrack) [White 2 LP] - $16.85 (YMMV 30% Off Coupon - $11.79)",
+      "artist": "Nine Inch Nails",
+      "title": "TRON: Ares (Original Motion Picture Soundtrack) [White 2 LP] - $16.85 (YMMV 30% Off Coupon - $11.79)",
+      "label": null,
+      "genres": [],
+      "price": 11.79,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/recorddrops.bsky.social/post/3msuc2wnpgc2m",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/79/21/767921a2-c9d0-9618-32a3-ebe8fcb9c723/25UMGIM93266.rgb.jpg/400x400bb.jpg",
+      "bio": "Nine Inch Nails, commonly abbreviated as NIN (stylized as NIИ), is an American industrial rock band formed in 1988 in Cleveland, Ohio.",
+      "bioUrl": "https://www.last.fm/music/Nine+Inch+Nails",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vm2bpr",
       "source": "Amazon",
