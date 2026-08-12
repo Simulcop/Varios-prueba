@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-12T16:24:29.678Z",
+  "updatedAt": "2026-08-12T17:25:28.771Z",
   "deals": [
+    {
+      "id": "reddit-t31vmkj7r",
+      "source": "Walmart",
+      "createdAt": "2026-08-12T17:21:24.000Z",
+      "text": "[Walmart] Dope Lemon - Smooth Big Cat - Turquoise Vinyl - $23.33",
+      "artist": "Dope Lemon",
+      "title": "Smooth Big Cat - Turquoise Vinyl",
+      "label": "BMG",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Lo-Fi",
+        "Psychedelic Rock"
+      ],
+      "price": 23.33,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3msvnazyt522d",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://i.discogs.com/g2ynuy0fSw6hFsFq02YSTDQK1cu1Izv3iiARWwbtuok/rs:fit/g:sm/q:90/h:635/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ2/NzkyLTE2ODgyMTY2/MDYtNDIyNC5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "DOPE LEMON is an indie rock band from Australia. It was created by singer-songwriter and multi-instrumentalist Angus Stone in 2015. Their sound is heavily influenced by blues and psychedelic rock.",
+      "bioUrl": "https://www.last.fm/music/Dope+Lemon",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vm92uf",
       "source": "Walmart",
@@ -9671,81 +9698,6 @@
       "bio": "Originally formed in 1980 Lionheart consists of ex/current members of Iron Maiden, MSG, UFO and Shy",
       "bioUrl": "https://www.discogs.com/artist/1416667-Lionheart-4",
       "bioSource": "Discogs"
-    },
-    {
-      "id": "reddit-t31v94cdg",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T17:00:38.000Z",
-      "text": "(Amazon) Various Artists - Roller Disco Funk [2xLP] @ $26.05",
-      "artist": "Various Artists",
-      "title": "Roller Disco Funk [2xLP]",
-      "label": "Gateway Records",
-      "genres": [
-        "Funk / Soul",
-        "Pop",
-        "Disco",
-        "Funk"
-      ],
-      "price": 26.05,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0F69NZRTT",
-      "knownArtist": false,
-      "year": "1980",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/86/1d/2b861df3-4cc5-6d7b-f42b-6bab4fb70215/084247979985.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31v94bax",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T16:59:36.000Z",
-      "text": "[Amazon] Placebo - Meds - $19.98",
-      "artist": "Placebo",
-      "title": "Meds",
-      "label": "Elevator Music",
-      "genres": [
-        "Rock",
-        "Alternative Rock"
-      ],
-      "price": 19.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B07PXN4NMM",
-      "knownArtist": false,
-      "year": "2019",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/13/2a/61/132a61bc-3072-315c-9764-16c100cbcc7d/5060454942795.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Placebo are a British alternative rock duo formed in London in 1994 by vocalist-guitarist Brian Molko and bassist-guitarist Stefan Olsdal. Drummer Robert Schultzberg joined in late 1994 but left in 1996 shortly after the release of the band's eponymous debut album due to conflicts with Molko.",
-      "bioUrl": "https://www.last.fm/music/Placebo",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v944xz",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T16:53:13.000Z",
-      "text": "(Amazon) Mother Love Bone - Shine [180g Eco-Vinyl] @ $15.19",
-      "artist": "Mother Love Bone",
-      "title": "Shine [180g Eco-Vinyl]",
-      "label": "Music On Vinyl",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Grunge"
-      ],
-      "price": 15.19,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FJQDGVZL",
-      "knownArtist": false,
-      "year": "2013",
-      "cover": "https://i.discogs.com/umpjtIRINfF3DchIORFVfydZOW2WY0uHYOLQgHNAXAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzYx/NDItMTM5NDU2NTk0/MC0zOTMwLmpwZWc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Mother Love Bone was a grunge band which formed in Seattle, Washington, United States in 1988. The band consisted of Andrew Wood (vocals, keyboards), Bruce Fairweather (guitar), Stone Gossard (guitar), Jeff Ament (bass) and Greg Gilmore (drums).",
-      "bioUrl": "https://www.last.fm/music/Mother+Love+Bone",
-      "bioSource": "Last.fm"
     }
   ]
 }
