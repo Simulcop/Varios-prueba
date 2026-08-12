@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-08-11T23:30:18.618Z",
+  "updatedAt": "2026-08-12T01:06:43.141Z",
   "deals": [
+    {
+      "id": "reddit-t31vly2o8",
+      "source": "Amazon",
+      "createdAt": "2026-08-11T23:49:26.000Z",
+      "text": "[Amazon] LØLØ - god forbid a girl spits out her feeling! (Fruit Punch Vinyl) $14.85",
+      "artist": "LØLØ",
+      "title": "god forbid a girl spits out her feeling! (Fruit Punch Vinyl)",
+      "label": null,
+      "genres": [],
+      "price": 14.85,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GFFHF2FK",
+      "knownArtist": false,
+      "bio": "Born and raised in Toronto, LØLØ has become an undeniable gem in the city’s pop scene. The singer-songwriter has created a striking presence both online and on stage with her effortlessly cool attitude and alluring ability to captivate her audience.",
+      "bioUrl": "https://www.last.fm/music/L%C3%98L%C3%98",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vlxvb1",
+      "source": "Walmart",
+      "createdAt": "2026-08-11T23:40:34.000Z",
+      "text": "[Walmart] The Cramps - Date with Elvis - $15.99",
+      "artist": "The Cramps",
+      "title": "Date with Elvis",
+      "label": "Big Beat Records",
+      "genres": [
+        "Rock",
+        "Psychobilly"
+      ],
+      "price": 15.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mstrxbyhqc2g",
+      "knownArtist": false,
+      "year": "1986",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/7c/53/e9/7c53e9df-13ba-0fdb-0762-e1982adf9548/655035167121.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Cramps were an American garage punk band formed in Sacramento, California in 1976. The band was influential in founding of a hybrid subgenre later known as \"psychobilly,\" which is a fusion of punk and rockabilly.",
+      "bioUrl": "https://www.last.fm/music/The+Cramps",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vlmjus",
       "source": "Amazon",
@@ -10013,58 +10057,6 @@
       "bio": "The second generation (generation II) of the Pokémon franchise features 100 fictional species of creatures introduced to the core video game series in the Game Boy Color games Pokémon Gold and Silver. The generation was unveiled at the beginning of the Nintendo Space World '97 event.",
       "bioUrl": "https://en.wikipedia.org/wiki/List_of_generation_II_Pok%C3%A9mon",
       "bioSource": "Wikipedia"
-    },
-    {
-      "id": "reddit-t31v8h56b",
-      "source": "Amazon",
-      "createdAt": "2026-07-27T23:37:19.000Z",
-      "text": "(Amazon) John Coltrane - My Favorite Things [Rhino Reserve] @ $27.00",
-      "artist": "John Coltrane",
-      "title": "My Favorite Things [Rhino Reserve]",
-      "label": "Second Records",
-      "genres": [
-        "Jazz",
-        "Modal"
-      ],
-      "price": 27,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GP24W43G",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/38/49/44/384944a8-297f-0844-77da-1ae3b976c457/603497893119.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "John William Coltrane (Hamlet, North Carolina, September 23, 1926 – Huntington, New York, July 17, 1967) was an American jazz saxophonist and composer. American jazz great John Coltrane emerged in the 1950s, playing tenor and soprano sax with Dizzy Gillespie, Miles Davis and Thelonious Monk.",
-      "bioUrl": "https://www.last.fm/music/John+Coltrane",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v8h4rj",
-      "source": "Amazon",
-      "createdAt": "2026-07-27T23:36:50.000Z",
-      "text": "(Amazon) [Regional] Ella Fitzgerald - Live At Montreux 1969 @ $16.68",
-      "artist": "Ella Fitzgerald",
-      "title": "Live At Montreux 1969",
-      "label": "Mercury Studios",
-      "genres": [
-        "Jazz",
-        "Bop",
-        "Swing",
-        "Vocal"
-      ],
-      "price": 16.68,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BCS3YX6S",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/61/7c/30/617c3002-4c36-fd0b-9d40-ff633e7c3930/22UMGIM84427.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Ella Jane Fitzgerald (April 25, 1917 – June 15, 1996) was an American singer, songwriter, and composer. She was known for her vocal range, precise diction, phrasing, timing, intonation, and improvisational ability, particularly in scat singing.",
-      "bioUrl": "https://www.last.fm/music/Ella+Fitzgerald",
-      "bioSource": "Last.fm"
     }
   ]
 }
