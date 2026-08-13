@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T03:36:38.201Z",
+  "updatedAt": "2026-08-13T05:27:17.735Z",
   "deals": [
     {
       "id": "reddit-t31vmxm30",
@@ -9123,74 +9123,6 @@
       "bio": "Ultravox (formerly Ultravox!) have been one of the primary exponents of the British new wave synthpop music movement since the late 70s. The band is particularly associated with the New Romantic scene, although it both pre- and post-dated the peak of that movement by several years.",
       "bioUrl": "https://www.last.fm/music/Ultravox",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v9lzvk",
-      "source": "Amazon",
-      "createdAt": "2026-07-29T04:47:24.000Z",
-      "text": "[Amazon] Harry Styles - Kiss All The Time. Disco, Occasionally. $18.94",
-      "artist": "Harry Styles",
-      "title": "Kiss All The Time. Disco, Occasionally.",
-      "label": "Erskine Records",
-      "genres": [
-        "Pop",
-        "Alt-Pop"
-      ],
-      "price": 18.94,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GH2D6SJV",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/41/6a/07416a78-38b9-2d47-7ce8-8a52a44c510f/196874010112.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Harry Edward Styles (born 1 February 1994 in Redditich, Worcestershire, England) is a three-time GRAMMY award-winning, British singer, songwriter, and actor.",
-      "bioUrl": "https://www.last.fm/music/Harry+Styles",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v9lb0h",
-      "source": "Amazon",
-      "createdAt": "2026-07-29T04:13:19.000Z",
-      "text": "[Amazon] Jason Isbell - Sirens Of The Ditch (Dress Blues Swirl Vinyl) [2 LP] $20.79",
-      "artist": "Jason Isbell",
-      "title": "Sirens Of The Ditch (Dress Blues Swirl Vinyl) [2 LP]",
-      "label": "New West Records",
-      "genres": [
-        "Rock",
-        "Rock & Roll",
-        "Southern Rock"
-      ],
-      "price": 20.79,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FV2LP1CB",
-      "knownArtist": false,
-      "year": "2007",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b4/42/9f/b4429fa6-b11a-1ee1-005c-8a330006b01e/0607396611935.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Jason Isbell is an American alt-country singer /songwriter /guitarist from Muscle Shoals, Alabama. He also records as Jason Isbell and the 400 Unit. Best known for his years with the Drive-By Truckers where he played with his then wife, bassist Shonna Tucker.",
-      "bioUrl": "https://www.last.fm/music/Jason+Isbell",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v9kti0",
-      "source": "eBay",
-      "createdAt": "2026-07-29T03:50:01.000Z",
-      "text": "[eBay] Weval – CHOROPHOBIA (Yellow Color) $11.25 (Free Shipping)",
-      "artist": null,
-      "title": "Weval – CHOROPHOBIA (Yellow Color) $11.25 (Free Shipping)",
-      "label": null,
-      "genres": [],
-      "price": 11.25,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://ebay.us/QEUA2e",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e8/81/7ee88132-a063-cb8c-e6b1-9241277f9cdf/5054429203370.png/400x400bb.jpg"
     }
   ]
 }
