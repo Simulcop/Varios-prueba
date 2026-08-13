@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T22:31:17.377Z",
+  "updatedAt": "2026-08-13T23:31:23.460Z",
   "deals": [
     {
       "id": "reddit-t31vnmik3",
@@ -8766,31 +8766,6 @@
       "enrichedVia": "discogs",
       "bio": "The Whitest Boy Alive are a Norwegian-German musical group based in Berlin. The band comprises Norwegian singer/guitarist Erlend Øye, who is also a member of the band Kings of Convenience, bassist Marcin Öz, drummer Sebastian Maschat, and Daniel Nentwig on Rhodes piano and Crumar.",
       "bioUrl": "https://www.last.fm/music/The+Whitest+Boy+Alive",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vabvwf",
-      "source": "Walmart",
-      "createdAt": "2026-07-29T22:54:36.000Z",
-      "text": "[Walmart] The Residents - Our Finest Flowers @ $17.13",
-      "artist": "The Residents",
-      "title": "Our Finest Flowers",
-      "label": "Cherry Red",
-      "genres": [
-        "Electronic",
-        "Experimental"
-      ],
-      "price": 17.13,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.walmart.com/ip/3841380955?sid=abaa74c7-d7bb-4369-84d6-e534020818c6",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/6c/b0/00/6cb000f0-03cc-7e6a-eefb-3c2fe379df4f/760137727224.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Residents is an experimental music and visual arts group from Louisiana, United States, largely shrouded in mystery and myth. The Residents began recording in 1967, although many of these recordings from their early years have still gone unreleased to this day.",
-      "bioUrl": "https://www.last.fm/music/The+Residents",
       "bioSource": "Last.fm"
     }
   ]
