@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T15:28:14.193Z",
+  "updatedAt": "2026-08-13T16:23:46.632Z",
   "deals": [
     {
       "id": "reddit-t31vncucj",
@@ -8969,80 +8969,6 @@
       "enrichedVia": "discogs",
       "bio": "Edward Lee Morgan (July 10, 1938 – February 19, 1972) was an American jazz trumpeter and composer.",
       "bioUrl": "https://www.last.fm/music/Lee+Morgan",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31va10au",
-      "source": "Amazon",
-      "createdAt": "2026-07-29T16:22:01.000Z",
-      "text": "(Amazon) Logan Ledger - Golden State @ $8.11",
-      "artist": "Logan Ledger",
-      "title": "Golden State",
-      "label": "Rounder Records",
-      "genres": [
-        "Folk, World, & Country",
-        "Country"
-      ],
-      "price": 8.11,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0C4CWQXGX",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6a/bc/21/6abc21b9-e533-864a-f6ae-3121ae0f116a/22CRGIM35374.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Logan Ledger is an American Country singer-songwriter based in Nasville. Originally from the Bay Area of California, his 2020 eponymous debut album was produced by 13-time Grammy winner T Bone Burnett. Ledger took up singing after his grandmother introduced him to Roy Orbison.",
-      "bioUrl": "https://www.last.fm/music/Logan+Ledger",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31va0spo",
-      "source": "Amazon",
-      "createdAt": "2026-07-29T16:14:48.000Z",
-      "text": "(Amazon) Stephen Marley - Old Soul [2xLP] @ $19.79",
-      "artist": "Stephen Marley",
-      "title": "Old Soul [2xLP]",
-      "label": "Tuff Gong",
-      "genres": [
-        "Reggae"
-      ],
-      "price": 19.79,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CG2PSBHW",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/16/67/20166743-95fc-5966-fd08-0586d94dab73/23UMGIM89664.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Stephen Robert Nesta Marley, (⋆20 Apr 1972 in Wilmington, Delaware; raised in Kingston, Jam) is a reggae artist and producer, son to Bob Marley and Rita Marley and a 6-time Grammy award winner. 8-20 years old, he was a part of Ziggy Marley & The Melody Makers.",
-      "bioUrl": "https://www.last.fm/music/Stephen+Marley",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31va0qcc",
-      "source": "Amazon",
-      "createdAt": "2026-07-29T16:12:35.000Z",
-      "text": "(Amazon) Sleater-Kinney - Center Won't Hold [Deluxe Edition] @ $12.83",
-      "artist": "Sleater-Kinney",
-      "title": "Center Won't Hold [Deluxe Edition]",
-      "label": "Mom + Pop",
-      "genres": [
-        "Rock",
-        "Indie Rock"
-      ],
-      "price": 12.83,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B07T4RG282",
-      "knownArtist": false,
-      "year": "2019",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/d5/d4/16d5d4f8-00ff-2abd-3e2e-6f2c5d10569f/112459.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Sleater-Kinney (/ˌsleɪtərˈkɪniː/ SLAY-tər-KIN-ee) is an American indie rock band formed in Olympia, Washington, in 1994. The band's current lineup features vocalists/guitarists Corin Tucker and Carrie Brownstein, following the departure of longtime drummer Janet Weiss.",
-      "bioUrl": "https://www.last.fm/music/Sleater-Kinney",
       "bioSource": "Last.fm"
     }
   ]
