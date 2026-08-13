@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-13T20:31:09.191Z",
+  "updatedAt": "2026-08-13T21:35:11.069Z",
   "deals": [
+    {
+      "id": "reddit-t31vnmik3",
+      "source": "Walmart",
+      "createdAt": "2026-08-13T20:34:07.000Z",
+      "text": "[Walmart] - Speed - All My Angels - $16.10",
+      "artist": "- Speed",
+      "title": "All My Angels",
+      "label": "Flatspot Records",
+      "genres": [
+        "Rock",
+        "Hardcore"
+      ],
+      "price": 16.1,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.walmart.com/ip/Speed-All-My-Angels-Music-Performance-Vinyl/17841362342?classType=REGULAR&amp;athbdg=L1100&amp;from=%2Fsearch&amp;sid=fbd32e7b-9772-487c-ba25-95a309a4cbc4",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://i.discogs.com/-8VkJWQ9GGH1TdfLNP5E0qijrgPAFYXznHAzBAkpMjg/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDM4/ODM2LTE3NjEwNjk2/MTAtMjk3NS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Hardcore band from Sydney, Australia.",
+      "bioUrl": "https://www.discogs.com/artist/7588630-Speed-38",
+      "bioSource": "Discogs"
+    },
     {
       "id": "reddit-t31vnfnt5",
       "source": "Human Sweat Records",
@@ -8766,58 +8791,6 @@
       "enrichedVia": "discogs",
       "bio": "The Residents is an experimental music and visual arts group from Louisiana, United States, largely shrouded in mystery and myth. The Residents began recording in 1967, although many of these recordings from their early years have still gone unreleased to this day.",
       "bioUrl": "https://www.last.fm/music/The+Residents",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31va9be8",
-      "source": "Amazon",
-      "createdAt": "2026-07-29T21:15:13.000Z",
-      "text": "(Amazon) Troye Sivan - Blue Neighbourhood 'Ten Years On' 10th Anniversary Blush Pink/Aqua Blue [2xLP] @ $29.14",
-      "artist": "Troye Sivan",
-      "title": "Blue Neighbourhood 'Ten Years On' 10th Anniversary Blush Pink/Aqua Blue [2xLP]",
-      "label": "EMI",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Pop",
-        "Synth-pop"
-      ],
-      "price": 29.14,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G31RCTNZ",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://i.discogs.com/Krxo6wbYty52QHLOsyo1wcaKwe5E-WryLf1prrNMXTM/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDMx/NjM4LTE3NzEwMTc1/NTYtNjA2MS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Troye Sivan Mellet is an Australian singer, actor and former YouTuber. As a YouTube personality, Sivan uploaded video blogs regularly and, as of 2021, has over 7.3 million subscribers and over 1.3 billion total views.",
-      "bioUrl": "https://www.last.fm/music/Troye+Sivan",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31va8sl8",
-      "source": "Target",
-      "createdAt": "2026-07-29T20:55:32.000Z",
-      "text": "[Target] The Strokes - Reality Awaits - $23.99",
-      "artist": "The Strokes",
-      "title": "Reality Awaits",
-      "label": "RCA",
-      "genres": [
-        "Rock",
-        "Alternative Rock"
-      ],
-      "price": 23.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrssoqj62k2u",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://i.discogs.com/bkk0Qkt8sNnxiRssg9x8IEhDR7R3diST3mRDFjSO9e4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTY1/ODk0LTE3ODUxODk3/NTMtNTI5OC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "The Strokes is an American indie rock band, known for their distinctive sound and cultural impact, particularly in the early 2000s. Members Julian Casablancas (vocals), Nick Valensi (guitar), Albert Hammond Jr.",
-      "bioUrl": "https://www.last.fm/music/The+Strokes",
       "bioSource": "Last.fm"
     }
   ]
