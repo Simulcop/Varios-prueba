@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-13T16:23:46.632Z",
+  "updatedAt": "2026-08-13T17:25:27.412Z",
   "deals": [
+    {
+      "id": "reddit-t31vnfnt5",
+      "source": "Human Sweat Records",
+      "createdAt": "2026-08-13T16:29:37.000Z",
+      "text": "[Human Sweat Records] The Stable Trotters - Giovanni Rotondo (Orange “Sundelion” variant) $30",
+      "artist": "The Stable Trotters",
+      "title": "Giovanni Rotondo (Orange “Sundelion” variant) $30",
+      "label": "Human Sweat Records",
+      "genres": [
+        "Stage & Screen",
+        "Video Game Music"
+      ],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://humansweatrecords.com/products/hsr-001-the-stable-trotters-the-stable-trotters-zelda-inspired-vinyl-breath-of-the-wild-tears-of-the-kingdom-arrangements",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://i.discogs.com/iIsiuyvonpFr5fme9dm1cf5PyVtxn57ZNBGSDZcD5Pw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTI4/MDc5LTE3MzU3MTI3/MzItOTEzMS5qcGVn.jpeg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31vncucj",
       "source": "Walmart",
@@ -8869,106 +8891,6 @@
       "enrichedVia": "discogs",
       "bio": "Frank Vincent Zappa (born December 21, 1940 in Baltimore, Maryland, United States – December 4, 1993 in Los Angeles, California, United States) was an American composer, guitarist, singer, bandleader and producer.",
       "bioUrl": "https://www.last.fm/music/Frank+Zappa",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31va1lbh",
-      "source": "Amazon",
-      "createdAt": "2026-07-29T16:41:59.000Z",
-      "text": "(Amazon) Various Artists - Crazy Heart Soundtrack [2xLP] @ $18.90",
-      "artist": "Various Artists",
-      "title": "Crazy Heart Soundtrack [2xLP]",
-      "label": "WEA",
-      "genres": [
-        "Rock",
-        "Funk / Soul",
-        "Pop",
-        "Stage & Screen"
-      ],
-      "price": 18.9,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B075H5K2GL",
-      "knownArtist": false,
-      "year": "1981",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/d7/26/bad7263c-84a2-26c2-d5b1-e405bc574f46/1883.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31va1b2e",
-      "source": "Amazon",
-      "createdAt": "2026-07-29T16:32:01.000Z",
-      "text": "(Amazon) Los Lobos - Native Sons [2xLP] @ $18.90",
-      "artist": "Los Lobos",
-      "title": "Native Sons [2xLP]",
-      "label": "New West Records",
-      "genres": [
-        "Rock",
-        "Funk / Soul"
-      ],
-      "price": 18.9,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B093BC3K45",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/30/16/84/3016848d-9176-4bf0-e17a-9536b6daf081/607396651634.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Los Lobos are a Mexican-American rock band from East Los Angeles, California, USA, heavily influenced by rock and roll, Tex-Mex, country music, folk, blues, and traditional Spanish / Mexican music such as boleros and norteño.",
-      "bioUrl": "https://www.last.fm/music/Los+Lobos",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31va17qh",
-      "source": "Amazon",
-      "createdAt": "2026-07-29T16:29:00.000Z",
-      "text": "(Amazon) Cephalic Carnage - Exploiting Dysfunction Deluxe 25th Anniversary [2xLP] @ $18.62",
-      "artist": "Cephalic Carnage",
-      "title": "Exploiting Dysfunction Deluxe 25th Anniversary [2xLP]",
-      "label": "Relapse Records",
-      "genres": [
-        "Rock",
-        "Grindcore",
-        "Death Metal"
-      ],
-      "price": 18.62,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G157CPXD",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/7b/b7/4b/dj.uylxjzpn.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Formed in Denver, Colorado, United States Cephalic Carnage has set out to break down musical barriers by raising both the expectations and standards of extremity in heavy music.",
-      "bioUrl": "https://www.last.fm/music/Cephalic+Carnage",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31va14ef",
-      "source": "Amazon",
-      "createdAt": "2026-07-29T16:25:55.000Z",
-      "text": "(Amazon) Lee Morgan - Introducing Lee Morgan [Original Jazz Classics Series] @ $29.77",
-      "artist": "Lee Morgan",
-      "title": "Introducing Lee Morgan [Original Jazz Classics Series]",
-      "label": "Savoy Records",
-      "genres": [
-        "Jazz",
-        "Hard Bop"
-      ],
-      "price": 29.77,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GQ582QP1",
-      "knownArtist": false,
-      "year": "1956",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/af/73/c3af732d-f9fe-a722-bed5-81c3b3cb82a3/25CRGIM52024.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Edward Lee Morgan (July 10, 1938 – February 19, 1972) was an American jazz trumpeter and composer.",
-      "bioUrl": "https://www.last.fm/music/Lee+Morgan",
       "bioSource": "Last.fm"
     }
   ]
