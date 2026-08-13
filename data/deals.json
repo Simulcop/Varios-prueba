@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-08-12T23:30:45.219Z",
+  "updatedAt": "2026-08-13T01:08:07.159Z",
   "deals": [
+    {
+      "id": "reddit-t31vmvzfe",
+      "source": "Verve",
+      "createdAt": "2026-08-13T00:47:25.000Z",
+      "text": "[Verve] Garage Sale Collector Finds + Additional Vinyl Day 10% off w/ code VINYL10 … Free test pressing over $50 spent",
+      "artist": null,
+      "title": "Garage Sale Collector Finds + Additional Vinyl Day 10% off w/ code VINYL10 … Free test pressing over $50 spent",
+      "label": null,
+      "genres": [],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "http://store.ververecords.com",
+      "knownArtist": false
+    },
     {
       "id": "reddit-t31vmn5cq",
       "source": "Amazon",
@@ -9211,56 +9227,6 @@
       "knownArtist": false,
       "bio": "Named for the Latvian goddess of light, Austra is an electronic band from Toronto, ON, Canada comprising Katie Stelmanis (principal songwriter), Maya Postepski, and Dorian Wolf.",
       "bioUrl": "https://www.last.fm/music/Austra",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v9goi6",
-      "source": "Amazon",
-      "createdAt": "2026-07-29T00:42:44.000Z",
-      "text": "(Amazon) Armand Hammer & Alchemist - Mercy @ $21.23",
-      "artist": "Armand Hammer & Alchemist",
-      "title": "Mercy",
-      "label": "Backwoodz Studioz",
-      "genres": [
-        "Hip Hop",
-        "Conscious",
-        "Hardcore Hip-Hop"
-      ],
-      "price": 21.23,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://a.co/d/0aCNsNGR",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/o9QErq-_H5b-rkHnFOnWhSCYEwyfOUWE5FQwdE7XSVs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTY5/MTQ0LTE3NjIyNzUw/OTktMjAzNy5qcGVn.jpeg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31v9fi20",
-      "source": "Amazon",
-      "createdAt": "2026-07-28T23:53:36.000Z",
-      "text": "(Amazon) The Academy Is - Almost There (White LP) @ $15.57",
-      "artist": "The Academy Is",
-      "title": "Almost There (White LP)",
-      "label": "I Surrender Records",
-      "genres": [
-        "Rock",
-        "Pop Punk",
-        "Indie Rock",
-        "Alternative Rock"
-      ],
-      "price": 15.57,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GGMFQPRG",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://i.discogs.com/w9I1fec9av1xSy1YHf3Sls2AEEbBZhoRZzQUFuVV9aU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE5/NjM1LTE3NzQ4MjYy/ODctNTc3Ny5wbmc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "The Academy Is... are a rock band which formed in 2003 in Chicago, Illinois, United States. The band's current lineup consists of lead vocalist William Beckett, rhythm guitarist Mike Carden, bassist Adam T. Siska, and drummer Andy \"The Butcher\" Mrotek.",
-      "bioUrl": "https://www.last.fm/music/The+Academy+Is...",
       "bioSource": "Last.fm"
     }
   ]
