@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:32:00.835Z",
+  "updatedAt": "2026-08-13T20:31:09.191Z",
   "deals": [
     {
       "id": "reddit-t31vnfnt5",
@@ -8818,26 +8818,6 @@
       "enrichedVia": "discogs",
       "bio": "The Strokes is an American indie rock band, known for their distinctive sound and cultural impact, particularly in the early 2000s. Members Julian Casablancas (vocals), Nick Valensi (guitar), Albert Hammond Jr.",
       "bioUrl": "https://www.last.fm/music/The+Strokes",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31va6p9s",
-      "source": "Amazon",
-      "createdAt": "2026-07-29T19:40:07.000Z",
-      "text": "[Amazon] Johnny Cash - The Very Best Of Johnny Cash - 180g - $19.99",
-      "artist": "Johnny Cash",
-      "title": "The Very Best Of Johnny Cash - 180g",
-      "label": null,
-      "genres": [],
-      "price": 19.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B08PVLTBY5",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ac/42/cd/ac42cddb-98f0-a78b-6aac-4f08266d30c4/00602537277353.rgb.jpg/400x400bb.jpg",
-      "bio": "John R. Cash (born J. R. Cash; February 26, 1932 – September 12, 2003) was an American singer-songwriter. His music often explored themes of sorrow, moral reflection, and redemption, particularly in his later work.",
-      "bioUrl": "https://www.last.fm/music/Johnny+Cash",
       "bioSource": "Last.fm"
     }
   ]
