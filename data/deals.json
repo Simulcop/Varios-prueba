@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-08-13T05:27:17.735Z",
+  "updatedAt": "2026-08-13T06:55:23.382Z",
   "deals": [
+    {
+      "id": "reddit-t31vn2fc6",
+      "source": "Amazon",
+      "createdAt": "2026-08-13T06:06:35.000Z",
+      "text": "[Amazon] Iration - Time Bomb - $19.98",
+      "artist": "Iration",
+      "title": "Time Bomb",
+      "label": "Three Prong Records",
+      "genres": [
+        "Reggae"
+      ],
+      "price": 19.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0788WSVHR",
+      "knownArtist": false,
+      "year": "2018",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/28/b1/ea/28b1ea1a-542d-5595-040d-b74ff33f5374/884977502312.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "There are multiple artists/bands with the name Iration: (1) Iration is a rock/reggae band originally from Hawaii but have since relocated to Santa Barbara, CA, US.",
+      "bioUrl": "https://www.last.fm/music/Iration",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vn2e5a",
+      "source": "Amazon",
+      "createdAt": "2026-08-13T06:04:42.000Z",
+      "text": "[Amazon] John Cale - Vintage Violence - $21.98",
+      "artist": "John Cale",
+      "title": "Vintage Violence",
+      "label": "Columbia",
+      "genres": [
+        "Rock",
+        "Art Rock"
+      ],
+      "price": 21.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0017R5SMK",
+      "knownArtist": false,
+      "year": "1970",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/b2/69/13/mzi.pidghwui.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "John Cale, OBE (born 9 March 1942) is a Welsh musician, composer, singer-songwriter and record producer. He was a founding member of the experimental rock band The Velvet Underground in early 1965.",
+      "bioUrl": "https://www.last.fm/music/John+Cale",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vmxm30",
       "source": "eBay",
@@ -9070,58 +9119,6 @@
       "enrichedVia": "discogs",
       "bio": "Fever Ray is an alias of Swedish musician Karin Dreijer, formerly of The Knife. They debuted with the single \"If I Had A Heart\" (15 Dec 2008) under the alias, followed by the self-titled album Fever Ray (2009). Their second album, Plunge was released in October 2017 without prior announcement.",
       "bioUrl": "https://www.last.fm/music/Fever+Ray",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v9n99b",
-      "source": "Amazon",
-      "createdAt": "2026-07-29T05:52:21.000Z",
-      "text": "[Amazon] Megadeth - Super Collider $17.72",
-      "artist": "Megadeth",
-      "title": "Super Collider",
-      "label": "Tradecraft",
-      "genres": [
-        "Rock",
-        "Heavy Metal"
-      ],
-      "price": 17.72,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00CEJ2ATO/",
-      "knownArtist": false,
-      "year": "2013",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ca/8d/c6/ca8dc69b-7f53-fbe2-11e3-9583ec653008/00602537396771.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Megadeth is an American thrash metal band formed in Los Angeles in 1983 by vocalist and guitarist Dave Mustaine. The group is known for complex guitar work and precise musicianship and is regarded as one of the big four bands of American thrash metal along with Slayer, Anthrax and Metallica.",
-      "bioUrl": "https://www.last.fm/music/Megadeth",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31v9msqt",
-      "source": "Amazon",
-      "createdAt": "2026-07-29T05:28:13.000Z",
-      "text": "[Amazon] Ultravox - The Collection 2025 [2 LP] $18.82",
-      "artist": "Ultravox",
-      "title": "The Collection 2025 [2 LP]",
-      "label": "Chrysalis Catalogue",
-      "genres": [
-        "Electronic",
-        "Pop",
-        "New Wave",
-        "Synth-pop"
-      ],
-      "price": 18.82,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FV92PXNQ",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/r2F5euMnfi7HwxN-VoeOOQ-OC0t8EX-eIjR5Lwktgv4/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzQw/NDIwLTE3NjUzNjU4/NjctNjg3OS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Ultravox (formerly Ultravox!) have been one of the primary exponents of the British new wave synthpop music movement since the late 70s. The band is particularly associated with the New Romantic scene, although it both pre- and post-dated the peak of that movement by several years.",
-      "bioUrl": "https://www.last.fm/music/Ultravox",
       "bioSource": "Last.fm"
     }
   ]
