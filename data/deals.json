@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-13T14:15:57.356Z",
+  "updatedAt": "2026-08-13T15:28:14.193Z",
   "deals": [
+    {
+      "id": "reddit-t31vncucj",
+      "source": "Walmart",
+      "createdAt": "2026-08-13T14:49:22.000Z",
+      "text": "[Walmart] The Faces - Ohh La-La (Rhino High Fidelity) $26.99",
+      "artist": "The Faces",
+      "title": "Ohh La-La (Rhino High Fidelity)",
+      "label": "Rhino Records",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Pop",
+        "New Wave"
+      ],
+      "price": 26.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.walmart.com/ip/Faces-Ooh-La-la-Music-Performance-Vinyl/16353067807?classType=REGULAR&amp;from=/search",
+      "knownArtist": false,
+      "year": "1994",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c0/40/f9/c040f938-aa57-33c0-99e0-45be2ab9f350/603497886272.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Faces was an early 1970s rock band formed in 1969 from the remaining members of Small Faces after Steve Marriott left to form Humble Pie; new members Ron Wood (guitar) and Rod Stewart (vocals) (both from The Jeff Beck Group) joined Ronnie Lane (bass), Ian McLagan (keyboards) and Kenny Jones…",
+      "bioUrl": "https://www.last.fm/music/Faces",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vnbucd",
       "source": "Amazon",
