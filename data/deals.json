@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-13T10:53:14.536Z",
+  "updatedAt": "2026-08-13T11:39:17.124Z",
   "deals": [
+    {
+      "id": "reddit-t31vn7wou",
+      "source": "Amazon",
+      "createdAt": "2026-08-13T11:21:08.000Z",
+      "text": "[Amazon] Social Distortion - Prison Bound - $13.99",
+      "artist": "Social Distortion",
+      "title": "Prison Bound",
+      "label": "Restless Records",
+      "genres": [
+        "Rock",
+        "Rock & Roll",
+        "Punk"
+      ],
+      "price": 13.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B00WYMCPIW",
+      "knownArtist": false,
+      "year": "1988",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9b/45/62/9b45622a-8d2e-69e6-a55f-bac09ba29d97/00888072373617.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Social Distortion is an American punk rock band formed in 1978 in Fullerton, California. The band currently consists of Mike Ness (lead vocals, lead guitar), Jonny Wickersham (rhythm guitar, backing vocals), Brent Harding (bass, backing vocals), David Hidalgo Jr.",
+      "bioUrl": "https://www.last.fm/music/Social+Distortion",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vn2fc6",
       "source": "Amazon",
