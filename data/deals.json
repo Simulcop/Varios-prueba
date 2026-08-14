@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T17:23:55.531Z",
+  "updatedAt": "2026-08-14T18:12:44.641Z",
   "deals": [
     {
       "id": "reddit-t31vo4l28",
@@ -8949,63 +8949,6 @@
       "year": "2025",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/7e/73/f77e7312-0ee4-f1dc-bfe3-ef704f0c8dcf/4062548112566.png/400x400bb.jpg",
       "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31vb0fd7",
-      "source": "Amazon",
-      "createdAt": "2026-07-30T17:35:39.000Z",
-      "text": "[Amazon] Grace Inspace- Heavy Hair $12.41 Lowest",
-      "artist": null,
-      "title": "Grace Inspace- Heavy Hair $12.41 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 12.41,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FZP86FSN",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/ac/b8/3bacb803-cdfd-4316-f64c-255d700df959/5026854113937.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31vb0a2g",
-      "source": "Amazon",
-      "createdAt": "2026-07-30T17:30:32.000Z",
-      "text": "[Amazon] Devin Shaffer - Patience $11.05 Lowest",
-      "artist": "Devin Shaffer",
-      "title": "Patience $11.05 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 11.05,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FPSRJZND",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/dd/cc/a8ddcc5b-eaf2-b084-de14-7f2271a15162/116545.jpg/400x400bb.jpg",
-      "bio": "Devin Shaffer is a visual artist and musician whose compositions bring together ambient folk, field recordings, and archival materials into webs of dreamy sentiment.",
-      "bioUrl": "https://www.last.fm/music/Devin+Shaffer",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vb0692",
-      "source": "Amazon",
-      "createdAt": "2026-07-30T17:26:49.000Z",
-      "text": "[Amazon] Queen Naija - 30 (Green Color) $14.10 Lowest",
-      "artist": "Queen Naija",
-      "title": "30 (Green Color) $14.10 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 14.1,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FXC6JWQ1",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/ba/65/b0ba65be-f480-b17e-4a92-01de7e9d236d/25UM1IM35257.rgb.jpg/400x400bb.jpg",
-      "bio": "Queen Naija, alias Queen Bulls (born. 17 October 1995 ), is a singer and youtuber. Raised in Ypsilanti, Michigan, R&B vocalist Queen Naija first became known as a contestant on multiple seasons of American Idol in the early 2010s.",
-      "bioUrl": "https://www.last.fm/music/Queen+Naija",
-      "bioSource": "Last.fm"
     }
   ]
 }
