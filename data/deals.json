@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T18:12:44.641Z",
+  "updatedAt": "2026-08-14T19:25:37.356Z",
   "deals": [
     {
       "id": "reddit-t31vo4l28",
@@ -8924,30 +8924,6 @@
       "knownArtist": false,
       "year": "1973",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/50/e0/9d50e07b-7056-e431-81ee-81f88c5b5d04/00602537755905.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31vb1thk",
-      "source": "Amazon",
-      "createdAt": "2026-07-30T18:24:13.000Z",
-      "text": "[Amazon] Afternoon Bike Ride – Running With Scissors $13.80",
-      "artist": null,
-      "title": "Afternoon Bike Ride – Running With Scissors",
-      "label": "Friends Of Friends",
-      "genres": [
-        "Electronic",
-        "Pop",
-        "Folk, World, & Country",
-        "Indie Pop"
-      ],
-      "price": 13.8,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FK16RQHK",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/7e/73/f77e7312-0ee4-f1dc-bfe3-ef704f0c8dcf/4062548112566.png/400x400bb.jpg",
       "enrichedVia": "discogs"
     }
   ]
