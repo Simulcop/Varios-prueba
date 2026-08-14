@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-14T09:32:53.421Z",
+  "updatedAt": "2026-08-14T10:49:28.105Z",
   "deals": [
+    {
+      "id": "reddit-t31vo2le3",
+      "source": "Walmart",
+      "createdAt": "2026-08-14T09:35:00.000Z",
+      "text": "[Walmart] Of Montreal - Gay Parade - $15.98",
+      "artist": "Of Montreal",
+      "title": "Gay Parade",
+      "label": "Bar/None Records",
+      "genres": [
+        "Rock",
+        "Indie Rock",
+        "Lo-Fi"
+      ],
+      "price": 15.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mszu4px2qc2f",
+      "knownArtist": false,
+      "year": "2014",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/71/3c/98/713c9818-ebd5-be5b-42c9-e5a4ea8173ea/cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "of Montreal is an American indie pop band formed in Athens, Georgia, United States in 1997. The band is fronted by Kevin Barnes, who writes, composes, and plays most of the music for their albums.",
+      "bioUrl": "https://www.last.fm/music/of+Montreal",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vo2gl5",
       "source": "Amazon",
