@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-14T10:49:28.105Z",
+  "updatedAt": "2026-08-14T11:36:45.609Z",
   "deals": [
+    {
+      "id": "reddit-t31vo4l28",
+      "source": "Walmart",
+      "createdAt": "2026-08-14T11:25:35.000Z",
+      "text": "[Walmart] Bruce Springsteen - Greetings from Asbury Park N.J. - $15.15",
+      "artist": "Bruce Springsteen",
+      "title": "Greetings from Asbury Park N.J.",
+      "label": "Columbia",
+      "genres": [
+        "Rock",
+        "Classic Rock"
+      ],
+      "price": 15.15,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mt22blwehs2q",
+      "knownArtist": false,
+      "year": "1973",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d0/4a/a2/d04aa204-3210-0ef9-6bac-cbb0905fc467/074643190329.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Bruce Frederick Joseph Springsteen (born 23 September 1949) is an American singer, songwriter, and guitarist. Nicknamed \"the Boss\", he has released 21 studio albums spanning six decades, most of which feature the E Street Band, his backing band since 1972.",
+      "bioUrl": "https://www.last.fm/music/Bruce+Springsteen",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vo2le3",
       "source": "Walmart",
