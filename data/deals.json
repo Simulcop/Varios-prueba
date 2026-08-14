@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-08-14T06:51:03.498Z",
+  "updatedAt": "2026-08-14T08:07:17.233Z",
   "deals": [
+    {
+      "id": "reddit-t31vo0wgx",
+      "source": "Amazon",
+      "createdAt": "2026-08-14T07:54:18.000Z",
+      "text": "[Amazon] Herman's Hermits - Their Greatest Hits - $22.39",
+      "artist": "Herman's Hermits",
+      "title": "Their Greatest Hits",
+      "label": "ABKCO",
+      "genres": [
+        "Rock",
+        "Pop Rock"
+      ],
+      "price": 22.39,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0BCGWM1LY",
+      "knownArtist": false,
+      "year": "1973",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/03/52/47/03524715-ad6b-ec54-37ac-189fb83d95e9/00018771422723.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Herman's Hermits was an internationally successful 60s British rock band, from Manchester, England, formed in 1963.",
+      "bioUrl": "https://www.last.fm/music/Herman%27s+Hermits",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vo0mu9",
+      "source": "Amazon",
+      "createdAt": "2026-08-14T07:38:00.000Z",
+      "text": "[Amazon] Patterns - Waking Lines (Clear) - $9.37",
+      "artist": "Patterns",
+      "title": "Waking Lines (Clear)",
+      "label": "Melodic",
+      "genres": [
+        "Rock",
+        "Indie Rock",
+        "New Wave"
+      ],
+      "price": 9.37,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B00FZ8CW6M",
+      "knownArtist": false,
+      "year": "2014",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/ae/14/1a/ae141ae7-eba8-9cc6-443f-fe5fe0060a03/mzm.jxwxgxqj.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "There are four bands with this name 1. A British electronic group 2. A French musical group 3. An American rock group 4. A dance band from Costa Rica 1) Patterns used to be a band who claimed they liked to make loud music in darkly lit rooms.",
+      "bioUrl": "https://www.last.fm/music/Patterns",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vo0mhy",
+      "source": "Amazon",
+      "createdAt": "2026-08-14T07:37:27.000Z",
+      "text": "[Amazon] Chuck D - We Wreck Stadiums - $22.22",
+      "artist": "Chuck D",
+      "title": "We Wreck Stadiums",
+      "label": "The SpitSLAM Record Label Group",
+      "genres": [
+        "Hip Hop",
+        "Conscious",
+        "Boom Bap"
+      ],
+      "price": 22.22,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CGXNCWX9",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8d/c4/78/8dc47834-fe99-0b70-7f6f-c9a628ab91c5/760137127772.png/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The frontman and de facto leader of hip-hop legends Public Enemy, Chuck D is known for annunciated, rhythmic delivery and overtly political lyrics. Outside of his work with P.E. he has collaborated with many artists and released one solo album, \"The Autobiography of Mista Chuck\".",
+      "bioUrl": "https://www.last.fm/music/Chuck+D",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vo0m0t",
+      "source": "Amazon",
+      "createdAt": "2026-08-14T07:36:40.000Z",
+      "text": "[Amazon] The Empire - Expensive Sound - $18.28",
+      "artist": "The Empire",
+      "title": "Expensive Sound",
+      "label": "Dinosaur Discs",
+      "genres": [
+        "Rock",
+        "New Wave",
+        "Power Pop",
+        "Punk"
+      ],
+      "price": 18.28,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B09ZCRYDDP",
+      "knownArtist": false,
+      "year": "1981",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2f/e7/5d/2fe75d48-148c-255f-c36c-f07b3d9bbcd6/198004114639.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Empire are a 5 Piece Alternative Rock Band from Wigan, UK. The Band formed in 2008 and have recently been in the recording studio completing their first full 12 track Album.",
+      "bioUrl": "https://www.last.fm/music/The+Empire",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vo0lnh",
+      "source": "Amazon",
+      "createdAt": "2026-08-14T07:36:01.000Z",
+      "text": "[Amazon] Various Artists - Encanto (Original Motion Picture Soundtrack)[Highlights] - $17.60",
+      "artist": "Various Artists",
+      "title": "Encanto (Original Motion Picture Soundtrack)[Highlights]",
+      "label": "Blue Note",
+      "genres": [
+        "Jazz",
+        "Hard Bop",
+        "Post Bop",
+        "Modal"
+      ],
+      "price": 17.6,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B09Q6DJQW8",
+      "knownArtist": false,
+      "year": "1985",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/e0/c2/d1e0c2e1-030a-7fa9-2516-bcae2b3b09ad/06PNDIM00016.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31vnylax",
       "source": "Amazon",
@@ -9080,26 +9208,6 @@
       "bio": "There are multiple artists using this name: 1. Incubus is an American alternative rock band formed in 1991 and based in Calabasas, California.",
       "bioUrl": "https://www.last.fm/music/Incubus",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vamfnp",
-      "source": "Amazon",
-      "createdAt": "2026-07-30T07:16:47.000Z",
-      "text": "[Amazon] Various Artists - Sin City (Original Motion Picture Soundtrack)[Translucent Blood Red LP] $18.18",
-      "artist": "Various Artists",
-      "title": "Sin City (Original Motion Picture Soundtrack)[Translucent Blood Red LP]",
-      "label": "Syndicate Records",
-      "genres": [
-        "Folk, World, & Country"
-      ],
-      "price": 18.18,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GKW2T836",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c2/51/84/c2518439-d810-7f1f-c9ff-396c9fa7d266/886448132882.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
     }
   ]
 }
