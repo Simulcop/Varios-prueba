@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:01:37.397Z",
+  "updatedAt": "2026-08-14T20:52:36.270Z",
   "deals": [
     {
       "id": "reddit-t31vo4l28",
@@ -8874,32 +8874,6 @@
       "enrichedVia": "discogs",
       "bio": "Madonna Louise Ciccone (born August 16, 1958) is an American singer, songwriter, record producer, actress, and businesswoman. She is widely recognized for her influence on popular music, visual presentation, and music video production.",
       "bioUrl": "https://www.last.fm/music/Madonna",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vb5j05",
-      "source": "Amazon",
-      "createdAt": "2026-07-30T20:38:09.000Z",
-      "text": "[Amazon] Mother Love Bone - Shine [180g Eco-Vinyl 12\" EP] $13.67",
-      "artist": "Mother Love Bone",
-      "title": "Shine [180g Eco-Vinyl 12\" EP]",
-      "label": "Music On Vinyl",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Grunge"
-      ],
-      "price": 13.67,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FJQDGVZL",
-      "knownArtist": false,
-      "year": "2013",
-      "cover": "https://i.discogs.com/umpjtIRINfF3DchIORFVfydZOW2WY0uHYOLQgHNAXAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzYx/NDItMTM5NDU2NTk0/MC0zOTMwLmpwZWc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Mother Love Bone was a grunge band which formed in Seattle, Washington, United States in 1988. The band consisted of Andrew Wood (vocals, keyboards), Bruce Fairweather (guitar), Stone Gossard (guitar), Jeff Ament (bass) and Greg Gilmore (drums).",
-      "bioUrl": "https://www.last.fm/music/Mother+Love+Bone",
       "bioSource": "Last.fm"
     }
   ]
