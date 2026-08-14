@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T19:25:37.356Z",
+  "updatedAt": "2026-08-14T20:01:37.397Z",
   "deals": [
     {
       "id": "reddit-t31vo4l28",
@@ -8901,30 +8901,6 @@
       "bio": "Mother Love Bone was a grunge band which formed in Seattle, Washington, United States in 1988. The band consisted of Andrew Wood (vocals, keyboards), Bruce Fairweather (guitar), Stone Gossard (guitar), Jeff Ament (bass) and Greg Gilmore (drums).",
       "bioUrl": "https://www.last.fm/music/Mother+Love+Bone",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vb3izq",
-      "source": "Amazon",
-      "createdAt": "2026-07-30T19:25:54.000Z",
-      "text": "[Amazon] Lyn Christopher – Lyn Christopher: Remastered (Light Blue Color) $16.51",
-      "artist": null,
-      "title": "Lyn Christopher – Lyn Christopher: Remastered (Light Blue Color)",
-      "label": "Paramount Records",
-      "genres": [
-        "Rock",
-        "Funk / Soul",
-        "Pop",
-        "Soul"
-      ],
-      "price": 16.51,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FH1TSPHP",
-      "knownArtist": false,
-      "year": "1973",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/50/e0/9d50e07b-7056-e431-81ee-81f88c5b5d04/00602537755905.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
     }
   ]
 }
