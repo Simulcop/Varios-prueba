@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-14T21:16:10.104Z",
+  "updatedAt": "2026-08-14T21:46:18.864Z",
   "deals": [
+    {
+      "id": "reddit-t31vojubg",
+      "source": "Target",
+      "createdAt": "2026-08-14T21:17:42.000Z",
+      "text": "[Target] The Gun Club - Mother Juno - $13.59",
+      "artist": "The Gun Club",
+      "title": "Mother Juno",
+      "label": "Red Rhino Records",
+      "genres": [
+        "Rock",
+        "Garage Rock",
+        "Punk",
+        "Blues Rock"
+      ],
+      "price": 13.59,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mt33fgkaqc2k",
+      "knownArtist": false,
+      "year": "1987",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4d/93/03/4d930340-03de-79c0-d333-e4dd7e7b91b6/197188930974.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Gun Club was an American punk band from Los Angeles in the 1980s led by singer/guitarist Jeffrey Lee Pierce. The Gun Club injected punk rock with doses of blues and country music.",
+      "bioUrl": "https://www.last.fm/music/The+Gun+Club",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vo4l28",
       "source": "Walmart",
