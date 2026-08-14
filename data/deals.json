@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-08-13T23:31:23.460Z",
+  "updatedAt": "2026-08-14T01:06:22.368Z",
   "deals": [
+    {
+      "id": "reddit-t31vnso3e",
+      "source": "Amazon",
+      "createdAt": "2026-08-14T00:49:04.000Z",
+      "text": "[Amazon] Hey Mercedes - Loses Control $18.05",
+      "artist": "Hey Mercedes",
+      "title": "Loses Control",
+      "label": "Vagrant Records",
+      "genres": [
+        "Rock",
+        "Emo",
+        "Indie Rock"
+      ],
+      "price": 18.05,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GJV12BW6",
+      "knownArtist": false,
+      "year": "2003",
+      "cover": "https://i.discogs.com/eNjUOq4vGgTTCKvkctKDIPJWUDIRd0HAzCE_4d3tvCg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTgy/NzYtMTYxNTAzOTQ5/MC03NzExLmpwZWc.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Hey Mercedes were an emo band from Milwaukee, Wisconsin, USA, that formed in 1999/2000 after the dissolution of Braid. The band consisted of Bob Nanna on guitar and vocals, Todd Bell on bass and vocals, Mark Dawursk on guitar and vocals and Damon Atkinson on drums.",
+      "bioUrl": "https://www.last.fm/music/Hey+Mercedes",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vns9d0",
+      "source": "Amazon",
+      "createdAt": "2026-08-14T00:30:25.000Z",
+      "text": "[Amazon] Miles Davis - The Essential Miles Davis [2xLP] - $17.68",
+      "artist": "Miles Davis",
+      "title": "The Essential Miles Davis [2xLP]",
+      "label": "Legacy",
+      "genres": [
+        "Jazz",
+        "Free Improvisation",
+        "Bop",
+        "Free Jazz"
+      ],
+      "price": 17.68,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B01IB6PSZG",
+      "knownArtist": false,
+      "year": "2016",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/9a/9c/77/mzi.wofkoulr.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Miles Dewey Davis III (May 26, 1926 – September 28, 1991) was an American trumpeter, bandleader and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music.",
+      "bioUrl": "https://www.last.fm/music/Miles+Davis",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vns6zj",
+      "source": "Amazon",
+      "createdAt": "2026-08-14T00:27:29.000Z",
+      "text": "[Amazon] Imagine Dragons - Night Visions - $16.99",
+      "artist": "Imagine Dragons",
+      "title": "Night Visions",
+      "label": "KIDinaKORNER",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Alternative Rock",
+        "Pop Rock"
+      ],
+      "price": 16.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Night-Visions-LP-Imagine-Dragons/dp/B008XOXGL0",
+      "knownArtist": false,
+      "year": "2014",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Imagine Dragons is an American pop rock band formed in 2008 in Las Vegas, Nevada. The group currently consists of lead singer Dan Reynolds, guitarist Wayne Sermon, and bassist Ben McKee.",
+      "bioUrl": "https://www.last.fm/music/Imagine+Dragons",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vnmik3",
       "source": "Walmart",
@@ -8741,31 +8821,6 @@
       "enrichedVia": "discogs",
       "bio": "Sonic Youth was an influential American experimental rock band formed in New York City, New York, United States in 1981 and are currently on an indefinite hiatus.",
       "bioUrl": "https://www.last.fm/music/Sonic+Youth",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vad7lo",
-      "source": "Walmart",
-      "createdAt": "2026-07-29T23:49:37.000Z",
-      "text": "[Walmart] The Whitest Boy Alive - Rules - $23.56",
-      "artist": "The Whitest Boy Alive",
-      "title": "Rules",
-      "label": "Asound/Bubbles",
-      "genres": [
-        "Rock",
-        "Pop"
-      ],
-      "price": 23.56,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mrt4fkmtds2e",
-      "knownArtist": false,
-      "year": "2009",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/a0/a4/4f/mzi.wylwdhsp.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Whitest Boy Alive are a Norwegian-German musical group based in Berlin. The band comprises Norwegian singer/guitarist Erlend Øye, who is also a member of the band Kings of Convenience, bassist Marcin Öz, drummer Sebastian Maschat, and Daniel Nentwig on Rhodes piano and Crumar.",
-      "bioUrl": "https://www.last.fm/music/The+Whitest+Boy+Alive",
       "bioSource": "Last.fm"
     }
   ]
