@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-14T23:12:47.120Z",
+  "updatedAt": "2026-08-14T23:44:00.140Z",
   "deals": [
+    {
+      "id": "reddit-t31von965",
+      "source": "Amazon",
+      "createdAt": "2026-08-14T23:42:46.000Z",
+      "text": "[Amazon] JID - The Forever Story [Red 2LP] [Amazon Exclusive] $16.85",
+      "artist": "JID",
+      "title": "The Forever Story [Red 2LP] [Amazon Exclusive]",
+      "label": "Dreamville",
+      "genres": [
+        "Hip Hop",
+        "Conscious",
+        "Jazzy Hip-Hop"
+      ],
+      "price": 16.85,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FLRJGNTL",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/56/3d/6f563dd3-9387-cc10-2732-1ee6b03b5800/22UMGIM84208.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Destin Route (b. October 31, 1989), better known by the stage name JID, is an American rapper from Zone 6, Atlanta, Georgia.",
+      "bioUrl": "https://www.last.fm/music/JID",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vojubg",
       "source": "Target",
@@ -8545,110 +8571,6 @@
       "lowest": false,
       "amazonUrl": "https://www.amazon.com/dp/B0GF4CR246",
       "knownArtist": false
-    },
-    {
-      "id": "reddit-t31vb9rcd",
-      "source": "Amazon",
-      "createdAt": "2026-07-30T23:24:40.000Z",
-      "text": "[Amazon] Simon Franglen - Avatar: Fire and Ash (Original Motion Picture Soundtrack) $16.78",
-      "artist": "Simon Franglen",
-      "title": "Avatar: Fire and Ash (Original Motion Picture Soundtrack)",
-      "label": "Hollywood Records",
-      "genres": [
-        "Stage & Screen",
-        "Soundtrack",
-        "Score"
-      ],
-      "price": 16.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G3B8K1HT",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/16/69/a0166976-fcf9-ddc1-97ab-24fcf45070c1/25UM1IM92972.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Simon Franglen (born 1963, Westminster, London, England) is an English composer of classical and film music. He is also a record producer and former musician. His credits include four of the list of top grossing films and six of the list of best-selling albums of all time.",
-      "bioUrl": "https://www.last.fm/music/Simon+Franglen",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vb9qat",
-      "source": "Amazon",
-      "createdAt": "2026-07-30T23:23:27.000Z",
-      "text": "(Amazon) Black Pumas - Chronicles Of A Diamond @ $13.11",
-      "artist": "Black Pumas",
-      "title": "Chronicles Of A Diamond",
-      "label": "ATO Records",
-      "genres": [
-        "Rock",
-        "Funk / Soul",
-        "Psychedelic",
-        "Soul"
-      ],
-      "price": 13.11,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CGBW17C3",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/99/d0/f099d05f-52cb-284a-f2b9-59b83b0e4db4/1243.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Black Pumas is led by the creative partnership between Grammy Award-winning guitarist / producer Adrian Quesada (b.1977) and songwriter Eric Burton (b.1989).",
-      "bioUrl": "https://www.last.fm/music/Black+Pumas",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vb9ozl",
-      "source": "Amazon",
-      "createdAt": "2026-07-30T23:21:56.000Z",
-      "text": "(Amazon) Pink Stones - Introducing...the Pink Stones [Random Color]] @ $13.90",
-      "artist": "Pink Stones",
-      "title": "Introducing...the Pink Stones [Random Color]]",
-      "label": "Normaltown Records",
-      "genres": [
-        "Rock",
-        "Folk, World, & Country",
-        "Country Rock"
-      ],
-      "price": 13.9,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B08T6BQ4FN",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/85/6d/26856db0-8ed0-07ae-03c9-f94eca0fbe20/607396103133.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Country-rock band from Athens, Georgia",
-      "bioUrl": "https://www.discogs.com/artist/6532015-The-Pink-Stones",
-      "bioSource": "Discogs"
-    },
-    {
-      "id": "reddit-t31vb9jl5",
-      "source": "Amazon",
-      "createdAt": "2026-07-30T23:15:33.000Z",
-      "text": "(Amazon) Black Star Riders - Wrong Side of Paradise @ $15.99",
-      "artist": "Black Star Riders",
-      "title": "Wrong Side of Paradise",
-      "label": "Earache",
-      "genres": [
-        "Rock",
-        "Hard Rock"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0B3DNR83N",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/eb/11/91/eb11910e-a0c7-5433-820f-7ad7026efb03/BSR_WrongSideOfParadise.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Black Star Riders is a hard rock band formed in December 2012. The band was created when members of the 2011–2012 line-up of Thin Lizzy decided to record new material but chose not to release it under the Thin Lizzy name.",
-      "bioUrl": "https://www.last.fm/music/Black+Star+Riders",
-      "bioSource": "Last.fm"
     }
   ]
 }
