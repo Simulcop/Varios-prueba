@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T17:42:32.809Z",
+  "updatedAt": "2026-08-15T18:14:11.030Z",
   "deals": [
     {
       "id": "reddit-t31vp8mt9",
@@ -8457,53 +8457,6 @@
       "bio": "Frank Vincent Zappa (born December 21, 1940 in Baltimore, Maryland, United States – December 4, 1993 in Los Angeles, California, United States) was an American composer, guitarist, singer, bandleader and producer.",
       "bioUrl": "https://www.last.fm/music/Frank+Zappa",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vbylnu",
-      "source": "Numero Group",
-      "createdAt": "2026-07-31T18:09:07.000Z",
-      "text": "[Numero Group] Karate - The Bed is in the Ocean $11.50 - $12.50",
-      "artist": "Karate",
-      "title": "The Bed is in the Ocean $11.50",
-      "label": null,
-      "genres": [],
-      "price": 12.5,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://numerogroup.com/products/karate-the-bed-is-in-the-ocean?_pos=1&amp;_sid=3d07571c5&amp;_ss=r",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/32/f4/5132f483-3648-805d-c22b-2c992f931ca5/cover.jpg/400x400bb.jpg",
-      "bio": "Karate is an American indie rock band formed in 1993 in Boston, MA by Geoff Farina, Eamonn Vitt and Gavin McCarthy. In 1995, Jeff Goddard joined the band as bass player, and Vitt moved to second guitar. Vitt departed Karate to pursue a medical career in 1997.",
-      "bioUrl": "https://www.last.fm/music/Karate",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vbxwuh",
-      "source": "Amazon",
-      "createdAt": "2026-07-31T17:43:56.000Z",
-      "text": "(Amazon) [Regional] Broadcast, The Focus Group - Broadcast and The Focus Group Investigate Witch Cults of the Radio Age @ $20.13",
-      "artist": "Broadcast, The Focus Group",
-      "title": "Broadcast and The Focus Group Investigate Witch Cults of the Radio Age",
-      "label": "Warp Records",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Folk, World, & Country",
-        "Experimental"
-      ],
-      "price": 20.13,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00SSL4BMQ",
-      "knownArtist": false,
-      "year": "2015",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/c5/9c/28c59cac-cd73-550f-c010-f7003821b5e7/0801061018931.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Primal Scream, Razorlight, and most relevantly, Stereolab and Broadcast's sleeve designer Julian House brings out the latent and intrinsic séance-like aspect of sampling with \"a collection of individuals..",
-      "bioUrl": "https://www.discogs.com/artist/445511-The-Focus-Group",
-      "bioSource": "Discogs"
     }
   ]
 }
