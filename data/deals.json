@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T16:47:04.064Z",
+  "updatedAt": "2026-08-15T17:12:14.236Z",
   "deals": [
     {
       "id": "reddit-t31vp6jmm",
@@ -8478,33 +8478,6 @@
       "enrichedVia": "discogs",
       "bio": "There are at least eight artists sharing the name Mono: 1) a Japanese post-rock band; 2) a British trip-hop band; 3) a Dutch indie-rock band; 4) a female Austrian reggae artist; 5) a Swedish trance artist; 6) a Korean pop ballad trio; 7) a German field recordings project.",
       "bioUrl": "https://www.last.fm/music/Mono",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vbwuny",
-      "source": "Amazon",
-      "createdAt": "2026-07-31T17:06:01.000Z",
-      "text": "(Amazon) Slash - Live at the S.E.R.P.E.N.T. Festival [3xLP] @ $15.95",
-      "artist": "Slash",
-      "title": "Live at the S.E.R.P.E.N.T. Festival [3xLP]",
-      "label": "Ear Music",
-      "genres": [
-        "Rock",
-        "Blues",
-        "Blues Rock",
-        "Electric Blues"
-      ],
-      "price": 15.95,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FQXX2968",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/3c/25/4b3c25cf-2ab1-2f29-038c-9072310601a0/4029759209249.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Saul Hudson (born 23 July 1965, Stoke-on-Trent, England), better known by his stage name Slash, is a British-American musician. He is the lead guitarist of the American hard rock band Guns N' Roses, with whom he performed and recorded between 1985 and 1996, and rejoined in 2016.",
-      "bioUrl": "https://www.last.fm/music/Slash",
       "bioSource": "Last.fm"
     }
   ]
