@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:11:57.762Z",
+  "updatedAt": "2026-08-15T21:41:38.973Z",
   "deals": [
     {
       "id": "reddit-t31vparv5",
@@ -8422,57 +8422,6 @@
       "year": "2021",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/44/ad/0744ad47-ce79-b3b4-d66a-e43feea541b1/cover.jpg/400x400bb.jpg",
       "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31vc3z8d",
-      "source": "Amazon",
-      "createdAt": "2026-07-31T21:31:21.000Z",
-      "text": "(Amazon) Valerie June - Under Cover [Magenta Red] @ $11.96",
-      "artist": "Valerie June",
-      "title": "Under Cover [Magenta Red]",
-      "label": "Fantasy",
-      "genres": [
-        "Folk, World, & Country"
-      ],
-      "price": 11.96,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0B3H6C2JK",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/76/09/99/76099923-624b-e798-a482-81390508017b/22CRGIM32695.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Valerie June (born Valerie June Hockett in 1982) is an American singer, songwriter, and multi-instrumentalist from Memphis, Tennessee. She began recording and performing in 2001, initially with her then-husband in the duo Bella Sun.",
-      "bioUrl": "https://www.last.fm/music/Valerie+June",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vc3pvo",
-      "source": "Amazon",
-      "createdAt": "2026-07-31T21:21:02.000Z",
-      "text": "(Amazon) Alison Wonderland - Loner @ $12.00",
-      "artist": "Alison Wonderland",
-      "title": "Loner",
-      "label": "EMI",
-      "genres": [
-        "Electronic",
-        "Pop",
-        "Dance-pop",
-        "House"
-      ],
-      "price": 12,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09TWFN21Q",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://i.discogs.com/ekZ4hhmoAoajoGjsyhF2ybAYw8KG5SHtCyKSevDcEq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTk5/OTU2LTE2NTMyNzcx/ODUtNTI4NC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Recently having one of her sets described by Annie Mac as \"the best party set I've heard in a long time\" the wide-eyed, dodo racing, rabbit chasing girl of Lewis Carol's opium induced fantasies has officially been superseded.",
-      "bioUrl": "https://www.last.fm/music/Alison+Wonderland",
-      "bioSource": "Last.fm"
     }
   ]
 }
