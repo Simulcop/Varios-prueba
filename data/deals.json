@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:41:38.973Z",
+  "updatedAt": "2026-08-15T22:10:48.874Z",
   "deals": [
     {
       "id": "reddit-t31vparv5",
@@ -8401,27 +8401,6 @@
       "bio": "Kiss (commonly styled in all caps as KISS) was an American rock band formed in New York City in 1973 by Paul Stanley (vocals, rhythm guitar), Gene Simmons (vocals, bass guitar), Ace Frehley (lead guitar, vocals), and Peter Criss (drums, vocals).",
       "bioUrl": "https://www.last.fm/music/Kiss",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vc4kyk",
-      "source": "Amazon",
-      "createdAt": "2026-07-31T21:55:23.000Z",
-      "text": "(Amazon) O'Reillys & The Paddyhats - Dogs On The Leash [Mint Green & Orange Splatter] @ $15.79",
-      "artist": "O'Reillys & The Paddyhats",
-      "title": "Dogs On The Leash [Mint Green & Orange Splatter]",
-      "label": "Metalville",
-      "genres": [
-        "Rock"
-      ],
-      "price": 15.79,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B084Z7XWBY",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/44/ad/0744ad47-ce79-b3b4-d66a-e43feea541b1/cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
     }
   ]
 }
