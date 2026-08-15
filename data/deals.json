@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-14T23:44:00.140Z",
+  "updatedAt": "2026-08-15T00:40:33.387Z",
   "deals": [
+    {
+      "id": "reddit-t31voo51i",
+      "source": "Amazon",
+      "createdAt": "2026-08-15T00:22:13.000Z",
+      "text": "[Amazon] Sonic Youth - Murray Street $17.97",
+      "artist": "Sonic Youth",
+      "title": "Murray Street",
+      "label": "Goofin' Records",
+      "genres": [
+        "Rock",
+        "Alternative Rock",
+        "Indie Rock",
+        "Experimental"
+      ],
+      "price": 17.97,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B016S7EVKS",
+      "knownArtist": false,
+      "year": "2002",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fb/7f/30/fb7f304e-df99-0d28-28fd-68af9d50ed4a/00602547702654.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Sonic Youth was an influential American experimental rock band formed in New York City, New York, United States in 1981 and are currently on an indefinite hiatus.",
+      "bioUrl": "https://www.last.fm/music/Sonic+Youth",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31von965",
       "source": "Amazon",
