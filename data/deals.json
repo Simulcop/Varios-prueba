@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T20:45:27.211Z",
+  "updatedAt": "2026-08-15T21:11:57.762Z",
   "deals": [
     {
       "id": "reddit-t31vparv5",
@@ -8472,60 +8472,6 @@
       "enrichedVia": "discogs",
       "bio": "Recently having one of her sets described by Annie Mac as \"the best party set I've heard in a long time\" the wide-eyed, dodo racing, rabbit chasing girl of Lewis Carol's opium induced fantasies has officially been superseded.",
       "bioUrl": "https://www.last.fm/music/Alison+Wonderland",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vc3fqm",
-      "source": "Amazon",
-      "createdAt": "2026-07-31T21:10:21.000Z",
-      "text": "[Amazon] Sublime - Robbin' the Hood - 2LP - $25.97",
-      "artist": "Sublime",
-      "title": "Robbin' the Hood - 2LP",
-      "label": "MCA Records",
-      "genres": [
-        "Rock",
-        "Reggae",
-        "Acoustic",
-        "Dub"
-      ],
-      "price": 25.97,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B01F3KBY4W",
-      "knownArtist": false,
-      "year": "2011",
-      "cover": "https://i.discogs.com/TMz8UhFn5WUfvl7ZynPmQgJoGsdOL_tnqafszNMl3_8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODY0/MTAtMTMyNDI3MjUx/MS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Sublime is an American reggae punk band from Long Beach, California. Formed in 1988, the original lineup consisted of Bradley Nowell (vocals and guitar), Eric Wilson (bass), and Bud Gaugh (drums). Lou Dog, Nowell’s Dalmatian, served as the band’s mascot.",
-      "bioUrl": "https://www.last.fm/music/Sublime",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vc3bn7",
-      "source": "Amazon",
-      "createdAt": "2026-07-31T21:05:51.000Z",
-      "text": "(Amazon) Frank Zappa - We're Only In It For The Money @ $17.99",
-      "artist": "Frank Zappa",
-      "title": "We're Only In It For The Money",
-      "label": "Verve Records",
-      "genres": [
-        "Rock",
-        "Modern Classical",
-        "Avantgarde",
-        "Experimental"
-      ],
-      "price": 17.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B01LX92ZDJ",
-      "knownArtist": false,
-      "year": "1968",
-      "cover": "https://i.discogs.com/mAiABVO77nUkZLUjuqYXFhTl9PoR3BQN_0Ga_vMVy0U/rs:fit/g:sm/q:90/h:621/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTI1/OC0xNTU1MTgwNjA1/LTM2MzMuanBlZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Frank Vincent Zappa (born December 21, 1940 in Baltimore, Maryland, United States – December 4, 1993 in Los Angeles, California, United States) was an American composer, guitarist, singer, bandleader and producer.",
-      "bioUrl": "https://www.last.fm/music/Frank+Zappa",
       "bioSource": "Last.fm"
     }
   ]
