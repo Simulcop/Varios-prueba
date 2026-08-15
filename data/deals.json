@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-08-15T07:49:11.078Z",
+  "updatedAt": "2026-08-15T08:15:23.754Z",
   "deals": [
+    {
+      "id": "reddit-t31vox0fm",
+      "source": "Walmart",
+      "createdAt": "2026-08-15T08:06:14.000Z",
+      "text": "[Walmart] Poison Idea - Legacy Of Disfunction - $17.99",
+      "artist": "Poison Idea",
+      "title": "Legacy Of Disfunction",
+      "label": null,
+      "genres": [],
+      "price": 17.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02zZAqBraxALtMnstDWTyrSYyDKqtmiPTkJE4HPTuS3wY1fhR7hPCDuND4FnDsjwwBl&amp;id=61590716382047",
+      "knownArtist": false,
+      "bio": "Poison Idea was formed in 1980 in Portland, OR by vocalist Jerry A. (aka Jerry Lang). The initial lineup consisted of Jerry A., Tom “Pig Champion” Roberts (guitar), Glen Estes (bass), and Dean Johnson (drums).",
+      "bioUrl": "https://www.last.fm/music/Poison+Idea",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vos2fx",
       "source": "Amazon",
