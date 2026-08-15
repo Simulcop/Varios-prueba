@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T23:11:34.853Z",
+  "updatedAt": "2026-08-15T23:41:09.183Z",
   "deals": [
     {
       "id": "reddit-t31vparv5",
@@ -8373,33 +8373,6 @@
       "enrichedVia": "discogs",
       "bio": "The Doors was an American rock band formed in Los Angeles in 1965, consisting of vocalist Jim Morrison, keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore.",
       "bioUrl": "https://www.last.fm/music/The+Doors",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vc6s1e",
-      "source": "Amazon",
-      "createdAt": "2026-07-31T23:24:55.000Z",
-      "text": "[Amazon] Kiss - Dynasty - $15.99",
-      "artist": "Kiss",
-      "title": "Dynasty",
-      "label": "Casablanca",
-      "genres": [
-        "Rock",
-        "Hard Rock",
-        "Glam",
-        "Disco"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00HGFIJM8",
-      "knownArtist": false,
-      "year": "1979",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/92/7f/5c/927f5c6f-e24a-8db5-e165-38d8b9314d8d/14UMGIM16041.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Kiss (commonly styled in all caps as KISS) was an American rock band formed in New York City in 1973 by Paul Stanley (vocals, rhythm guitar), Gene Simmons (vocals, bass guitar), Ace Frehley (lead guitar, vocals), and Peter Criss (drums, vocals).",
-      "bioUrl": "https://www.last.fm/music/Kiss",
       "bioSource": "Last.fm"
     }
   ]
