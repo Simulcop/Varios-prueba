@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:13:10.996Z",
+  "updatedAt": "2026-08-15T14:44:48.440Z",
   "deals": [
     {
       "id": "reddit-t31vox0fm",
@@ -8586,112 +8586,6 @@
       "enrichedVia": "discogs",
       "bio": "Jonny Greenwood (born 5 November 1971) is the lead guitarist in the British band Radiohead from Abingdon, Oxfordshire, England.",
       "bioUrl": "https://www.last.fm/music/Jonny+Greenwood",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vbswip",
-      "source": "Walmart",
-      "createdAt": "2026-07-31T14:42:33.000Z",
-      "text": "[Walmart] DangerDOOM - The Mouse and the Mask (2 LP) - $28.78",
-      "artist": "DangerDOOM",
-      "title": "The Mouse and the Mask (2 LP)",
-      "label": "Lex Records",
-      "genres": [
-        "Hip Hop",
-        "Conscious"
-      ],
-      "price": 28.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.walmart.com/ip/Dangerdoom-Mouse-the-Mask-Music-Performance-Vinyl/116360444",
-      "knownArtist": false,
-      "year": "2015",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/40/b5/2340b514-8149-da62-3fe5-f6e5bd3ec172/0878390000593_cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "DANGERDOOM was a musical collaboration between producer DJ Danger Mouse and rapper MF DOOM. Their first album, The Mouse and the Mask, was released in 2005, and followed by the Occult Hymn EP, available for free download from the Adult Swim website.",
-      "bioUrl": "https://www.last.fm/music/DANGERDOOM",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vbsobb",
-      "source": "Walmart",
-      "createdAt": "2026-07-31T14:34:01.000Z",
-      "text": "[Walmart] Roxy Music - Best of Roxy Music (2 LP) - $23.78",
-      "artist": "Roxy Music",
-      "title": "Best of Roxy Music (2 LP)",
-      "label": "Virgin",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Pop",
-        "Art Rock"
-      ],
-      "price": 23.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.walmart.com/ip/Roxy-Music-The-Best-Of-Music-Performance-Vinyl/1177646927",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/06/0b/cb060b04-38e3-b831-b81e-b1ffdc03e87b/13UADIM60728.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Roxy Music are an English rock band formed in 1970 by Bryan Ferry—who became the band's lead vocalist and principal songwriter—and bassist Graham Simpson. The other longtime members are Phil Manzanera (guitar), Andy Mackay (saxophone and oboe), and Paul Thompson (drums and percussion).",
-      "bioUrl": "https://www.last.fm/music/Roxy+Music",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vbskgg",
-      "source": "Amazon",
-      "createdAt": "2026-07-31T14:30:00.000Z",
-      "text": "[Amazon] Sum 41 - All The Good Sh**: 14 Solid Gold Hits 2001-2008 - $16.78",
-      "artist": "Sum 41",
-      "title": "All The Good Sh**: 14 Solid Gold Hits 2001-2008",
-      "label": "Island Records",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Pop Punk",
-        "Punk"
-      ],
-      "price": 16.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CJMMGH6T",
-      "knownArtist": false,
-      "year": "2009",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/17/4d/59174d33-7211-9fb1-5952-5895c94e06d4/09UMGIM03043.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Sum 41 was a Canadian rock band formed in Ajax, Ontario, in 1996. The final line-up consisted of Deryck Whibley, Dave Baksh, Jason McCaslin, Tom Thacker and Frank Zummo.",
-      "bioUrl": "https://www.last.fm/music/Sum+41",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vbshpc",
-      "source": "Amazon",
-      "createdAt": "2026-07-31T14:27:13.000Z",
-      "text": "[Amazon] The Who - Live At Leeds (Half-Speed master) - $15.99",
-      "artist": "The Who",
-      "title": "Live At Leeds (Half-Speed master)",
-      "label": "Decca",
-      "genres": [
-        "Rock",
-        "Blues Rock",
-        "Rock & Roll",
-        "Hard Rock"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0741YCRN9",
-      "knownArtist": false,
-      "year": "1970",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/68/25/88/68258891-c9c0-9cf3-dbc9-612d7503e27f/00602537945719.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Who are an English rock band formed in London in 1964. The group's classic line-up consisted of vocalist Roger Daltrey, guitarist and principal songwriter Pete Townshend, bassist John Entwistle, and drummer Keith Moon.",
-      "bioUrl": "https://www.last.fm/music/The+Who",
       "bioSource": "Last.fm"
     }
   ]
