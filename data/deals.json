@@ -1,6 +1,77 @@
 {
-  "updatedAt": "2026-08-16T02:15:47.030Z",
+  "updatedAt": "2026-08-16T03:25:01.711Z",
   "deals": [
+    {
+      "id": "reddit-t31vplpyt",
+      "source": "Amazon",
+      "createdAt": "2026-08-16T03:03:02.000Z",
+      "text": "(Amazon) Robert Wyatt - Rock Bottom [2xLP] @ $14.54",
+      "artist": "Robert Wyatt",
+      "title": "Rock Bottom [2xLP]",
+      "label": "Dark Companion",
+      "genres": [
+        "Rock",
+        "Art Rock",
+        "Prog Rock"
+      ],
+      "price": 14.54,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0043FWY6Q",
+      "knownArtist": false,
+      "year": "2019",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7d/c9/2d/7dc92de6-113e-204e-a89f-5316a7cb05cc/mzi.mymrrcvt.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Robert Wyatt, born Robert Ellidge, in Bristol, UK on 28 January 1945, is an English musician, and a former member of the influential Canterbury scene band Soft Machine. As a teenager, he lived with his parents in a fourteen-room Georgian guest-house, Wellington House, in Lydden near Canterbury.",
+      "bioUrl": "https://www.last.fm/music/Robert+Wyatt",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vplloi",
+      "source": "Amazon",
+      "createdAt": "2026-08-16T02:57:07.000Z",
+      "text": "(Amazon) Tori Amos - Strange Little Girls (Raining Blood Version) @ $16.16",
+      "artist": "Tori Amos",
+      "title": "Strange Little Girls (Raining Blood Version)",
+      "label": "Atlantic",
+      "genres": [
+        "Rock",
+        "Alternative Rock"
+      ],
+      "price": 16.16,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G6G4SHLF",
+      "knownArtist": false,
+      "year": "2001",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/cc/4e/a2cc4e13-7b2e-9eec-b4ac-bdd1dd24febc/603497808267.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Tori Amos (born Myra Ellen Amos; 22 August 1963) is an American singer-songwriter and pianist, recognised for her classically trained mezzo-soprano voice.",
+      "bioUrl": "https://www.last.fm/music/Tori+Amos",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vpl5z4",
+      "source": "Amazon",
+      "createdAt": "2026-08-16T02:34:30.000Z",
+      "text": "[Amazon] Devin Shaffer - Patience $9.33 Lowest",
+      "artist": "Devin Shaffer",
+      "title": "Patience $9.33 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 9.33,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FPSRJZND",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/dd/cc/a8ddcc5b-eaf2-b084-de14-7f2271a15162/116545.jpg/400x400bb.jpg",
+      "bio": "Devin Shaffer is a visual artist and musician whose compositions bring together ambient folk, field recordings, and archival materials into webs of dreamy sentiment.",
+      "bioUrl": "https://www.last.fm/music/Devin+Shaffer",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vpkntf",
       "source": "Amazon",
@@ -8389,22 +8460,6 @@
       "bio": "Born out of the ashes of seminal art thrashers Botch and Minneapolis punk heroes Kill Sadie, Seattle's These Arms are Snakes have fast-become an integral part of the Pacific Northwest's ever-dynamic musical fabric.",
       "bioUrl": "https://www.last.fm/music/These+Arms+Are+Snakes",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vcbezx",
-      "source": "Music Direct",
-      "createdAt": "2026-08-01T02:56:31.000Z",
-      "text": "[Music Direct] 15% Off Select MoFi Titles",
-      "artist": null,
-      "title": "15% Off Select MoFi Titles",
-      "label": null,
-      "genres": [],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.musicdirect.com/mofi-music-sale/used-mofi-music/?_kx=RoQTmrlM_yr9rq0FUJIKomI5C0mAL3wYgEcOsdM7RGQ.UjEVRp",
-      "knownArtist": false
     }
   ]
 }
