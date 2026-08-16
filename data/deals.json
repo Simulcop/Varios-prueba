@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-08-16T00:42:49.303Z",
+  "updatedAt": "2026-08-16T02:15:47.030Z",
   "deals": [
+    {
+      "id": "reddit-t31vpkntf",
+      "source": "Amazon",
+      "createdAt": "2026-08-16T02:09:26.000Z",
+      "text": "[Amazon] Frank Zappa - Apostrophe $17.99",
+      "artist": "Frank Zappa",
+      "title": "Apostrophe",
+      "label": "Discreet",
+      "genres": [
+        "Jazz",
+        "Rock",
+        "Prog Rock",
+        "Jazz-Rock"
+      ],
+      "price": 17.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B00LWLZRIG",
+      "knownArtist": false,
+      "year": "1974",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/27/e4/4227e4f9-784d-3209-9d38-38cbbfcf0907/12UMGIM36704.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Frank Vincent Zappa (born December 21, 1940 in Baltimore, Maryland, United States – December 4, 1993 in Los Angeles, California, United States) was an American composer, guitarist, singer, bandleader and producer.",
+      "bioUrl": "https://www.last.fm/music/Frank+Zappa",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vpkga6",
+      "source": "Amazon",
+      "createdAt": "2026-08-16T01:59:20.000Z",
+      "text": "[Amazon] SHAED - High Dive (Milky Clear) $12.99",
+      "artist": "SHAED",
+      "title": "High Dive (Milky Clear)",
+      "label": "Photo Finish Records",
+      "genres": [
+        "Electronic",
+        "Pop",
+        "Electro",
+        "Indie Pop"
+      ],
+      "price": 12.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B092PCW891",
+      "knownArtist": false,
+      "year": "2021",
+      "cover": "https://i.discogs.com/yDOiRl-plMMmRYZC9331eXIWl7pHb2NDC5XYZULM0L4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDgw/NjQ4LTE2MzA2NjA2/NzQtNTAxMy5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Shaed (stylized SHAED, pronounced \"shade\") is an American indie pop trio based in Washington, D.C. The group was formed in 2011 and features Chelsea Lee as the lead vocalist, while both Max and Spencer Ernst contributes on keyboards, drums, guitars, and vocals.",
+      "bioUrl": "https://www.last.fm/music/Shaed",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vpjbhj",
+      "source": "Amazon",
+      "createdAt": "2026-08-16T01:02:34.000Z",
+      "text": "[Amazon] Madison Cunningham - Ace $15.99",
+      "artist": "Madison Cunningham",
+      "title": "Ace",
+      "label": "Verve Records",
+      "genres": [
+        "Pop",
+        "Folk, World, & Country",
+        "Indie Pop"
+      ],
+      "price": 15.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FJSF23VQ",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/86/47/e08647e3-ee1c-1c8f-4205-c87af7aeb57e/25UM1IM02485.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Madison Cunningham (born 14 October 1996 in Costa Mesa, CA) is an American singer-songwriter. Her 2019 album, \"Who Are You Now\", was nominated for the best Americana album in the 62nd Annual Grammy Awards. Her 2022 album \"Revealer\" won the Grammy for Best Folk Album in 2023.",
+      "bioUrl": "https://www.last.fm/music/Madison+Cunningham",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vpi917",
       "source": "Amazon",
@@ -8325,56 +8405,6 @@
       "lowest": false,
       "amazonUrl": "https://www.musicdirect.com/mofi-music-sale/used-mofi-music/?_kx=RoQTmrlM_yr9rq0FUJIKomI5C0mAL3wYgEcOsdM7RGQ.UjEVRp",
       "knownArtist": false
-    },
-    {
-      "id": "reddit-t31vc9thy",
-      "source": "Amazon",
-      "createdAt": "2026-08-01T01:39:43.000Z",
-      "text": "[Amazon] John Lennon/Yoko Ono/Plastic Ono Band - Power To The People: Live at the One To One Concert [2 LP] $27.23",
-      "artist": "John Lennon/Yoko Ono/Plastic Ono Band",
-      "title": "Power To The People: Live at the One To One Concert [2 LP]",
-      "label": "Mercury Studios",
-      "genres": [
-        "Rock",
-        "Pop Rock",
-        "Art Rock"
-      ],
-      "price": 27.23,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FKTR914F",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/e3/b0/21e3b048-c917-92c4-bd7d-ace44797b388/13UABIM52808.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Rock band and artist collective formed by and in 1968-9. It was formed for their collaborative musical and sound art projects, films, conceptual art projects and eventual solo LPs.",
-      "bioUrl": "https://www.discogs.com/artist/256190-The-Plastic-Ono-Band",
-      "bioSource": "Discogs"
-    },
-    {
-      "id": "reddit-t31vc9doe",
-      "source": "Amazon",
-      "createdAt": "2026-08-01T01:19:09.000Z",
-      "text": "[Amazon] My Morning Jacket - Live 2015 [3 LP] [White] $20.94",
-      "artist": "My Morning Jacket",
-      "title": "Live 2015 [3 LP] [White]",
-      "label": "ATO Records",
-      "genres": [
-        "Rock"
-      ],
-      "price": 20.94,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B08DD1H3ZZ",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e4/f1/89/e4f189b4-0ce0-3575-979f-ee1bb5a5b196/1059.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "My Morning Jacket is an American indie rock band formed in 1998 in Louisville, Kentucky, United States. The band consists of Jim James (vocals, guitar), Carl Broemel (guitar), \"Two Tone\" Tommy Blankenship (bass), Bo Koster (keyboards) and Patrick Hallahan (drums).",
-      "bioUrl": "https://www.last.fm/music/My+Morning+Jacket",
-      "bioSource": "Last.fm"
     }
   ]
 }
