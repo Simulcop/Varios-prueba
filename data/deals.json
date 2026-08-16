@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T04:05:34.987Z",
+  "updatedAt": "2026-08-16T04:57:26.220Z",
   "deals": [
     {
       "id": "reddit-t31vpma0p",
@@ -8485,32 +8485,6 @@
       "enrichedVia": "discogs",
       "bio": "Radiohead are an English rock band formed in Abingdon, Oxfordshire, in 1985. The band consists of Thom Yorke (vocals, guitar, piano, keyboards); brothers Jonny Greenwood (guitar, keyboards, other instruments) and Colin Greenwood (bass); Ed O'Brien (guitar, backing vocals); and Philip Selway (drums,…",
       "bioUrl": "https://www.last.fm/music/Radiohead",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vcdnmw",
-      "source": "Monster Music",
-      "createdAt": "2026-08-01T04:46:27.000Z",
-      "text": "[Monster Music] These Arms Are Snakes - Easter (Indie Excl. Translucent Blue) - $12.49",
-      "artist": "These Arms Are Snakes",
-      "title": "Easter (Indie Excl. Translucent Blue)",
-      "label": "Jade Tree",
-      "genres": [
-        "Rock",
-        "Post-Hardcore",
-        "Math Rock"
-      ],
-      "price": 12.49,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://monstermusicsc.com/UPC/045778221400",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/77/36/59/77365921-ecf6-b8f0-40f6-044ca552db36/792258111866.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Born out of the ashes of seminal art thrashers Botch and Minneapolis punk heroes Kill Sadie, Seattle's These Arms are Snakes have fast-become an integral part of the Pacific Northwest's ever-dynamic musical fabric.",
-      "bioUrl": "https://www.last.fm/music/These+Arms+Are+Snakes",
       "bioSource": "Last.fm"
     }
   ]
