@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-16T15:43:18.363Z",
+  "updatedAt": "2026-08-16T16:13:10.680Z",
   "deals": [
+    {
+      "id": "reddit-t31vq12rq",
+      "source": "Amazon",
+      "createdAt": "2026-08-16T16:11:49.000Z",
+      "text": "(Amazon) Charles Mingus - Blues & Roots [Rhino Reserve] @ $23.64",
+      "artist": "Charles Mingus",
+      "title": "Blues & Roots [Rhino Reserve]",
+      "label": "WaxTime",
+      "genres": [
+        "Jazz",
+        "Hard Bop",
+        "Post Bop"
+      ],
+      "price": 23.64,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GL34Y7S8",
+      "knownArtist": false,
+      "year": "2011",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/2c/7b/db/2c7bdb9b-3c2b-ca28-df6d-17a45c575e95/dj.jpfauufx.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Charles Mingus (22nd April 1922 – 5th January 1979) was an American jazz bassist, composer, bandleader, and occasional pianist from Los Angeles. He was also known for his activism against racial injustice.",
+      "bioUrl": "https://www.last.fm/music/Charles+Mingus",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vpzwfb",
       "source": "Amazon",
