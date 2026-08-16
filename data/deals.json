@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-08-16T21:10:48.621Z",
+  "updatedAt": "2026-08-16T21:41:00.658Z",
   "deals": [
+    {
+      "id": "reddit-t31vq8v78",
+      "source": "Barnes & Noble",
+      "createdAt": "2026-08-16T21:14:45.000Z",
+      "text": "[Barnes & Noble] The Smiths - The Best Vol 2 - $19.59",
+      "artist": "The Smiths",
+      "title": "The Best Vol 2",
+      "label": "WEA",
+      "genres": [
+        "Rock",
+        "Indie Rock"
+      ],
+      "price": 19.59,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mta44cmofk2z",
+      "knownArtist": false,
+      "year": "1992",
+      "cover": "https://i.discogs.com/7iWmEeXaz2Vkl5DmGniSyllgEy__gr5JVrHAYqae2Jw/rs:fit/g:sm/q:90/h:476/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTIz/MTU0LTE1MjU2MjMz/MTUtMTEzMS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "The Smiths were an English rock band formed in Manchester in 1982, composed of Morrissey (vocals), Johnny Marr (guitar), Andy Rourke (bass), and Mike Joyce (drums). Morrissey and Marr formed the band's songwriting partnership.",
+      "bioUrl": "https://www.last.fm/music/The+Smiths",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vq8ufw",
+      "source": "Barnes & Noble",
+      "createdAt": "2026-08-16T21:13:53.000Z",
+      "text": "[Barnes & Noble] The Smiths - The Best Vol 1 - $19.59",
+      "artist": "The Smiths",
+      "title": "The Best Vol 1",
+      "label": "WEA",
+      "genres": [
+        "Rock",
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "price": 19.59,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mta42roj7k2z",
+      "knownArtist": false,
+      "year": "1992",
+      "cover": "https://i.discogs.com/TdDS2kaDao4Ly6FBsbJAlx_SPg69cxEe4axoYK-nE-c/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDYw/MDI2LTE1NDczMzU1/OTYtNTg5Mi5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "The Smiths were an English rock band formed in Manchester in 1982, composed of Morrissey (vocals), Johnny Marr (guitar), Andy Rourke (bass), and Mike Joyce (drums). Morrissey and Marr formed the band's songwriting partnership.",
+      "bioUrl": "https://www.last.fm/music/The+Smiths",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vq3awn",
       "source": "Amazon",
