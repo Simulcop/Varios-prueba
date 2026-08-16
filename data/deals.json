@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T12:19:07.486Z",
+  "updatedAt": "2026-08-16T13:07:01.267Z",
   "deals": [
     {
       "id": "reddit-t31vpulvd",
@@ -8433,85 +8433,6 @@
       "enrichedVia": "discogs",
       "bio": "Beach House is an American dream pop band originating from Baltimore, Maryland, United States.",
       "bioUrl": "https://www.last.fm/music/Beach+House",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vcmxt9",
-      "source": "Walmart",
-      "createdAt": "2026-08-01T13:05:44.000Z",
-      "text": "[Walmart] Kiss - Ace Frehley (180g) - $15.99",
-      "artist": "Kiss",
-      "title": "Ace Frehley (180g)",
-      "label": "Casablanca",
-      "genres": [
-        "Rock",
-        "Hard Rock"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.walmart.com/ip/Kiss-Ace-Frehley-Music-Performance-Vinyl/37869250",
-      "knownArtist": false,
-      "year": "1978",
-      "cover": "https://i.discogs.com/kg3tyd9Z3esesnRuwElJ0_lgCWiT8BqWkrD2gPzY5cw/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTE4/Ni0xMTMxNzExMjI1/LmpwZWc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Kiss (commonly styled in all caps as KISS) was an American rock band formed in New York City in 1973 by Paul Stanley (vocals, rhythm guitar), Gene Simmons (vocals, bass guitar), Ace Frehley (lead guitar, vocals), and Peter Criss (drums, vocals).",
-      "bioUrl": "https://www.last.fm/music/Kiss",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vcmr13",
-      "source": "Amazon",
-      "createdAt": "2026-08-01T12:57:52.000Z",
-      "text": "[Amazon] Big Pun - Capital Punishment (2 LP) - $17.17",
-      "artist": "Big Pun",
-      "title": "Capital Punishment (2 LP)",
-      "label": "Loud Records",
-      "genres": [
-        "Hip Hop",
-        "Boom Bap",
-        "Hardcore Hip-Hop",
-        "Gangsta"
-      ],
-      "price": 17.17,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Capital-Punishment-Big-Pun/dp/B0C3JSQR6V",
-      "knownArtist": false,
-      "year": "1998",
-      "cover": "https://i.discogs.com/k4b5-sXOW4dVbb9lDewTPbyvD6uoPOtndyEK1Wzvv-g/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDk1/NC0xNzMzNzY2NjY5/LTI4NjkuanBlZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "(Note: scrobbles for \"Big Pun\" redirect here due to an incorrect redirect. Disable automatic spelling corrections in your settings to fix this.) Christopher Lee Rios (November 9, 1971 - February 7, 2000), better known as Big Pun or Big Punisher, was a Puerto Rican American rapper who emerged from…",
-      "bioUrl": "https://www.last.fm/music/Big+Punisher",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vcmh1g",
-      "source": "Amazon",
-      "createdAt": "2026-08-01T12:45:21.000Z",
-      "text": "[Amazon] Prince And The Revolution - Around The World In A Day (3 LP) - $30.38",
-      "artist": "Prince And The Revolution",
-      "title": "Around The World In A Day (3 LP)",
-      "label": "Paisley Park",
-      "genres": [
-        "Rock",
-        "Funk / Soul",
-        "Pop",
-        "Minneapolis Sound"
-      ],
-      "price": 30.38,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FQ4BTY9G",
-      "knownArtist": false,
-      "year": "1985",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6c/9d/15/6c9d15aa-f894-eabf-dea4-c90f0ced29dd/603497861262.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Revolution is an American R&B and pop rock band formed in Minneapolis, Minnesota, in 1979 by Prince. Initially serving as Prince's backing band for live performances, the group later became an important studio ensemble.",
-      "bioUrl": "https://www.last.fm/music/Prince+&+The+Revolution",
       "bioSource": "Last.fm"
     }
   ]
