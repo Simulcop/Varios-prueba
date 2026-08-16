@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-16T16:13:10.680Z",
+  "updatedAt": "2026-08-16T16:47:27.411Z",
   "deals": [
+    {
+      "id": "reddit-t31vq1914",
+      "source": "Amazon",
+      "createdAt": "2026-08-16T16:18:31.000Z",
+      "text": "[Amazon] JARV IS... – This Is Going To Hurt: Original Soundtrack $12.26",
+      "artist": null,
+      "title": "JARV IS... – This Is Going To Hurt: Original Soundtrack",
+      "label": "Rough Trade",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen",
+        "Alternative Rock"
+      ],
+      "price": 12.26,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0BGN66P8C",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://i.discogs.com/0-9spcVWsmNn6yPj5TQ_MZr6nsN_e1hScLGehyQDUeo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTA3/ODgzLTE2NjY0NDkz/MzYtODY5Ny5qcGVn.jpeg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31vq12rq",
       "source": "Amazon",
