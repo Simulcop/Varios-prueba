@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-16T11:11:15.555Z",
+  "updatedAt": "2026-08-16T11:42:15.224Z",
   "deals": [
+    {
+      "id": "reddit-t31vpulvd",
+      "source": "Amazon",
+      "createdAt": "2026-08-16T11:28:21.000Z",
+      "text": "[Amazon] Black Crowes - A Pound of Feathers - Red Vinyl - $19.40",
+      "artist": "Black Crowes",
+      "title": "A Pound of Feathers - Red Vinyl",
+      "label": "Silver Arrow",
+      "genres": [
+        "Rock",
+        "Blues Rock",
+        "Southern Rock"
+      ],
+      "price": 19.4,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mt73frebjc2w",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/2c/1a/4d2c1abd-323c-9933-a020-5374c8791ffe/199806667569.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Black Crowes is a blues-oriented hard rock jam band formed 1989 in Atlanta, Georgia, United States that has sold over 15 million albums and were hailed by Melody Maker as \"The Most Rock N' Roll Rock N' Roll Band In The World\" The band has toured with acts such as Aerosmith, ZZ Top, Jimmy Page,…",
+      "bioUrl": "https://www.last.fm/music/The+Black+Crowes",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vprsit",
       "source": "Amazon",
