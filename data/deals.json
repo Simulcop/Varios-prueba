@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-16T03:25:01.711Z",
+  "updatedAt": "2026-08-16T04:05:34.987Z",
   "deals": [
+    {
+      "id": "reddit-t31vpma0p",
+      "source": "Amazon",
+      "createdAt": "2026-08-16T03:31:53.000Z",
+      "text": "(Amazon) Chicago - Chicago IX: Chicago's Greatest Hits @ $12.02",
+      "artist": "Chicago",
+      "title": "Chicago IX: Chicago's Greatest Hits",
+      "label": "Columbia",
+      "genres": [
+        "Rock",
+        "Soft Rock",
+        "Pop Rock"
+      ],
+      "price": 12.02,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B08D71QNLL",
+      "knownArtist": false,
+      "year": "1975",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/17/ae/2217ae2e-99d0-7f34-c84f-ae48f9439feb/603497878406.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Chicago is an American rock band formed in 1967 in Chicago, Illinois. The group has described itself as a \"rock and roll band with horns,\" and its music incorporates elements of classical music, jazz, R&B, and pop. The band emerged from several Chicago-area groups in the late 1960s.",
+      "bioUrl": "https://www.last.fm/music/Chicago",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vpm7r2",
+      "source": "Amazon",
+      "createdAt": "2026-08-16T03:28:34.000Z",
+      "text": "(Amazon) [Regional Coupon] Ken Boothe - Essential Artist Collection [2xLP] @ $25.88",
+      "artist": "Ken Boothe",
+      "title": "Essential Artist Collection [2xLP]",
+      "label": "Trojan Records",
+      "genres": [
+        "Reggae",
+        "Rocksteady",
+        "Roots Reggae"
+      ],
+      "price": 25.88,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0BT6WKM4G",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/e5/58/fbe5580d-85c2-a856-efa4-26a34b6b5d41/4050538872200.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Kenneth George Boothe O.D., also known as \"Mr. Rock Steady\", was born March 22nd, 1948 in Kingston, Jamaica.",
+      "bioUrl": "https://www.last.fm/music/Ken+Boothe",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vplpyt",
       "source": "Amazon",
