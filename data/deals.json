@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-15T23:41:09.183Z",
+  "updatedAt": "2026-08-16T00:42:49.303Z",
   "deals": [
+    {
+      "id": "reddit-t31vpi917",
+      "source": "Amazon",
+      "createdAt": "2026-08-16T00:11:01.000Z",
+      "text": "[Amazon] Love - Forever Changes (50th Anniversary Deluxe Edition) (4CD/1DVD/1LP) $39.19",
+      "artist": "Love",
+      "title": "Forever Changes (50th Anniversary Deluxe Edition) (4CD/1DVD/1LP)",
+      "label": "Elektra",
+      "genres": [
+        "Rock",
+        "Psychedelic Rock",
+        "Baroque Pop",
+        "Folk Rock"
+      ],
+      "price": 39.19,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B079JPP1QC",
+      "knownArtist": false,
+      "year": "1967",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5a/ee/47/5aee470b-8df3-2b3d-f24e-5f79f24350a9/603497886968.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Love was an American psychedelic rock band formed in Los Angeles, California in 1965. They were led by singer, songwriter and guitarist Arthur Lee (March 7, 1945 - August 3, 2006) and the group's second songwriter, guitarist Bryan MacLean (September 25, 1946 - December 25, 1998).",
+      "bioUrl": "https://www.last.fm/music/Love",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vparv5",
       "source": "Amazon",
@@ -8347,32 +8374,6 @@
       "enrichedVia": "discogs",
       "bio": "My Morning Jacket is an American indie rock band formed in 1998 in Louisville, Kentucky, United States. The band consists of Jim James (vocals, guitar), Carl Broemel (guitar), \"Two Tone\" Tommy Blankenship (bass), Bo Koster (keyboards) and Patrick Hallahan (drums).",
       "bioUrl": "https://www.last.fm/music/My+Morning+Jacket",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vc7ks5",
-      "source": "Walmart",
-      "createdAt": "2026-07-31T23:59:50.000Z",
-      "text": "[Walmart] The Doors - Greatest Hits (Rhino Reserve) - $21.90",
-      "artist": "The Doors",
-      "title": "Greatest Hits (Rhino Reserve)",
-      "label": "Elektra",
-      "genres": [
-        "Rock",
-        "Blues Rock",
-        "Psychedelic Rock"
-      ],
-      "price": 21.9,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.walmart.com/ip/Doors-Greatest-Hits-LP-rhino-reserve/18194752934?sid=ccbef6e8-e774-4752-9847-ef0505d67bb8",
-      "knownArtist": false,
-      "year": "1980",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0b/c1/03/0bc10342-a863-560f-15ef-0348f49d23e6/12UMGIM57106.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Doors was an American rock band formed in Los Angeles in 1965, consisting of vocalist Jim Morrison, keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore.",
-      "bioUrl": "https://www.last.fm/music/The+Doors",
       "bioSource": "Last.fm"
     }
   ]
