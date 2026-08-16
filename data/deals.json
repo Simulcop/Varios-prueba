@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T17:41:15.085Z",
+  "updatedAt": "2026-08-16T18:14:46.180Z",
   "deals": [
     {
       "id": "reddit-t31vq3awn",
@@ -8464,29 +8464,6 @@
       "bio": "Cesare Cremonini (born on March 27, 1980 in Bologna, Italy) is an Italian singer-songwriter. Cremonini was the leader of Lùnapop, a successful and popular Italian pop band between 1999 and 2002. In 2002 Lùnapop was disbanded. He has since pursued a successful solo career.",
       "bioUrl": "https://www.last.fm/music/Cesare+Cremonini",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vcua68",
-      "source": "NHVV",
-      "createdAt": "2026-08-01T18:07:57.000Z",
-      "text": "[NHVV] More titles marked to 30% off",
-      "artist": null,
-      "title": "More titles marked to 30% off",
-      "label": "Not On Label (Lithopedian Self-released)",
-      "genres": [
-        "Electronic",
-        "Noise",
-        "Rhythmic Noise"
-      ],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://nhvintagevinyl.com/collections/30_off",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://i.discogs.com/kyqr6gRnXSIqED0E2vydOt-OcICJ_BHJbM193YuTznc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzAw/MDMzLTE3NTAyMjY4/NjYtNjgyNy5qcGVn.jpeg",
-      "enrichedVia": "discogs"
     }
   ]
 }
