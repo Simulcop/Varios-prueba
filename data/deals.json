@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T13:07:01.267Z",
+  "updatedAt": "2026-08-16T13:50:14.868Z",
   "deals": [
     {
       "id": "reddit-t31vpulvd",
@@ -8355,85 +8355,6 @@
       "year": "2026",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/b7/46/95b746be-148d-b3f0-1d54-635dfea49f5b/cover.jpg/400x400bb.jpg",
       "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31vcnngx",
-      "source": "Amazon",
-      "createdAt": "2026-08-01T13:36:57.000Z",
-      "text": "[Amazon] Metallica - Garage, Inc. (3 LP) - $34.81",
-      "artist": "Metallica",
-      "title": "Garage, Inc. (3 LP)",
-      "label": "Vertigo",
-      "genres": [
-        "Rock",
-        "Thrash",
-        "Hard Rock",
-        "Heavy Metal"
-      ],
-      "price": 34.81,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00LYHXFU0",
-      "knownArtist": false,
-      "year": "1998",
-      "cover": "https://i.discogs.com/TvAHxXhepYx-7mTPOncs5j9K5SLlRfEDY8rOGeFwRfU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzk0/My0xMzk2NDMwODE1/LTg0NTYuanBlZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Metallica is an American heavy metal band formed in Los Angeles in 1981 by vocalist and guitarist James Hetfield and drummer Lars Ulrich, and later based primarily in San Francisco. The band is regarded as one of the leading acts in thrash metal, alongside Megadeth, Anthrax, and Slayer.",
-      "bioUrl": "https://www.last.fm/music/Metallica",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vcnhx6",
-      "source": "Amazon",
-      "createdAt": "2026-08-01T13:30:16.000Z",
-      "text": "[Amazon] Slayer - Diabolus In Musica (180g) - $15.99",
-      "artist": "Slayer",
-      "title": "Diabolus In Musica (180g)",
-      "label": "American Recordings",
-      "genres": [
-        "Rock",
-        "Thrash"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00EJXWZHA",
-      "knownArtist": false,
-      "year": "1998",
-      "cover": "https://i.discogs.com/Ol3ZeFDLQ9bW1ll1LyVv_B8rr6L4QQkMelF3HCrmR9E/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTEw/MC0xMzY4MzY4NzE4/LTgxNjIuanBlZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Slayer is an American thrash metal band from Huntington Park, California, formed in 1981 by Kerry King, Jeff Hanneman, Dave Lombardo, and Tom Araya. The band became known for a fast and aggressive style that placed it among the big four of thrash metal alongside Metallica, Megadeth, and Anthrax.",
-      "bioUrl": "https://www.last.fm/music/Slayer",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vcn9hu",
-      "source": "Walmart",
-      "createdAt": "2026-08-01T13:19:46.000Z",
-      "text": "[Walmart] Beach House - Bloom (2 LP) - $18.77",
-      "artist": "Beach House",
-      "title": "Bloom (2 LP)",
-      "label": "Sub Pop",
-      "genres": [
-        "Rock",
-        "Indie Rock",
-        "Ethereal",
-        "Dream Pop"
-      ],
-      "price": 18.77,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.walmart.com/ip/Beach-House-Bloom-Music-Performance-Vinyl/34432863",
-      "knownArtist": false,
-      "year": "2012",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8b/b7/08/8bb7086b-cdb5-1ffe-926b-e7637bda6a0d/BeachHouse_Bloom_iTunes.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Beach House is an American dream pop band originating from Baltimore, Maryland, United States.",
-      "bioUrl": "https://www.last.fm/music/Beach+House",
-      "bioSource": "Last.fm"
     }
   ]
 }
