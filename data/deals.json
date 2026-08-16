@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T14:13:16.573Z",
+  "updatedAt": "2026-08-16T14:45:23.179Z",
   "deals": [
     {
       "id": "reddit-t31vpulvd",
@@ -8332,29 +8332,6 @@
       "amazonUrl": "https://www.amazon.com/dp/B0G4NJB1DC",
       "knownArtist": false,
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/8a/10/d78a107a-524e-89af-a59d-131877cd71e8/810167870336.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31vcoqr9",
-      "source": "Human Sweat Records",
-      "createdAt": "2026-08-01T14:23:14.000Z",
-      "text": "[Human Sweat Records] Mikolai Stroinski & Garry Schyman - Metamorphosis (Hand-Poured Glow-in-the-Dark Tower Variant, /50) - $50",
-      "artist": "Mikolai Stroinski & Garry Schyman",
-      "title": "Metamorphosis (Hand-Poured Glow-in-the-Dark Tower Variant, /50) - $50",
-      "label": "Human Sweat Records",
-      "genres": [
-        "Stage & Screen",
-        "Soundtrack",
-        "Video Game Music"
-      ],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://humansweatrecords.com",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/b7/46/95b746be-148d-b3f0-1d54-635dfea49f5b/cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
     }
   ]
 }
