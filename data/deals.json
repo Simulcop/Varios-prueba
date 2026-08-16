@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-16T23:11:05.738Z",
+  "updatedAt": "2026-08-16T23:40:49.284Z",
   "deals": [
+    {
+      "id": "reddit-t31vqbzvq",
+      "source": "Amazon",
+      "createdAt": "2026-08-16T23:29:21.000Z",
+      "text": "[Amazon] M83 - Hurry Up, We're Dreaming [Pink/Blue 2 LP] $22.30",
+      "artist": "M83",
+      "title": "Hurry Up, We're Dreaming [Pink/Blue 2 LP]",
+      "label": "Mute",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Indie Rock",
+        "Synth-pop"
+      ],
+      "price": 22.3,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B01JZKL8B0",
+      "knownArtist": false,
+      "year": "2011",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/7b/a9/cb7ba903-b5f1-cc21-90db-7a81b7aa0997/724596951057.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "M83 is a French-American electronic music project formed in Antibes, Alpes-Maritimes in 2001 and currently based in Los Angeles, United States. The band's primary member is vocalist, songwriter, multi-instrumentalist and record producer Anthony Gonzalez.",
+      "bioUrl": "https://www.last.fm/music/M83",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vq8v78",
       "source": "Barnes & Noble",
@@ -8439,32 +8466,6 @@
       "enrichedVia": "discogs",
       "bio": "Alkaline Trio is a punk rock band from Chicago, Illinois consisting of Matt Skiba (guitar/vocals), Dan Andriano (bass/vocals), and Atom Willard (drums/percussion).",
       "bioUrl": "https://www.last.fm/music/Alkaline+Trio",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vd25ol",
-      "source": "Amazon",
-      "createdAt": "2026-08-01T23:32:36.000Z",
-      "text": "[Amazon] Pennywise - Pennywise - $20.99",
-      "artist": "Pennywise",
-      "title": "Pennywise",
-      "label": "Epitaph",
-      "genres": [
-        "Rock",
-        "Hardcore",
-        "Punk"
-      ],
-      "price": 20.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B000001IOE",
-      "knownArtist": false,
-      "year": "1991",
-      "cover": "https://i.discogs.com/fN4y0k54OLlWf-vvwtpMGzgNrmpgObG6Odhxb9g3_t0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mjcw/MS0xMzU5NTU4MjA0/LTY1NjIuanBlZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Pennywise are an American punk rock band from Hermosa Beach, California, formed in 1988. The band took its name from the antagonist in Stephen King's horror novel It known as Pennywise the Dancing Clown.",
-      "bioUrl": "https://www.last.fm/music/Pennywise",
       "bioSource": "Last.fm"
     }
   ]
