@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-17T10:22:04.176Z",
+  "updatedAt": "2026-08-17T10:54:23.086Z",
   "deals": [
+    {
+      "id": "reddit-t31vqoran",
+      "source": "Amazon",
+      "createdAt": "2026-08-17T10:41:55.000Z",
+      "text": "[Amazon] Wye Oak - Civilian $10.60",
+      "artist": "Wye Oak",
+      "title": "Civilian",
+      "label": "Merge Records",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "price": 10.6,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B004I65C5K/",
+      "knownArtist": false,
+      "year": "2011",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/d2/3e/e3d23e10-e067-4d58-d853-0800b0c67fb8/57097.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Wye Oak (née Monarch) is a duo of Jenn Wasner and Andy Stack, formed in mid-2006. Wasner and Stack have been playing music together and apart in Baltimore, MD, and chose their name from the honorary state tree of Maryland.",
+      "bioUrl": "https://www.last.fm/music/Wye+Oak",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vqo17c",
       "source": "Amazon",
