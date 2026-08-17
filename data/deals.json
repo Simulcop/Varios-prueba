@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-17T18:23:38.869Z",
+  "updatedAt": "2026-08-17T19:06:03.672Z",
   "deals": [
+    {
+      "id": "reddit-t31vr0enu",
+      "source": "Amazon",
+      "createdAt": "2026-08-17T18:24:53.000Z",
+      "text": "[Amazon] John Coffey - Not Alone - $26.49",
+      "artist": "John Coffey",
+      "title": "Not Alone",
+      "label": "Capitol Records",
+      "genres": [
+        "Rock",
+        "Alternative Rock"
+      ],
+      "price": 26.49,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0H883SC5H",
+      "knownArtist": false,
+      "year": "1993",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/e2/08/9ae2081b-9624-e003-efeb-408147cec200/4001617109946.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "John Coffey was formed in 2002 in Utrecht, The Netherlands. Begin 2012 John Coffey tore down a small pub somewhere in Groningen during the Eurosonic Festival. 30 minutes of sheer guitar loudness left the audience in awe with ringing ears and renewed punkrock hope.",
+      "bioUrl": "https://www.last.fm/music/John+Coffey",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vr0drz",
+      "source": "Amazon",
+      "createdAt": "2026-08-17T18:24:03.000Z",
+      "text": "[Amazon] Blxst - Labor of Love - $24.49",
+      "artist": "Blxst",
+      "title": "Labor of Love",
+      "label": "Empire",
+      "genres": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Contemporary R&B",
+        "Neo Soul"
+      ],
+      "price": 24.49,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0H5YD1CK7",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/64/4b/5e644bf0-fff5-2e91-8a07-4601da4682f2/199316594041_cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Matthew Burdette (born September 17, 1995), known professionally as Blxst (pronounced \"blast\"), is an American rapper, singer, songwriter, and record producer from Los Angeles, California.",
+      "bioUrl": "https://www.last.fm/music/Blxst",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vqzzqp",
       "source": "Amazon",
