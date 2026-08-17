@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-08-17T16:15:52.212Z",
+  "updatedAt": "2026-08-17T16:52:05.933Z",
   "deals": [
+    {
+      "id": "reddit-t31vqxogb",
+      "source": "Amazon",
+      "createdAt": "2026-08-17T16:51:15.000Z",
+      "text": "(Amazon) Belinda Carlisle - Once Upon A Time In California [Picture Disc] @ $15.29",
+      "artist": "Belinda Carlisle",
+      "title": "Once Upon A Time In California [Picture Disc]",
+      "label": "Demon Records",
+      "genres": [
+        "Pop"
+      ],
+      "price": 15.29,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FB954SQM",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/e0/74/05e074db-93e7-e8c9-7d64-62cfed1469b1/5032698649211.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Belinda Carlisle (born August 17, 1958 in Hollywood, California) is the lead vocalist and a founding member of the all-female New Wave band Go-Go's. She is also a successful solo artist. A former high school cheerleader, Carlisle is the eldest of seven children.",
+      "bioUrl": "https://www.last.fm/music/Belinda+Carlisle",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vqxk24",
+      "source": "Amazon",
+      "createdAt": "2026-08-17T16:46:59.000Z",
+      "text": "(Amazon) [Regional Coupon] Wilco - summerteeth [5xLP Box Set] @ $63.40 (!)",
+      "artist": "Wilco",
+      "title": "summerteeth [5xLP Box Set] @ $63.40 (!)",
+      "label": null,
+      "genres": [],
+      "price": 63.4,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B08H5DG744",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/31/22/e031227f-2d7c-79ae-c4df-7e3c23cbd4db/093624728269.jpg/400x400bb.jpg",
+      "bio": "Wilco is an American indie rock band which formed in 1994 in Chicago, Illinois, United States by the remaining members of alternative country group Uncle Tupelo following singer Jay Farrar's departure from that group.",
+      "bioUrl": "https://www.last.fm/music/Wilco",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vquv64",
       "source": "Amazon",
