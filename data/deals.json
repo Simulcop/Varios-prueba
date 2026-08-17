@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-08-17T00:40:49.755Z",
+  "updatedAt": "2026-08-17T02:13:58.179Z",
   "deals": [
+    {
+      "id": "reddit-t31vqf2qd",
+      "source": "Amazon",
+      "createdAt": "2026-08-17T01:52:53.000Z",
+      "text": "[Amazon] Bread - The Best of Bread (Clear Blue Vinyl) $21.25",
+      "artist": "Bread",
+      "title": "The Best of Bread (Clear Blue Vinyl)",
+      "label": "Elektra",
+      "genres": [
+        "Rock",
+        "Pop Rock",
+        "Soft Rock"
+      ],
+      "price": 21.25,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FY3G16YK",
+      "knownArtist": false,
+      "year": "1973",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/72/46/e8/7246e8a4-2e0e-2a7a-476b-e468326494ce/s06.zqggmjoq.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "There are nunerous artists with this name, including: 1) an American soft rock band from Los Angeles, California, active primarily between 1969 and 1977; 2) a Hip-Hop/Rap artist active between 2006 and 2011; 3) an Italian band; 4) an American rapper; 5) a Swedish rock band from Malmö.",
+      "bioUrl": "https://www.last.fm/music/Bread",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vqew65",
+      "source": "Amazon",
+      "createdAt": "2026-08-17T01:44:10.000Z",
+      "text": "[Amazon] Deerlady - Deerlady $17.30",
+      "artist": "Deerlady",
+      "title": "Deerlady",
+      "label": "Out Of Your Head Records",
+      "genres": [
+        "Rock",
+        "Folk, World, & Country",
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "price": 17.3,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GP7L95X8",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://i.discogs.com/4u_jgNaUUcKK9iuwRLJuSauDX3aGI7VmIm2PgS2mFZo/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDI1/Mjg1LTE3ODU0OTU0/NjUtMjU3MS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Deerlady is Mali Obomsawin and Magdalena Abrego. Obomsawin of Odanak First Nation writes of death and decay with a poeticism that leaves us poised for delicate moments.",
+      "bioUrl": "https://www.last.fm/music/Deerlady",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vqcscl",
       "source": "Amazon",
