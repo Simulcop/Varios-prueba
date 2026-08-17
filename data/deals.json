@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-17T11:16:39.275Z",
+  "updatedAt": "2026-08-17T11:47:23.679Z",
   "deals": [
+    {
+      "id": "reddit-t31vqpmv6",
+      "source": "Amazon",
+      "createdAt": "2026-08-17T11:27:03.000Z",
+      "text": "[Amazon] Daniel Avery - Tremor [2 LP] $14.60",
+      "artist": "Daniel Avery",
+      "title": "Tremor [2 LP]",
+      "label": "Domino",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Techno",
+        "Drum n Bass"
+      ],
+      "price": 14.6,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FJ1Z5LQH",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/c4/aa/0dc4aa41-a13d-c46a-0224-0c6e1626946e/887828056491.png/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Daniel Avery is an electronic music producer and DJ from Bournemouth, a resort town on the south coast of England. Avery's music encompasses abstract techno, house, IDM, and shoegaze.",
+      "bioUrl": "https://www.last.fm/music/Daniel+Avery",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vqoran",
       "source": "Amazon",
