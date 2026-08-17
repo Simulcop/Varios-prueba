@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-08-17T14:53:24.565Z",
+  "updatedAt": "2026-08-17T15:16:46.903Z",
   "deals": [
+    {
+      "id": "reddit-t31vquv64",
+      "source": "Amazon",
+      "createdAt": "2026-08-17T15:03:41.000Z",
+      "text": "[Amazon] U2 - Under a Blood Red Sky - $15.99",
+      "artist": "U2",
+      "title": "Under a Blood Red Sky",
+      "label": "Island Records",
+      "genres": [
+        "Rock",
+        "Pop Rock",
+        "Arena Rock"
+      ],
+      "price": 15.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0015HZAKW",
+      "knownArtist": false,
+      "year": "1983",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/17/47/25174760-2463-29c8-8015-59dce91ee674/17UMGIM87705.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "U2 are an Irish rock band formed in Dublin in 1976. The group comprises Paul \"Bono\" Hewson (lead vocals and rhythm guitar), David \"the Edge\" Evans (lead guitar, keyboards, and backing vocals), Adam Clayton (bass guitar), and Larry Mullen Jr. (drums and percussion).",
+      "bioUrl": "https://www.last.fm/music/U2",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vquu5n",
+      "source": "Amazon",
+      "createdAt": "2026-08-17T15:02:41.000Z",
+      "text": "[Amazon] Benjamin Grosvenor - Rhapsody In Blue (Blue) - $28.95",
+      "artist": "Benjamin Grosvenor",
+      "title": "Rhapsody In Blue (Blue)",
+      "label": "Decca",
+      "genres": [
+        "Classical",
+        "Impressionist",
+        "Modern",
+        "Romantic"
+      ],
+      "price": 28.95,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CSVVYVRC",
+      "knownArtist": false,
+      "year": "2012",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/48/92/44/4892448f-ea87-1d21-c0d6-9e385588fba0/00028947846925.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "British pianist Benjamin Grosvenor was born on 8th July 1992 in Southend-on-Sea, United Kingdom. Grosvenor is internationally recognized for his electrifying performances and insightful interpretations.",
+      "bioUrl": "https://www.last.fm/music/Benjamin+Grosvenor",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vqu2w2",
       "source": "Amazon",
