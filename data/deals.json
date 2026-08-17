@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T12:22:51.141Z",
+  "updatedAt": "2026-08-17T13:13:31.284Z",
   "deals": [
     {
       "id": "reddit-t31vqpmv6",
@@ -8636,33 +8636,6 @@
       "enrichedVia": "discogs",
       "bio": "Enuff Z'Nuff are an American rock band from Blue Island, Illinois, formed in 1984 under the original spelling “Enough Z'Nuff.” The band’s name is a sensational spelling of the term “enough’s enough.” The founding members included lead vocalist, rhythm guitarist, and keyboardist Donnie Vie, bassist…",
       "bioUrl": "https://www.last.fm/music/Enuff+Z%27Nuff",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vdgza2",
-      "source": "Amazon",
-      "createdAt": "2026-08-02T12:35:26.000Z",
-      "text": "[Amazon] Tyler, The Creator - Cherry Bomb (Mask Cover) [2 LP] $21.63",
-      "artist": "Tyler, The Creator",
-      "title": "Cherry Bomb (Mask Cover) [2 LP]",
-      "label": "The Not On label (Tyler Creator)",
-      "genres": [
-        "Hip Hop",
-        "Funk / Soul",
-        "Hardcore Hip-Hop",
-        "Neo Soul"
-      ],
-      "price": 21.63,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0F4W1WBF2",
-      "knownArtist": false,
-      "year": "2015",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/df/7d/a8df7d1e-0a11-6228-61af-3230783a9485/886447419601.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Tyler Gregory Okonma (born on March 6, 1991 in Hawthorne, California, USA) also known as Tyler, The Creator, is a Grammy award-winning American rapper, singer, record producer, director, fashion designer, and the head of his independent record label, Odd Future Records.",
-      "bioUrl": "https://www.last.fm/music/Tyler,+The+Creator",
       "bioSource": "Last.fm"
     }
   ]
