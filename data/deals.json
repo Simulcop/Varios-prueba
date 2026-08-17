@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T02:13:58.179Z",
+  "updatedAt": "2026-08-17T03:25:01.343Z",
   "deals": [
     {
       "id": "reddit-t31vqf2qd",
@@ -8493,56 +8493,6 @@
       "enrichedVia": "discogs",
       "bio": "John Howard Carpenter (born January 16, 1948) is an American filmmaker, composer, and actor, widely known for his work in the horror, action, and science fiction genres, particularly during the 1970s and 1980s. He is regarded as a significant figure in the horror genre.",
       "bioUrl": "https://www.last.fm/music/John+Carpenter",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vd6p7i",
-      "source": "Amazon",
-      "createdAt": "2026-08-02T03:10:11.000Z",
-      "text": "[Amazon] NOFX - So Long & Thanks For All the Shoes - $15.99",
-      "artist": "NOFX",
-      "title": "So Long & Thanks For All the Shoes",
-      "label": "Epitaph",
-      "genres": [
-        "Rock",
-        "Punk"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B000001IU0",
-      "knownArtist": false,
-      "year": "1997",
-      "cover": "https://i.discogs.com/xFrCzyi3taomV7XlMhQ9Vq4PTBm_KsDasDQA19YJllQ/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDE2/MDgtMTI0MzYxMTYy/NC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "NOFX was an American punk rock band formed in Los Angeles in 1983. Bassist/lead vocalist Fat Mike, rhythm guitarist Eric Melvin and drummer Erik Sandin were original founding and longest-serving members of the band, who have appeared on every release by the band, although Sandin departed briefly in…",
-      "bioUrl": "https://www.last.fm/music/NOFX",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vd6mt5",
-      "source": "Amazon",
-      "createdAt": "2026-08-02T03:06:51.000Z",
-      "text": "[Amazon] Alkaline Trio - Maybe I'll Catch Fire - $16.40",
-      "artist": "Alkaline Trio",
-      "title": "Maybe I'll Catch Fire",
-      "label": "Asian Man Records",
-      "genres": [
-        "Rock",
-        "Punk"
-      ],
-      "price": 16.4,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Maybe-Ill-Catch-Fire-Vinyl/dp/B00003ZAHE/",
-      "knownArtist": false,
-      "year": "2008",
-      "cover": "https://i.discogs.com/CJe2nqrc34Q89YxYQPUbgF8Dv6M_PF1VcJ2bTMjJZQA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjEw/MDUtMTY2ODM3NzIy/MC0xNDYzLmpwZWc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Alkaline Trio is a punk rock band from Chicago, Illinois consisting of Matt Skiba (guitar/vocals), Dan Andriano (bass/vocals), and Atom Willard (drums/percussion).",
-      "bioUrl": "https://www.last.fm/music/Alkaline+Trio",
       "bioSource": "Last.fm"
     }
   ]
