@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T13:58:46.133Z",
+  "updatedAt": "2026-08-17T14:27:33.664Z",
   "deals": [
     {
       "id": "reddit-t31vqpmv6",
@@ -8481,33 +8481,6 @@
       "enrichedVia": "discogs",
       "bio": "Geese is an American rock band formed in 2016 in Brooklyn, New York. The group consists of Cameron Winter on vocals, keyboards, and guitar, Emily Green on guitar, Dominic DiGesu on bass, and Max Bassin on drums. For live performances, the band is accompanied by keyboardist Sam Revaz.",
       "bioUrl": "https://www.last.fm/music/Geese",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vdjago",
-      "source": "Amazon",
-      "createdAt": "2026-08-02T14:19:03.000Z",
-      "text": "[Amazon] Cocteau Twins - Treasure $20.99",
-      "artist": "Cocteau Twins",
-      "title": "Treasure",
-      "label": "4AD",
-      "genres": [
-        "Rock",
-        "Ethereal",
-        "New Wave",
-        "Post-Punk"
-      ],
-      "price": 20.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0791TR1XJ",
-      "knownArtist": false,
-      "year": "1984",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/88/93/da/8893da24-c559-a08a-b750-07185eb9960a/652637041200.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Cocteau Twins was a Scottish rock band active from 1979 to 1997. The group was formed in Grangemouth, Scotland, by Robin Guthrie (guitar, drum machine) and Will Heggie (bass), with Elizabeth Fraser (vocals) joining in 1981.",
-      "bioUrl": "https://www.last.fm/music/Cocteau+Twins",
       "bioSource": "Last.fm"
     }
   ]
