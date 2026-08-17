@@ -1,6 +1,49 @@
 {
-  "updatedAt": "2026-08-17T17:51:42.288Z",
+  "updatedAt": "2026-08-17T18:23:38.869Z",
   "deals": [
+    {
+      "id": "reddit-t31vqzzqp",
+      "source": "Amazon",
+      "createdAt": "2026-08-17T18:10:24.000Z",
+      "text": "[Amazon] Adrian Younge - Adrian Younge Presents Something About April III - $12.39",
+      "artist": "Adrian Younge",
+      "title": "Adrian Younge Presents Something About April III",
+      "label": "Linear Labs",
+      "genres": [
+        "Jazz",
+        "Latin",
+        "Funk / Soul",
+        "Psychedelic"
+      ],
+      "price": 12.39,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0DWH9K3BX",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/7d/b5/f07db553-63da-9d83-158a-2d72f29793f0/50714.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Multi-instrumentalist Adrian Younge makes his debut on Wax Poetics Records with his original score to the Michael Jai White comedy Black Dynamite.",
+      "bioUrl": "https://www.last.fm/music/Adrian+Younge",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vqzlan",
+      "source": "Amazon US",
+      "createdAt": "2026-08-17T17:56:32.000Z",
+      "text": "[Amazon US] South West Regional Coupons (Northern California/Central Valley?)",
+      "artist": null,
+      "title": "South West Regional Coupons (Northern California/Central Valley?)",
+      "label": null,
+      "genres": [],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/promotion/psp/AC2XL5D2OWSBL",
+      "knownArtist": false
+    },
     {
       "id": "reddit-t31vqyyo1",
       "source": "Amazon",
