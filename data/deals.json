@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-17T04:09:21.188Z",
+  "updatedAt": "2026-08-17T05:05:04.363Z",
   "deals": [
+    {
+      "id": "reddit-t31vqiot4",
+      "source": "Amazon",
+      "createdAt": "2026-08-17T04:53:00.000Z",
+      "text": "[Amazon] Thomas Rhett - 20 Number Ones (Silver Metallic) [2xLP] - $18.05",
+      "artist": "Thomas Rhett",
+      "title": "20 Number Ones (Silver Metallic) [2xLP]",
+      "label": "The Valory Music Co.",
+      "genres": [
+        "Folk, World, & Country"
+      ],
+      "price": 18.05,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0C71DFZLK",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ea/44/b6/ea44b620-89f4-e7d1-dd54-5dce7aef5820/23BMR0004230.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Thomas Rhett Akins, Jr. (born in Valdosta, Georgia) is an American country music singer known professionally as Thomas Rhett. He is the son of singer-songwriter Rhett Akins.[1] Here is some background information on Thomas Rhett from the Something To Do With My Hands Songfacts.",
+      "bioUrl": "https://www.last.fm/music/Thomas+Rhett",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vqf2qd",
       "source": "Amazon",
@@ -8467,32 +8491,6 @@
       "enrichedVia": "discogs",
       "bio": "Tyler Gregory Okonma (born on March 6, 1991 in Hawthorne, California, USA) also known as Tyler, The Creator, is a Grammy award-winning American rapper, singer, record producer, director, fashion designer, and the head of his independent record label, Odd Future Records.",
       "bioUrl": "https://www.last.fm/music/Tyler,+The+Creator",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vd8hc0",
-      "source": "Amazon",
-      "createdAt": "2026-08-02T04:41:11.000Z",
-      "text": "[Amazon] John Carpenter - Halloween Ends: Original Soundtrack $15.68",
-      "artist": "John Carpenter",
-      "title": "Halloween Ends: Original Soundtrack",
-      "label": "Sacred Bones Records",
-      "genres": [
-        "Stage & Screen",
-        "Soundtrack",
-        "Score"
-      ],
-      "price": 15.68,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FLF9RY2P",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/00/84/2c/00842c8c-15d2-345d-26ad-6ef455712cef/35499.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "John Howard Carpenter (born January 16, 1948) is an American filmmaker, composer, and actor, widely known for his work in the horror, action, and science fiction genres, particularly during the 1970s and 1980s. He is regarded as a significant figure in the horror genre.",
-      "bioUrl": "https://www.last.fm/music/John+Carpenter",
       "bioSource": "Last.fm"
     }
   ]
