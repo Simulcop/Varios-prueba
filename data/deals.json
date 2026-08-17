@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-16T23:40:49.284Z",
+  "updatedAt": "2026-08-17T00:40:49.755Z",
   "deals": [
+    {
+      "id": "reddit-t31vqcscl",
+      "source": "Amazon",
+      "createdAt": "2026-08-17T00:04:48.000Z",
+      "text": "[Amazon] Nas, DJ Premier - Light-Years (Amazon Exclusive) [2 LP] $21.65",
+      "artist": "Nas, DJ Premier",
+      "title": "Light-Years (Amazon Exclusive) [2 LP]",
+      "label": "Mass Appeal",
+      "genres": [
+        "Hip Hop"
+      ],
+      "price": 21.65,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G4XZFHT8",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/89/b1/a989b14b-0dc4-4f2d-0eb2-3d985410bffd/198391792038.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Born: March 21, 1966, Houston, Texas , best known for being one half of the rap duo , is also a DJ and record producer. has produced almost all of 's tracks as well as tracks for many other groups and solo artists since the 1990s. He has produced tracks for such artists as , , , , , , and .",
+      "bioUrl": "https://www.discogs.com/artist/21151-DJ-Premier",
+      "bioSource": "Discogs"
+    },
     {
       "id": "reddit-t31vqbzvq",
       "source": "Amazon",
