@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T19:06:03.672Z",
+  "updatedAt": "2026-08-17T19:48:18.786Z",
   "deals": [
     {
       "id": "reddit-t31vr0enu",
@@ -8271,31 +8271,6 @@
       "enrichedVia": "discogs",
       "bio": "There is more than one artist with this name: 1) Dust is an angst-fueled hard rock power trio from New York. They had some early punk spirit while standing firm in what was to become metal. Self titled 1st lp released 1971. 2nd album Hard Attack released 1972.",
       "bioUrl": "https://www.last.fm/music/Dust",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vdqmxq",
-      "source": "Amazon",
-      "createdAt": "2026-08-02T19:10:02.000Z",
-      "text": "[Amazon] Hayden - Elk-Lake Serenade - $21.22",
-      "artist": "Hayden",
-      "title": "Elk-Lake Serenade",
-      "label": "Badman Recording Co.",
-      "genres": [
-        "Rock",
-        "Folk Rock"
-      ],
-      "price": 21.22,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FF49529Q",
-      "knownArtist": false,
-      "year": "2004",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/40/ff/c3/40ffc32a-277e-b499-2677-5cf19a7ab686/00776974227728.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Hayden is Paul Hayden Desser (born February 12, 1971), a Canadian singer-songwriter from Thornhill, Ontario. His early works are a largely eclectic mix of genres from grunge to alternative country, as demonstrated by his first full album, Everything I Long For, released in 1995.",
-      "bioUrl": "https://www.last.fm/music/Hayden",
       "bioSource": "Last.fm"
     }
   ]
