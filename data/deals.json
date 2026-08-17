@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-17T14:27:33.664Z",
+  "updatedAt": "2026-08-17T14:53:24.565Z",
   "deals": [
+    {
+      "id": "reddit-t31vqu2w2",
+      "source": "Amazon",
+      "createdAt": "2026-08-17T14:34:36.000Z",
+      "text": "[Amazon] Andy Frasco & the U.N. - L'Optimist - $24.98",
+      "artist": "Andy Frasco & the U.N.",
+      "title": "L'Optimist",
+      "label": "Soundly Music",
+      "genres": [
+        "Rock"
+      ],
+      "price": 24.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0C43SB75H",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://i.discogs.com/cCxNI6zfuyeCEDhaUlIP9OTZqe-oHt6bhlPSci8HEZw/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDQ3/NjY2LTE3MDIwODA0/OTQtNTgwNS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Andy Frasco & The U.N. is an American blues-rock band formed in Los Angeles, California, in 2007. The band consists of Andrew Frasco (lead vocals, keys), Ernie Chang (saxophone), Shawn Eckels (guitar, vocals) and a consistently rotating and evolving cast of additional band members to form the U.N.",
+      "bioUrl": "https://www.last.fm/music/Andy+Frasco+&+the+U.N.",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vqpmv6",
       "source": "Amazon",
@@ -8428,60 +8452,6 @@
       "lowest": false,
       "amazonUrl": "https://www.amazon.com/dp/B0CNY5VK5S",
       "knownArtist": false
-    },
-    {
-      "id": "reddit-t31vdk22k",
-      "source": "Amazon",
-      "createdAt": "2026-08-02T14:51:06.000Z",
-      "text": "[Amazon] The Flaming Lips - Yoshimi Battles the Pink Robot - $20.69",
-      "artist": "The Flaming Lips",
-      "title": "Yoshimi Battles the Pink Robot",
-      "label": "Warner Bros. Records",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Psychedelic Rock",
-        "Indie Rock"
-      ],
-      "price": 20.69,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B006UREQIO",
-      "knownArtist": false,
-      "year": "2002",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/1f/f5/8f1ff578-4952-563a-7c4a-ab65e040ce95/093624913450.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Flaming Lips is an American neo-psychedelic band, formed in Oklahoma City, Oklahoma, United States in 1983.",
-      "bioUrl": "https://www.last.fm/music/The+Flaming+Lips",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vdjvsl",
-      "source": "Amazon",
-      "createdAt": "2026-08-02T14:43:52.000Z",
-      "text": "[Amazon] Geese - Getting Killed (Clear Vinyl) - $17.59",
-      "artist": "Geese",
-      "title": "Getting Killed (Clear Vinyl)",
-      "label": "Partisan Records",
-      "genres": [
-        "Rock",
-        "Folk Rock",
-        "Experimental",
-        "Indie Rock"
-      ],
-      "price": 17.59,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "http://www.amazon.com/dp/B0FGY42593",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/tr7Yy5Ip4y5T75YojKDCZddvjZagrZkFtALq8jhd9K0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjA5/NjI3LTE3NTg5ODQ0/NjQtNzAzOS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Geese is an American rock band formed in 2016 in Brooklyn, New York. The group consists of Cameron Winter on vocals, keyboards, and guitar, Emily Green on guitar, Dominic DiGesu on bass, and Max Bassin on drums. For live performances, the band is accompanied by keyboardist Sam Revaz.",
-      "bioUrl": "https://www.last.fm/music/Geese",
-      "bioSource": "Last.fm"
     }
   ]
 }
