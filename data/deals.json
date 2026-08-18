@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-18T07:12:33.724Z",
+  "updatedAt": "2026-08-18T08:00:21.602Z",
   "deals": [
+    {
+      "id": "reddit-t31vricvi",
+      "source": "Amazon",
+      "createdAt": "2026-08-18T07:34:36.000Z",
+      "text": "[Amazon] R.E.M. - Fables of the Reconstruction - $16.78",
+      "artist": "R.E.M.",
+      "title": "Fables of the Reconstruction",
+      "label": "I.R.S. Records",
+      "genres": [
+        "Rock",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "price": 16.78,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mtdpapnhss2w",
+      "knownArtist": false,
+      "year": "1985",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6f/f9/38/6ff93885-9b51-a27e-2736-11e0abde7a27/13UABIM31546.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "R.E.M. was an American rock band formed in Athens, Georgia, in 1980 by drummer Bill Berry, guitarist Peter Buck, bassist Mike Mills, and vocalist Michael Stipe. The group emerged from the local music scene while its members were associated with the University of Georgia.",
+      "bioUrl": "https://www.last.fm/music/R.E.M.",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vrapm7",
       "source": "Amazon",
@@ -8107,86 +8133,6 @@
       "enrichedVia": "discogs",
       "bio": "Douglas Watkins (1934 – 1962) was an American hard bop bassist from Detroit. An original member of the Jazz Messengers, he later played in Horace Silver's and freelanced with Gene Ammons, Kenny Burrell, Donald Byrd, Art Farmer, Jackie McLean, Hank Mobley, Lee Morgan, Sonny Rollins, and Phil Woods…",
       "bioUrl": "https://www.last.fm/music/Doug+Watkins",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ve6foz",
-      "source": "Target",
-      "createdAt": "2026-08-03T07:24:43.000Z",
-      "text": "[Target] Billie Eilish - When We All Fall Asleep, Where Do We Go? - Glow in the Dark Vinyl - $19.99",
-      "artist": "Billie Eilish",
-      "title": "When We All Fall Asleep, Where Do We Go? - Glow in the Dark Vinyl",
-      "label": "Darkroom",
-      "genres": [
-        "Electronic",
-        "Pop",
-        "Indie Pop",
-        "Alt-Pop"
-      ],
-      "price": 19.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3ms5xpri4ok2d",
-      "knownArtist": false,
-      "year": "2019",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Billie Eilish Pirate Baird O'Connell (born December 18, 2001), known professionally as Billie Eilish, is a Grammy and Academy Award-winning American singer and songwriter signed to Darkroom/Interscope Records.",
-      "bioUrl": "https://www.last.fm/music/Billie+Eilish",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ve6dcq",
-      "source": "Target",
-      "createdAt": "2026-08-03T07:20:48.000Z",
-      "text": "[Target] Lana Del Rey - Born To Die - Red Vinyl - $19.99",
-      "artist": "Lana Del Rey",
-      "title": "Born To Die - Red Vinyl",
-      "label": "Interscope Records",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Dream Pop",
-        "Indie Pop"
-      ],
-      "price": 19.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3ms5ximyzm22d",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/10/66/591066ea-3c85-3dfe-ef82-ffdbbcdfc8b9/12UMGIM00033.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Elizabeth Woolridge Grant, known professionally as Lana Del Rey, is an American singer-songwriter and producer. Her music is noted for its cinematic quality and exploration of tragic romance, glamour, and melancholia, with frequent references to contemporary pop culture and 1950s–1960s Americana.",
-      "bioUrl": "https://www.last.fm/music/Lana+Del+Rey",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ve6bpe",
-      "source": "Target",
-      "createdAt": "2026-08-03T07:18:18.000Z",
-      "text": "[Target] Taylor Swift - evermore - 2LP Red Vinyl - $19.99",
-      "artist": "Taylor Swift",
-      "title": "evermore - 2LP Red Vinyl",
-      "label": "Republic Records",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Folk, World, & Country"
-      ],
-      "price": 19.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3ms5xecc4ok2d",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/82/33/6e/82336ed3-3d1b-e920-b0a7-61775acd0f33/20UM1IM14847.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Taylor Alison Swift is an American singer-songwriter. Her discography spans multiple genres, and her narrative songwriting, which is often inspired by her personal life, has received widespread media coverage and critical praise.",
-      "bioUrl": "https://www.last.fm/music/Taylor+Swift",
       "bioSource": "Last.fm"
     }
   ]
