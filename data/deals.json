@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-18T23:13:12.594Z",
+  "updatedAt": "2026-08-18T23:42:58.237Z",
   "deals": [
+    {
+      "id": "reddit-t31vs5llr",
+      "source": "Walmart",
+      "createdAt": "2026-08-18T23:29:29.000Z",
+      "text": "[Walmart] Tune-Yards - Nikki Nack - $11.22",
+      "artist": "Tune-Yards",
+      "title": "Nikki Nack",
+      "label": "4AD",
+      "genres": [
+        "Rock",
+        "Alternative Rock",
+        "Experimental"
+      ],
+      "price": 11.22,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0KiVjHb8HUPP7CzB85ZmKPhHB5ecpeKKYGjdXbSRiDWioPF3RD9BLZ5ZF3e7s37uHl&amp;id=61590716382047",
+      "knownArtist": false,
+      "year": "2014",
+      "cover": "https://i.discogs.com/IaPPIIyV88mwLh5yF-pmUz9F1FkOe-I4UgutonKT4Vw/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTkx/NDItMTM5OTE4NzUw/NC0zMTc2LmpwZWc.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Tune-Yards (sometimes stylized as tUnE-yArDs) is the American, Oakland, California-based music project of musician Merrill Garbus, with long-time collaborator, bassist Nate Brenner.",
+      "bioUrl": "https://www.last.fm/music/Tune-Yards",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vs2e3m",
       "source": "Amazon",
