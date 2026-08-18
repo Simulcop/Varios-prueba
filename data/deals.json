@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-18T17:18:31.339Z",
+  "updatedAt": "2026-08-18T17:51:06.030Z",
   "deals": [
+    {
+      "id": "reddit-t31vrvpxj",
+      "source": "Amazon",
+      "createdAt": "2026-08-18T17:21:04.000Z",
+      "text": "(Amazon) Prick - Prick @ $15.58",
+      "artist": "Prick",
+      "title": "Prick",
+      "label": "Nothing Records",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Alternative Rock",
+        "Industrial"
+      ],
+      "price": 15.58,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B06XNN5WGC",
+      "knownArtist": false,
+      "year": "2017",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/95/07/ad/9507ad59-1b15-1caa-612f-19efb855522a/00602557470789.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "During the early 1990s, Kevin McMahon (Lucky Pierre) started the industrial rock band Prick. Prick was eventually signed to Trent Reznor and John Malm's Nothing Records label. The band's debut self-titled album was released in 1995, with Reznor producing four of the album's ten tracks.",
+      "bioUrl": "https://www.last.fm/music/Prick",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vrrhef",
       "source": "Amazon",
@@ -7796,33 +7823,6 @@
       "knownArtist": false,
       "bio": "Electric Light Orchestra (ELO) are an English rock band formed in Birmingham in 1970 by Jeff Lynne, Roy Wood and Bev Bevan. Their music combines rock and pop with orchestral and classical influences.",
       "bioUrl": "https://www.last.fm/music/Electric+Light+Orchestra",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vejwks",
-      "source": "Amazon",
-      "createdAt": "2026-08-03T17:24:29.000Z",
-      "text": "[Amazon] Bear McCreary - God Of War (Original Soundtrack) [2xLP] - $45.50",
-      "artist": "Bear McCreary",
-      "title": "God Of War (Original Soundtrack) [2xLP]",
-      "label": "Mondo",
-      "genres": [
-        "Stage & Screen",
-        "Soundtrack",
-        "Score",
-        "Video Game Music"
-      ],
-      "price": 45.5,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GN54DWYC",
-      "knownArtist": false,
-      "year": "2018",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/8d/aa/7e8daaab-32e9-b6da-2d14-12a26c6270fa/886446960623.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Bear McCreary (born 1979) is an American composer known for his work on film, television, and video game soundtracks. McCreary has received multiple awards and nominations during his career.",
-      "bioUrl": "https://www.last.fm/music/Bear+McCreary",
       "bioSource": "Last.fm"
     }
   ]
