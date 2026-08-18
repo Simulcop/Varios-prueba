@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T08:00:21.602Z",
+  "updatedAt": "2026-08-18T09:00:30.651Z",
   "deals": [
     {
       "id": "reddit-t31vricvi",
@@ -8083,56 +8083,6 @@
       "enrichedVia": "discogs",
       "bio": "Horace Silver (September 2, 1928 - June 18, 2014) was an American jazz pianist and composer. He is known for his distinctive humorous and funky playing style, and for his pioneering contributions to hard bop.",
       "bioUrl": "https://www.last.fm/music/Horace+Silver",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ve78h0",
-      "source": "Amazon",
-      "createdAt": "2026-08-03T08:11:21.000Z",
-      "text": "[Amazon] Robber Robber - Two Wheels Move The Soul - $23.10",
-      "artist": "Robber Robber",
-      "title": "Two Wheels Move The Soul",
-      "label": "Fire Talk",
-      "genres": [
-        "Rock",
-        "Indie Rock"
-      ],
-      "price": 23.1,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GDTG1FFW",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://i.discogs.com/yFNMk0Xu8XsTOeDqMiy_v8c0dNMvhy3HoMKr1N0TDus/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDg0/NDA0LTE3NzYzNjAz/MTEtNTg0OC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Robber Robber is an American indie rock and post-punk band originating from Burlington, Vermont. The group gained prominence in the independent scene for its sound characterized by the intense use of feedback, heavy guitars, and ethereal vocals. Nina Cates : Vocalist and guitarist.",
-      "bioUrl": "https://www.last.fm/music/Robber+Robber",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ve786q",
-      "source": "Amazon",
-      "createdAt": "2026-08-03T08:10:53.000Z",
-      "text": "[Amazon] Doug Watkins - Watkins At Large (Blue Note Tone Poet Series) - $24.00",
-      "artist": "Doug Watkins",
-      "title": "Watkins At Large (Blue Note Tone Poet Series)",
-      "label": "Transition",
-      "genres": [
-        "Jazz",
-        "Hard Bop"
-      ],
-      "price": 24,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0D1MFYJGF",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/26/7b/be/267bbe5e-6207-6363-3a12-73643f76a602/19UMGIM46883.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Douglas Watkins (1934 – 1962) was an American hard bop bassist from Detroit. An original member of the Jazz Messengers, he later played in Horace Silver's and freelanced with Gene Ammons, Kenny Burrell, Donald Byrd, Art Farmer, Jackie McLean, Hank Mobley, Lee Morgan, Sonny Rollins, and Phil Woods…",
-      "bioUrl": "https://www.last.fm/music/Doug+Watkins",
       "bioSource": "Last.fm"
     }
   ]
