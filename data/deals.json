@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T11:47:31.308Z",
+  "updatedAt": "2026-08-18T12:24:20.905Z",
   "deals": [
     {
       "id": "reddit-t31vricvi",
@@ -8038,26 +8038,6 @@
       "enrichedVia": "discogs",
       "bio": "R.E.M. was an American rock band formed in Athens, Georgia, in 1980 by drummer Bill Berry, guitarist Peter Buck, bassist Mike Mills, and vocalist Michael Stipe. The group emerged from the local music scene while its members were associated with the University of Georgia.",
       "bioUrl": "https://www.last.fm/music/R.E.M.",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31veb7cz",
-      "source": "Amazon",
-      "createdAt": "2026-08-03T11:50:22.000Z",
-      "text": "[Amazon] Iron & Wine - Hen's Teeth $20",
-      "artist": "Iron & Wine",
-      "title": "Hen's Teeth $20",
-      "label": null,
-      "genres": [],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GDVTSHQQ/",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/65/59/1c6559a0-28e0-f732-bfaa-ff2e8585bd7d/098787170764.png/400x400bb.jpg",
-      "bio": "Iron & Wine is the stage and recording name of folk rock singer and composer Sam Beam (born July 26, 1974). He currently resides in Dripping Springs, Texas, outside Austin.",
-      "bioUrl": "https://www.last.fm/music/Iron+&+Wine",
       "bioSource": "Last.fm"
     }
   ]
