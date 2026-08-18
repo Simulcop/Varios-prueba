@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-08-17T23:43:20.477Z",
+  "updatedAt": "2026-08-18T00:40:15.772Z",
   "deals": [
+    {
+      "id": "reddit-t31vra35j",
+      "source": "Amazon",
+      "createdAt": "2026-08-18T00:39:26.000Z",
+      "text": "[Amazon] Rise Against - Ricochet (Amazon Exclusive Canary Yellow Vinyl+ 7\" Single) $6.90 Lowest",
+      "artist": "Rise Against",
+      "title": "Ricochet (Amazon Exclusive Canary Yellow Vinyl+ 7\" Single) $6.90 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 6.9,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0F9HCZRW5",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/7c/81/767c8135-cfe1-6353-490c-b364970bbca5/24CRGIM46457.rgb.jpg/400x400bb.jpg",
+      "bio": "Rise Against is an American punk rock band from Chicago, formed in 1999. The group's current line-up comprises vocalist/rhythm guitarist Tim McIlrath, lead guitarist Zach Blair, bassist Joe Principe and drummer Brandon Barnes.",
+      "bioUrl": "https://www.last.fm/music/Rise+Against",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vra17q",
+      "source": "Amazon",
+      "createdAt": "2026-08-18T00:36:59.000Z",
+      "text": "[Amazon] Suzi Quatro/KT Tunstall - Face To Face $11.80 Lowest",
+      "artist": "Suzi Quatro/KT Tunstall",
+      "title": "Face To Face $11.80 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 11.8,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Face-LP-Suzi-Quatro-Tunstall/dp/B0BYHBFQQR",
+      "knownArtist": false
+    },
     {
       "id": "reddit-t31vr0enu",
       "source": "Amazon",
