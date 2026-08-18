@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-18T14:03:31.061Z",
+  "updatedAt": "2026-08-18T14:59:12.901Z",
   "deals": [
+    {
+      "id": "reddit-t31vrrhef",
+      "source": "Amazon",
+      "createdAt": "2026-08-18T14:54:42.000Z",
+      "text": "(Amazon) Queensrÿche - Empire [2xLP] @ $22.79",
+      "artist": "Queensrÿche",
+      "title": "Empire [2xLP]",
+      "label": "EMI USA",
+      "genres": [
+        "Rock",
+        "Hard Rock",
+        "Prog Rock"
+      ],
+      "price": 22.79,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B083XVXFPH",
+      "knownArtist": false,
+      "year": "1990",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/db/06/9edb0645-e56f-117f-e853-390444d805c7/05099990668654.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Queensrÿche is an American progressive metal band formed in 1980 in Bellevue, Washington. The group initially performed under the names Cross+Fire and The Mob before adopting the name Queensrÿche in 1982.",
+      "bioUrl": "https://www.last.fm/music/Queensr%C3%BFche",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vrpoiy",
       "source": "Amazon",
@@ -8013,31 +8039,6 @@
       "knownArtist": false,
       "bio": "Tori Amos (born Myra Ellen Amos; 22 August 1963) is an American singer-songwriter and pianist, recognised for her classically trained mezzo-soprano voice.",
       "bioUrl": "https://www.last.fm/music/Tori+Amos",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31veei5o",
-      "source": "Amazon",
-      "createdAt": "2026-08-03T14:09:11.000Z",
-      "text": "[Amazon] Judas Priest - British Steel - $18.97",
-      "artist": "Judas Priest",
-      "title": "British Steel",
-      "label": "CBS",
-      "genres": [
-        "Rock",
-        "Heavy Metal"
-      ],
-      "price": 18.97,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B01MZCQ0YX",
-      "knownArtist": false,
-      "year": "1980",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/3e/ce/c7/3ecec7e6-66a3-7ca8-d70f-5a4512aa21ba/dj.stjulnox.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Judas Priest are an English heavy metal band formed in Birmingham in 1969. They have sold over 50 million albums and are considered a significant influence within the heavy metal genre.",
-      "bioUrl": "https://www.last.fm/music/Judas+Priest",
       "bioSource": "Last.fm"
     }
   ]
