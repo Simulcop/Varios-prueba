@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T02:09:52.666Z",
+  "updatedAt": "2026-08-18T03:14:04.594Z",
   "deals": [
     {
       "id": "reddit-t31vrapm7",
@@ -8242,30 +8242,6 @@
       "bio": "North Carolina-born, Los Angeles-raised Jordan Patterson is an American singer-songwriter and producer creating catharsis from a folk and alternative landscape. Blunt, raw and decisive, Patterson is creating a world within her self-recorded and produced songs.",
       "bioUrl": "https://www.last.fm/music/Jordan+Patterson",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ve14rs",
-      "source": "Amazon",
-      "createdAt": "2026-08-03T02:42:14.000Z",
-      "text": "[Amazon] Kadavar – Kids Abandoning Destiny Among Vanity And Ruin $12.37",
-      "artist": null,
-      "title": "Kadavar – Kids Abandoning Destiny Among Vanity And Ruin",
-      "label": "Clouds Hill",
-      "genres": [
-        "Rock",
-        "Psychedelic Rock",
-        "Hard Rock",
-        "Stoner Rock"
-      ],
-      "price": 12.37,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FP2Z3K6X",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/7GgDdstIphoCu0nAiOcaG7fTkHPvnLW9sh2a6DuQyMQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTkz/MzIxLTE3NjI5NzUy/NzQtMTc1Ni5qcGVn.jpeg",
-      "enrichedVia": "discogs"
     }
   ]
 }
