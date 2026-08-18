@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T16:19:52.778Z",
+  "updatedAt": "2026-08-18T16:55:13.140Z",
   "deals": [
     {
       "id": "reddit-t31vrrhef",
@@ -7970,75 +7970,6 @@
       "enrichedVia": "discogs",
       "bio": "Steven Patrick Morrissey, better known as Morrissey, is a British singer and lyricist of Irish descent born in Davyhulme, Manchester, United Kingdom on May 22, 1959. He was the lead singer of The Smiths, one of the most influential alternative bands in the 1980s.",
       "bioUrl": "https://www.last.fm/music/Morrissey",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31veixc4",
-      "source": "Amazon",
-      "createdAt": "2026-08-03T16:49:56.000Z",
-      "text": "(Amazon) Slade - Live At The New Victoria [2xLP] (Clear/Blue Splatter) @ $21.80",
-      "artist": "Slade",
-      "title": "Live At The New Victoria [2xLP] (Clear/Blue Splatter)",
-      "label": "BMG",
-      "genres": [
-        "Rock",
-        "Glam",
-        "Hard Rock"
-      ],
-      "price": 21.8,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CRZGXXMN",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/2e/0a/3c2e0a3c-e378-50ee-098d-9bb57ae49b0f/4050538836127_Cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "There are three artists which use this name 1. A glam rock band from England 2. A rapper, Grady Slade. 3. Another rapper, Slade from Chapter 9. 1.",
-      "bioUrl": "https://www.last.fm/music/Slade",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31veivu2",
-      "source": "Amazon",
-      "createdAt": "2026-08-03T16:48:25.000Z",
-      "text": "(Amazon) Sly & The Family Stone - The First Family: Live at Winchester Cathedral 1967 @ $15.50",
-      "artist": "Sly & The Family Stone",
-      "title": "The First Family: Live at Winchester Cathedral 1967",
-      "label": "High Moon Records",
-      "genres": [
-        "Funk / Soul"
-      ],
-      "price": 15.5,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0F74J2FRN",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/65/1c/58651c9c-2337-c439-80ef-d890fa0cc6f6/199350419430.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Sly & the Family Stone were a band from Vallejo, California, United States. Active from 1966 until 1975, the band was pivotal in the development of soul, funk and psychedelia.",
-      "bioUrl": "https://www.last.fm/music/Sly+&+The+Family+Stone",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31veimml",
-      "source": "Amazon",
-      "createdAt": "2026-08-03T16:39:19.000Z",
-      "text": "(Amazon) Tori Amos - Strange Little Girls I Don't Like Mondays Version [2xLP] @ $15.18 LOWEST PLUS YMMV Coupon @ $12.14",
-      "artist": "Tori Amos",
-      "title": "Strange Little Girls I Don't Like Mondays Version [2xLP] @ $15.18 LOWEST PLUS YMMV Coupon",
-      "label": null,
-      "genres": [],
-      "price": 12.14,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G6G9ZGD6",
-      "knownArtist": false,
-      "bio": "Tori Amos (born Myra Ellen Amos; 22 August 1963) is an American singer-songwriter and pianist, recognised for her classically trained mezzo-soprano voice.",
-      "bioUrl": "https://www.last.fm/music/Tori+Amos",
       "bioSource": "Last.fm"
     }
   ]
