@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-18T13:21:23.062Z",
+  "updatedAt": "2026-08-18T14:03:31.061Z",
   "deals": [
+    {
+      "id": "reddit-t31vrpoiy",
+      "source": "Amazon",
+      "createdAt": "2026-08-18T13:47:21.000Z",
+      "text": "[Amazon] Rush - Power Windows - $17.99",
+      "artist": "Rush",
+      "title": "Power Windows",
+      "label": "Mercury",
+      "genres": [
+        "Rock",
+        "Pop Rock",
+        "Prog Rock"
+      ],
+      "price": 17.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mtee3qevoc22",
+      "knownArtist": false,
+      "year": "1985",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3a/e3/89/3ae38967-071f-42da-8881-b6af64532047/12UMGIM19533.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Rush is a Canadian rock band formed in Toronto in 1968. The original lineup consisted of guitarist Alex Lifeson, drummer John Rutsey, and bassist and vocalist Jeff Jones, who was soon replaced by Geddy Lee.",
+      "bioUrl": "https://www.last.fm/music/Rush",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vricvi",
       "source": "Amazon",
@@ -8012,32 +8038,6 @@
       "enrichedVia": "discogs",
       "bio": "Judas Priest are an English heavy metal band formed in Birmingham in 1969. They have sold over 50 million albums and are considered a significant influence within the heavy metal genre.",
       "bioUrl": "https://www.last.fm/music/Judas+Priest",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31veddfl",
-      "source": "Amazon",
-      "createdAt": "2026-08-03T13:25:10.000Z",
-      "text": "[Amazon] R.E.M. - Fables Of The Reconstruction - $16.78",
-      "artist": "R.E.M.",
-      "title": "Fables Of The Reconstruction",
-      "label": "I.R.S. Records",
-      "genres": [
-        "Rock",
-        "Indie Rock",
-        "Alternative Rock"
-      ],
-      "price": 16.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CZWTRGCG",
-      "knownArtist": false,
-      "year": "1985",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6f/f9/38/6ff93885-9b51-a27e-2736-11e0abde7a27/13UABIM31546.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "R.E.M. was an American rock band formed in Athens, Georgia, in 1980 by drummer Bill Berry, guitarist Peter Buck, bassist Mike Mills, and vocalist Michael Stipe. The group emerged from the local music scene while its members were associated with the University of Georgia.",
-      "bioUrl": "https://www.last.fm/music/R.E.M.",
       "bioSource": "Last.fm"
     }
   ]
