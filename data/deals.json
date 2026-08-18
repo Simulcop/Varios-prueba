@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-08-18T20:45:59.611Z",
+  "updatedAt": "2026-08-18T21:14:08.792Z",
   "deals": [
+    {
+      "id": "reddit-t31vs24lt",
+      "source": "Amazon",
+      "createdAt": "2026-08-18T21:09:58.000Z",
+      "text": "(Amazon) Herbie Hancock - Maiden Voyage [Blue Note Classic Edition] @ $21.77",
+      "artist": "Herbie Hancock",
+      "title": "Maiden Voyage [Blue Note Classic Edition]",
+      "label": "Blue Note",
+      "genres": [
+        "Jazz",
+        "Hard Bop",
+        "Modal"
+      ],
+      "price": 21.77,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B096TRR6FC",
+      "knownArtist": false,
+      "year": "2021",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/b6/04/64b6040c-a931-0a5c-6b7c-82e0dd5c3d4c/19UMGIM73745.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Herbert Jeffrey Hancock (born 12 April 1940) is an American jazz pianist, keyboard player, bandleader and composer.",
+      "bioUrl": "https://www.last.fm/music/Herbie+Hancock",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vs1tv6",
+      "source": "Amazon",
+      "createdAt": "2026-08-18T20:59:01.000Z",
+      "text": "(Amazon) Various Artists - Brazil Greatest Hits [2xLP] @ $24.24",
+      "artist": "Various Artists",
+      "title": "Brazil Greatest Hits [2xLP]",
+      "label": "Liberty",
+      "genres": [
+        "Jazz",
+        "Rock",
+        "Funk / Soul",
+        "Pop"
+      ],
+      "price": 24.24,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G6BLDKWY",
+      "knownArtist": false,
+      "year": "1982",
+      "cover": "https://i.discogs.com/mWr9r9sbbIcmhy2objiDkAivqVh6sAr1r9JKLSzlyM4/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODky/MTMtMTQ3NDA3NDk0/OC04MDAwLmpwZWc.jpeg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31vrwqw9",
       "source": "Amazon",
