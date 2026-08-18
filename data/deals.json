@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T04:04:17.736Z",
+  "updatedAt": "2026-08-18T04:59:45.539Z",
   "deals": [
     {
       "id": "reddit-t31vrapm7",
@@ -8214,33 +8214,6 @@
       "enrichedVia": "discogs",
       "bio": "\"Mal Devisa is a project started by Who'da Funk it's Deja Carr. With driving bass melodies, hypnotizing harmonies and a variety of genres, Carr conjures up a live show one would have to see in order to truly hear.\" Based in Northampton, MA. Buy her music here: https://maldevisa.bandcamp.com/",
       "bioUrl": "https://www.last.fm/music/Mal+Devisa",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ve3pao",
-      "source": "Amazon",
-      "createdAt": "2026-08-03T04:52:36.000Z",
-      "text": "[Amazon] Jordan Patterson - The Hermit - $17.07",
-      "artist": "Jordan Patterson",
-      "title": "The Hermit",
-      "label": "Not On Label (Jordan Patterson (3) Self-released)",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Folk, World, & Country",
-        "Alternative Rock"
-      ],
-      "price": 17.07,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G847H5TG",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/12/a9/7812a941-d969-7fd1-e31a-ece69f4024f3/8721416299476.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "North Carolina-born, Los Angeles-raised Jordan Patterson is an American singer-songwriter and producer creating catharsis from a folk and alternative landscape. Blunt, raw and decisive, Patterson is creating a world within her self-recorded and produced songs.",
-      "bioUrl": "https://www.last.fm/music/Jordan+Patterson",
       "bioSource": "Last.fm"
     }
   ]
