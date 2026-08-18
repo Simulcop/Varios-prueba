@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T04:59:45.539Z",
+  "updatedAt": "2026-08-18T05:31:50.913Z",
   "deals": [
     {
       "id": "reddit-t31vrapm7",
@@ -8187,33 +8187,6 @@
       "enrichedVia": "discogs",
       "bio": "Taylor Alison Swift is an American singer-songwriter. Her discography spans multiple genres, and her narrative songwriting, which is often inspired by her personal life, has received widespread media coverage and critical praise.",
       "bioUrl": "https://www.last.fm/music/Taylor+Swift",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31ve3wky",
-      "source": "Amazon",
-      "createdAt": "2026-08-03T05:03:03.000Z",
-      "text": "[Amazon] Mal Devisa - Palimpsesa (Yellow & Orange) [2xLP] - $26.55",
-      "artist": "Mal Devisa",
-      "title": "Palimpsesa (Yellow & Orange) [2xLP]",
-      "label": "Topshelf Records",
-      "genres": [
-        "Electronic",
-        "Hip Hop",
-        "Experimental",
-        "Alternative Rock"
-      ],
-      "price": 26.55,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G87RZL5D",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://i.discogs.com/w5vmamPahy2S3sdojqKm28faraTWSjRVgcNvhZCz5r4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTQw/ODc4LTE3Njc5NjYw/NjktNjM4NC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "\"Mal Devisa is a project started by Who'da Funk it's Deja Carr. With driving bass melodies, hypnotizing harmonies and a variety of genres, Carr conjures up a live show one would have to see in order to truly hear.\" Based in Northampton, MA. Buy her music here: https://maldevisa.bandcamp.com/",
-      "bioUrl": "https://www.last.fm/music/Mal+Devisa",
       "bioSource": "Last.fm"
     }
   ]
