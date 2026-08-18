@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T19:46:16.055Z",
+  "updatedAt": "2026-08-18T20:12:34.915Z",
   "deals": [
     {
       "id": "reddit-t31vrwqw9",
@@ -7814,41 +7814,6 @@
       "enrichedVia": "discogs",
       "bio": "Natasha Tameika \"Tasha\" Cobbs Leonard (born July 7, 1981) is an American gospel musician and songwriter. She released the extended play Grace in 2013 with EMI Gospel (now Motown Gospel). The EP reached No. 61 on the Billboard charts.",
       "bioUrl": "https://www.last.fm/music/Tasha+Cobbs+Leonard",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31veoa22",
-      "source": "Amazon US",
-      "createdAt": "2026-08-03T20:02:49.000Z",
-      "text": "[Amazon US] South West Regional Coupons (Northern California/Central Valley?)",
-      "artist": null,
-      "title": "South West Regional Coupons (Northern California/Central Valley?)",
-      "label": null,
-      "genres": [],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/promotion/psp/A1IIB1XLP5TVT8",
-      "knownArtist": false
-    },
-    {
-      "id": "reddit-t31veo0kv",
-      "source": "Walmart",
-      "createdAt": "2026-08-03T19:53:08.000Z",
-      "text": "[Walmart] ELO - El Dorado - 180g - $18.86",
-      "artist": "ELO",
-      "title": "El Dorado - 180g",
-      "label": null,
-      "genres": [],
-      "price": 18.86,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3ms7bjbhq6k2d",
-      "knownArtist": false,
-      "bio": "Electric Light Orchestra (ELO) are an English rock band formed in Birmingham in 1970 by Jeff Lynne, Roy Wood and Bev Bevan. Their music combines rock and pop with orchestral and classical influences.",
-      "bioUrl": "https://www.last.fm/music/Electric+Light+Orchestra",
       "bioSource": "Last.fm"
     }
   ]
