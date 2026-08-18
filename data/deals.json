@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-18T17:51:06.030Z",
+  "updatedAt": "2026-08-18T18:22:24.869Z",
   "deals": [
+    {
+      "id": "reddit-t31vrwqw9",
+      "source": "Amazon",
+      "createdAt": "2026-08-18T17:57:32.000Z",
+      "text": "(Amazon) [Regional Coupon] Dream Theater - The Astonishing [4xLP] @ $52.40",
+      "artist": "Dream Theater",
+      "title": "The Astonishing [4xLP]",
+      "label": "Roadrunner Records",
+      "genres": [
+        "Rock",
+        "Prog Rock",
+        "Progressive Metal"
+      ],
+      "price": 52.4,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GLQL1GCH",
+      "knownArtist": false,
+      "year": "2016",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/ae/85/de/ae85de41-2559-6e07-2d50-36b9e2c720f3/016861749347.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Dream Theater is an American progressive metal band formed in 1985 in Boston, Massachusetts. The group comprises John Petrucci (guitar), John Myung (bass), Mike Portnoy (drums), James LaBrie (vocals), and Jordan Rudess (keyboards).",
+      "bioUrl": "https://www.last.fm/music/Dream+Theater",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vrvpxj",
       "source": "Amazon",
