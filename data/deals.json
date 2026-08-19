@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T17:18:20.655Z",
+  "updatedAt": "2026-08-19T17:47:18.686Z",
   "deals": [
     {
       "id": "reddit-t31vssctl",
@@ -7565,58 +7565,6 @@
       "year": "2010",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/96/e2/9496e207-02c8-2d70-ebad-5d9aa63dd518/0676499088630_cover.jpg/400x400bb.jpg",
       "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31vfhcxh",
-      "source": "Human Sweat Records",
-      "createdAt": "2026-08-04T17:41:19.000Z",
-      "text": "[Human Sweat Records] Giovanni Rotondo - The Stable Trotters (orange “Sundelion” variant) $30",
-      "artist": "Giovanni Rotondo",
-      "title": "The Stable Trotters (orange “Sundelion” variant) $30",
-      "label": "Human Sweat Records",
-      "genres": [
-        "Stage & Screen",
-        "Video Game Music"
-      ],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://humansweatrecords.com",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/08/1c/ee081c85-5a48-2007-9d49-b88c246a5ec5/199999119395.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Giovanni Rotondo is a London-based composer. He has composed music for feature films, documentaries and TV series, including the Netflix show Dark Desire.",
-      "bioUrl": "https://en.wikipedia.org/wiki/Giovanni_Rotondo",
-      "bioSource": "Wikipedia"
-    },
-    {
-      "id": "reddit-t31vfgsp4",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T17:21:45.000Z",
-      "text": "(Amazon) Xasthur - Inevitably Dark - Red/Black Marble [2xLP] @ $27.09",
-      "artist": "Xasthur",
-      "title": "Inevitably Dark - Red/Black Marble [2xLP]",
-      "label": "Prophecy Productions",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Black Metal",
-        "Folk Rock"
-      ],
-      "price": 27.09,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0C1F82ZN4",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://i.discogs.com/MbW_F5psA1UYdj60XiF-EkYrs0_9oDobPr8vp6RlQ2Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDU1/NTI2LTE2ODc0MTcy/ODQtNTY5OC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "There are multiple artists with this name: 1) Xasthur is an American one-man band founded in Alhambra, California by Scott \"Malefic\" Conner. Xasthur started in 1995 and released eight studio albums of ambient black metal by 2010, when Malefic announced the end of the project.",
-      "bioUrl": "https://www.last.fm/music/Xasthur",
-      "bioSource": "Last.fm"
     }
   ]
 }
