@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T16:19:50.517Z",
+  "updatedAt": "2026-08-19T16:53:45.320Z",
   "deals": [
     {
       "id": "reddit-t31vsqrph",
@@ -7634,33 +7634,6 @@
       "enrichedVia": "discogs",
       "bio": "Regina Ilyinichna Spektor is a Russian–born American singer, songwriter and pianist.",
       "bioUrl": "https://www.last.fm/music/Regina+Spektor",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vff5n3",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T16:24:11.000Z",
-      "text": "[Amazon] John Coltrane - Africa/Brass Verve Acoustic Sounds - $24.99",
-      "artist": "John Coltrane",
-      "title": "Africa/Brass Verve Acoustic Sounds",
-      "label": "Impulse!",
-      "genres": [
-        "Jazz",
-        "Free Jazz",
-        "Hard Bop",
-        "Modal"
-      ],
-      "price": 24.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://a.co/d/05CKy5tK",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://i.discogs.com/65AuYNgpcrrrNvmh4tgZWtNRm46zUww32dQwbf_qKyc/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTYy/NTAwLTE3NzcwNDMy/OTctMTEyMi5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "John William Coltrane (Hamlet, North Carolina, September 23, 1926 – Huntington, New York, July 17, 1967) was an American jazz saxophonist and composer. American jazz great John Coltrane emerged in the 1950s, playing tenor and soprano sax with Dizzy Gillespie, Miles Davis and Thelonious Monk.",
-      "bioUrl": "https://www.last.fm/music/John+Coltrane",
       "bioSource": "Last.fm"
     }
   ]
