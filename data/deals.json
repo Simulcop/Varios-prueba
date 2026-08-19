@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-19T14:03:43.783Z",
+  "updatedAt": "2026-08-19T14:59:23.032Z",
   "deals": [
+    {
+      "id": "reddit-t31vsoa43",
+      "source": "Amazon",
+      "createdAt": "2026-08-19T14:37:43.000Z",
+      "text": "[Amazon] G-Eazy - The Beautiful & Damned - $16.99",
+      "artist": "G-Eazy",
+      "title": "The Beautiful & Damned",
+      "label": "RCA",
+      "genres": [
+        "Hip Hop",
+        "Funk / Soul",
+        "Pop Rap"
+      ],
+      "price": 16.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mtgxdoz7f224",
+      "knownArtist": false,
+      "year": "2018",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c9/31/af/c931af71-5406-8302-b412-aba9f48a3b3f/886446765860.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Gerald Earl Gillum (born May 24, 1989 in Oakland, CA) better known by his stage name G-Eazy, is an American rapper and record producer. His first major-label album, These Things Happen, was released on June 23, 2014. The album peaked at number 3 on the US Billboard 200.",
+      "bioUrl": "https://www.last.fm/music/G-Eazy",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vsi1i0",
       "source": "Amazon",
@@ -7670,50 +7696,6 @@
       "enrichedVia": "discogs",
       "bio": "Side project of Justin Vernon (Bon Iver) & Aaron Dessner (The National). From their website: In 2008, Aaron sent Justin an instrumental sketch of a song called \"Big Red Machine\" for Dark Was The Night. This was before they had met in person.",
       "bioUrl": "https://www.last.fm/music/Big+Red+Machine",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfckfs",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T14:51:20.000Z",
-      "text": "[Amazon] Genesis - Nursery Cryme $23.15",
-      "artist": "Genesis",
-      "title": "Nursery Cryme",
-      "label": "Charisma",
-      "genres": [
-        "Rock",
-        "Prog Rock"
-      ],
-      "price": 23.15,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00PCI1HOS",
-      "knownArtist": false,
-      "year": "1971",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/de/e9/6d/mzi.xtxlzxtt.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "There are at least three bands using the name Genesis: 1. Genesis were an English rock band formed at Charterhouse School in Godalming, Surrey, in 1967.",
-      "bioUrl": "https://www.last.fm/music/Genesis",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfc01p",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T14:30:20.000Z",
-      "text": "[Amazon] Led Zeppelin - III Rhino Remaster $20.21",
-      "artist": "Led Zeppelin",
-      "title": "III Rhino Remaster",
-      "label": null,
-      "genres": [],
-      "price": 20.21,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://a.co/d/0ciGnMZB",
-      "knownArtist": false,
-      "bio": "Led Zeppelin were an English rock band formed in London in 1968. The group consisted of Robert Plant on vocals, Jimmy Page on guitar, John Paul Jones on bass and keyboards, and John Bonham on drums.",
-      "bioUrl": "https://www.last.fm/music/Led+Zeppelin",
       "bioSource": "Last.fm"
     }
   ]
