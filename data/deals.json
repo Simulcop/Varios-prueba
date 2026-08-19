@@ -1,6 +1,77 @@
 {
-  "updatedAt": "2026-08-19T07:13:13.347Z",
+  "updatedAt": "2026-08-19T07:59:54.932Z",
   "deals": [
+    {
+      "id": "reddit-t31vsffyz",
+      "source": "Amazon",
+      "createdAt": "2026-08-19T07:28:35.000Z",
+      "text": "[Amazon] Lit - Tastes Like Gold - $19.98",
+      "artist": "Lit",
+      "title": "Tastes Like Gold",
+      "label": "Round Hill Records",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "price": 19.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mtg7fgdy7c22",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://i.discogs.com/Iylfn50qrGwjuP9fHTUXXzXbeQF7Y1fAEm6daJ30gKs/rs:fit/g:sm/q:90/h:367/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzY5/ODMwLTE3ODQwNTc0/NjctNzQwNy5wbmc.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Lit is an American rock band formed in 1988 in Orange County, California. They have released seven studio albums, but are best known for their 1999 album A Place in the Sun, which featured the hit single \"My Own Worst Enemy\".",
+      "bioUrl": "https://www.last.fm/music/Lit",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vsfe3n",
+      "source": "Amazon",
+      "createdAt": "2026-08-19T07:25:31.000Z",
+      "text": "[Amazon] Matchbox Twenty - You Or Someone Like You - Transparent Red - $21.23",
+      "artist": "Matchbox Twenty",
+      "title": "You Or Someone Like You - Transparent Red",
+      "label": "Atlantic",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "price": 21.23,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mtg77ljnks22",
+      "knownArtist": false,
+      "year": "2017",
+      "cover": "https://i.discogs.com/xj9rKpVlhPz7XUDC7HEhWQ7Nd3D94rowXpoUSxiHCh4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYz/OTQ5LTE1MTExMTg4/NTgtMzgxNC5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Matchbox Twenty, originally Matchbox 20 and typeset as matchbox twenty on most official merchandise, is a rock band formed in Orlando, Florida, who have sold in excess of 39 million albums worldwide. The band have been well received in many countries.",
+      "bioUrl": "https://www.last.fm/music/Matchbox+Twenty",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vsfbvx",
+      "source": "Amazon",
+      "createdAt": "2026-08-19T07:22:05.000Z",
+      "text": "[Amazon] Nipsey Hussle & Bino Rideaux - Prolific- Amazon Exclusive Clear Vinyl - $25.48",
+      "artist": "Nipsey Hussle & Bino Rideaux",
+      "title": "Prolific- Amazon Exclusive Clear Vinyl",
+      "label": "All Money In No Money Out",
+      "genres": [
+        "Hip Hop"
+      ],
+      "price": 25.48,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mtg725ttxc22",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/6c/24/ee6c242e-d05b-0b4c-4555-31457752381e/075679583338.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31vsa5su",
       "source": "Amazon",
