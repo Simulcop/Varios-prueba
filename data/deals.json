@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-08-19T16:53:45.320Z",
+  "updatedAt": "2026-08-19T17:18:20.655Z",
   "deals": [
+    {
+      "id": "reddit-t31vssctl",
+      "source": "Amazon",
+      "createdAt": "2026-08-19T17:02:59.000Z",
+      "text": "[Amazon] MGMT ‎– Time To Pretend EP (Banana Yellow Vinyl) $23.90 Lowest",
+      "artist": null,
+      "title": "MGMT ‎– Time To Pretend EP (Banana Yellow Vinyl) $23.90 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 23.9,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FNXB9S23",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/05/68/41/0568414d-c25e-2ffe-2577-960fcc09308f/20UMGIM09330.rgb.jpg/400x400bb.jpg"
+    },
+    {
+      "id": "reddit-t31vss7fa",
+      "source": "Amazon",
+      "createdAt": "2026-08-19T16:57:53.000Z",
+      "text": "[Amazon] Amyl And The Sniffers ‎– Giddy Up & Big Attraction: 10 Year Anniversary Reissue $21.90 Lowest",
+      "artist": null,
+      "title": "Amyl And The Sniffers ‎– Giddy Up & Big Attraction: 10 Year Anniversary Reissue $21.90 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 21.9,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GPR96HLW",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/31/56/1e/31561eaa-6b6d-a648-2567-cb456aba5488/21UM1IM17073.rgb.jpg/400x400bb.jpg"
+    },
     {
       "id": "reddit-t31vsqrph",
       "source": "Amazon",
@@ -7582,58 +7616,6 @@
       "enrichedVia": "discogs",
       "bio": "There are multiple artists with this name: 1) Xasthur is an American one-man band founded in Alhambra, California by Scott \"Malefic\" Conner. Xasthur started in 1995 and released eight studio albums of ambient black metal by 2010, when Malefic announced the end of the project.",
       "bioUrl": "https://www.last.fm/music/Xasthur",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfgkd4",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T17:13:44.000Z",
-      "text": "(Amazon) Nina Simone - Wild Is The Wind (Verve Acoustic Sounds Series) @ $27.42",
-      "artist": "Nina Simone",
-      "title": "Wild Is The Wind (Verve Acoustic Sounds Series)",
-      "label": "Philips",
-      "genres": [
-        "Jazz",
-        "Soul-Jazz"
-      ],
-      "price": 27.42,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BXPS6QWK",
-      "knownArtist": false,
-      "year": "2016",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/c3/be/7ec3be58-1c90-bca9-0703-5efc4fa636a8/13UAAIM08288.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Eunice Kathleen Waymon (21 February 1933 – 21 April 2003), better known by her stage name Nina Simone, was an American singer, pianist, arranger, and civil rights activist widely associated with jazz music.",
-      "bioUrl": "https://www.last.fm/music/Nina+Simone",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfg56w",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T16:59:15.000Z",
-      "text": "(Amazon) Regina Spektor - 11:11 @ $14.87",
-      "artist": "Regina Spektor",
-      "title": "11:11",
-      "label": "Sire",
-      "genres": [
-        "Jazz",
-        "Rock",
-        "Avant-garde Jazz",
-        "Art Rock"
-      ],
-      "price": 14.87,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09XBX6Y1C",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c1/43/b2/c143b26f-c75e-981a-64dd-94ac333c5106/093624880097.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Regina Ilyinichna Spektor is a Russian–born American singer, songwriter and pianist.",
-      "bioUrl": "https://www.last.fm/music/Regina+Spektor",
       "bioSource": "Last.fm"
     }
   ]
