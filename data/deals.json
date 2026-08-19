@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-08-19T20:16:11.159Z",
+  "updatedAt": "2026-08-19T20:50:53.903Z",
   "deals": [
+    {
+      "id": "reddit-t31vsyfhj",
+      "source": "Amazon",
+      "createdAt": "2026-08-19T20:39:08.000Z",
+      "text": "[Amazon] Sermon ‎– Of Golden Verse $17.99",
+      "artist": null,
+      "title": "Sermon ‎– Of Golden Verse",
+      "label": "Prosthetic Records",
+      "genres": [
+        "Rock",
+        "Progressive Metal",
+        "Heavy Metal"
+      ],
+      "price": 17.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0BSS539RS",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6a/b4/d1/6ab4d15e-5eb6-a458-8f9b-8a6e03738876/656191948524.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
+    {
+      "id": "reddit-t31vsyd2z",
+      "source": "Amazon",
+      "createdAt": "2026-08-19T20:36:39.000Z",
+      "text": "[Amazon] Tom Tom Club – The Good The Bad And The Funky $19.49",
+      "artist": null,
+      "title": "Tom Tom Club – The Good The Bad And The Funky",
+      "label": "ZYX Music",
+      "genres": [
+        "Electronic",
+        "House",
+        "Euro House"
+      ],
+      "price": 19.49,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B08YQCMFTQ",
+      "knownArtist": false,
+      "year": "1999",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7e/47/d3/7e47d3d6-4d0c-14c4-4f8e-4e2665b797d8/196006777609.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31vssctl",
       "source": "Amazon",
@@ -7396,33 +7442,6 @@
       "enrichedVia": "discogs",
       "bio": "Throughout a professional career lasting 50 years, Miles Davis played the trumpet in a lyrical, introspective, and melodic style, often employing a stemless Harmon mute to make his sound more personal and intimate.",
       "bioUrl": "https://www.last.fm/music/Miles+Davis+&+Quincy+Jones",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfmjnl",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T20:48:08.000Z",
-      "text": "(Amazon) Gorillaz - Plastic Beach [2xLP] @ $20.98",
-      "artist": "Gorillaz",
-      "title": "Plastic Beach [2xLP]",
-      "label": "Parlophone",
-      "genres": [
-        "Electronic",
-        "Hip Hop",
-        "Funk / Soul",
-        "Pop"
-      ],
-      "price": 20.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B003QSHIPS",
-      "knownArtist": false,
-      "year": "2010",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/f9/b9/b8f9b9f8-a609-bde2-0302-349436ffc508/825646291038.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Gorillaz are an English virtual band created in 1998 by musician Damon Albarn and artist Jamie Hewlett. The project is centered on four fictional members: 2-D, Murdoc Niccals, Noodle and Russel Hobbs.",
-      "bioUrl": "https://www.last.fm/music/Gorillaz",
       "bioSource": "Last.fm"
     }
   ]
