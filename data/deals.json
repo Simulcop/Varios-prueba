@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T12:24:33.047Z",
+  "updatedAt": "2026-08-19T13:23:00.959Z",
   "deals": [
     {
       "id": "reddit-t31vsi1i0",
@@ -7741,33 +7741,6 @@
       "enrichedVia": "discogs",
       "bio": "Duran Duran (named after a character in Roger Vadim's sci-fi classic, Barbarella) is an electronic pop rock band that was part of the New Wave movement of the 80s and 90s. Duran Duran have sold over 100 million records, making them one of the world's best-selling music artists.",
       "bioUrl": "https://www.last.fm/music/Duran+Duran",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vf9dlx",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T12:47:21.000Z",
-      "text": "[Amazon] Motorhead - The Manticore Tapes (Gold) $21.74",
-      "artist": "Motorhead",
-      "title": "The Manticore Tapes (Gold)",
-      "label": "BMG",
-      "genres": [
-        "Rock",
-        "Hard Rock",
-        "Rock & Roll",
-        "Punk"
-      ],
-      "price": 21.74,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FPXJR7WH",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/77/a5/c577a503-554e-a7c6-eac3-1c7c8b0dc688/4099964143652.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Motörhead were an English rock band formed in London in 1975 by bassist and lead vocalist Lemmy Kilmister, guitarist Larry Wallis, and drummer Lucas Fox. Kilmister was the primary songwriter and the only constant member.",
-      "bioUrl": "https://www.last.fm/music/Mot%C3%B6rhead",
       "bioSource": "Last.fm"
     }
   ]
