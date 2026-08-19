@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T13:23:00.959Z",
+  "updatedAt": "2026-08-19T14:03:43.783Z",
   "deals": [
     {
       "id": "reddit-t31vsi1i0",
@@ -7714,33 +7714,6 @@
       "knownArtist": false,
       "bio": "Led Zeppelin were an English rock band formed in London in 1968. The group consisted of Robert Plant on vocals, Jimmy Page on guitar, John Paul Jones on bass and keyboards, and John Bonham on drums.",
       "bioUrl": "https://www.last.fm/music/Led+Zeppelin",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfax78",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T13:50:01.000Z",
-      "text": "[Amazon] Duran Duran - Thank You [2 LP] $27.09",
-      "artist": "Duran Duran",
-      "title": "Thank You [2 LP]",
-      "label": "Capitol Records",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Pop",
-        "Pop Rock"
-      ],
-      "price": 27.09,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0DQL9S8FG",
-      "knownArtist": false,
-      "year": "1993",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6a/32/b6/6a32b6b8-51c6-0d08-4b34-d27c71373a0b/724382941958.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Duran Duran (named after a character in Roger Vadim's sci-fi classic, Barbarella) is an electronic pop rock band that was part of the New Wave movement of the 80s and 90s. Duran Duran have sold over 100 million records, making them one of the world's best-selling music artists.",
-      "bioUrl": "https://www.last.fm/music/Duran+Duran",
       "bioSource": "Last.fm"
     }
   ]
