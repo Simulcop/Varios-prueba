@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T18:59:56.760Z",
+  "updatedAt": "2026-08-19T19:28:31.167Z",
   "deals": [
     {
       "id": "reddit-t31vssctl",
@@ -7449,58 +7449,6 @@
       "enrichedVia": "discogs",
       "bio": "David Robert Jones (8 January 1947 – 10 January 2016), known professionally as David Bowie, was an English singer-songwriter and actor. A leading figure in the music industry, he is regarded as one of the most influential musicians of the 20th century.",
       "bioUrl": "https://www.last.fm/music/David+Bowie",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfkc4l",
-      "source": "Walmart",
-      "createdAt": "2026-08-04T19:27:37.000Z",
-      "text": "[Walmart] The Psychedelic Furs - Talk Talk Talk - $22.66",
-      "artist": "The Psychedelic Furs",
-      "title": "Talk Talk Talk",
-      "label": "Columbia",
-      "genres": [
-        "Rock",
-        "New Wave"
-      ],
-      "price": 22.66,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3msbqkilnmc2j",
-      "knownArtist": false,
-      "year": "1981",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/46/fc/fb/46fcfb3d-e80b-bbd6-dbf2-a325e3af89fb/mzi.rjiowevk.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Psychedelic Furs is an English post punk / new wave band that was founded in London in the late 70s.",
-      "bioUrl": "https://www.last.fm/music/The+Psychedelic+Furs",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfk1ac",
-      "source": "Walmart",
-      "createdAt": "2026-08-04T19:16:38.000Z",
-      "text": "[Walmart] Flight of the Conchords - Flight of the Conchords - $14.50",
-      "artist": "Flight of the Conchords",
-      "title": "Flight of the Conchords",
-      "label": "Sub Pop",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Folk, World, & Country",
-        "Stage & Screen"
-      ],
-      "price": 14.5,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3msbpwj7a7k2j",
-      "knownArtist": false,
-      "year": "2008",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/75/cd/c675cd23-8305-6862-cde4-4df58e47045a/mzi.laezwjop.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Flight of the Conchords is a Grammy award-winning folk/pop/comedy duo composed of Bret McKenzie formerly of The Black Seeds, Video Kid, and The Wellington International Ukulele Orchestra fame and Jemaine Clement formerly of The Humourbeasts, who met in 1998 while studying film and theatre in…",
-      "bioUrl": "https://www.last.fm/music/Flight+of+the+Conchords",
       "bioSource": "Last.fm"
     }
   ]
