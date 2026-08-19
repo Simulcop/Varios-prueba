@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T04:04:55.846Z",
+  "updatedAt": "2026-08-19T04:59:25.506Z",
   "deals": [
     {
       "id": "reddit-t31vsa5su",
@@ -7795,85 +7795,6 @@
       "enrichedVia": "discogs",
       "bio": "Daniel Balderrama Espinoza (born March 12, 2004), better known by his stage name DannyLux, is an American singer-songwriter.",
       "bioUrl": "https://www.last.fm/music/Dannylux",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vf0bex",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T04:39:32.000Z",
-      "text": "[Amazon] Hmltd - The Worm - $16.13",
-      "artist": "Hmltd",
-      "title": "The Worm",
-      "label": "Lucky Number",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Indie Rock"
-      ],
-      "price": 16.13,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BTKCPLWL",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://i.discogs.com/zPXWASta09NBtgjhabUWlt_q956rDWWa1OCa2JoEhDA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/OTI1LTE2ODA5MzA5/NDktMjc5MC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "HMLTD is an English art punk band from London, formed in 2015. The band currently consists of lead vocalist Henry Spychalski, guitarists James Donovan and Duc Peterman, bassist Nico Mohnblatt, drummer Achilleas Sarantaris and keyboardist Seth Evans. HMLTD formed in London as Happy Meal Ltd.",
-      "bioUrl": "https://www.last.fm/music/HMLTD",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vf03sq",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T04:28:14.000Z",
-      "text": "[Amazon] Anti-Flag - Lies They Tell Our Children - $17.47",
-      "artist": "Anti-Flag",
-      "title": "Lies They Tell Our Children",
-      "label": "Spinefarm Records",
-      "genres": [
-        "Rock",
-        "Pop Punk",
-        "Punk"
-      ],
-      "price": 17.47,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0B7W3H7JP",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://i.discogs.com/T1l9oChII1Q_kkFs-qLObVNqig41b12gxyqDbwzm398/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjI3/MzUxLTE2NzI1MjUw/MTEtMTIxMi5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Anti-Flag was an American punk rock band from Pittsburgh, Pennsylvania, United States. The band is well known for its politically charged lyrics and activism, focusing on human rights and various left-wing causes.",
-      "bioUrl": "https://www.last.fm/music/Anti-Flag",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vf01fc",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T04:24:51.000Z",
-      "text": "[Amazon] Tom Waits - The Black Rider - $22.16",
-      "artist": "Tom Waits",
-      "title": "The Black Rider",
-      "label": "Island Records",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Pop",
-        "Folk, World, & Country"
-      ],
-      "price": 22.16,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CBCCWRCR",
-      "knownArtist": false,
-      "year": "1993",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/9a/0e/279a0e52-b9ed-786d-b87d-60b24b4792a1/23UMGIM74403.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Thomas Alan Waits (born December 7, 1949) is an American singer, songwriter, composer, and actor. Known for his deep, gravelly voice, his lyrics often explore the lives of marginalized and overlooked individuals.",
-      "bioUrl": "https://www.last.fm/music/Tom+Waits",
       "bioSource": "Last.fm"
     }
   ]
