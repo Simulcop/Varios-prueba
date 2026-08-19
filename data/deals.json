@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-19T09:55:39.745Z",
+  "updatedAt": "2026-08-19T10:20:00.487Z",
   "deals": [
+    {
+      "id": "reddit-t31vsi1i0",
+      "source": "Amazon",
+      "createdAt": "2026-08-19T10:00:14.000Z",
+      "text": "[Amazon] Bush - Loaded: The Greatest Hits 1994-2023 - 2LP Cloudy Clear - $28.04",
+      "artist": "Bush",
+      "title": "Loaded: The Greatest Hits 1994-2023 - 2LP Cloudy Clear",
+      "label": "Round Hill Records",
+      "genres": [
+        "Rock",
+        "Alternative Rock"
+      ],
+      "price": 28.04,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mtghu3rqvc2p",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://i.discogs.com/GcIzJhmpWV5F_CvUAxBnpxEwI0AVYG8emDROOOQ2ChE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODg4/OTA2LTE3NjM4MzQ5/MzUtMTQ5My5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Bush are an English rock band formed in London in 1992. As of 2025, the lineup consists of lead vocalist and rhythm guitarist Gavin Rossdale, lead guitarist Chris Traynor, bassist Corey Britz, and drummer Nik Hughes.",
+      "bioUrl": "https://www.last.fm/music/Bush",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vsffyz",
       "source": "Amazon",
