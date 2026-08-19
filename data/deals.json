@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-19T22:47:47.624Z",
+  "updatedAt": "2026-08-19T23:14:18.661Z",
   "deals": [
+    {
+      "id": "reddit-t31vt2erj",
+      "source": "Amazon",
+      "createdAt": "2026-08-19T23:14:03.000Z",
+      "text": "[Amazon] Johnny Blue Skies & the Dark Clouds (Sturgill Simpson) ‎– Mutiny After Midnight $15.77 w/regional coupon",
+      "artist": null,
+      "title": "Johnny Blue Skies & the Dark Clouds (Sturgill Simpson) ‎– Mutiny After Midnight $15.77 w/regional coupon",
+      "label": null,
+      "genres": [],
+      "price": 15.77,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GNBKWSMV",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/6a/3b/1f6a3b08-dcdb-2492-c73d-6062bcba64c1/198391947636.jpg/400x400bb.jpg"
+    },
     {
       "id": "reddit-t31vsyfhj",
       "source": "Amazon",
@@ -7367,56 +7384,6 @@
       "year": "2025",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/f9/cd/d9/mzi.xjizdoir.jpg/400x400bb.jpg",
       "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31vfpv5q",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T22:58:50.000Z",
-      "text": "(Amazon) Gentle Giant - Power & the Glory (Mixed By Steven Wilson) @ $17.25",
-      "artist": "Gentle Giant",
-      "title": "Power & the Glory (Mixed By Steven Wilson)",
-      "label": "WWA Records",
-      "genres": [
-        "Rock",
-        "Prog Rock",
-        "Art Rock"
-      ],
-      "price": 17.25,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00KGFGLT8",
-      "knownArtist": false,
-      "year": "1974",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/9b/4e/93/9b4e9325-fa62-b868-3f81-7562e5384b2d/cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Gentle Giant were a British progressive rock band active between 1970 and 1980. They were known for the complexity and sophistication of their music and for the varied musical abilities of their members, all of whom were multi-instrumentalists.",
-      "bioUrl": "https://www.last.fm/music/Gentle+Giant",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfptrd",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T22:57:11.000Z",
-      "text": "(Amazon) 10,000 Maniacs - Twice Told Tales @ $10.98",
-      "artist": "10,000 Maniacs",
-      "title": "Twice Told Tales",
-      "label": "Cleopatra Records",
-      "genres": [
-        "Folk, World, & Country"
-      ],
-      "price": 10.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CT97BCW8",
-      "knownArtist": false,
-      "year": "2015",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/fd/9d/ab/fd9dab5f-59df-4133-8312-267db6dda10e/889176601620.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "10,000 Maniacs are an alternative rock band, formed in 1981 in Jamestown, New York, that has been active with various line-ups since that time. Their best known member is Natalie Merchant, who left the band in 1993 to pursue a solo career.",
-      "bioUrl": "https://www.last.fm/music/10,000+Maniacs",
-      "bioSource": "Last.fm"
     }
   ]
 }
