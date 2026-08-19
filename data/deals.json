@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T08:40:22.329Z",
+  "updatedAt": "2026-08-19T09:23:26.615Z",
   "deals": [
     {
       "id": "reddit-t31vsffyz",
@@ -7743,32 +7743,6 @@
       "enrichedVia": "discogs",
       "bio": "Motörhead were an English rock band formed in London in 1975 by bassist and lead vocalist Lemmy Kilmister, guitarist Larry Wallis, and drummer Lucas Fox. Kilmister was the primary songwriter and the only constant member.",
       "bioUrl": "https://www.last.fm/music/Mot%C3%B6rhead",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vf4qxm",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T08:48:47.000Z",
-      "text": "[Amazon] Vampire Weekend - Vampire Weekend - $20.99",
-      "artist": "Vampire Weekend",
-      "title": "Vampire Weekend",
-      "label": "XL Recordings",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Indie Rock"
-      ],
-      "price": 20.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0010X758Q",
-      "knownArtist": false,
-      "year": "2008",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8d/51/fd/8d51fdc8-1924-92f4-4603-4b50f93acda5/886448304548.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Vampire Weekend is an American indie rock band formed in February 2006 in New York, New York, United States. The band consists of Ezra Koenig (vocals, guitar), Chris Baio (bass) and Christopher Tomson (drums).",
-      "bioUrl": "https://www.last.fm/music/Vampire+Weekend",
       "bioSource": "Last.fm"
     }
   ]
