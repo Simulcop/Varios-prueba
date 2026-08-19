@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T17:47:18.686Z",
+  "updatedAt": "2026-08-19T18:19:22.410Z",
   "deals": [
     {
       "id": "reddit-t31vssctl",
@@ -7502,69 +7502,6 @@
       "bio": "Flight of the Conchords is a Grammy award-winning folk/pop/comedy duo composed of Bret McKenzie formerly of The Black Seeds, Video Kid, and The Wellington International Ukulele Orchestra fame and Jemaine Clement formerly of The Humourbeasts, who met in 1998 while studying film and theatre in…",
       "bioUrl": "https://www.last.fm/music/Flight+of+the+Conchords",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfhvl5",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T17:59:46.000Z",
-      "text": "[Amazon] Blitzen Trapper ‎– Holy Smokes Future Jokes $12.24",
-      "artist": null,
-      "title": "Blitzen Trapper ‎– Holy Smokes Future Jokes",
-      "label": "Yep Roc Records",
-      "genres": [
-        "Rock",
-        "Folk, World, & Country"
-      ],
-      "price": 12.24,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Holy-Smokes-Future-Jokes-STANDARD/dp/B0884H7ND4/",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5a/da/51/5ada511d-f7c4-a09d-6194-37650ed0be81/634457272521.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31vfhrpm",
-      "source": "Bandcamp",
-      "createdAt": "2026-08-04T17:55:59.000Z",
-      "text": "[Bandcamp] Eya/Lonewolf",
-      "artist": null,
-      "title": "Eya/Lonewolf",
-      "label": null,
-      "genres": [],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://eyarecords.bandcamp.com/",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/a3/34/0da3346f-41bb-159d-f088-d7de42a49a2e/cover.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31vfhjvc",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T17:48:06.000Z",
-      "text": "[Amazon] James Taylor – Shadows And Dreams $14.90",
-      "artist": null,
-      "title": "James Taylor – Shadows And Dreams",
-      "label": "Otherside",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Psychedelic Rock",
-        "Pop Rock"
-      ],
-      "price": 14.9,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G9BH8D87",
-      "knownArtist": false,
-      "year": "2010",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/96/e2/9496e207-02c8-2d70-ebad-5d9aa63dd518/0676499088630_cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
     }
   ]
 }
