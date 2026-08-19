@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T06:26:24.953Z",
+  "updatedAt": "2026-08-19T07:13:13.347Z",
   "deals": [
     {
       "id": "reddit-t31vsa5su",
@@ -7698,103 +7698,6 @@
       "enrichedVia": "discogs",
       "bio": "Vampire Weekend is an American indie rock band formed in February 2006 in New York, New York, United States. The band consists of Ezra Koenig (vocals, guitar), Chris Baio (bass) and Christopher Tomson (drums).",
       "bioUrl": "https://www.last.fm/music/Vampire+Weekend",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vf2v3a",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T06:59:04.000Z",
-      "text": "[Amazon] Fatboi Sharif & Child Actor - Crayola Circles - $23.60",
-      "artist": "Fatboi Sharif & Child Actor",
-      "title": "Crayola Circles",
-      "label": "Backwoodz Studioz",
-      "genres": [
-        "Hip Hop"
-      ],
-      "price": 23.6,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GPXS9RVS",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/72/c0/3a72c077-51a6-c78b-2268-0e73872fedc2/5063904502938_cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31vf2jay",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T06:40:54.000Z",
-      "text": "[Amazon] Preston Cooper - Toledo Talkin' (Graphite) - $16.10",
-      "artist": "Preston Cooper",
-      "title": "Toledo Talkin' (Graphite)",
-      "label": "The Valory Music Co.",
-      "genres": [
-        "Folk, World, & Country",
-        "Country"
-      ],
-      "price": 16.1,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0F2G43CT7",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/5f/cc/4d5fccab-22fb-fe01-50c7-ddce53cbdd9a/25BMR0006396.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "With a vocal so expressive it builds into jaw-dropping eruptions of power and emotion, 22-year-old artist Preston Cooper represents the start of a new generation in Country Rock.",
-      "bioUrl": "https://www.last.fm/music/Preston+Cooper",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vf2ite",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T06:40:09.000Z",
-      "text": "[Amazon] Willie Nelson - A Beautiful Time - $18.60",
-      "artist": "Willie Nelson",
-      "title": "A Beautiful Time",
-      "label": "Legacy",
-      "genres": [
-        "Folk, World, & Country"
-      ],
-      "price": 18.6,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09QFDVBQ8",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/a9/08/7ca90863-b7d2-e28a-cce6-fd77a047e4b8/886449788644.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Willie Hugh Nelson (born April 29, 1933) is an American musician, actor, and activist.",
-      "bioUrl": "https://www.last.fm/music/Willie+Nelson",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vf2hy7",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T06:38:46.000Z",
-      "text": "[Amazon] Dannylux - DLUX [2xLP] - $28.22",
-      "artist": "Dannylux",
-      "title": "DLUX [2xLP]",
-      "label": "VPS Music",
-      "genres": [
-        "Rock",
-        "Latin",
-        "Pop",
-        "Indie Rock"
-      ],
-      "price": 28.22,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CKLWCZG4",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/29/20/d2/2920d27e-47d9-622c-1140-80b02904f618/5054197770777.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Daniel Balderrama Espinoza (born March 12, 2004), better known by his stage name DannyLux, is an American singer-songwriter.",
-      "bioUrl": "https://www.last.fm/music/Dannylux",
       "bioSource": "Last.fm"
     }
   ]
