@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T14:59:23.032Z",
+  "updatedAt": "2026-08-19T15:32:48.701Z",
   "deals": [
     {
       "id": "reddit-t31vsoa43",
@@ -7669,33 +7669,6 @@
       "enrichedVia": "discogs",
       "bio": "Pierce the Veil was founded by Mike Fuentes and Vic Fuentes in 2006, after the disbandment of Before Today. The brothers continued to write songs together and eventually came up with enough material for a new full-length album.",
       "bioUrl": "https://www.last.fm/music/Pierce+the+Veil",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfd72f",
-      "source": "iMusic",
-      "createdAt": "2026-08-04T15:13:45.000Z",
-      "text": "[iMusic] Big Red Machine - Big Red Machine (Justin Vernon x Aaron Dessner / Bon Iver, The National) - €9.99",
-      "artist": "Big Red Machine",
-      "title": "Big Red Machine (Justin Vernon x Aaron Dessner / Bon Iver, The National) - €9.99",
-      "label": "Sony Music",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Reggae",
-        "Funk / Soul"
-      ],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://imusic.de/music/0656605233512/big-red-machine-2018-big-red-machine-lp",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://i.discogs.com/6idDo09pswtKy2vJawfinETWJTak548mb-plrRBGjRw/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDIx/MTAwLTE2MzgwMDI2/NDUtNzQzNy5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Side project of Justin Vernon (Bon Iver) & Aaron Dessner (The National). From their website: In 2008, Aaron sent Justin an instrumental sketch of a song called \"Big Red Machine\" for Dark Was The Night. This was before they had met in person.",
-      "bioUrl": "https://www.last.fm/music/Big+Red+Machine",
       "bioSource": "Last.fm"
     }
   ]
