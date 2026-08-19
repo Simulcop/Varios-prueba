@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-08-19T02:12:17.872Z",
+  "updatedAt": "2026-08-19T03:22:56.745Z",
   "deals": [
+    {
+      "id": "reddit-t31vsa5su",
+      "source": "Amazon",
+      "createdAt": "2026-08-19T02:52:13.000Z",
+      "text": "[Amazon] Courteeners - Pink Cactus Café $15.00 Lowest",
+      "artist": "Courteeners",
+      "title": "Pink Cactus Café $15.00 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 15,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0D91X42N8",
+      "knownArtist": false,
+      "bio": "The Courteeners is a British alternative rock formed in Manchester, in 2006 by Liam Fray (guitar/vocals), Michael Campbell (drums/backing vocals), Daniel Conan Moores (Guitar), and Mark Cuppello (bass). Mark left the band in 2015 due to 'mutual consent' and joined LIverpool band Lungs.",
+      "bioUrl": "https://www.last.fm/music/The+Courteeners",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vs977c",
       "source": "eBay",
@@ -7855,56 +7874,6 @@
       "enrichedVia": "discogs",
       "bio": "Thomas Alan Waits (born December 7, 1949) is an American singer, songwriter, composer, and actor. Known for his deep, gravelly voice, his lyrics often explore the lives of marginalized and overlooked individuals.",
       "bioUrl": "https://www.last.fm/music/Tom+Waits",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vexi7t",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T02:22:00.000Z",
-      "text": "[Amazon] Stay Inside – Lunger (Yellow + Glitter Vinyl) $16.60",
-      "artist": null,
-      "title": "Stay Inside – Lunger (Yellow + Glitter Vinyl)",
-      "label": "Tiny Engines",
-      "genres": [
-        "Rock",
-        "Emo",
-        "Indie Rock",
-        "Post-Hardcore"
-      ],
-      "price": 16.6,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Lunger-YELLOW-GLITTER-VINYL-Inside/dp/B0FKB7FMY3/",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/OK0BOvEpJ7LND4Hfydnn2OQmhHNWlO-vWrZjGG-2lHQ/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzcw/OTk5LTE3NzYxNzE0/NDEtNjYzMi5qcGVn.jpeg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31vexbot",
-      "source": "Amazon",
-      "createdAt": "2026-08-04T02:13:55.000Z",
-      "text": "[Amazon] Bar Italia - Some Like It Hot $15.60",
-      "artist": "Bar Italia",
-      "title": "Some Like It Hot",
-      "label": "Matador",
-      "genres": [
-        "Rock",
-        "Indie Rock",
-        "Alternative Rock"
-      ],
-      "price": 15.6,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FLTWGT7X",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/00/be/c900be7f-8ea5-f6bf-2df2-8a72f57068c9/191401217774.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Bar Italia are an English indie rock band formed in London in 2019. The band consists of members Nina Cristante (aka NINA), Sam Fenton, and Jezmi Tarik Fehmi (the latter two perform as Double Virgo). Their name is derived from the Soho café Bar Italia.",
-      "bioUrl": "https://www.last.fm/music/Bar+Italia",
       "bioSource": "Last.fm"
     }
   ]
