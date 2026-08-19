@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T19:28:31.167Z",
+  "updatedAt": "2026-08-19T19:49:29.955Z",
   "deals": [
     {
       "id": "reddit-t31vssctl",
@@ -7423,32 +7423,6 @@
       "enrichedVia": "discogs",
       "bio": "Gorillaz are an English virtual band created in 1998 by musician Damon Albarn and artist Jamie Hewlett. The project is centered on four fictional members: 2-D, Murdoc Niccals, Noodle and Russel Hobbs.",
       "bioUrl": "https://www.last.fm/music/Gorillaz",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfklan",
-      "source": "Walmart",
-      "createdAt": "2026-08-04T19:37:12.000Z",
-      "text": "[Walmart] David Bowie - Pinups (2015 Remaster) - $23.51",
-      "artist": "David Bowie",
-      "title": "Pinups (2015 Remaster)",
-      "label": "RCA International",
-      "genres": [
-        "Rock",
-        "Glam",
-        "Classic Rock"
-      ],
-      "price": 23.51,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3msbr4crzfk2j",
-      "knownArtist": false,
-      "year": "1983",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/be/00/aa/be00aaf6-9cf4-da5d-0046-f79b4251e135/825646285990.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "David Robert Jones (8 January 1947 – 10 January 2016), known professionally as David Bowie, was an English singer-songwriter and actor. A leading figure in the music industry, he is regarded as one of the most influential musicians of the 20th century.",
-      "bioUrl": "https://www.last.fm/music/David+Bowie",
       "bioSource": "Last.fm"
     }
   ]
