@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-20T21:18:37.537Z",
+  "updatedAt": "2026-08-20T21:50:42.416Z",
   "deals": [
+    {
+      "id": "reddit-t31vtwhie",
+      "source": "Target",
+      "createdAt": "2026-08-20T21:22:13.000Z",
+      "text": "[Target] Blonde Redhead - Sit Down For Dinner - $21.83",
+      "artist": "Blonde Redhead",
+      "title": "Sit Down For Dinner",
+      "label": "section 1",
+      "genres": [
+        "Rock",
+        "Indie Rock"
+      ],
+      "price": 21.83,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mtk6gsumgs2t",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://i.discogs.com/6j0pwzYMu593smbWg7vZWFifqmaDFBPBU59KEy7qVmI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIz/NTIyLTE2OTU5MDY3/MjItMjE2Ni5wbmc.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Blonde Redhead is an alternative rock band originating from New York City in the early 1990s. It was formed by Kazu Makino, Maki Takahashi and Milan-born Italian twin brothers Simone Pace and Amedeo Pace. They take their name from a song by DNA, a 70's and 80's no wave band from New York.",
+      "bioUrl": "https://www.last.fm/music/Blonde+Redhead",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vtvt3a",
       "source": "eBay",
@@ -7765,57 +7790,6 @@
       "enrichedVia": "discogs",
       "bio": "Dua Lipa (born 22 August 1995) is an English singer, songwriter and actress. She is one of the most successful pop artists of her generation, known for blending pop, disco, dance-pop and electronic influences.",
       "bioUrl": "https://www.last.fm/music/Dua+Lipa",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vgl6n3",
-      "source": "Amazon",
-      "createdAt": "2026-08-05T21:50:38.000Z",
-      "text": "(Amazon) Willie Nelson - Country Music [2xLP] @ $18.97",
-      "artist": "Willie Nelson",
-      "title": "Country Music [2xLP]",
-      "label": "United Artists Records",
-      "genres": [
-        "Folk, World, & Country",
-        "Country"
-      ],
-      "price": 18.97,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GD25BR2R",
-      "knownArtist": false,
-      "year": "1975",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/8a/44/f38a442e-2846-f9f1-402b-3f4608ac2966/25CRGIM52369.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Willie Hugh Nelson (born April 29, 1933) is an American musician, actor, and activist.",
-      "bioUrl": "https://www.last.fm/music/Willie+Nelson",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vgkrm8",
-      "source": "Amazon",
-      "createdAt": "2026-08-05T21:34:21.000Z",
-      "text": "(Amazon) Stevie Nicks - Stand Back: 1981-2017 [6xLP Box Set] @ $96.99",
-      "artist": "Stevie Nicks",
-      "title": "Stand Back: 1981-2017 [6xLP Box Set]",
-      "label": "Rhino Records",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Pop Rock"
-      ],
-      "price": 96.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B07NR8Q1C2",
-      "knownArtist": false,
-      "year": "2019",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/cf/9e/b4cf9e73-0530-8fb4-b925-a80e9633b73c/603497852444.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Stephanie Lynn \"Stevie\" Nicks (born May 26, 1948)[1] is an American singer, songwriter, and producer known for her work with the band Fleetwood Mac and as a solo artist.",
-      "bioUrl": "https://www.last.fm/music/Stevie+Nicks",
       "bioSource": "Last.fm"
     }
   ]
