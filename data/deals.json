@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T06:27:55.515Z",
+  "updatedAt": "2026-08-20T07:22:44.431Z",
   "deals": [
     {
       "id": "reddit-t31vtbcpe",
@@ -7240,48 +7240,6 @@
       "bio": "Rush is a Canadian rock band formed in Toronto in 1968. The original lineup consisted of guitarist Alex Lifeson, drummer John Rutsey, and bassist and vocalist Jeff Jones, who was soon replaced by Geddy Lee.",
       "bioUrl": "https://www.last.fm/music/Rush",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfzhtc",
-      "source": "Amazon",
-      "createdAt": "2026-08-05T06:37:58.000Z",
-      "text": "[Amazon] Warren Zeiders - Live from the 717 [2xLP] - $30.75",
-      "artist": "Warren Zeiders",
-      "title": "Live from the 717 [2xLP]",
-      "label": "Warner Records",
-      "genres": [
-        "Folk, World, & Country",
-        "Country"
-      ],
-      "price": 30.75,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GKQ3L637",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/dd/ce/e3/ddcee3c6-b532-a752-2d99-f0e9f700cef7/054391915405.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Warner Records artist Warren Zeiders is one of country music’s newest and most-promising stars. The Pennsylvania native has already made an undeniable mark on the genre, with more than 3.6 billion global career streams, 2 billion TikTok views and 7.9 million monthly listeners on Spotify.",
-      "bioUrl": "https://www.last.fm/music/Warren+Zeiders",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfzh38",
-      "source": "Amazon",
-      "createdAt": "2026-08-05T06:36:49.000Z",
-      "text": "[Amazon] Various Artists - Bridgerton Season Four (Covers From The Netflix Series) [2xLP] - $32.49",
-      "artist": "Various Artists",
-      "title": "Bridgerton Season Four (Covers From The Netflix Series) [2xLP]",
-      "label": null,
-      "genres": [],
-      "price": 32.49,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GK1D4YSW",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/c4/6c/c7c46c67-6e77-c65c-2847-0adfb7e3136c/25UM1IM84871.rgb.jpg/400x400bb.jpg"
     }
   ]
 }
