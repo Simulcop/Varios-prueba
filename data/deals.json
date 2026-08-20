@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T11:18:04.994Z",
+  "updatedAt": "2026-08-20T11:49:43.528Z",
   "deals": [
     {
       "id": "reddit-t31vtfjm2",
@@ -7318,32 +7318,6 @@
       "lowest": false,
       "amazonUrl": "https://purenoise.merchnow.com/collections/featured/products/pop-punk-vinyl-bundle",
       "knownArtist": false
-    },
-    {
-      "id": "reddit-t31vg4w71",
-      "source": "Amazon",
-      "createdAt": "2026-08-05T11:37:49.000Z",
-      "text": "[Amazon] Rush - A Show of Hands - $22.79",
-      "artist": "Rush",
-      "title": "A Show of Hands",
-      "label": "Vertigo",
-      "genres": [
-        "Rock",
-        "Art Rock",
-        "Prog Rock"
-      ],
-      "price": 22.79,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00QR7ZMXU",
-      "knownArtist": false,
-      "year": "1989",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0e/44/8a/0e448a34-d4df-7ebd-a1c4-4219782def57/00602527893532.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Rush is a Canadian rock band formed in Toronto in 1968. The original lineup consisted of guitarist Alex Lifeson, drummer John Rutsey, and bassist and vocalist Jeff Jones, who was soon replaced by Geddy Lee.",
-      "bioUrl": "https://www.last.fm/music/Rush",
-      "bioSource": "Last.fm"
     }
   ]
 }
