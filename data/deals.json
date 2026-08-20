@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-20T17:57:17.844Z",
+  "updatedAt": "2026-08-20T18:31:46.404Z",
   "deals": [
+    {
+      "id": "reddit-t31vtrmj0",
+      "source": "Amazon",
+      "createdAt": "2026-08-20T18:27:18.000Z",
+      "text": "[Amazon] Herbie Hancock - Maiden Voyage (Blue Note Classic Edition) $18.78",
+      "artist": "Herbie Hancock",
+      "title": "Maiden Voyage (Blue Note Classic Edition)",
+      "label": "Blue Note",
+      "genres": [
+        "Jazz",
+        "Hard Bop",
+        "Modal"
+      ],
+      "price": 18.78,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Maiden-Voyage-Blue-Classic-Vinyl/dp/B096TRR6FC/",
+      "knownArtist": false,
+      "year": "2021",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/b6/04/64b6040c-a931-0a5c-6b7c-82e0dd5c3d4c/19UMGIM73745.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Herbert Jeffrey Hancock (born 12 April 1940) is an American jazz pianist, keyboard player, bandleader and composer.",
+      "bioUrl": "https://www.last.fm/music/Herbie+Hancock",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vtraje",
+      "source": "Keeled Scales",
+      "createdAt": "2026-08-20T18:15:24.000Z",
+      "text": "[Keeled Scales] Tons of vinyl marked down to $10! Aug 20-24",
+      "artist": null,
+      "title": "Tons of vinyl marked down to $10! Aug 20-24",
+      "label": null,
+      "genres": [],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://keeledscales.com/collections/all-products",
+      "knownArtist": false
+    },
     {
       "id": "reddit-t31vtqopg",
       "source": "Amazon",
