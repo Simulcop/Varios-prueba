@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T23:16:49.862Z",
+  "updatedAt": "2026-08-20T23:47:04.955Z",
   "deals": [
     {
       "id": "reddit-t31vtwhie",
@@ -7686,31 +7686,6 @@
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/5d/a5/5d5da5bc-dc67-d3e4-c783-4046ddd78176/199538361230.jpg/400x400bb.jpg",
       "bio": "New Found Glory (often abbreviated to NFG) are an American pop-punk band based in South Florida (Coral Springs). The band consists of Jordan Pundik (vocals), Chad Gilbert (guitar), Ian Grushka (bass) and Cyrus Bolooki (drums).",
       "bioUrl": "https://www.last.fm/music/New+Found+Glory",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vgnmzk",
-      "source": "Amazon",
-      "createdAt": "2026-08-05T23:30:39.000Z",
-      "text": "[Amazon] Miles Davis - Kind of Blue (Analogue Productions, Blue 2xLP) - $75.46",
-      "artist": "Miles Davis",
-      "title": "Kind of Blue (Analogue Productions, Blue 2xLP)",
-      "label": "Columbia",
-      "genres": [
-        "Jazz",
-        "Modal"
-      ],
-      "price": 75.46,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Kind-Blue-Miles-Davis/dp/B0FXMZ1M8N/",
-      "knownArtist": false,
-      "year": "2010",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/7f/9f/d6/mzi.vtnaewef.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Miles Dewey Davis III (May 26, 1926 – September 28, 1991) was an American trumpeter, bandleader and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music.",
-      "bioUrl": "https://www.last.fm/music/Miles+Davis",
       "bioSource": "Last.fm"
     }
   ]
