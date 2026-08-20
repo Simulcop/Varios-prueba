@@ -1,6 +1,49 @@
 {
-  "updatedAt": "2026-08-20T20:17:55.132Z",
+  "updatedAt": "2026-08-20T20:53:14.096Z",
   "deals": [
+    {
+      "id": "reddit-t31vtv08j",
+      "source": "Amazon",
+      "createdAt": "2026-08-20T20:26:19.000Z",
+      "text": "[Amazon] Tim Buckley – Tim Buckley: Remastered (Clear Coke Vinyl) $22.35",
+      "artist": null,
+      "title": "Tim Buckley – Tim Buckley: Remastered (Clear Coke Vinyl)",
+      "label": "WEA",
+      "genres": [
+        "Rock",
+        "Folk, World, & Country",
+        "Folk Rock",
+        "Experimental"
+      ],
+      "price": 22.35,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Buckley-REMASTERED-COKE-CLEAR-VINYL/dp/B0GJZQVRWT/r",
+      "knownArtist": false,
+      "year": "1978",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/ab/8f/14/mzi.lvzavqov.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
+    {
+      "id": "reddit-t31vtuwnr",
+      "source": "Amazon",
+      "createdAt": "2026-08-20T20:22:38.000Z",
+      "text": "[Amazon] Don Broco - Nightmare Tripping (Amazon Exclusive Evergreen Vinyl) $20.65 Lowest",
+      "artist": "Don Broco",
+      "title": "Nightmare Tripping (Amazon Exclusive Evergreen Vinyl) $20.65 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 20.65,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Nightmare-Tripping-Amazon-Exclusive-Evergreen/dp/B0GLFKSZYJ/",
+      "knownArtist": false,
+      "bio": "Don Broco is a British post-hardcore band formed in Bedford, England, in 2008. The band consists of Rob Damiani (lead vocals), Simon Delaney (guitar), Tom Doyle (bass and programming) and Matt Donnelly (drums, lead and backing vocals).",
+      "bioUrl": "https://www.last.fm/music/Don+Broco",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vtud6s",
       "source": "Amazon",
