@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-20T05:01:03.818Z",
+  "updatedAt": "2026-08-20T05:53:31.453Z",
   "deals": [
+    {
+      "id": "reddit-t31vta4b0",
+      "source": "Amazon",
+      "createdAt": "2026-08-20T05:09:34.000Z",
+      "text": "[Amazon] Paramore - Paramore [2 LP] $27.31",
+      "artist": "Paramore",
+      "title": "Paramore [2 LP]",
+      "label": "Fueled By Ramen",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Pop Rock"
+      ],
+      "price": 27.31,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CKZHJ5FJ",
+      "knownArtist": false,
+      "year": "2013",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/32/cb/9d/32cb9d04-ef0f-93bb-fd2f-19b395785025/075679956187.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Paramore is an American rock band formed in Franklin, Tennessee, in 2004. Since 2017, the band's lineup has included lead vocalist Hayley Williams, lead guitarist Taylor York, and drummer Zac Farro.",
+      "bioUrl": "https://www.last.fm/music/Paramore",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vt8mgn",
       "source": "Amazon",
