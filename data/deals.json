@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-20T20:53:14.096Z",
+  "updatedAt": "2026-08-20T21:18:37.537Z",
   "deals": [
+    {
+      "id": "reddit-t31vtvt3a",
+      "source": "eBay",
+      "createdAt": "2026-08-20T20:56:06.000Z",
+      "text": "[eBay] Foals - Life Is Yours $16.24 (Free Shipping)",
+      "artist": "Foals",
+      "title": "Life Is Yours $16.24 (Free Shipping)",
+      "label": null,
+      "genres": [],
+      "price": 16.24,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://ebay.us/EyRFwK",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f3/bc/df/f3bcdf5e-4a18-d699-b47e-3cfe9fb2684d/190296242441.jpg/400x400bb.jpg",
+      "bio": "Foals are a rock band which formed in Oxford, England in 2005. The band consists of Yannis Philippakis (vocals, guitar), Jimmy Smith (guitar), Walter Gervers (bass) and Jack Bevan (drums).",
+      "bioUrl": "https://www.last.fm/music/Foals",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vtv08j",
       "source": "Amazon",
