@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T21:50:42.416Z",
+  "updatedAt": "2026-08-20T22:16:39.690Z",
   "deals": [
     {
       "id": "reddit-t31vtwhie",
@@ -7711,85 +7711,6 @@
       "enrichedVia": "discogs",
       "bio": "Miles Dewey Davis III (May 26, 1926 – September 28, 1991) was an American trumpeter, bandleader and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music.",
       "bioUrl": "https://www.last.fm/music/Miles+Davis",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vglp8q",
-      "source": "Amazon",
-      "createdAt": "2026-08-05T22:11:03.000Z",
-      "text": "(Amazon) [Coupon] The Jimi Hendrix Experience - Bold As Love [5xLP + Blu-Ray Box Set] @ $71.60",
-      "artist": "The Jimi Hendrix Experience",
-      "title": "Bold As Love [5xLP + Blu-Ray Box Set]",
-      "label": "Experience Hendrix",
-      "genres": [
-        "Rock",
-        "Psychedelic Rock",
-        "Blues Rock"
-      ],
-      "price": 71.6,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FPLWXB38",
-      "knownArtist": false,
-      "year": "2010",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/22/b3/8c22b3f8-d67a-cbf6-d040-be6f34cfa611/196873498256.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Jimi Hendrix Experience was a short-lived, yet highly influential rock band famous for the guitar work of Jimi Hendrix (1942– 1970) on songs such as Purple Haze, Foxy Lady, Hey Joe, Voodoo Child (Slight Return) and All Along the Watchtower.",
-      "bioUrl": "https://www.last.fm/music/The+Jimi+Hendrix+Experience",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vglilz",
-      "source": "Amazon",
-      "createdAt": "2026-08-05T22:03:33.000Z",
-      "text": "(Amazon) [Regional Coupon] Patrice Rushen - Prelusion (Jazz Dispensary Top Shelf Series) @ $22.95",
-      "artist": "Patrice Rushen",
-      "title": "Prelusion (Jazz Dispensary Top Shelf Series)",
-      "label": "Prestige",
-      "genres": [
-        "Jazz",
-        "Funk / Soul",
-        "Jazz-Funk",
-        "Fusion"
-      ],
-      "price": 22.95,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0D7NSBFLS",
-      "knownArtist": false,
-      "year": "1974",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4d/5a/4e/4d5a4ef3-fe42-b55a-1969-76073b1d4e76/22CRGIM31502.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Patrice Louise Rushen (born 30 September 1954) is an American jazz pianist, R&B singer, record producer, multi-instrumentalist, songwriter and music director.",
-      "bioUrl": "https://www.last.fm/music/Patrice+Rushen",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vglgvp",
-      "source": "Amazon",
-      "createdAt": "2026-08-05T22:01:43.000Z",
-      "text": "(Amazon) [Regional Coupon] Dua Lipa - Future Nostalgia [3xLP 5th Anniversary Edition] @ $33.63",
-      "artist": "Dua Lipa",
-      "title": "Future Nostalgia [3xLP 5th Anniversary Edition]",
-      "label": "Warner Records",
-      "genres": [
-        "Electronic",
-        "Pop",
-        "Dance-pop"
-      ],
-      "price": 33.63,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0DWT8ZNC5",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/c5/a8/e9c5a8a0-d698-137b-2e85-cf3a8d9548f8/190295303372.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Dua Lipa (born 22 August 1995) is an English singer, songwriter and actress. She is one of the most successful pop artists of her generation, known for blending pop, disco, dance-pop and electronic influences.",
-      "bioUrl": "https://www.last.fm/music/Dua+Lipa",
       "bioSource": "Last.fm"
     }
   ]
