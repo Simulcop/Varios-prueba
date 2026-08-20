@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-20T15:55:47.902Z",
+  "updatedAt": "2026-08-20T16:24:40.379Z",
   "deals": [
+    {
+      "id": "reddit-t31vtnilp",
+      "source": "Amazon",
+      "createdAt": "2026-08-20T15:59:35.000Z",
+      "text": "(Amazon) Four Stroke Baron - Classics @ $15.98",
+      "artist": "Four Stroke Baron",
+      "title": "Classics",
+      "label": "Prosthetic Records",
+      "genres": [
+        "Rock",
+        "Alternative Rock",
+        "Experimental",
+        "Progressive Metal"
+      ],
+      "price": 15.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B099BW7TB6",
+      "knownArtist": false,
+      "year": "2021",
+      "cover": "https://i.discogs.com/w-TXI7ORY1BArRo0uhrMWkPLpWvXETUglvLjKos3-Oo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDM1/ODA2LTE2MzMxMDMw/NTgtMjgyOS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Bandcamp: http://fourstrokebaron.bandcamp.com/",
+      "bioUrl": "https://www.last.fm/music/Four+Stroke+Baron",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vtngoz",
+      "source": "Amazon",
+      "createdAt": "2026-08-20T15:57:43.000Z",
+      "text": "(Amazon) Snuts - Millennials @ $14.00",
+      "artist": "Snuts",
+      "title": "Millennials",
+      "label": "Happy Artist Records",
+      "genres": [
+        "Rock",
+        "Indie Rock"
+      ],
+      "price": 14,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CQR6Z1DB",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0b/a5/dd/0ba5dd7e-07e3-d1c2-0e6e-3328e265d8e2/197190345711.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Snuts are an Indie band from West Lothian, Scotland.",
+      "bioUrl": "https://www.discogs.com/artist/5363384-The-Snuts",
+      "bioSource": "Discogs"
+    },
     {
       "id": "reddit-t31vtmsh2",
       "source": "Amazon",
