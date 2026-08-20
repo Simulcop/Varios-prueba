@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-20T03:21:51.187Z",
+  "updatedAt": "2026-08-20T04:04:27.791Z",
   "deals": [
+    {
+      "id": "reddit-t31vt8mgn",
+      "source": "Amazon",
+      "createdAt": "2026-08-20T03:52:51.000Z",
+      "text": "[Amazon] Alice Cooper - The Revenge Of Alice Cooper (Yellow 2LP) $26.13",
+      "artist": "Alice Cooper",
+      "title": "The Revenge Of Alice Cooper (Yellow 2LP)",
+      "label": "Ear Music",
+      "genres": [
+        "Rock",
+        "Hard Rock"
+      ],
+      "price": 26.13,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0F59TLRGN",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/36/73/a236735e-3033-c05c-e3fe-e3852942020f/4029759203735.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Alice Cooper (born Vincent Damon Furnier; February 4, 1948) is an American singer and songwriter. With a career spanning more than five decades, Cooper is known for his raspy singing voice and theatrical stage shows featuring props and illusions.",
+      "bioUrl": "https://www.last.fm/music/Alice+Cooper",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vt708q",
       "source": "Amazon",
