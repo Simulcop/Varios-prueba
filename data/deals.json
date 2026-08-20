@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T18:31:46.404Z",
+  "updatedAt": "2026-08-20T19:23:19.226Z",
   "deals": [
     {
       "id": "reddit-t31vtrmj0",
@@ -7726,59 +7726,6 @@
       "enrichedVia": "discogs",
       "bio": "Stephanie Lynn \"Stevie\" Nicks (born May 26, 1948)[1] is an American singer, songwriter, and producer known for her work with the band Fleetwood Mac and as a solo artist.",
       "bioUrl": "https://www.last.fm/music/Stevie+Nicks",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vgg6bb",
-      "source": "Amazon",
-      "createdAt": "2026-08-05T18:46:56.000Z",
-      "text": "[Amazon] Bobby Gillespie - Utopian Ashes - $13.77",
-      "artist": "Bobby Gillespie",
-      "title": "Utopian Ashes",
-      "label": "Silvertone",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Alternative Rock",
-        "Indie Pop"
-      ],
-      "price": 13.77,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B096BX9RZ2",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/6b/aa/fe6baa17-c830-196c-4591-af09c3e1a776/60552.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Frontman of Primal Scream and former drummer for The Jesus and Mary Chain.",
-      "bioUrl": "https://www.last.fm/music/Bobby+Gillespie",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vgg4vv",
-      "source": "Amazon",
-      "createdAt": "2026-08-05T18:45:35.000Z",
-      "text": "[Amazon] The Meteors - The Curse Of Blood N’ Bones (Red/White Haze) - $14.10",
-      "artist": "The Meteors",
-      "title": "The Curse Of Blood N’ Bones (Red/White Haze)",
-      "label": "Cleopatra",
-      "genres": [
-        "Rock",
-        "Psychobilly",
-        "Horror Rock"
-      ],
-      "price": 14.1,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CFYSVWVM",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a7/02/77/a7027709-d6e9-8a8a-8244-417f5231c783/889466234361.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "There are at least 3 bands called The Meteors. One from the UK, one from the Netherlands and one from the US: 1) The Meteors is a psychobilly band from the United Kingdom, who are often credited with giving the genre its distinctive sound.",
-      "bioUrl": "https://www.last.fm/music/The+Meteors",
       "bioSource": "Last.fm"
     }
   ]
