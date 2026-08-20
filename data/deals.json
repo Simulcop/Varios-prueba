@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-20T19:52:30.069Z",
+  "updatedAt": "2026-08-20T20:17:55.132Z",
   "deals": [
+    {
+      "id": "reddit-t31vtud6s",
+      "source": "Amazon",
+      "createdAt": "2026-08-20T20:02:57.000Z",
+      "text": "[Amazon] Eternity's End - Embers of War $15.98",
+      "artist": "Eternity's End",
+      "title": "Embers of War",
+      "label": "Prosthetic Records",
+      "genres": [
+        "Rock",
+        "Power Metal",
+        "Progressive Metal",
+        "Speed Metal"
+      ],
+      "price": 15.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Embers-War-Eternitys-End/dp/B09F1CGQ8Q",
+      "knownArtist": false,
+      "year": "2021",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/d5/71/9fd57101-7fcb-2d9e-dc32-3becc989b995/656191952224.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "In 2014, Christian Muenzner (ex-Obscura, ex-Necrophagist) put together \"Eternity's End\".",
+      "bioUrl": "https://www.last.fm/music/Eternity%27s+End",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vtrmj0",
       "source": "Amazon",
