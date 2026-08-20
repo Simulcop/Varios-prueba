@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T04:04:27.791Z",
+  "updatedAt": "2026-08-20T05:01:03.818Z",
   "deals": [
     {
       "id": "reddit-t31vt8mgn",
@@ -7257,87 +7257,6 @@
       "enrichedVia": "discogs",
       "bio": "The Rolling Stones are an English rock band formed in London in 1962. They have been active for more than six decades and are widely regarded as one of the most commercially successful and influential bands of the rock era.",
       "bioUrl": "https://www.last.fm/music/The+Rolling+Stones",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfxoc7",
-      "source": "Amazon",
-      "createdAt": "2026-08-05T04:59:17.000Z",
-      "text": "[Amazon] Ulrika Spacek - Compact Trauma - $23.65",
-      "artist": "Ulrika Spacek",
-      "title": "Compact Trauma",
-      "label": "Tough Love Records",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Art Rock",
-        "Post-Punk"
-      ],
-      "price": 23.65,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BSTXZ7X6",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/2c/4b/aa2c4b13-e74a-7d66-4bde-2a8f4c4a4d3c/5060626469921_cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "School friends Rhys Edwards, Joseph Stone and Ben White have worked with each other in bands since 2002. The Enigma Project were formed in Reading, Berkshire in 2002 by Edwards, Stone and White with Sam Pilsbury and George Simpson. Simpson was replaced in 2005 by Joseph Stone.",
-      "bioUrl": "https://www.last.fm/music/Ulrika+Spacek",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfxaaa",
-      "source": "Amazon",
-      "createdAt": "2026-08-05T04:38:59.000Z",
-      "text": "[Amazon] The Arcs - Electrophonic Chronic - $16.90",
-      "artist": "The Arcs",
-      "title": "Electrophonic Chronic",
-      "label": "Easy Eye Sound",
-      "genres": [
-        "Rock",
-        "Blues",
-        "Blues Rock",
-        "Indie Rock"
-      ],
-      "price": 16.9,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BHM9NTSK",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/40/99/a8/4099a85d-de67-2ddc-9586-4962fa04547e/22CRGIM33311.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Dan Auerbach of the Black Keys is clearly a man who likes to keep busy, handling plenty of production assignments and backing like-minded artists during his downtime from the band, and in 2015, after the Black Keys took some time off after drummer Patrick Carney suffered a shoulder injury, Auerbach…",
-      "bioUrl": "https://www.last.fm/music/The+Arcs",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vfx9k5",
-      "source": "Amazon",
-      "createdAt": "2026-08-05T04:37:53.000Z",
-      "text": "[Amazon] Sun Ra - Space Is The Place (Verve By Request Series) - $21.86",
-      "artist": "Sun Ra",
-      "title": "Space Is The Place (Verve By Request Series)",
-      "label": "Blue Thumb Records",
-      "genres": [
-        "Jazz",
-        "Free Jazz",
-        "Space-Age",
-        "Spiritual Jazz"
-      ],
-      "price": 21.86,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CBMT1YBP",
-      "knownArtist": false,
-      "year": "1973",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e7/31/78/e731786e-eba2-2d1c-6ff6-ff6e2354d48c/00011105024921.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Sun Ra (1914 – 1993) was an innovative jazz composer, bandleader, piano and synthesiser player, who came to be known as much for his Cosmic Afro-futurist Philosophy as for his phenomenal musical compositions and performances.",
-      "bioUrl": "https://www.last.fm/music/Sun+Ra",
       "bioSource": "Last.fm"
     }
   ]
