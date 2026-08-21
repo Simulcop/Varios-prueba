@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T23:14:05.507Z",
+  "updatedAt": "2026-08-21T23:44:50.462Z",
   "deals": [
     {
       "id": "reddit-t31vus16e",
@@ -7824,33 +7824,6 @@
       "enrichedVia": "discogs",
       "bio": "McKinley Howard (Kenny) Dorham (August 30, 1924 - December 5, 1972) was an American jazz trumpeter, singer, and composer born in Fairfield, Texas. Dorham was one of the most active bebop trumpeters.",
       "bioUrl": "https://www.last.fm/music/Kenny+Dorham",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vhk6du",
-      "source": "Amazon",
-      "createdAt": "2026-08-06T23:26:30.000Z",
-      "text": "[Amazon] J. Cole - The Fall-Off [4 LP] (Red Vinyl) $48",
-      "artist": "J. Cole",
-      "title": "The Fall-Off [4 LP] (Red Vinyl) $48",
-      "label": "Columbia",
-      "genres": [
-        "Jazz",
-        "Bop",
-        "Fusion",
-        "Jazz-Funk"
-      ],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GRBVQT3Z",
-      "knownArtist": false,
-      "year": "2009",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/56/a6/3156a612-c10c-7703-32b9-88a14efa3df0/26UMGIM17314.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Jermaine Lamarr Cole (born January 28, 1985), better known by his stage name J. Cole, is an American hip hop recording artist and record producer. Cole was born on an American military base in Frankfurt, Germany, to two American parents.",
-      "bioUrl": "https://www.last.fm/music/J.+Cole",
       "bioSource": "Last.fm"
     }
   ]
