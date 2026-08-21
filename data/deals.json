@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-08-21T04:08:21.372Z",
+  "updatedAt": "2026-08-21T05:01:30.269Z",
   "deals": [
+    {
+      "id": "reddit-t31vu6m5j",
+      "source": "Amazon",
+      "createdAt": "2026-08-21T04:53:45.000Z",
+      "text": "[Amazon] Beach Fossils - SOMERSAULT - $15.79",
+      "artist": "Beach Fossils",
+      "title": "SOMERSAULT",
+      "label": "Bayonet Records",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "price": 15.79,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B06XCGMYV8",
+      "knownArtist": false,
+      "year": "2017",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0f/86/57/0f8657ab-22ac-1ad1-b3d5-500a3e0a0418/859575005329.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Beach Fossils is an American indie rock band from Brooklyn, New York, formed in 2009. The group currently includes Dustin Payseur, Tommy Gardner, Jack Doyle Smith and Tommy Davidson. They are known for their lo-fi, atmospheric sound and Payseur's vocal style.",
+      "bioUrl": "https://www.last.fm/music/Beach+Fossils",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vu61pf",
+      "source": "Amazon",
+      "createdAt": "2026-08-21T04:23:54.000Z",
+      "text": "[Amazon] Pierce The Veil - Misadventures $16.99",
+      "artist": "Pierce The Veil",
+      "title": "Misadventures",
+      "label": "Fearless Records",
+      "genres": [
+        "Rock",
+        "Post-Hardcore",
+        "Emo",
+        "Pop Punk"
+      ],
+      "price": 16.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B01DF731ZA/",
+      "knownArtist": false,
+      "year": "2016",
+      "cover": "https://i.discogs.com/bWhRyh2FeGWXns38xyliqOiBPukJu1tupPpcNhu5r5A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDc0/ODctMTQ2MzAwMTIz/Ni01MTg5LmpwZWc.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Pierce the Veil was founded by Mike Fuentes and Vic Fuentes in 2006, after the disbandment of Before Today. The brothers continued to write songs together and eventually came up with enough material for a new full-length album.",
+      "bioUrl": "https://www.last.fm/music/Pierce+the+Veil",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vu5euh",
       "source": "Amazon",
