@@ -1,6 +1,49 @@
 {
-  "updatedAt": "2026-08-21T19:04:54.531Z",
+  "updatedAt": "2026-08-21T19:44:32.546Z",
   "deals": [
+    {
+      "id": "reddit-t31vuqaqa",
+      "source": "Amazon",
+      "createdAt": "2026-08-21T19:35:17.000Z",
+      "text": "[Amazon] SQÜRL – The Dead Don't Die: Soundtrack $13.10",
+      "artist": null,
+      "title": "SQÜRL – The Dead Don't Die: Soundtrack",
+      "label": null,
+      "genres": [],
+      "price": 13.1,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B07TPRPCT4",
+      "knownArtist": false
+    },
+    {
+      "id": "reddit-t31vupktj",
+      "source": "Walmart",
+      "createdAt": "2026-08-21T19:08:17.000Z",
+      "text": "[Walmart] Ryo Fukui - Scenery - $20.99",
+      "artist": "Ryo Fukui",
+      "title": "Scenery",
+      "label": "We Release Jazz",
+      "genres": [
+        "Jazz",
+        "Bop",
+        "Modal",
+        "Cool Jazz"
+      ],
+      "price": 20.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid033EabqNL9nkFVDC3daKxtFq9Tzfo1TmzirL2bZkeFzsZx4UPNZHHSgaEJEBJ22FdXl&amp;id=61590716382047",
+      "knownArtist": false,
+      "year": "2018",
+      "cover": "https://i.discogs.com/657PgMHwp1Bz9rKmKHT_NbvRFQhzMn3hnZIpXwHWIvs/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk4/OTA3LTE2MDU5NjIx/MzktODM0NS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Ryo Fukui (福居良) was a Japanese jazz pianist. He was born in 1948 in Biratori, Hokkaido. He released his debut album Scenery in 1976 and was based in Sapporo, where he played regularly at the Slowboat jazz club. Ryo Fukui died on March 15, 2016.",
+      "bioUrl": "https://www.last.fm/music/Ryo+Fukui",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vuo860",
       "source": "Amazon",
