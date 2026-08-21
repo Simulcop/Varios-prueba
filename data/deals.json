@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-21T16:58:35.033Z",
+  "updatedAt": "2026-08-21T17:27:49.826Z",
   "deals": [
+    {
+      "id": "reddit-t31vulzxs",
+      "source": "Amazon",
+      "createdAt": "2026-08-21T16:59:08.000Z",
+      "text": "(Amazon) Doechii - Alligator Bites Never Heal - Limited Gold @ $24.99",
+      "artist": "Doechii",
+      "title": "Alligator Bites Never Heal - Limited Gold",
+      "label": "Top Dawg Entertainment",
+      "genres": [
+        "Hip Hop",
+        "Funk / Soul"
+      ],
+      "price": 24.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0F6KSS35M",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/a3/e8/5fa3e8b9-9065-47af-63e1-f213d3074580/24UMGIM88644.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Jaylah Ji’mya Hickmon, better known as her stage name Doechii (formerly stylized as iamdoechii) was born and raised in Tampa, Florida. Doechii started out as a YouTuber, starting by posting a variety of videos, including vlogs and even some music.",
+      "bioUrl": "https://www.last.fm/music/Doechii",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vulwx6",
       "source": "Amazon",
