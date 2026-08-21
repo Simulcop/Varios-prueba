@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-21T14:04:35.214Z",
+  "updatedAt": "2026-08-21T15:00:37.248Z",
   "deals": [
+    {
+      "id": "reddit-t31vuho21",
+      "source": "Amazon",
+      "createdAt": "2026-08-21T14:18:37.000Z",
+      "text": "(Amazon) Telefon Tel Aviv - Fahrenheit Fair Enough [25th Anniversary Edition] @ $26.99",
+      "artist": "Telefon Tel Aviv",
+      "title": "Fahrenheit Fair Enough [25th Anniversary Edition]",
+      "label": "Hefty Records",
+      "genres": [
+        "Electronic",
+        "Leftfield",
+        "IDM",
+        "Experimental"
+      ],
+      "price": 26.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0H8M5GMV5",
+      "knownArtist": false,
+      "year": "2001",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/6c/5f/b4/6c5fb4de-697d-ff3f-7067-af1ae9a767df/804297827223.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Telefon Tel Aviv is a Los Angeles-based group formed in 1999 by Josh Eustis and the late Charlie Cooper, originally based in New Orleans, and then Chicago before Cooper's death. The two met in high school, but did not begin working on music together until after university studies.",
+      "bioUrl": "https://www.last.fm/music/Telefon+Tel+Aviv",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vu6m5j",
       "source": "Amazon",
