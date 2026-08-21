@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-21T15:55:55.364Z",
+  "updatedAt": "2026-08-21T16:22:47.877Z",
   "deals": [
+    {
+      "id": "reddit-t31vukpdc",
+      "source": "Amazon",
+      "createdAt": "2026-08-21T16:11:33.000Z",
+      "text": "(Amazon) Mercyland - Mercyland @ $15.10 (lowest)",
+      "artist": "Mercyland",
+      "title": "Mercyland @ $15.10 (lowest)",
+      "label": null,
+      "genres": [],
+      "price": 15.1,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FSZDMVT4",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/39/e5/6839e5d3-7e8a-2a78-0541-b0c6018ab0f6/117810.jpg/400x400bb.jpg",
+      "bio": "There are at least 2 bands known as Mercyland: (1). A band from Athens, Georgia and Featured David Barbe on Bass guitar and vocals, who went on to join Bob Mould in 'Sugar'. Their Final show was in 1991.",
+      "bioUrl": "https://www.last.fm/music/Mercyland",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vuj9ru",
       "source": "Amazon",
