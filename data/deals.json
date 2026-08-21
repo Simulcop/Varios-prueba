@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-21T03:27:22.956Z",
+  "updatedAt": "2026-08-21T04:08:21.372Z",
   "deals": [
+    {
+      "id": "reddit-t31vu5euh",
+      "source": "Amazon",
+      "createdAt": "2026-08-21T03:53:15.000Z",
+      "text": "[Amazon] Aerosmith & Yungblud - One More Time EP $14.52",
+      "artist": "Aerosmith & Yungblud",
+      "title": "One More Time EP",
+      "label": "Capitol Records",
+      "genres": [
+        "Rock"
+      ],
+      "price": 14.52,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FQSS2CLM",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/b8/d5/80b8d51a-ace9-8e15-5f6c-9ae0eaf5f0b8/25UM1IM35144.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "UK-based Grammy nominated artist, producer, songwriter, arranger, composer, multi instrumentalist and a prolific audio engineer. Matt has worked with , , , , , , and a host of other artists, while having his own success under different alises such as , , and ) and a founding member of , and .",
+      "bioUrl": "https://www.discogs.com/artist/12940-Matt-Schwartz",
+      "bioSource": "Discogs"
+    },
     {
       "id": "reddit-t31vu4h59",
       "source": "Amazon",
