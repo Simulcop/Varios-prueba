@@ -1,6 +1,49 @@
 {
-  "updatedAt": "2026-08-21T16:22:47.877Z",
+  "updatedAt": "2026-08-21T16:58:35.033Z",
   "deals": [
+    {
+      "id": "reddit-t31vulwx6",
+      "source": "Amazon",
+      "createdAt": "2026-08-21T16:56:01.000Z",
+      "text": "(Amazon) Various - Les Miserables: 10th Anniversary Concert at the Royal Albert Hall [2xLP] @ $20.64",
+      "artist": "Various",
+      "title": "Les Miserables: 10th Anniversary Concert at the Royal Albert Hall [2xLP]",
+      "label": null,
+      "genres": [],
+      "price": 20.64,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FN6M54YX",
+      "knownArtist": false
+    },
+    {
+      "id": "reddit-t31vulrv9",
+      "source": "Amazon",
+      "createdAt": "2026-08-21T16:50:55.000Z",
+      "text": "(Amazon) Idaho - Lapse [LP] @ $14.78",
+      "artist": "Idaho",
+      "title": "Lapse [LP]",
+      "label": "Arts & Crafts",
+      "genres": [
+        "Rock",
+        "Alternative Rock",
+        "Indie Rock",
+        "Slowcore"
+      ],
+      "price": 14.78,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0D36QBQDP",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/9a/d0/c59ad049-d5a4-8df2-8564-238472cf497a/24UMGIM28458.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "One of the most prolific, consistent, and unsung acts of the slowcore movement, Los Angeles' Idaho centers itself around four-string guitarist and vocalist Jeff Martin, a talented songwriter who has gained comparisons to Mark Eitzel (American Music Club), Mark Kozelek (Red House Painters), and Neil…",
+      "bioUrl": "https://www.last.fm/music/Idaho",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vukpdc",
       "source": "Amazon",
