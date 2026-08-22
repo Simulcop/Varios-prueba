@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T16:46:41.045Z",
+  "updatedAt": "2026-08-22T17:12:01.021Z",
   "deals": [
     {
       "id": "reddit-t31vvfync",
@@ -7873,32 +7873,6 @@
       "enrichedVia": "discogs",
       "bio": "1) The Virgin Suicides are currently a one-man musical project from Miami, FL led by aspiring multi-instrumentalist Diogo Spindola.",
       "bioUrl": "https://www.last.fm/music/The+Virgin+Suicides",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vi5x1c",
-      "source": "Amazon",
-      "createdAt": "2026-08-07T16:47:43.000Z",
-      "text": "(Amazon) [Regional Coupon] Françoise Hardy - En Vogue: Best Of 1962-1967 [2xLP] @ $25.56",
-      "artist": "Françoise Hardy",
-      "title": "En Vogue: Best Of 1962-1967 [2xLP]",
-      "label": "Omnivore Recordings",
-      "genres": [
-        "Pop",
-        "Ballad",
-        "Chanson"
-      ],
-      "price": 25.56,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G3CD52T9",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/47/97/5d47972c-48ce-9cb5-8049-66733997192e/196872468038.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Françoise Hardy (born Françoise Madeleine Hardy; on 17 January 1944 - 11 June 2024) was a French former singer and songwriter mainly known for singing melancholic sentimental ballads. Hardy signed her first contract with the record label Vogue in November 1961.",
-      "bioUrl": "https://www.last.fm/music/Fran%C3%A7oise+Hardy",
       "bioSource": "Last.fm"
     }
   ]
