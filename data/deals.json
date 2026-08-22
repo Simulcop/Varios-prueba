@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-22T15:11:09.698Z",
+  "updatedAt": "2026-08-22T15:42:55.450Z",
   "deals": [
+    {
+      "id": "reddit-t31vvf7zt",
+      "source": "Amazon",
+      "createdAt": "2026-08-22T15:22:34.000Z",
+      "text": "(Amazon) The Beach Boys - The Pet Sounds Sessions Highlights [Color 2xLP] @ $27.77",
+      "artist": "The Beach Boys",
+      "title": "The Pet Sounds Sessions Highlights [Color 2xLP]",
+      "label": "Capitol Records",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Vocal",
+        "Experimental"
+      ],
+      "price": 27.77,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GRKCLRR6",
+      "knownArtist": false,
+      "year": "1997",
+      "cover": "https://i.discogs.com/RBwslCBj95u2SrF8CpzFSkiaRyTWnjyTjBkW_69rtRI/rs:fit/g:sm/q:90/h:600/w:311/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTYz/NTEtMTQyODA5Nzkw/Mi00Nzg4LmpwZWc.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "The Beach Boys are an American rock band formed in Hawthorne, California, in 1961. The original lineup consisted of brothers Brian Wilson, Dennis Wilson, and Carl Wilson, their cousin Mike Love, and their friend Al Jardine.",
+      "bioUrl": "https://www.last.fm/music/The+Beach+Boys",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vvdfx4",
       "source": "Amazon",
