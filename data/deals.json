@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-22T20:12:08.501Z",
+  "updatedAt": "2026-08-22T20:45:28.034Z",
   "deals": [
+    {
+      "id": "reddit-t31vvmoj3",
+      "source": "Amazon",
+      "createdAt": "2026-08-22T20:14:17.000Z",
+      "text": "[Amazon] Queens of the Stone Age - Villains [2 LP] - $20.99",
+      "artist": "Queens of the Stone Age",
+      "title": "Villains [2 LP]",
+      "label": "Matador",
+      "genres": [
+        "Rock",
+        "Alternative Rock",
+        "Hard Rock",
+        "Stoner Rock"
+      ],
+      "price": 20.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B071G991VW",
+      "knownArtist": false,
+      "year": "2017",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/fd/1b/29fd1bfa-da42-c393-6ad8-012b108e9a5e/191401218276.png/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Queens of the Stone Age (abbreviated QOTSA or QotSA) is an American rock band formed in 1996 by vocalist and guitarist Josh Homme following the breakup of his previous band Kyuss.",
+      "bioUrl": "https://www.last.fm/music/Queens+of+the+Stone+Age",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vvml0r",
       "source": "Amazon",
