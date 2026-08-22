@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-08-22T03:12:38.728Z",
+  "updatedAt": "2026-08-22T04:02:24.066Z",
   "deals": [
+    {
+      "id": "reddit-t31vv1pgx",
+      "source": "Amazon",
+      "createdAt": "2026-08-22T03:50:37.000Z",
+      "text": "[Amazon] Denzel Curry & The Scythe - Strictly 4 The Scythe $15.77",
+      "artist": "Denzel Curry & The Scythe",
+      "title": "Strictly 4 The Scythe",
+      "label": "Loma Vista",
+      "genres": [
+        "Hip Hop",
+        "Hardcore Hip-Hop"
+      ],
+      "price": 15.77,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GHZD3VLY",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://i.discogs.com/FOUP9jyYylgQIglqgdNwwYb9sX6KAR5cj0q3KnzEWak/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA5/NzIwLTE3NzI5MjY4/OTMtOTM3OS5qcGVn.jpeg",
+      "enrichedVia": "discogs"
+    },
+    {
+      "id": "reddit-t31vv15lk",
+      "source": "Walmart",
+      "createdAt": "2026-08-22T03:22:36.000Z",
+      "text": "[Walmart] Guns N Roses - Live Era '87-'9 - $32.93",
+      "artist": "Guns N Roses",
+      "title": "Live Era '87-'9",
+      "label": "Geffen Records",
+      "genres": [
+        "Rock",
+        "Hard Rock",
+        "Glam"
+      ],
+      "price": 32.93,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.walmart.com/ip/18693800595?sid=7F39C47A-B825-49E9-A9A4-BA5DE94A9DD1",
+      "knownArtist": false,
+      "year": "1999",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cf/d7/0a/cfd70aa5-a0e7-e474-9f49-896d08290c4b/00606949055127.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Guns N' Roses is an American hard rock band formed in Los Angeles, California, in 1985 from members of L.A. Guns and Hollywood Rose.",
+      "bioUrl": "https://www.last.fm/music/Guns+N%27+Roses",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vv0rlv",
       "source": "Amazon",
@@ -7800,31 +7848,6 @@
       "enrichedVia": "discogs",
       "bio": "D'Angelo (born Michael Eugene Archer on 11 February 1974 in Richmond, VA United States; died 14 October 2025) was a neo-soul singer, keyboardist, and guitarist.",
       "bioUrl": "https://www.last.fm/music/D%27Angelo",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vhpaox",
-      "source": "Amazon",
-      "createdAt": "2026-08-07T03:22:25.000Z",
-      "text": "[Amazon] Jimmy Smith - Bashin' - The Unpredictable Jimmy Smith (Verve Acoustic Sounds Series) $30.00",
-      "artist": "Jimmy Smith",
-      "title": "Bashin' - The Unpredictable Jimmy Smith (Verve Acoustic Sounds Series)",
-      "label": "Verve Records",
-      "genres": [
-        "Jazz",
-        "Bop",
-        "Big Band"
-      ],
-      "price": 30,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G44MMG8J",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/cc/59/09cc59f3-0bb7-1ebe-6527-0a53e1276453/25UM1IM86604.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Jimmy Smith (December 8, 1928 – February 8, 2005) was an American jazz musician who helped popularize the Hammond B-3 organ, creating a link between jazz and 1960s soul music.",
-      "bioUrl": "https://www.last.fm/music/Jimmy+Smith",
       "bioSource": "Last.fm"
     }
   ]
