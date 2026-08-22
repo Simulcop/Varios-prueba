@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-22T04:56:45.337Z",
+  "updatedAt": "2026-08-22T05:21:48.357Z",
   "deals": [
+    {
+      "id": "reddit-t31vv3a38",
+      "source": "Amazon",
+      "createdAt": "2026-08-22T05:11:20.000Z",
+      "text": "[Amazon] Napalm Death - Scum $18.19",
+      "artist": "Napalm Death",
+      "title": "Scum",
+      "label": "Earache",
+      "genres": [
+        "Rock",
+        "Thrash",
+        "Hardcore",
+        "Grindcore"
+      ],
+      "price": 18.19,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B01MCULNV6",
+      "knownArtist": false,
+      "year": "1987",
+      "cover": "https://i.discogs.com/0M7BnNUtOrxeE7GGku_xJIIz4vfUcrwKf4RK6Xmpd94/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzM2/NS0xNDE3Mjk2MzY5/LTgzOTQuanBlZw.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Napalm Death is an English grindcore band that was formed in Meriden, Warwickshire in 1981. Since 1986, none of the band's original members have remained in the group besides Mick Harris which left after playing on Harmony Corruption(1990).",
+      "bioUrl": "https://www.last.fm/music/Napalm+Death",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vv22px",
       "source": "Amazon",
