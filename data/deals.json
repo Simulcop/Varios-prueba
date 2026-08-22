@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T17:42:54.924Z",
+  "updatedAt": "2026-08-22T18:15:13.157Z",
   "deals": [
     {
       "id": "reddit-t31vvfync",
@@ -7820,33 +7820,6 @@
       "lowest": false,
       "amazonUrl": "https://watchitburnrecords.bandcamp.com/album/doom-city-gamma-knife-live-at-red-rocks-2022",
       "knownArtist": false
-    },
-    {
-      "id": "reddit-t31vi87b6",
-      "source": "Get On Down",
-      "createdAt": "2026-08-07T18:12:02.000Z",
-      "text": "[Get On Down] V/A - The Very Best Of Death Row (Gold, 2xLP) - $20",
-      "artist": "V/A",
-      "title": "The Very Best Of Death Row (Gold, 2xLP) - $20",
-      "label": "Vinyl-on-demand",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "New Wave",
-        "Punk"
-      ],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://getondown.com/products/the-very-best-of-death-row-gold-2xlp?variant=45037115670724",
-      "knownArtist": false,
-      "year": "2011",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/74/ca/ed74ca09-2abb-e84c-8a0d-9f4428227ddd/8721253445005.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Warning! Deleting this artist may remove other artists and scrobbles from your library - please handle this with caution! Note: You can view albums tagged as 'Various Artists' in your library here.",
-      "bioUrl": "https://www.last.fm/music/Various+Artists",
-      "bioSource": "Last.fm"
     }
   ]
 }
