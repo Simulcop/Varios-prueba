@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-22T00:40:07.103Z",
+  "updatedAt": "2026-08-22T02:09:05.079Z",
   "deals": [
+    {
+      "id": "reddit-t31vuyria",
+      "source": "Amazon",
+      "createdAt": "2026-08-22T01:26:46.000Z",
+      "text": "[Amazon] Baro Sura – Today & Always $8.50 Lowest",
+      "artist": null,
+      "title": "Baro Sura – Today & Always $8.50 Lowest",
+      "label": null,
+      "genres": [],
+      "price": 8.5,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G4NJB1DC",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/8a/10/d78a107a-524e-89af-a59d-131877cd71e8/810167870336.jpg/400x400bb.jpg"
+    },
     {
       "id": "reddit-t31vus16e",
       "source": "Amazon",
