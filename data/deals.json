@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-08-22T02:09:05.079Z",
+  "updatedAt": "2026-08-22T03:12:38.728Z",
   "deals": [
+    {
+      "id": "reddit-t31vv0rlv",
+      "source": "Amazon",
+      "createdAt": "2026-08-22T03:03:23.000Z",
+      "text": "[Amazon] Black Crowes - A Pound of Feathers - Red Vinyl - $17.51",
+      "artist": "Black Crowes",
+      "title": "A Pound of Feathers - Red Vinyl",
+      "label": "Silver Arrow",
+      "genres": [
+        "Rock",
+        "Blues Rock",
+        "Southern Rock"
+      ],
+      "price": 17.51,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mtnbrn2yo22g",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/2c/1a/4d2c1abd-323c-9933-a020-5374c8791ffe/199806667569.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Black Crowes is a blues-oriented hard rock jam band formed 1989 in Atlanta, Georgia, United States that has sold over 15 million albums and were hailed by Melody Maker as \"The Most Rock N' Roll Rock N' Roll Band In The World\" The band has toured with acts such as Aerosmith, ZZ Top, Jimmy Page,…",
+      "bioUrl": "https://www.last.fm/music/The+Black+Crowes",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vv0ol7",
+      "source": "Amazon",
+      "createdAt": "2026-08-22T02:59:39.000Z",
+      "text": "[Amazon] Nas / DJ Premier - Light-Years (Amazon Exclusive) $16.79",
+      "artist": "Nas / DJ Premier",
+      "title": "Light-Years (Amazon Exclusive)",
+      "label": "Mass Appeal",
+      "genres": [
+        "Hip Hop"
+      ],
+      "price": 16.79,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0G4XZFHT8",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/89/b1/a989b14b-0dc4-4f2d-0eb2-3d985410bffd/198391792038.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Born: March 21, 1966, Houston, Texas , best known for being one half of the rap duo , is also a DJ and record producer. has produced almost all of 's tracks as well as tracks for many other groups and solo artists since the 1990s. He has produced tracks for such artists as , , , , , , and .",
+      "bioUrl": "https://www.discogs.com/artist/21151-DJ-Premier",
+      "bioSource": "Discogs"
+    },
     {
       "id": "reddit-t31vuyria",
       "source": "Amazon",
@@ -7775,72 +7825,6 @@
       "enrichedVia": "discogs",
       "bio": "Jimmy Smith (December 8, 1928 – February 8, 2005) was an American jazz musician who helped popularize the Hammond B-3 organ, creating a link between jazz and 1960s soul music.",
       "bioUrl": "https://www.last.fm/music/Jimmy+Smith",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vhoczp",
-      "source": "Amazon",
-      "createdAt": "2026-08-07T02:37:07.000Z",
-      "text": "[Amazon] Willie Nelson ‎– Dream Chaser $21.00 Lowest",
-      "artist": null,
-      "title": "Willie Nelson ‎– Dream Chaser $21.00 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 21,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GR8QRXBM",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/fd/ea/6cfdeaaf-ae32-dcc5-b1d7-0c3dec633156/196874110089.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31vhoawp",
-      "source": "Amazon",
-      "createdAt": "2026-08-07T02:34:23.000Z",
-      "text": "[Amazon] Kenshi Yonezu ‎– Iris Out / Jane Doe $21.00",
-      "artist": null,
-      "title": "Kenshi Yonezu ‎– Iris Out / Jane Doe",
-      "label": "Milan",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Stage & Screen",
-        "J-pop"
-      ],
-      "price": 21,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FWCX4VSF",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/91/aa/7391aabc-81d8-2bcb-3b0f-8e24bc855745/4547366775211.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31vho9gl",
-      "source": "Amazon",
-      "createdAt": "2026-08-07T02:32:31.000Z",
-      "text": "[Amazon] Kenny Dorham - Whistle Stop (Blue Note Classic Vinyl Edition) $21.00",
-      "artist": "Kenny Dorham",
-      "title": "Whistle Stop (Blue Note Classic Vinyl Edition)",
-      "label": "Blue Note",
-      "genres": [
-        "Jazz",
-        "Hard Bop"
-      ],
-      "price": 21,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GL6WYDPP",
-      "knownArtist": false,
-      "year": "1961",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/10/3c/58/103c58db-0ff9-7bb0-3eb0-6d50c0d23afc/00602547152879.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "McKinley Howard (Kenny) Dorham (August 30, 1924 - December 5, 1972) was an American jazz trumpeter, singer, and composer born in Fairfield, Texas. Dorham was one of the most active bebop trumpeters.",
-      "bioUrl": "https://www.last.fm/music/Kenny+Dorham",
       "bioSource": "Last.fm"
     }
   ]
