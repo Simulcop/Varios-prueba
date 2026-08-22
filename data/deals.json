@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T21:12:18.621Z",
+  "updatedAt": "2026-08-22T21:42:57.175Z",
   "deals": [
     {
       "id": "reddit-t31vvmoj3",
@@ -7765,31 +7765,6 @@
       "year": "2022",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ce/c4/c5/cec4c56d-8805-7416-301c-cc225d952bfe/886446724089.jpg/400x400bb.jpg",
       "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31vidae5",
-      "source": "Get On Down",
-      "createdAt": "2026-08-07T21:25:47.000Z",
-      "text": "[Get On Down] Snoop Dogg - Tha Doggfather (Vapors Colored 2xLP) - $24.98",
-      "artist": "Snoop Dogg",
-      "title": "Tha Doggfather (Vapors Colored 2xLP)",
-      "label": "The New And \"Untouchable\" Death Row Records",
-      "genres": [
-        "Hip Hop",
-        "Gangsta"
-      ],
-      "price": 24.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.discogs.com/release/21169663-Snoop-Doggy-Dogg-Tha-Doggfather",
-      "knownArtist": false,
-      "year": "1996",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/96/2b/54962b01-37cd-f48d-0b04-db5655fff07b/729.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Snoop Dogg (born Calvin Cordozar Broadus Jr.; October 20, 1971), previously known as Snoop Doggy Dogg, is an American rapper, singer, record producer, songwriter, and actor. He is a prominent figure in West Coast hip-hop and played a significant role in the popularization of G-funk and gangsta rap.",
-      "bioUrl": "https://www.last.fm/music/Snoop+Dogg",
-      "bioSource": "Last.fm"
     }
   ]
 }
