@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T11:12:23.161Z",
+  "updatedAt": "2026-08-22T11:42:09.868Z",
   "deals": [
     {
       "id": "reddit-t31vv3a38",
@@ -7859,75 +7859,6 @@
       "amazonUrl": "https://www.amazon.com/dp/B0FJYQW997",
       "knownArtist": false,
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/d2/38/aad2388f-e02d-7375-c119-ef007bb34e77/196872921403.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31vhxrbn",
-      "source": "Amazon",
-      "createdAt": "2026-08-07T11:16:03.000Z",
-      "text": "[Amazon] Various Artists - The Twilight Saga: Breaking Dawn - Part 2 (Original Motion Picture Soundtrack) [2xLP] - $27.00",
-      "artist": "Various Artists",
-      "title": "The Twilight Saga: Breaking Dawn - Part 2 (Original Motion Picture Soundtrack) [2xLP]",
-      "label": null,
-      "genres": [],
-      "price": 27,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GVKPHX4W",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/2e/83/f52e8357-9cf4-e644-c365-3c21839f85ac/mzi.staekbjw.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31vhxqwa",
-      "source": "Amazon",
-      "createdAt": "2026-08-07T11:15:27.000Z",
-      "text": "[Amazon] Muddy Waters - Folk Singer (Chess Acoustic Sounds Series) - $28.00",
-      "artist": "Muddy Waters",
-      "title": "Folk Singer (Chess Acoustic Sounds Series)",
-      "label": "Analogue Productions",
-      "genres": [
-        "Blues",
-        "Chicago Blues"
-      ],
-      "price": 28,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GGCNVKXP",
-      "knownArtist": false,
-      "year": "2011",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/49/59/72/49597255-dd87-f30d-9e75-5cb0ecfda118/00602567823490.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Muddy Waters (McKinley Morganfield, Issaquena County, Mississippi, April 4, 1913 - Westmont, Illinois, April 30, 1983) was an American blues musician and is generally considered \"the father of Chicago Blues.\" His career spanned over thirty years and he produced what are considered to be some of the…",
-      "bioUrl": "https://www.last.fm/music/Muddy+Waters",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vhxqc8",
-      "source": "Amazon",
-      "createdAt": "2026-08-07T11:14:39.000Z",
-      "text": "[Amazon] D'Angelo - Live At The Jazz Cafe, London: The Complete Show [2xLP] - $30.00",
-      "artist": "D'Angelo",
-      "title": "Live At The Jazz Cafe, London: The Complete Show [2xLP]",
-      "label": "Virgin",
-      "genres": [
-        "Jazz",
-        "Funk / Soul",
-        "Jazz-Funk",
-        "Soul"
-      ],
-      "price": 30,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B016KSPVAO",
-      "knownArtist": false,
-      "year": "2015",
-      "cover": "https://i.discogs.com/p1wI-yzrLjy0UA9R4IZsJoxXfP3vwLgqM4BEC9l2ooU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzUw/MjYtMTQ0OTc5MDcz/NC03NTk2LmpwZWc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "D'Angelo (born Michael Eugene Archer on 11 February 1974 in Richmond, VA United States; died 14 October 2025) was a neo-soul singer, keyboardist, and guitarist.",
-      "bioUrl": "https://www.last.fm/music/D%27Angelo",
-      "bioSource": "Last.fm"
     }
   ]
 }
