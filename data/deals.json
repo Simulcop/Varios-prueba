@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T13:07:26.013Z",
+  "updatedAt": "2026-08-22T13:49:26.855Z",
   "deals": [
     {
       "id": "reddit-t31vv3a38",
@@ -7801,27 +7801,6 @@
       "bio": "Françoise Hardy (born Françoise Madeleine Hardy; on 17 January 1944 - 11 June 2024) was a French former singer and songwriter mainly known for singing melancholic sentimental ballads. Hardy signed her first contract with the record label Vogue in November 1961.",
       "bioUrl": "https://www.last.fm/music/Fran%C3%A7oise+Hardy",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vi0koc",
-      "source": "Amazon",
-      "createdAt": "2026-08-07T13:24:42.000Z",
-      "text": "[Amazon] Harvey Milk – WhaRvEy milK $18.73",
-      "artist": null,
-      "title": "Harvey Milk – WhaRvEy milK",
-      "label": "Chunklet Industries",
-      "genres": [
-        "Rock"
-      ],
-      "price": 18.73,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GFXY4RD7",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://i.discogs.com/VdY77ILzcIyOrjj_0gIKSZtOohMRYaGxRxsX4bVtBqM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzYw/NDY3LTE3NjUyOTgz/NzEtOTMzMy5qcGVn.jpeg",
-      "enrichedVia": "discogs"
     }
   ]
 }
