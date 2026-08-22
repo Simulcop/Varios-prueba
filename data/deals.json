@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T17:12:01.021Z",
+  "updatedAt": "2026-08-22T17:42:54.924Z",
   "deals": [
     {
       "id": "reddit-t31vvfync",
@@ -7846,33 +7846,6 @@
       "enrichedVia": "discogs",
       "bio": "Warning! Deleting this artist may remove other artists and scrobbles from your library - please handle this with caution! Note: You can view albums tagged as 'Various Artists' in your library here.",
       "bioUrl": "https://www.last.fm/music/Various+Artists",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vi77yq",
-      "source": "Amazon",
-      "createdAt": "2026-08-07T17:36:13.000Z",
-      "text": "(Amazon) The Virgin Suicides - Original Motion Picture Soundtrack - @ $17.48",
-      "artist": "The Virgin Suicides",
-      "title": "Original Motion Picture Soundtrack",
-      "label": "Virgin",
-      "genres": [
-        "Electronic",
-        "Stage & Screen",
-        "Abstract",
-        "Future Jazz"
-      ],
-      "price": 17.48,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CVBMCVKX",
-      "knownArtist": false,
-      "year": "2000",
-      "cover": "https://i.discogs.com/txfNhrdCfE0O71CORLTGvQiS0Ep7aCvCzyVMwXO72i0/rs:fit/g:sm/q:90/h:802/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQw/MzAyLTE1OTk1MDQ4/NjUtNDY1NS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "1) The Virgin Suicides are currently a one-man musical project from Miami, FL led by aspiring multi-instrumentalist Diogo Spindola.",
-      "bioUrl": "https://www.last.fm/music/The+Virgin+Suicides",
       "bioSource": "Last.fm"
     }
   ]
