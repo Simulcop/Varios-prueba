@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-08-22T15:42:55.450Z",
+  "updatedAt": "2026-08-22T16:12:35.843Z",
   "deals": [
+    {
+      "id": "reddit-t31vvfync",
+      "source": "Amazon",
+      "createdAt": "2026-08-22T15:52:34.000Z",
+      "text": "[Amazon] Various - Little Miss Sunshine (Original Motion Picture Soundtrack) - $15.99",
+      "artist": "Various",
+      "title": "Little Miss Sunshine (Original Motion Picture Soundtrack)",
+      "label": "Phineas Atwood Productions",
+      "genres": [
+        "Stage & Screen",
+        "Soundtrack"
+      ],
+      "price": 15.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Little-Miss-Sunshine-Original-Soundtrack/dp/B010S069N8/",
+      "knownArtist": false,
+      "year": "2015",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/8c/01/25/mzi.rtmfnwch.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
+    {
+      "id": "reddit-t31vvfxi9",
+      "source": "Amazon",
+      "createdAt": "2026-08-22T15:51:16.000Z",
+      "text": "[Amazon] Various Artists - Stranger Things 5 (Soundtrack from the Netflix Series) - $10.08",
+      "artist": "Various Artists",
+      "title": "Stranger Things 5 (Soundtrack from the Netflix Series)",
+      "label": "Netflix",
+      "genres": [
+        "Electronic",
+        "Jazz",
+        "Rock",
+        "Reggae"
+      ],
+      "price": 10.08,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FY491LBL",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ce/c4/c5/cec4c56d-8805-7416-301c-cc225d952bfe/886446724089.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31vvf7zt",
       "source": "Amazon",
