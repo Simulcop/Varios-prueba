@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-22T13:49:26.855Z",
+  "updatedAt": "2026-08-22T14:11:44.921Z",
   "deals": [
+    {
+      "id": "reddit-t31vvdfx4",
+      "source": "Amazon",
+      "createdAt": "2026-08-22T14:09:30.000Z",
+      "text": "[Amazon] The Cars - Greatest Hits - $21.23",
+      "artist": "The Cars",
+      "title": "Greatest Hits",
+      "label": "Elektra",
+      "genres": [
+        "Rock",
+        "Pop Rock",
+        "Synth-pop"
+      ],
+      "price": 21.23,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mtoh6wcgo22u",
+      "knownArtist": false,
+      "year": "1985",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/27/d7/76/27d77620-6402-6406-133c-0bdaba002157/603497879137.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "There is more than one artist with this name: 1) The Cars is a popular American new wave/power pop band that formed in 1976, after going through several different incarnations. The band was founded in Boston, Massachusetts and were signed to Elektra Records in 1977.",
+      "bioUrl": "https://www.last.fm/music/The+Cars",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vv3a38",
       "source": "Amazon",
