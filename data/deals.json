@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-23T16:48:16.987Z",
+  "updatedAt": "2026-08-23T17:12:33.907Z",
   "deals": [
+    {
+      "id": "reddit-t31vwclkk",
+      "source": "Amazon",
+      "createdAt": "2026-08-23T17:02:00.000Z",
+      "text": "(Amazon) Blonde Redhead - Sit Down For Dinner @ $21.83",
+      "artist": "Blonde Redhead",
+      "title": "Sit Down For Dinner",
+      "label": "section 1",
+      "genres": [
+        "Rock",
+        "Indie Rock"
+      ],
+      "price": 21.83,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0C5VFMM41",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://i.discogs.com/6j0pwzYMu593smbWg7vZWFifqmaDFBPBU59KEy7qVmI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIz/NTIyLTE2OTU5MDY3/MjItMjE2Ni5wbmc.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Blonde Redhead is an alternative rock band originating from New York City in the early 1990s. It was formed by Kazu Makino, Maki Takahashi and Milan-born Italian twin brothers Simone Pace and Amedeo Pace. They take their name from a song by DNA, a 70's and 80's no wave band from New York.",
+      "bioUrl": "https://www.last.fm/music/Blonde+Redhead",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vwc1m1",
       "source": "Amazon",
