@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-08-23T05:29:17.127Z",
+  "updatedAt": "2026-08-23T05:54:59.500Z",
   "deals": [
+    {
+      "id": "reddit-t31vvyuzk",
+      "source": "Amazon",
+      "createdAt": "2026-08-23T05:52:35.000Z",
+      "text": "[Amazon] Mother Love Bone - Shine [180g Eco-Vinyl 12\" EP] $14.72",
+      "artist": "Mother Love Bone",
+      "title": "Shine [180g Eco-Vinyl 12\" EP]",
+      "label": "Music On Vinyl",
+      "genres": [
+        "Rock",
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "price": 14.72,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FJQDGVZL",
+      "knownArtist": false,
+      "year": "2013",
+      "cover": "https://i.discogs.com/umpjtIRINfF3DchIORFVfydZOW2WY0uHYOLQgHNAXAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzYx/NDItMTM5NDU2NTk0/MC0zOTMwLmpwZWc.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Mother Love Bone was a grunge band which formed in Seattle, Washington, United States in 1988. The band consisted of Andrew Wood (vocals, keyboards), Bruce Fairweather (guitar), Stone Gossard (guitar), Jeff Ament (bass) and Greg Gilmore (drums).",
+      "bioUrl": "https://www.last.fm/music/Mother+Love+Bone",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vvykln",
+      "source": "Amazon",
+      "createdAt": "2026-08-23T05:36:04.000Z",
+      "text": "(Amazon) Roxy Music - The Best Of [2xLP] @ $21.15",
+      "artist": "Roxy Music",
+      "title": "The Best Of [2xLP]",
+      "label": "Virgin",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Pop",
+        "Art Rock"
+      ],
+      "price": 21.15,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0B3GMZPCZ",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/06/0b/cb060b04-38e3-b831-b81e-b1ffdc03e87b/13UADIM60728.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Roxy Music are an English rock band formed in 1970 by Bryan Ferry—who became the band's lead vocalist and principal songwriter—and bassist Graham Simpson. The other longtime members are Phil Manzanera (guitar), Andy Mackay (saxophone and oboe), and Paul Thompson (drums and percussion).",
+      "bioUrl": "https://www.last.fm/music/Roxy+Music",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vvv9bg",
       "source": "eBay",
