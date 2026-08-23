@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-08-23T16:14:11.120Z",
+  "updatedAt": "2026-08-23T16:48:16.987Z",
   "deals": [
+    {
+      "id": "reddit-t31vwc1m1",
+      "source": "Amazon",
+      "createdAt": "2026-08-23T16:40:28.000Z",
+      "text": "(Amazon) Grateful Dead - The Best of the Grateful Dead [2xLP] @ $25.27",
+      "artist": "Grateful Dead",
+      "title": "The Best of the Grateful Dead [2xLP]",
+      "label": "Rhino Records",
+      "genres": [
+        "Rock",
+        "Psychedelic Rock"
+      ],
+      "price": 25.27,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0794Y8FMJ",
+      "knownArtist": false,
+      "year": "2015",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6b/ef/f2/6beff2d7-bb49-7dcf-38b6-75a1507d1340/dj.lycloaqa.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Grateful Dead was an American rock band formed in 1965 in Palo Alto, California. Remembered for an eclectic style that fused elements of rock, folk, country, jazz, bluegrass, blues, gospel, and psychedelic rock, for live performances of lengthy instrumental jams, and for its devoted fan base known…",
+      "bioUrl": "https://www.last.fm/music/Grateful+Dead",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vwbcu6",
+      "source": "Amazon",
+      "createdAt": "2026-08-23T16:14:32.000Z",
+      "text": "(Amazon) Anthony Gomes Band - Praise the Loud @ $14.99",
+      "artist": "Anthony Gomes Band",
+      "title": "Praise the Loud",
+      "label": null,
+      "genres": [],
+      "price": 14.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B07WFRBS1V",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/bd/f8/06bdf853-0fd2-05e4-2420-6cefe2fb27fe/638647817127_cover.jpg/400x400bb.jpg",
+      "bio": "Anthony Gomes (born May 14, 1970, Toronto, Ontario, Canada) is a Canadian blues and blues rock guitarist and singer. He was born to a Portuguese father and a French-Canadian mother.",
+      "bioUrl": "https://www.discogs.com/artist/2662357-Anthony-Gomes",
+      "bioSource": "Discogs"
+    },
     {
       "id": "reddit-t31vwb409",
       "source": "Amazon",
