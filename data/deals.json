@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T23:42:10.858Z",
+  "updatedAt": "2026-08-23T00:43:49.125Z",
   "deals": [
     {
       "id": "reddit-t31vvmoj3",
@@ -7716,55 +7716,6 @@
       "bio": "DIIV (previously known as Dive) is the ongoing project of Zachary Cole Smith, who has already made a name for himself in the New York music scene playing for bands such as Beach Fossils, Darwin Deez and Soft Black.",
       "bioUrl": "https://www.last.fm/music/DIIV",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vihrfn",
-      "source": "Amazon",
-      "createdAt": "2026-08-08T00:41:04.000Z",
-      "text": "[Amazon] John Coltrane - The Best Of John Coltrane $14.75",
-      "artist": "John Coltrane",
-      "title": "The Best Of John Coltrane",
-      "label": "Atlantic",
-      "genres": [
-        "Jazz",
-        "Hard Bop"
-      ],
-      "price": 14.75,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GGP1NDXF",
-      "knownArtist": false,
-      "year": "1970",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/7c/8e/ca7c8ee1-d14d-1914-3a1f-89a07ca26c22/06UMGIM00821.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "John William Coltrane (Hamlet, North Carolina, September 23, 1926 – Huntington, New York, July 17, 1967) was an American jazz saxophonist and composer. American jazz great John Coltrane emerged in the 1950s, playing tenor and soprano sax with Dizzy Gillespie, Miles Davis and Thelonious Monk.",
-      "bioUrl": "https://www.last.fm/music/John+Coltrane",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vih48a",
-      "source": "Amazon",
-      "createdAt": "2026-08-08T00:10:39.000Z",
-      "text": "[Amazon] Various Artists - Stranger Things 5 (Soundtrack from the Netflix Series) $11.81",
-      "artist": "Various Artists",
-      "title": "Stranger Things 5 (Soundtrack from the Netflix Series)",
-      "label": "Netflix",
-      "genres": [
-        "Electronic",
-        "Jazz",
-        "Rock",
-        "Reggae"
-      ],
-      "price": 11.81,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FY491LBL",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ce/c4/c5/cec4c56d-8805-7416-301c-cc225d952bfe/886446724089.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
     }
   ]
 }
