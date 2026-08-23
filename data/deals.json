@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-23T14:46:31.175Z",
+  "updatedAt": "2026-08-23T15:13:01.140Z",
   "deals": [
+    {
+      "id": "reddit-t31vw9kxi",
+      "source": "Amazon",
+      "createdAt": "2026-08-23T15:05:42.000Z",
+      "text": "[Amazon] Herbie Hancock - Maiden Voyage (Blue Note Classic Edition) - $15.09",
+      "artist": "Herbie Hancock",
+      "title": "Maiden Voyage (Blue Note Classic Edition)",
+      "label": "Blue Note",
+      "genres": [
+        "Jazz",
+        "Hard Bop",
+        "Modal"
+      ],
+      "price": 15.09,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Maiden-Voyage-Blue-Classic-Vinyl/dp/B096TRR6FC/",
+      "knownArtist": false,
+      "year": "2021",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/b6/04/64b6040c-a931-0a5c-6b7c-82e0dd5c3d4c/19UMGIM73745.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Herbert Jeffrey Hancock (born 12 April 1940) is an American jazz pianist, keyboard player, bandleader and composer.",
+      "bioUrl": "https://www.last.fm/music/Herbie+Hancock",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vw2tz1",
       "source": "Target",
@@ -7649,32 +7675,6 @@
       "enrichedVia": "discogs",
       "bio": "Stephanie Lynn \"Stevie\" Nicks (born May 26, 1948)[1] is an American singer, songwriter, and producer known for her work with the band Fleetwood Mac and as a solo artist.",
       "bioUrl": "https://www.last.fm/music/Stevie+Nicks",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31viy9ix",
-      "source": "Walmart",
-      "createdAt": "2026-08-08T15:03:10.000Z",
-      "text": "[Walmart] Charles Mingus - Blues & Roots (Rhino Reserve) $23.64",
-      "artist": "Charles Mingus",
-      "title": "Blues & Roots (Rhino Reserve)",
-      "label": "WaxTime",
-      "genres": [
-        "Jazz",
-        "Hard Bop",
-        "Post Bop"
-      ],
-      "price": 23.64,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.walmart.com/ip/Charles-Mingus-Blues-Roots-LP/19432255972?classType=REGULAR&amp;from=/search",
-      "knownArtist": false,
-      "year": "2011",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/2c/7b/db/2c7bdb9b-3c2b-ca28-df6d-17a45c575e95/dj.jpfauufx.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Charles Mingus (22nd April 1922 – 5th January 1979) was an American jazz bassist, composer, bandleader, and occasional pianist from Los Angeles. He was also known for his activism against racial injustice.",
-      "bioUrl": "https://www.last.fm/music/Charles+Mingus",
       "bioSource": "Last.fm"
     }
   ]
