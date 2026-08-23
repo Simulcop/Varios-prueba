@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T04:08:10.555Z",
+  "updatedAt": "2026-08-23T04:58:49.374Z",
   "deals": [
     {
       "id": "reddit-t31vvv9bg",
@@ -7618,60 +7618,6 @@
       "enrichedVia": "discogs",
       "bio": "Charles Mingus (22nd April 1922 – 5th January 1979) was an American jazz bassist, composer, bandleader, and occasional pianist from Los Angeles. He was also known for his activism against racial injustice.",
       "bioUrl": "https://www.last.fm/music/Charles+Mingus",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vimi1u",
-      "source": "Amazon",
-      "createdAt": "2026-08-08T04:36:23.000Z",
-      "text": "[Amazon] Andreas Vollenweider - Dancing With The Lion - $18.98",
-      "artist": "Andreas Vollenweider",
-      "title": "Dancing With The Lion",
-      "label": "CBS",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Modern Classical",
-        "Ethereal"
-      ],
-      "price": 18.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09WPP7W32",
-      "knownArtist": false,
-      "year": "1989",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/bd/ac/4abdac8d-08e1-3a46-2932-fdaa05500ac3/cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Andreas Vollenweider (b. October 4, 1953) is a multi-instrumentalist from Switzerland who specialises in the harp.",
-      "bioUrl": "https://www.last.fm/music/Andreas+Vollenweider",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vimhln",
-      "source": "Amazon",
-      "createdAt": "2026-08-08T04:35:43.000Z",
-      "text": "[Amazon] Priya Ragu - Santhosam - $19.84",
-      "artist": "Priya Ragu",
-      "title": "Santhosam",
-      "label": "Warner Records",
-      "genres": [
-        "Hip Hop",
-        "Funk / Soul",
-        "Pop",
-        "Folk, World, & Country"
-      ],
-      "price": 19.84,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CFR33Z6R",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e4/d3/f5/e4d3f57f-8f7c-bb0e-aa4c-b4bf043370d8/5054197703669.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Tamil-Swiss musician Priya Ragu flavors her own take on R&B with a depth of musical influences from her Sri Lankan heritage. Priya is not only a remarkable talent but also one with a sound quite unlike anyone else.",
-      "bioUrl": "https://www.last.fm/music/Priya+Ragu",
       "bioSource": "Last.fm"
     }
   ]
