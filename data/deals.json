@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T00:43:49.125Z",
+  "updatedAt": "2026-08-23T02:18:30.902Z",
   "deals": [
     {
       "id": "reddit-t31vvmoj3",
@@ -7689,32 +7689,6 @@
       "enrichedVia": "discogs",
       "bio": "Bella Poarch (born February 8, 1997) is a Filipino-American social media personality and singer. On August 17, 2020, she created the most liked video on TikTok, in which she lip syncs to the song \"Soph Aspin Send\" by British rapper Millie B.",
       "bioUrl": "https://www.last.fm/music/Bella+Poarch",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31viiibp",
-      "source": "Amazon",
-      "createdAt": "2026-08-08T01:17:11.000Z",
-      "text": "[Amazon] Diiv - Deceiver $17.99",
-      "artist": "Diiv",
-      "title": "Deceiver",
-      "label": "Captured Tracks",
-      "genres": [
-        "Rock",
-        "Indie Rock",
-        "Shoegaze"
-      ],
-      "price": 17.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B07VJWYCKQ",
-      "knownArtist": false,
-      "year": "2019",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/d1/fc/56d1fc61-5ba3-6c4e-61e7-388932db3c5a/cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "DIIV (previously known as Dive) is the ongoing project of Zachary Cole Smith, who has already made a name for himself in the New York music scene playing for bands such as Beach Fossils, Darwin Deez and Soft Black.",
-      "bioUrl": "https://www.last.fm/music/DIIV",
       "bioSource": "Last.fm"
     }
   ]
