@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T18:15:07.193Z",
+  "updatedAt": "2026-08-23T18:53:55.205Z",
   "deals": [
     {
       "id": "reddit-t31vwefgi",
@@ -7902,57 +7902,6 @@
       "enrichedVia": "discogs",
       "bio": "Poison Idea was formed in 1980 in Portland, OR by vocalist Jerry A. (aka Jerry Lang). The initial lineup consisted of Jerry A., Tom “Pig Champion” Roberts (guitar), Glen Estes (bass), and Dean Johnson (drums).",
       "bioUrl": "https://www.last.fm/music/Poison+Idea",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vj3nae",
-      "source": "Amazon",
-      "createdAt": "2026-08-08T18:41:15.000Z",
-      "text": "[Amazon] Cass McCombs - Mangy Love - 2LP - $15.99",
-      "artist": "Cass McCombs",
-      "title": "Mangy Love - 2LP",
-      "label": "Anti-",
-      "genres": [
-        "Folk, World, & Country"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B01G2OMYK6",
-      "knownArtist": false,
-      "year": "2016",
-      "cover": "https://i.discogs.com/j9AZJnksAYKPBrE6OVv14KvWe4B-iS5A1anKAQTAIZY/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTgy/NTktMTQ3MzYxMDc5/Ny0zMDI2LmpwZWc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Cass McCombs (born in Concord, California in 1977) is an American singer-songwriter and performer.",
-      "bioUrl": "https://www.last.fm/music/Cass+McCombs",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vj39v0",
-      "source": "Amazon",
-      "createdAt": "2026-08-08T18:26:09.000Z",
-      "text": "[Amazon] Michael Jackson - Number Ones - 2LP - $17.40",
-      "artist": "Michael Jackson",
-      "title": "Number Ones - 2LP",
-      "label": "Epic",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Funk / Soul",
-        "Pop"
-      ],
-      "price": 17.4,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FZL43997",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/c6/c9/67c6c9b0-e879-7e4d-fcda-dc52f758ec43/888880457066.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Michael Joseph Jackson (August 29, 1958 - June 25, 2009) was an American singer, songwriter, dancer, and philanthropist. Commonly known as the \"King of Pop\", he was one of the most commercially successful and influential entertainers in popular music.",
-      "bioUrl": "https://www.last.fm/music/Michael+Jackson",
       "bioSource": "Last.fm"
     }
   ]
