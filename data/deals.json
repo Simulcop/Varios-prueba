@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-08-23T02:18:30.902Z",
+  "updatedAt": "2026-08-23T03:27:32.297Z",
   "deals": [
+    {
+      "id": "reddit-t31vvv9bg",
+      "source": "eBay",
+      "createdAt": "2026-08-23T02:41:01.000Z",
+      "text": "[eBay] Theo Lawrence – Pickin' & Singin' $15.00 (Free Shipping)",
+      "artist": null,
+      "title": "Theo Lawrence – Pickin' & Singin' $15.00 (Free Shipping)",
+      "label": null,
+      "genres": [],
+      "price": 15,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://ebay.us/jj57gw",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e7/0f/75/e70f7515-582f-5205-ce4b-7c0063125ef8/Cover.jpg/400x400bb.jpg"
+    },
+    {
+      "id": "reddit-t31vvv6fs",
+      "source": "eBay",
+      "createdAt": "2026-08-23T02:36:57.000Z",
+      "text": "[eBay] Held By Trees – Solace $7.23 (Free Shipping)",
+      "artist": null,
+      "title": "Held By Trees – Solace $7.23 (Free Shipping)",
+      "label": null,
+      "genres": [],
+      "price": 7.23,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://ebay.us/RB1KpW",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a8/95/58/a8955824-42a4-af06-8bb9-18cdeab940d7/artwork.jpg/400x400bb.jpg"
+    },
     {
       "id": "reddit-t31vvmoj3",
       "source": "Amazon",
