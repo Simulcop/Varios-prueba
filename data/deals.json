@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-08-23T15:13:01.140Z",
+  "updatedAt": "2026-08-23T15:43:56.208Z",
   "deals": [
+    {
+      "id": "reddit-t31vwa8it",
+      "source": "Amazon",
+      "createdAt": "2026-08-23T15:31:19.000Z",
+      "text": "(Amazon) Lilly Hiatt & The Dropped Ponies - Royal Blue @ $10.42",
+      "artist": "Lilly Hiatt & The Dropped Ponies",
+      "title": "Royal Blue",
+      "label": null,
+      "genres": [],
+      "price": 10.42,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B00S2SYT3Q",
+      "knownArtist": false
+    },
     {
       "id": "reddit-t31vw9kxi",
       "source": "Amazon",
