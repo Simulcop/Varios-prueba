@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T17:12:33.907Z",
+  "updatedAt": "2026-08-23T17:41:59.777Z",
   "deals": [
     {
       "id": "reddit-t31vwclkk",
@@ -164,6 +164,31 @@
       "enrichedVia": "discogs",
       "bio": "Udo Dirkschneider, the former Accept singer has been releasing music through his project Dirkschneider & The Old Gang aka DATOG.",
       "bioUrl": "https://www.last.fm/music/Dirkschneider+&+The+Old+Gang",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vwai9l",
+      "source": "Amazon",
+      "createdAt": "2026-08-23T15:41:54.000Z",
+      "text": "(Amazon) Anti-Nowhere League - Scum [Red Vinyl] @ $17.98",
+      "artist": "Anti-Nowhere League",
+      "title": "Scum [Red Vinyl]",
+      "label": "Knock Out Records",
+      "genres": [
+        "Rock",
+        "Punk"
+      ],
+      "price": 17.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0C7J2ST1N",
+      "knownArtist": false,
+      "year": "1997",
+      "cover": "https://i.discogs.com/GYpym3hj3XY0Jo4tsbuWg25kjEkhICUS__7oUeN7IqI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTUx/NDgtMTM4MDI5MjY1/MS0yMDkzLmpwZWc.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "The Anti-Nowhere League are a UK Punk band formed in 1980, by lead singer Animal (real name Nick Kulmer) and rhythm guitarist Magoo (real name Chris Exall), with Bones on Drums and Baggy Elvy on Bass.",
+      "bioUrl": "https://www.last.fm/music/Anti-Nowhere+League",
       "bioSource": "Last.fm"
     },
     {
