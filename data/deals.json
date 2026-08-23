@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T19:15:42.908Z",
+  "updatedAt": "2026-08-23T19:42:20.515Z",
   "deals": [
     {
       "id": "reddit-t31vwefgi",
@@ -7856,52 +7856,6 @@
       "enrichedVia": "discogs",
       "bio": "Carrie Marie Underwood (born March 10, 1983) is an American singer who rose to prominence after winning the fourth season of American Idol in 2005.",
       "bioUrl": "https://www.last.fm/music/Carrie+Underwood",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vj4v63",
-      "source": "eBay",
-      "createdAt": "2026-08-08T19:31:29.000Z",
-      "text": "[eBay] Carlos Rafael Rivera - Griselda: Original Soundtrack From the Netflix Series $7.99 (Free Shipping)",
-      "artist": "Carlos Rafael Rivera",
-      "title": "Griselda: Original Soundtrack From the Netflix Series $7.99 (Free Shipping)",
-      "label": null,
-      "genres": [],
-      "price": 7.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://ebay.us/7fDkF0",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ee/19/9b/ee199bfe-dd7b-c96a-07f6-20f7c1dc437c/810123161485.png/400x400bb.jpg",
-      "bio": "Carlos Rafael Rivera (born 18 August, 1970) is an American composer based out of Guatemala. In 2014, his music score for the movie A Walk Among the Tombstones advanced for Oscar in the Best Original Score category.",
-      "bioUrl": "https://www.last.fm/music/Carlos+Rafael+Rivera",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vj4ng3",
-      "source": "Amazon",
-      "createdAt": "2026-08-08T19:22:29.000Z",
-      "text": "[Amazon] Poison Idea - War All The Time (Opaque Green Vinyl) $19.74",
-      "artist": "Poison Idea",
-      "title": "War All The Time (Opaque Green Vinyl)",
-      "label": "Alchemy Records",
-      "genres": [
-        "Rock",
-        "Hardcore",
-        "Punk"
-      ],
-      "price": 19.74,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GQCBKM3C",
-      "knownArtist": false,
-      "year": "1987",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9b/89/fb/9b89fb20-d67e-4ee2-74e0-55661accafdf/191061487692.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Poison Idea was formed in 1980 in Portland, OR by vocalist Jerry A. (aka Jerry Lang). The initial lineup consisted of Jerry A., Tom “Pig Champion” Roberts (guitar), Glen Estes (bass), and Dean Johnson (drums).",
-      "bioUrl": "https://www.last.fm/music/Poison+Idea",
       "bioSource": "Last.fm"
     }
   ]
