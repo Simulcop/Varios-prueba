@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T05:54:59.500Z",
+  "updatedAt": "2026-08-23T06:23:46.721Z",
   "deals": [
     {
       "id": "reddit-t31vvyuzk",
@@ -7618,59 +7618,6 @@
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/91/cc/37/91cc3757-159a-0b90-1074-7e5fab69cb4a/842812153174.jpg/400x400bb.jpg",
       "bio": "Jordan Terrell Carter (born September 13, 1996 which is confirmed via recent bodycam footage from last year), known professionally as Playboi Carti, is an American rapper.",
       "bioUrl": "https://www.last.fm/music/Playboi+Carti",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vioaff",
-      "source": "Amazon",
-      "createdAt": "2026-08-08T06:15:00.000Z",
-      "text": "[Amazon] My Panda Shall Fly - Tropical - $15.99",
-      "artist": "My Panda Shall Fly",
-      "title": "Tropical",
-      "label": "Soundway",
-      "genres": [
-        "Electronic",
-        "Folk, World, & Country",
-        "Abstract",
-        "Experimental"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00KX3UZ54",
-      "knownArtist": false,
-      "year": "2014",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/de/40/e3/de40e377-6760-a14a-59fa-3598067a3ff2/5060091554856.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "With a clout that sees him gigging relentlessly and garnering plenty of support in the press, it's mad to think that Suren Seneviratne is still in the early stages of his career with just a smattering of releases behind him.",
-      "bioUrl": "https://www.last.fm/music/My+Panda+Shall+Fly",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vio7g9",
-      "source": "Amazon",
-      "createdAt": "2026-08-08T06:10:23.000Z",
-      "text": "[Amazon] Charles Mingus - Blues & Roots - $23.64",
-      "artist": "Charles Mingus",
-      "title": "Blues & Roots",
-      "label": "WaxTime",
-      "genres": [
-        "Jazz",
-        "Hard Bop",
-        "Post Bop"
-      ],
-      "price": 23.64,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GL34Y7S8",
-      "knownArtist": false,
-      "year": "2011",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/2c/7b/db/2c7bdb9b-3c2b-ca28-df6d-17a45c575e95/dj.jpfauufx.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Charles Mingus (22nd April 1922 – 5th January 1979) was an American jazz bassist, composer, bandleader, and occasional pianist from Los Angeles. He was also known for his activism against racial injustice.",
-      "bioUrl": "https://www.last.fm/music/Charles+Mingus",
       "bioSource": "Last.fm"
     }
   ]
