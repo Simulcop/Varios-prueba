@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T03:27:32.297Z",
+  "updatedAt": "2026-08-23T04:08:10.555Z",
   "deals": [
     {
       "id": "reddit-t31vvv9bg",
@@ -7672,57 +7672,6 @@
       "enrichedVia": "discogs",
       "bio": "Tamil-Swiss musician Priya Ragu flavors her own take on R&B with a depth of musical influences from her Sri Lankan heritage. Priya is not only a remarkable talent but also one with a sound quite unlike anyone else.",
       "bioUrl": "https://www.last.fm/music/Priya+Ragu",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vily2h",
-      "source": "Amazon",
-      "createdAt": "2026-08-08T04:07:44.000Z",
-      "text": "[Amazon] Quickly Quickly - I Heard That Noise (Green) - $22.99",
-      "artist": "Quickly Quickly",
-      "title": "I Heard That Noise (Green)",
-      "label": "Ghostly International",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Folk, World, & Country",
-        "Psychedelic"
-      ],
-      "price": 22.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0DTSDYNS9",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/ad/a7/44ada75c-95b8-43dd-3f7d-7f1573e97916/50830.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Hip Hop producer from Portland, Oregon (USA).",
-      "bioUrl": "https://www.discogs.com/artist/5059940-quickly-quickly",
-      "bioSource": "Discogs"
-    },
-    {
-      "id": "reddit-t31vilo6i",
-      "source": "Amazon",
-      "createdAt": "2026-08-08T03:54:03.000Z",
-      "text": "[Amazon] Bella Poarch - Dolls EP - $18.97",
-      "artist": "Bella Poarch",
-      "title": "Dolls EP",
-      "label": "Warner Records",
-      "genres": [
-        "Pop"
-      ],
-      "price": 18.97,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BMW49C6R",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/40/0c/cf400cb7-14f6-5f51-419d-4568a8a87133/054391240651.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Bella Poarch (born February 8, 1997) is a Filipino-American social media personality and singer. On August 17, 2020, she created the most liked video on TikTok, in which she lip syncs to the song \"Soph Aspin Send\" by British rapper Millie B.",
-      "bioUrl": "https://www.last.fm/music/Bella+Poarch",
       "bioSource": "Last.fm"
     }
   ]
