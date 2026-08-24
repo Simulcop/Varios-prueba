@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-08-24T17:02:46.078Z",
+  "updatedAt": "2026-08-24T17:54:47.543Z",
   "deals": [
+    {
+      "id": "reddit-t31vxa240",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T17:52:35.000Z",
+      "text": "[Amazon] Various Artists – Counter Intuitive Presents: Cosmic Debris, Vol 2 $12.10",
+      "artist": null,
+      "title": "Various Artists – Counter Intuitive Presents: Cosmic Debris, Vol 2",
+      "label": null,
+      "genres": [],
+      "price": 12.1,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Counter-Intuitive-Presents-Cosmic-Debris/dp/B0FPLSQ81Q/",
+      "knownArtist": false
+    },
     {
       "id": "reddit-t31vx8do3",
       "source": "Amazon",
@@ -8037,58 +8053,6 @@
       "enrichedVia": "discogs",
       "bio": "311 was formed in 1990 in Omaha, Nebraska, by singer/guitarist Nick Hexum, singer S.A. Martinez, guitarist Tim Mahoney, drummer Chad Sexton and bassist P-Nut. The band now resides in Los Angeles, California. 311 mix rock, rap, reggae and funk into their own unique sound.",
       "bioUrl": "https://www.last.fm/music/311",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vjvhb3",
-      "source": "Amazon",
-      "createdAt": "2026-08-09T17:16:21.000Z",
-      "text": "[Amazon] Chaka Khan - Epiphany: The Best Of Chaka Khan - $17.33",
-      "artist": "Chaka Khan",
-      "title": "Epiphany: The Best Of Chaka Khan",
-      "label": "Rhino Records",
-      "genres": [
-        "Funk / Soul",
-        "Soul",
-        "Funk",
-        "Disco"
-      ],
-      "price": 17.33,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mso3lgebjc2c",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/55/fb/1355fbb0-60f1-d15e-12cb-ad0008b99524/mzi.zqdpvvdq.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Yvette Marie Stevens (born March 23, 1953), known professionally as Chaka Khan, is an American singer and songwriter. She began her career in the early 1970s as the lead vocalist of the funk band Rufus.",
-      "bioUrl": "https://www.last.fm/music/Chaka+Khan",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vjv8t2",
-      "source": "Amazon",
-      "createdAt": "2026-08-09T17:07:00.000Z",
-      "text": "[Amazon] Alphaville - FOREVER! Best Of 40 Years - $21.23",
-      "artist": "Alphaville",
-      "title": "FOREVER! Best Of 40 Years",
-      "label": "Warner Music Central Europe",
-      "genres": [
-        "Electronic",
-        "Synth-pop"
-      ],
-      "price": 21.23,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/FOREVER-Best-40-Years-Alphaville/dp/B0D85WWYZ6",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/d8/61/05d861b2-907d-4ee0-b560-23362182915a/5021732490711.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Alphaville is a German synth-pop band formed in 1982 in Münster. The group was founded by singer Marian Gold together with musicians Bernhard Lloyd and Frank Mertens, and rose to prominence during the 1980s with singles including \"Forever Young\", \"Big in Japan\", \"Sounds Like a Melody\", \"The Jet…",
-      "bioUrl": "https://www.last.fm/music/Alphaville",
       "bioSource": "Last.fm"
     }
   ]
