@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-24T10:08:32.023Z",
+  "updatedAt": "2026-08-24T10:59:59.735Z",
   "deals": [
+    {
+      "id": "reddit-t31vwywrx",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T10:26:17.000Z",
+      "text": "[Amazon] Humble Pie - As Safe as Yesterday Is $24.60",
+      "artist": "Humble Pie",
+      "title": "As Safe as Yesterday Is",
+      "label": "Immediate",
+      "genres": [
+        "Rock",
+        "Blues Rock",
+        "Hard Rock",
+        "Pop Rock"
+      ],
+      "price": 24.6,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GQC4DFWJ/",
+      "knownArtist": false,
+      "year": "1969",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/76/4e/14/764e1400-f1a9-73a2-4b03-0794ec0247c6/LM00196037.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Humble Pie is a British rock band originally active from 1969 to 1975, with later reunions and lineups continuing into the 21st century. The group is noted for its hard rock sound and dynamic live performances, particularly during its early 1970s period on A&M Records.",
+      "bioUrl": "https://www.last.fm/music/Humble+Pie",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vwyba3",
       "source": "Amazon",
