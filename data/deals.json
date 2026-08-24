@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-24T03:28:43.158Z",
+  "updatedAt": "2026-08-24T04:20:55.612Z",
   "deals": [
+    {
+      "id": "reddit-t31vwrn29",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T03:34:10.000Z",
+      "text": "(Amazon) [Regional Coupon] Grinderman - Grinderman 2 RMX Eco [2xLP] @ $10.29",
+      "artist": "Grinderman",
+      "title": "Grinderman 2 RMX Eco [2xLP]",
+      "label": null,
+      "genres": [],
+      "price": 10.29,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0F78MRMHT",
+      "knownArtist": false,
+      "bio": "Grinderman was an Australian-British alternative rock band that formed in London, United Kingdom, in 2006. Since its inception, the band included Nick Cave (vocals, guitar, organ, piano), Warren Ellis (tenor guitar, electric mandolin, violin, viola, guitar, backing vocals), Martyn P.",
+      "bioUrl": "https://www.last.fm/music/Grinderman",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vwrkzi",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T03:31:14.000Z",
+      "text": "(Amazon) Cian Nugent & the Cosmos - Born With The Caul @ $11.31",
+      "artist": "Cian Nugent & the Cosmos",
+      "title": "Born With The Caul",
+      "label": "No Quarter",
+      "genres": [
+        "Rock",
+        "Folk, World, & Country",
+        "Folk"
+      ],
+      "price": 11.31,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B00FA1DFVK",
+      "knownArtist": false,
+      "year": "2013",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2d/f8/56/2df8562c-e7b0-465e-a039-649291807948/cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs"
+    },
     {
       "id": "reddit-t31vwqga8",
       "source": "Amazon",
