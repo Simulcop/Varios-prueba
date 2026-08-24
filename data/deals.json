@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-24T00:41:52.044Z",
+  "updatedAt": "2026-08-24T02:17:18.280Z",
   "deals": [
+    {
+      "id": "reddit-t31vwp9xe",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T01:40:04.000Z",
+      "text": "[Amazon] Zetra - Zetra $13.40",
+      "artist": "Zetra",
+      "title": "Zetra",
+      "label": "Nuclear Blast Records",
+      "genres": [
+        "Rock",
+        "Goth Rock",
+        "Gothic Metal"
+      ],
+      "price": 13.4,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CZK38232",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/bb/24/c4bb24a5-71da-5543-0c4e-e625195d39e2/cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "A shadowy vessel for intricate storytelling by way of fuzzed-out guitars and majestic melody. An eternity of heavy metal exploration in their formative years has resulted in a solid and eclectic foundation upon which they have layered shimmering synths and ethereal shoegaze elements.",
+      "bioUrl": "https://www.last.fm/music/Zetra",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vwefgi",
       "source": "Amazon",
