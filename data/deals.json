@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-24T05:08:37.188Z",
+  "updatedAt": "2026-08-24T06:00:06.530Z",
   "deals": [
+    {
+      "id": "reddit-t31vwu0pc",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T05:41:49.000Z",
+      "text": "[Amazon] Thomas Rhett - About A Woman (Bleach Translucent) - $22.17",
+      "artist": "Thomas Rhett",
+      "title": "About A Woman (Bleach Translucent)",
+      "label": "The Valory Music Co.",
+      "genres": [
+        "Folk, World, & Country",
+        "Country"
+      ],
+      "price": 22.17,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0D6CMNNTG",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/9b/b1/e89bb1f8-3eea-fb77-60a6-3d3b084da2eb/24BMR0005400.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Thomas Rhett Akins, Jr. (born in Valdosta, Georgia) is an American country music singer known professionally as Thomas Rhett. He is the son of singer-songwriter Rhett Akins.[1] Here is some background information on Thomas Rhett from the Something To Do With My Hands Songfacts.",
+      "bioUrl": "https://www.last.fm/music/Thomas+Rhett",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vwu04c",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T05:40:53.000Z",
+      "text": "[Amazon] Geoff Farina - FFF [2xLP] - $27.99",
+      "artist": "Geoff Farina",
+      "title": "FFF [2xLP]",
+      "label": "Numero Group",
+      "genres": [
+        "Rock",
+        "Folk, World, & Country",
+        "Acoustic",
+        "Folk"
+      ],
+      "price": 27.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GQVXBQ3W",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/51/93/fd/5193fdfa-895c-20b7-bd5e-1b4a8238f916/35696.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Geoff Farina is an American guitarist, songwriter and singer. He has been a member of bands such as Karate, The Secret Stars and, in later years, Glorytellers. He released albums with musical partners such as Luther Gray and Chris Brokaw.",
+      "bioUrl": "https://www.last.fm/music/Geoff+Farina",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vwtf3j",
       "source": "Amazon",
@@ -8081,82 +8133,6 @@
       "enrichedVia": "discogs",
       "bio": "Toadies is an alternative rock band from Fort Worth, Texas. The band's best known lineup consisted of Vaden Todd Lewis (guitar, vocals) Mark Reznicek (drums), Lisa Umbarger (bass), and Clark Vogeler (guitar).",
       "bioUrl": "https://www.last.fm/music/Toadies",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vjhfa9",
-      "source": "Amazon",
-      "createdAt": "2026-08-09T05:33:31.000Z",
-      "text": "[Amazon] Mariah Carey - Caution - $21.98",
-      "artist": "Mariah Carey",
-      "title": "Caution",
-      "label": "Epic",
-      "genres": [
-        "Funk / Soul",
-        "Contemporary R&B"
-      ],
-      "price": 21.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B07J35QG3G",
-      "knownArtist": false,
-      "year": "2019",
-      "cover": "https://i.discogs.com/0pbcuGmPPwaUMFAJz8238upx4BY4EUSqGnWiOCKMa68/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ5/Mzg5LTE1NDc5OTU0/OTUtNDY1MS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Mariah Carey (born March 27, 1970) is an American singer, songwriter, record producer, author and actress. She is known for her five-octave vocal range, melismatic singing style, prolific songwriting, and frequent use of the whistle register.",
-      "bioUrl": "https://www.last.fm/music/Mariah+Carey",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vjhevx",
-      "source": "Amazon",
-      "createdAt": "2026-08-09T05:32:51.000Z",
-      "text": "[Amazon] Squarepusher - Kammerkonzert [2xLP] - $21.00",
-      "artist": "Squarepusher",
-      "title": "Kammerkonzert [2xLP]",
-      "label": "Warp Records",
-      "genres": [
-        "Electronic",
-        "Jazz",
-        "Experimental"
-      ],
-      "price": 21,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GPY7Q437",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/0a/07/160a0752-bb5b-0205-4164-26e3c6ca4368/5056818805707.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Squarepusher is a pseudonym of Chelmsford, Essex, England, electronic musician Tom Jenkinson (b. 1975), best known for his experimental drum and bass, with a heavy jazz fusion influence.",
-      "bioUrl": "https://www.last.fm/music/Squarepusher",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vjhe1x",
-      "source": "Amazon",
-      "createdAt": "2026-08-09T05:31:32.000Z",
-      "text": "[Amazon] The Weakerthans - LEFT & LEAVING [2xLP] - $21.98",
-      "artist": "The Weakerthans",
-      "title": "LEFT & LEAVING [2xLP]",
-      "label": "Epitaph",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Indie Rock"
-      ],
-      "price": 21.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B005P89EPE",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/14/cf/95/14cf9592-7175-c477-a8d6-30a37eb65778/0045778692064.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Weakerthans is a Canadian indie rock/folk band headed by former Propagandhi member John K. Samson and also comprising guitarist Stephen Carroll, bassist Greg Smith, and drummer Jason Tait. The band last released an album, Live at the Burton Cummings Theatre, in 2010.",
-      "bioUrl": "https://www.last.fm/music/The+Weakerthans",
       "bioSource": "Last.fm"
     }
   ]
