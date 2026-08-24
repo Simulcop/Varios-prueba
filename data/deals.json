@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-08-24T02:17:18.280Z",
+  "updatedAt": "2026-08-24T03:28:43.158Z",
   "deals": [
+    {
+      "id": "reddit-t31vwqga8",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T02:36:13.000Z",
+      "text": "[Amazon] Black Crowes - A Pound of Feathers (Amazon Exclusive) [Red] - $16.07",
+      "artist": "Black Crowes",
+      "title": "A Pound of Feathers (Amazon Exclusive) [Red]",
+      "label": "Silver Arrow",
+      "genres": [
+        "Rock",
+        "Blues Rock",
+        "Southern Rock"
+      ],
+      "price": 16.07,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GFF1JP2X",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/2c/1a/4d2c1abd-323c-9933-a020-5374c8791ffe/199806667569.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Black Crowes is a blues-oriented hard rock jam band formed 1989 in Atlanta, Georgia, United States that has sold over 15 million albums and were hailed by Melody Maker as \"The Most Rock N' Roll Rock N' Roll Band In The World\" The band has toured with acts such as Aerosmith, ZZ Top, Jimmy Page,…",
+      "bioUrl": "https://www.last.fm/music/The+Black+Crowes",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vwq2sp",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T02:17:57.000Z",
+      "text": "[Amazon] The Front Bottoms - Ann $12.39",
+      "artist": "The Front Bottoms",
+      "title": "Ann",
+      "label": "Wuakaskole Records",
+      "genres": [
+        "Rock",
+        "Acoustic",
+        "Indie Rock",
+        "Folk"
+      ],
+      "price": 12.39,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Ann-Front-Bottoms/dp/B0H3WHM2NF",
+      "knownArtist": false,
+      "year": "2018",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/f4/86/daf486a2-1622-4bda-486d-ba29b1992ec2/55483.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Front Bottoms are a two-piece indie / pop / acoustic band based out of Bergen County, NJ, USA. The band was formed in 2006 and originally had three members: Brian Sella (vocals, guitar, lyricist), Brian Uychich (keyboard, vocals) and Matt Uychich (drums).",
+      "bioUrl": "https://www.last.fm/music/The+Front+Bottoms",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vwp9xe",
       "source": "Amazon",
