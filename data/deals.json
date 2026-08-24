@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-08-24T12:27:39.900Z",
+  "updatedAt": "2026-08-24T13:29:45.273Z",
   "deals": [
+    {
+      "id": "reddit-t31vx2ddm",
+      "source": "CHILLHOP/LOFI",
+      "createdAt": "2026-08-24T13:09:08.000Z",
+      "text": "(CHILLHOP/LOFI) Free shipping to USA for the next 24 Hours",
+      "artist": null,
+      "title": "Free shipping to USA for the next 24 Hours",
+      "label": null,
+      "genres": [],
+      "price": null,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "http://shop.chillhop.com",
+      "knownArtist": false
+    },
     {
       "id": "reddit-t31vwzjyj",
       "source": "Amazon",
@@ -8356,58 +8372,6 @@
       "enrichedVia": "discogs",
       "bio": "Led Zeppelin were an English rock band formed in London in 1968. The group consisted of Robert Plant on vocals, Jimmy Page on guitar, John Paul Jones on bass and keyboards, and John Bonham on drums.",
       "bioUrl": "https://www.last.fm/music/Led+Zeppelin",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vjpxhn",
-      "source": "Target",
-      "createdAt": "2026-08-09T13:29:19.000Z",
-      "text": "[Target] Grateful Dead - Skeletons From The Closet: Best Of Grateful Dead - $12.22",
-      "artist": "Grateful Dead",
-      "title": "Skeletons From The Closet: Best Of Grateful Dead",
-      "label": "Warner Records",
-      "genres": [
-        "Rock",
-        "Folk Rock",
-        "Classic Rock"
-      ],
-      "price": 12.22,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3msnovcrsss2r",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/b6/e2/e9b6e214-1f54-8386-913b-e245fa960ff6/603497920761.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Grateful Dead was an American rock band formed in 1965 in Palo Alto, California. Remembered for an eclectic style that fused elements of rock, folk, country, jazz, bluegrass, blues, gospel, and psychedelic rock, for live performances of lengthy instrumental jams, and for its devoted fan base known…",
-      "bioUrl": "https://www.last.fm/music/Grateful+Dead",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vjpuyh",
-      "source": "Target",
-      "createdAt": "2026-08-09T13:26:05.000Z",
-      "text": "[Target] Chicago - Greatest Hits - Yellow Vinyl - $12.02",
-      "artist": "Chicago",
-      "title": "Greatest Hits - Yellow Vinyl",
-      "label": "Rhino Records",
-      "genres": [
-        "Rock",
-        "Soft Rock",
-        "Pop Rock"
-      ],
-      "price": 12.02,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3msnookr2sk2r",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://i.discogs.com/ItSAtG_vLjEydNA_Rs1VZeNcMLSecqRTLdZUWZ9YSm8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUz/NzI0LTE1OTUyOTYy/OTctNTcyOS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Chicago is an American rock band formed in 1967 in Chicago, Illinois. The group has described itself as a \"rock and roll band with horns,\" and its music incorporates elements of classical music, jazz, R&B, and pop. The band emerged from several Chicago-area groups in the late 1960s.",
-      "bioUrl": "https://www.last.fm/music/Chicago",
       "bioSource": "Last.fm"
     }
   ]
