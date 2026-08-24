@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-24T10:59:59.735Z",
+  "updatedAt": "2026-08-24T11:32:10.659Z",
   "deals": [
+    {
+      "id": "reddit-t31vwzjyj",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T11:00:15.000Z",
+      "text": "[Amazon] Ian Anderson - Walk Into Light (The Bruce Soord 2026 Remix) $20.80",
+      "artist": "Ian Anderson",
+      "title": "Walk Into Light (The Bruce Soord 2026 Remix)",
+      "label": "Chrysalis",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Folk Rock",
+        "Synth-pop"
+      ],
+      "price": 20.8,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GCWTXZ2P/",
+      "knownArtist": false,
+      "year": "1983",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/76/5e/d0/765ed01c-a88f-5ce9-d09b-aff117353384/5099907040559_1417x1417_300dpi.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Ian Scott Anderson, MBE (b. 1947) is a Scottish singer, songwriter, and multi-instrumentalist, best known for his work as the leader and flautist of British rock band Jethro Tull. Anderson was born on 10th August 1947, the youngest of three children.",
+      "bioUrl": "https://www.last.fm/music/Ian+Anderson",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vwywrx",
       "source": "Amazon",
