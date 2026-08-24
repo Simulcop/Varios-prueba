@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T21:51:04.669Z",
+  "updatedAt": "2026-08-24T22:15:51.306Z",
   "deals": [
     {
       "id": "reddit-t31vxe2ei",
@@ -8174,30 +8174,6 @@
       "bio": "The Judds was an American country music duo of Naomi Judd (born Diana Ellen Judd on 11 January 1946; died 30 April 2022) and her daughter Wynonna Judd. The duo signed to RCA Nashville in 1983 and released six studio albums between then and 1991.",
       "bioUrl": "https://www.last.fm/music/The+Judds",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vk2uuq",
-      "source": "Polyvinyl Records",
-      "createdAt": "2026-08-09T22:10:53.000Z",
-      "text": "[Polyvinyl Records] Garage Sale",
-      "artist": null,
-      "title": "Garage Sale",
-      "label": "Up Records",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Electro",
-        "Indie Rock"
-      ],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.polyvinylrecords.com/collections/garage-sale-vinyl",
-      "knownArtist": false,
-      "year": "1995",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/76/ef/e276efbc-1a0f-4f45-9e19-f7ac620048db/637601200128_Cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
     }
   ]
 }
