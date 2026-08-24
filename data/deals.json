@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-08-24T15:07:26.086Z",
+  "updatedAt": "2026-08-24T16:02:04.908Z",
   "deals": [
+    {
+      "id": "reddit-t31vx5lok",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T15:13:24.000Z",
+      "text": "(Amazon) Black Country Communion - V [2xLP] @ $22.44",
+      "artist": "Black Country Communion",
+      "title": "V [2xLP]",
+      "label": "J&R Adventures",
+      "genres": [
+        "Rock",
+        "Blues",
+        "Blues Rock",
+        "Classic Rock"
+      ],
+      "price": 22.44,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CWSHM3DC",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4a/f9/cd/4af9cd65-b8b6-9abf-2649-a75f683ccb3e/196922848520_Cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Black Country Communion is an English-American hard rock band based in Los Angeles, California active from 2009-2013 and 2016-present.",
+      "bioUrl": "https://www.last.fm/music/Black+Country+Communion",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vx5ief",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T15:09:57.000Z",
+      "text": "(Amazon) Ginger Root - Shinbangumi @ $14.98",
+      "artist": "Ginger Root",
+      "title": "Shinbangumi",
+      "label": "Ghostly International",
+      "genres": [
+        "Funk / Soul",
+        "Pop",
+        "City Pop",
+        "Indie Pop"
+      ],
+      "price": 14.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0D4X3KN8C",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/b3/60/1fb360aa-00a4-f83b-2f47-5a068640c2c5/45835.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Ginger Root (姜根) is an American indie soul music project from Huntington Beach, California, led by singer-songwriter and instrumentalist Cameron Lew.",
+      "bioUrl": "https://www.last.fm/music/Ginger+Root",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vx50ls",
       "source": "Walmart",
@@ -8073,26 +8127,6 @@
       "enrichedVia": "discogs",
       "bio": "Warren William Zevon (January 24, 1947 - September 7, 2003) was an American rock singer-songwriter and musician noted for including his unique and sometimes sardonic opinions of life in his musical lyrics, composing songs that were sometimes humorous and often had political or historical themes.",
       "bioUrl": "https://www.last.fm/music/Warren+Zevon",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vjsp93",
-      "source": "Amazon",
-      "createdAt": "2026-08-09T15:25:53.000Z",
-      "text": "[Amazon] Red Hot Chili Peppers - By The Way [LP] $30.91 (22% off)",
-      "artist": "Red Hot Chili Peppers",
-      "title": "By The Way [LP] $30.91 (22% off)",
-      "label": null,
-      "genres": [],
-      "price": 30.91,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B000068G5F",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/22/3e/ed/223eedeb-3ad1-2bd8-c863-ab6fb39d658a/093624920137.jpg/400x400bb.jpg",
-      "bio": "Red Hot Chili Peppers is an American rock band formed in Los Angeles in 1982, consisting of Anthony Kiedis (vocals), Flea (bass), John Frusciante (guitar), and Chad Smith (drums).",
-      "bioUrl": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
       "bioSource": "Last.fm"
     }
   ]
