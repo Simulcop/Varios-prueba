@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-24T22:50:10.337Z",
+  "updatedAt": "2026-08-24T23:14:29.751Z",
   "deals": [
+    {
+      "id": "reddit-t31vxiays",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T22:54:45.000Z",
+      "text": "(Amazon) [Regional Coupon] The Black Keys - Peaches! @ $20.81",
+      "artist": "The Black Keys",
+      "title": "Peaches!",
+      "label": "Warner Records",
+      "genres": [
+        "Rock",
+        "Blues Rock",
+        "Garage Rock",
+        "Indie Rock"
+      ],
+      "price": 20.81,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GLJ2R1CR",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/77/de/4d77defb-a755-601b-0a3d-604871e24c66/093624823445.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Black Keys are an alternative rock group from Akron, Ohio, United States which formed in 2001, consisting of singer and guitarist Dan Auerbach and drummer Patrick Carney.",
+      "bioUrl": "https://www.last.fm/music/The+Black+Keys",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vxi5bn",
       "source": "Amazon",
@@ -8227,31 +8254,6 @@
       "enrichedVia": "discogs",
       "bio": "Jimmy Cliff OM (Jamaican Order of Merit) (born James Chambers in St. Catherine, Jamaica, on 1 April 1948; died 24 November 2025) was a Jamaican reggae musician remembered for songs like \"Sittin' in Limbo\", \"You Can Get It If You Really Want,\" \"Many Rivers to Cross\" and the title track from \"The…",
       "bioUrl": "https://www.last.fm/music/Jimmy+Cliff",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vk48sm",
-      "source": "Amazon",
-      "createdAt": "2026-08-09T23:10:40.000Z",
-      "text": "[Amazon] The Judds - Love Can Build A Bridge: Best Of The Judds $18.07",
-      "artist": "The Judds",
-      "title": "Love Can Build A Bridge: Best Of The Judds",
-      "label": "Curb Records",
-      "genres": [
-        "Folk, World, & Country",
-        "Country"
-      ],
-      "price": 18.07,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09WZ45TM5",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/cb/91/d7cb913a-4516-fc09-53b4-9a747453ee5e/715187953666.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Judds was an American country music duo of Naomi Judd (born Diana Ellen Judd on 11 January 1946; died 30 April 2022) and her daughter Wynonna Judd. The duo signed to RCA Nashville in 1983 and released six studio albums between then and 1991.",
-      "bioUrl": "https://www.last.fm/music/The+Judds",
       "bioSource": "Last.fm"
     }
   ]
