@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-24T23:14:29.751Z",
+  "updatedAt": "2026-08-24T23:42:56.552Z",
   "deals": [
+    {
+      "id": "reddit-t31vxiwly",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T23:19:26.000Z",
+      "text": "(Amazon) Duran Duran - Thank You [2xLP] @ $19.99 w/coupon",
+      "artist": "Duran Duran",
+      "title": "Thank You [2xLP] @ $19.99 w/coupon",
+      "label": null,
+      "genres": [],
+      "price": 19.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0DQL9S8FG",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6a/32/b6/6a32b6b8-51c6-0d08-4b34-d27c71373a0b/724382941958.jpg/400x400bb.jpg",
+      "bio": "Duran Duran (named after a character in Roger Vadim's sci-fi classic, Barbarella) is an electronic pop rock band that was part of the New Wave movement of the 80s and 90s. Duran Duran have sold over 100 million records, making them one of the world's best-selling music artists.",
+      "bioUrl": "https://www.last.fm/music/Duran+Duran",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vxiays",
       "source": "Amazon",
