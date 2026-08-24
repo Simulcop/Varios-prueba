@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-24T17:54:47.543Z",
+  "updatedAt": "2026-08-24T18:25:35.683Z",
   "deals": [
+    {
+      "id": "reddit-t31vxaf4s",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T18:05:03.000Z",
+      "text": "[Amazon] Halifax - A Writer's Reference (Red/Black Splatter Vinyl) $17.10",
+      "artist": "Halifax",
+      "title": "A Writer's Reference (Red/Black Splatter Vinyl)",
+      "label": "Drive-Thru Records",
+      "genres": [
+        "Rock",
+        "Pop Rock",
+        "Pop Punk"
+      ],
+      "price": 17.1,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CV5YXYHG",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a0/0c/42/a00c42e6-28c3-0e4b-2a14-997ed9b3cda6/00602577027000_Cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "In 2003, Halifax was just another in a myriad of unsigned indie outfits rolling the highways of North America.",
+      "bioUrl": "https://www.last.fm/music/Halifax",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vxa240",
       "source": "Amazon",
