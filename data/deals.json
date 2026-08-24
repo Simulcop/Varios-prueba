@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-24T18:25:35.683Z",
+  "updatedAt": "2026-08-24T19:08:21.417Z",
   "deals": [
+    {
+      "id": "reddit-t31vxbduj",
+      "source": "Amazon",
+      "createdAt": "2026-08-24T18:38:17.000Z",
+      "text": "[Amazon] Dua Saleh - Of Earth & Wires (Blue Vinyl) $18.30",
+      "artist": "Dua Saleh",
+      "title": "Of Earth & Wires (Blue Vinyl)",
+      "label": "Ghostly International",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Reggae",
+        "Funk / Soul"
+      ],
+      "price": 18.3,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Earth-Wires-Blue-Dua-Saleh/dp/B0GLKBR1TM",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://i.discogs.com/iRdFtLQnwtQfyNuOQMs_VKF6Yu3GXs7Vot9Z4S0l8qQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDA2/NjEzLTE3Nzk0MDk3/NTAtMzcwOS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Dua Saleh (they/xe) is a Sudanese-American recording artist, songwriter, poet, and actor based in Minneapolis, Minnesota, U.S. Their debut EP Nūr was released in January 2019 by the Against Giants record label to critical acclaim.",
+      "bioUrl": "https://www.last.fm/music/Dua+Saleh",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vxaf4s",
       "source": "Amazon",
@@ -8053,32 +8080,6 @@
       "enrichedVia": "discogs",
       "bio": "Grateful Dead was an American rock band formed in 1965 in Palo Alto, California. Remembered for an eclectic style that fused elements of rock, folk, country, jazz, bluegrass, blues, gospel, and psychedelic rock, for live performances of lengthy instrumental jams, and for its devoted fan base known…",
       "bioUrl": "https://www.last.fm/music/Grateful+Dead",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vjy2v2",
-      "source": "Amazon",
-      "createdAt": "2026-08-09T18:57:02.000Z",
-      "text": "[Amazon] 311 - Greatest Hits '93-03 - 2LP - $23.47",
-      "artist": "311",
-      "title": "Greatest Hits '93-03 - 2LP",
-      "label": "Volcano",
-      "genres": [
-        "Rock",
-        "Funk / Soul",
-        "Alternative Rock"
-      ],
-      "price": 23.47,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3msob7oyfos25",
-      "knownArtist": false,
-      "year": "2017",
-      "cover": "https://i.discogs.com/CkGXGbcZ4GPQQP5dBWN7J0xrxOVanSpFjVuwcKQ5WUA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE0/MDU4LTE1MDM0MzI3/MDAtMTQzMS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "311 was formed in 1990 in Omaha, Nebraska, by singer/guitarist Nick Hexum, singer S.A. Martinez, guitarist Tim Mahoney, drummer Chad Sexton and bassist P-Nut. The band now resides in Los Angeles, California. 311 mix rock, rap, reggae and funk into their own unique sound.",
-      "bioUrl": "https://www.last.fm/music/311",
       "bioSource": "Last.fm"
     }
   ]
