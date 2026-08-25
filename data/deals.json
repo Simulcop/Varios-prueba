@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T00:41:47.940Z",
+  "updatedAt": "2026-08-25T02:12:50.587Z",
   "deals": [
     {
       "id": "reddit-t31vxiwly",
@@ -8215,40 +8215,6 @@
       "bio": "Sonic Youth was an influential American experimental rock band formed in New York City, New York, United States in 1981 and are currently on an indefinite hiatus.",
       "bioUrl": "https://www.last.fm/music/Sonic+Youth",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vk7nka",
-      "source": "Amazon",
-      "createdAt": "2026-08-10T01:47:51.000Z",
-      "text": "[Amazon] Hurray For The Riff Raff ‎– Live Forever $29.91 Lowest",
-      "artist": null,
-      "title": "Hurray For The Riff Raff ‎– Live Forever $29.91 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 29.91,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GPRFQD72",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/bb/4f/44/bb4f44a7-a10f-4de6-2311-e409cbbf39f3/859703231644_cover.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31vk7e7k",
-      "source": "Amazon",
-      "createdAt": "2026-08-10T01:35:33.000Z",
-      "text": "[Amazon] Robber Robber – Wild Guess (Black and White Color) $14.24 Lowest",
-      "artist": null,
-      "title": "Robber Robber – Wild Guess (Black and White Color) $14.24 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 14.24,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G1JYGHS2",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/ec/ce/98ecce02-d311-6089-8396-856ca1d0d09f/117696.jpg/400x400bb.jpg"
     }
   ]
 }
