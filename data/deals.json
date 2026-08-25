@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T12:28:15.533Z",
+  "updatedAt": "2026-08-25T13:27:37.819Z",
   "deals": [
     {
       "id": "reddit-t31vxubn4",
@@ -8065,89 +8065,6 @@
       "bio": "John Lunn (born May 13, 1956) is a Scottish composer, known for his soundtrack work for television.[1] He was formerly a member of \"systems music\" band Man Jumping.",
       "bioUrl": "https://www.last.fm/music/John+Lunn",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vkjwzx",
-      "source": "Amazon",
-      "createdAt": "2026-08-10T12:48:56.000Z",
-      "text": "[Amazon] Tracy Lawrence - Made In America $17.80",
-      "artist": "Tracy Lawrence",
-      "title": "Made In America",
-      "label": "Lawrence Music Group",
-      "genres": [
-        "Folk, World, & Country",
-        "Country"
-      ],
-      "price": 17.8,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B07S8649TV",
-      "knownArtist": false,
-      "year": "2019",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/a2/33/dea23304-2b70-eff2-34c7-41936e3c3645/193483650654_madeinamerica.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Tracy Lawrence (born 27 January 1968) is an American country musician. Tracy Lawrence was born in Atlanta, Texas, and raised in Foreman, Ark., Lawrence played in his first band at the age of 16. He attended Southern Arkansas University in Magnolia, where he was a member of Sigma Pi Fraternity.",
-      "bioUrl": "https://www.last.fm/music/Tracy+Lawrence",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vkjuo3",
-      "source": "Amazon",
-      "createdAt": "2026-08-10T12:46:04.000Z",
-      "text": "[Amazon] Oscar Peterson – Around the World $15.40 Lowest",
-      "artist": null,
-      "title": "Oscar Peterson – Around the World $15.40 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 15.4,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Around-World-Oscar-Peterson/dp/B0FT7KYSPS",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/84/90/148490e2-a503-24fc-4b3b-e7dfadc71024/117943.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31vkjqw3",
-      "source": "Amazon",
-      "createdAt": "2026-08-10T12:41:40.000Z",
-      "text": "[Amazon] Don Airey – Pushed To The Edge $13.40",
-      "artist": null,
-      "title": "Don Airey – Pushed To The Edge",
-      "label": "Ear Music",
-      "genres": [
-        "Rock",
-        "Hard Rock",
-        "Classic Rock",
-        "Prog Rock"
-      ],
-      "price": 13.4,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Pushed-Edge-Don-Airey/dp/B0DST6FLBX",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/34/f2/2d34f242-6a62-b441-76f0-333be5c94c4b/4029759203575.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31vkjizx",
-      "source": "Amazon",
-      "createdAt": "2026-08-10T12:31:56.000Z",
-      "text": "[Amazon] Various Artists – Oh. What. Fun. (Amazon Exclusive Emerald Glitter Vinyl) $12.40 Lowest",
-      "artist": null,
-      "title": "Various Artists – Oh. What. Fun. (Amazon Exclusive Emerald Glitter Vinyl) $12.40 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 12.4,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FXHPF44S",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/5d/31/4c5d3166-3a4b-fb3c-473e-1776ff947466/13DMGIM04437.rgb.jpg/400x400bb.jpg"
     }
   ]
 }
