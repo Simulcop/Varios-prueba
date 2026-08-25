@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-25T03:24:04.792Z",
+  "updatedAt": "2026-08-25T04:06:05.218Z",
   "deals": [
+    {
+      "id": "reddit-t31vxojyl",
+      "source": "Amazon",
+      "createdAt": "2026-08-25T03:30:27.000Z",
+      "text": "(Amazon) Avenged Sevenfold - Sounding The Seventh Trumpet [LP, Limited Edition] @ $19.40",
+      "artist": "Avenged Sevenfold",
+      "title": "Sounding The Seventh Trumpet [LP, Limited Edition]",
+      "label": "Hopeless Records",
+      "genres": [
+        "Rock",
+        "Hardcore"
+      ],
+      "price": 19.4,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B001O1ZQTE",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/e7/67/e3/mzi.nxjvotuy.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Avenged Sevenfold (often abbreviated to A7X) is a heavy metal/hard rock band which formed in 1999 in Huntington Beach, California, United States. The band consists of vocalist M.",
+      "bioUrl": "https://www.last.fm/music/Avenged+Sevenfold",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vxiwly",
       "source": "Amazon",
