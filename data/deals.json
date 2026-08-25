@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T05:01:27.118Z",
+  "updatedAt": "2026-08-25T05:55:02.775Z",
   "deals": [
     {
       "id": "reddit-t31vxojyl",
@@ -8160,84 +8160,6 @@
       "enrichedVia": "discogs",
       "bio": "Ray Charles (Ray Charles Robinson, Albany, Georgia, September 23, 1930 - Beverly Hills, California, June 10, 2004), was an American singer-songwriter, musician, arranger, and band leader.",
       "bioUrl": "https://www.last.fm/music/Ray+Charles",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vkc7yk",
-      "source": "Amazon",
-      "createdAt": "2026-08-10T05:42:19.000Z",
-      "text": "[Amazon] Emerson, Lake & Palmer - Emerson, Lake & Palmer - $27.98",
-      "artist": "Emerson, Lake & Palmer",
-      "title": "Emerson, Lake & Palmer",
-      "label": "Cotillion",
-      "genres": [
-        "Rock",
-        "Prog Rock"
-      ],
-      "price": 27.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FFDB6RXH",
-      "knownArtist": false,
-      "year": "1971",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/95/12/17/9512173a-eaf5-175c-3a7a-ff51ff98fab3/4050538184686.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Emerson, Lake & Palmer, informally known as ELP, were an English progressive rock supergroup formed in London in 1970. The band consisted of Keith Emerson (keyboards) of the Nice, Greg Lake (vocals, bass, guitars, producer) of King Crimson, and Carl Palmer (drums, percussion) of Atomic Rooster.",
-      "bioUrl": "https://www.last.fm/music/Emerson,+Lake+&+Palmer",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vkc1ab",
-      "source": "Amazon",
-      "createdAt": "2026-08-10T05:31:48.000Z",
-      "text": "[Amazon] Dean Martin - All-Time Greatest Hits - $18.07",
-      "artist": "Dean Martin",
-      "title": "All-Time Greatest Hits",
-      "label": "Curb Records",
-      "genres": [
-        "Jazz",
-        "Pop",
-        "Big Band",
-        "Easy Listening"
-      ],
-      "price": 18.07,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09YP44VR9",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/46/7a/dd467a6b-e458-ce71-8e56-78f0e2af9743/715187738324.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Dean Martin (born Dino Paul Crocetti; June 7, 1917 – December 25, 1995) was an American singer, actor, comedian, and television host. He is regarded as one of the most popular entertainers of the 20th century.",
-      "bioUrl": "https://www.last.fm/music/Dean+Martin",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vkc0s6",
-      "source": "Amazon",
-      "createdAt": "2026-08-10T05:31:02.000Z",
-      "text": "[Amazon] Sonic Youth - Rather Ripped - $21.99",
-      "artist": "Sonic Youth",
-      "title": "Rather Ripped",
-      "label": "Goofin' Records",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Indie Rock"
-      ],
-      "price": 21.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B017X0MGO2",
-      "knownArtist": false,
-      "year": "2006",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/77/14/c3/7714c3c1-e61b-a743-7571-0e881a9e0646/00602547866653.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Sonic Youth was an influential American experimental rock band formed in New York City, New York, United States in 1981 and are currently on an indefinite hiatus.",
-      "bioUrl": "https://www.last.fm/music/Sonic+Youth",
       "bioSource": "Last.fm"
     }
   ]
