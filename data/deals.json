@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-25T17:03:19.132Z",
+  "updatedAt": "2026-08-25T17:52:20.080Z",
   "deals": [
+    {
+      "id": "reddit-t31vy648s",
+      "source": "Rough Trade",
+      "createdAt": "2026-08-25T17:18:53.000Z",
+      "text": "[Rough Trade] The Doobie Brothers - Takin' It To The Streets (MoFi, Numbered, 2xLP, 180g, 45RPM) - $24.99 (Pricing Error?)",
+      "artist": "The Doobie Brothers",
+      "title": "Takin' It To The Streets (MoFi, Numbered, 2xLP, 180g, 45RPM) - $24.99 (Pricing Error?)",
+      "label": null,
+      "genres": [],
+      "price": 24.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.roughtrade.com/en-us/product/the-doobie-brothers/takin-it-to-the-streets",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/12/3c/72123c6c-3dc9-1ee8-e6d7-aada708577c1/603497878086.jpg/400x400bb.jpg",
+      "bio": "The Doobie Brothers are an American rock band formed in San Jose, California, in 1970. Known for their versatility across multiple genres and their vocal harmonies, the band has been active for over five decades, achieving its greatest commercial success in the 1970s.",
+      "bioUrl": "https://www.last.fm/music/The+Doobie+Brothers",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vy5grk",
       "source": "Amazon",
