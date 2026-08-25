@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-08-25T07:25:15.099Z",
+  "updatedAt": "2026-08-25T08:05:30.864Z",
   "deals": [
+    {
+      "id": "reddit-t31vxt2ac",
+      "source": "Amazon",
+      "createdAt": "2026-08-25T07:38:34.000Z",
+      "text": "[Amazon] Fever Ray - Fever Ray (White Vinyl) $23.77",
+      "artist": "Fever Ray",
+      "title": "Fever Ray (White Vinyl)",
+      "label": "Mute",
+      "genres": [
+        "Electronic",
+        "Pop",
+        "Electro",
+        "Ambient"
+      ],
+      "price": 23.77,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GL9BNYDW",
+      "knownArtist": false,
+      "year": "2009",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/88/bb/35/88bb3542-c516-6d04-89b5-0a815d90f4a9/5060236638625.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Fever Ray is an alias of Swedish musician Karin Dreijer, formerly of The Knife. They debuted with the single \"If I Had A Heart\" (15 Dec 2008) under the alias, followed by the self-titled album Fever Ray (2009). Their second album, Plunge was released in October 2017 without prior announcement.",
+      "bioUrl": "https://www.last.fm/music/Fever+Ray",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vxswgh",
+      "source": "Walmart",
+      "createdAt": "2026-08-25T07:28:25.000Z",
+      "text": "[Walmart] Big Wild - Wild Child - 2LP Zoetrope - $17.10",
+      "artist": "Big Wild",
+      "title": "Wild Child - 2LP Zoetrope",
+      "label": "Giant Music",
+      "genres": [
+        "Electronic",
+        "Funk / Soul",
+        "Future Jazz",
+        "Abstract"
+      ],
+      "price": 17.1,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid028iAaEtZLH3KK8V62gbXngYUKcBfkUed7eVy11m4rRvi8WbiKRfa2YCuPSAtrYq7cl&amp;id=61590716382047",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://i.discogs.com/r3zOqMTg342gBeaU8HZDL2btoW80JmstaWo3vdNtaWY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzA5/NDIxLTE3NjQ0MTgx/MTQtNjk4MS5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Jackson Stell, known by his stage name of Big Wild, is an electronic DJ, producer, composer, and engineer. Stell was born in Lancaster, Massachusetts. When he was only 14, Stell started making hip-hop influenced beats under the name \"JBeats\".",
+      "bioUrl": "https://www.last.fm/music/Big+Wild",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vxojyl",
       "source": "Amazon",
