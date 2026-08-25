@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T11:51:08.314Z",
+  "updatedAt": "2026-08-25T12:28:15.533Z",
   "deals": [
     {
       "id": "reddit-t31vxubn4",
@@ -8148,46 +8148,6 @@
       "amazonUrl": "https://www.amazon.com/dp/B0FXHPF44S",
       "knownArtist": false,
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/5d/31/4c5d3166-3a4b-fb3c-473e-1776ff947466/13DMGIM04437.rgb.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31vkj86k",
-      "source": "Amazon",
-      "createdAt": "2026-08-10T12:18:22.000Z",
-      "text": "[Amazon] Cable Ties - All Her Plans $9.85 Lowest",
-      "artist": "Cable Ties",
-      "title": "All Her Plans $9.85 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 9.85,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/All-Her-Plans-Cable-Ties/dp/B0BZT6HSMV",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/88/e4/0f88e44b-ea03-7166-15fa-0bf0c733af2a/59247.jpg/400x400bb.jpg",
-      "bio": "Cable Ties are frenetic lead lines tethered to a hypnotic rhythm section. They take the 3 minute punk burner and stretch it past breaking point. Suddenly the garage rock gives way as primitive boogie, kraut and post-punk take things way out to the horizon. https://cableties.bandcamp.com/",
-      "bioUrl": "https://www.last.fm/music/Cable+Ties",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vkj6wv",
-      "source": "Amazon",
-      "createdAt": "2026-08-10T12:16:42.000Z",
-      "text": "[Amazon] Nervous Twitch - The Day Job Gets In The Way $13.10 Lowest",
-      "artist": "Nervous Twitch",
-      "title": "The Day Job Gets In The Way $13.10 Lowest",
-      "label": null,
-      "genres": [],
-      "price": 13.1,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FV124KVW",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/c7/3a/3ac73a38-4531-7a91-f39b-5fc697b36ec4/5065023242269_cover.jpg/400x400bb.jpg",
-      "bio": "Lo-fi garage punk 4-piece from Leeds, UK. http://nervoustwitch.bandcamp.com/",
-      "bioUrl": "https://www.last.fm/music/Nervous+Twitch",
-      "bioSource": "Last.fm"
     }
   ]
 }
