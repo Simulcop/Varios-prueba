@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T17:52:20.080Z",
+  "updatedAt": "2026-08-25T18:24:22.018Z",
   "deals": [
     {
       "id": "reddit-t31vy648s",
@@ -8432,22 +8432,6 @@
       "bio": "Polly Jean \"PJ\" Harvey, born 9 October 1969, is an English singer-songwriter. She is known primarily as a vocalist and guitarist, and is skilled in playing multiple instruments.",
       "bioUrl": "https://www.last.fm/music/PJ+Harvey",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vksj2z",
-      "source": "Amazon US",
-      "createdAt": "2026-08-10T18:09:02.000Z",
-      "text": "[Amazon US] South West Regional Coupons (Northern California/Central Valley?)",
-      "artist": null,
-      "title": "South West Regional Coupons (Northern California/Central Valley?)",
-      "label": null,
-      "genres": [],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/promotion/psp/A8K903DX27UP5",
-      "knownArtist": false
     }
   ]
 }
