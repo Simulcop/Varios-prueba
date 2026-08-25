@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-25T21:18:21.260Z",
+  "updatedAt": "2026-08-25T21:50:18.108Z",
   "deals": [
+    {
+      "id": "reddit-t31vydku1",
+      "source": "Amazon",
+      "createdAt": "2026-08-25T21:43:59.000Z",
+      "text": "[Amazon] The Flaming Lips - Test Flight - Ruby Red Vinyl - $16.27",
+      "artist": "The Flaming Lips",
+      "title": "Test Flight - Ruby Red Vinyl",
+      "label": null,
+      "genres": [],
+      "price": 16.27,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mtwrybjiw22o",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/04/e7/a0/04e7a015-a254-72e6-e120-2eeb018ed653/093624936053.jpg/400x400bb.jpg",
+      "bio": "The Flaming Lips is an American neo-psychedelic band, formed in Oklahoma City, Oklahoma, United States in 1983.",
+      "bioUrl": "https://www.last.fm/music/The+Flaming+Lips",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vyadaw",
       "source": "Turntable Lab",
