@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-25T18:24:22.018Z",
+  "updatedAt": "2026-08-25T19:06:41.172Z",
   "deals": [
+    {
+      "id": "reddit-t31vy8lwn",
+      "source": "Amazon",
+      "createdAt": "2026-08-25T18:45:58.000Z",
+      "text": "[Amazon] The Beach Boys - Sounds Of Summer: The Very Best Of The Beach Boys [6xLP] - $127.97",
+      "artist": "The Beach Boys",
+      "title": "Sounds Of Summer: The Very Best Of The Beach Boys [6xLP]",
+      "label": "Capitol Records",
+      "genres": [
+        "Rock",
+        "Pop Rock",
+        "Surf"
+      ],
+      "price": 127.97,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0B3Y9CRF8",
+      "knownArtist": false,
+      "year": "2019",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e7/23/02/e7230264-d5a9-a3b0-9eee-c6af522781fb/13UABIM59247.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Beach Boys are an American rock band formed in Hawthorne, California, in 1961. The original lineup consisted of brothers Brian Wilson, Dennis Wilson, and Carl Wilson, their cousin Mike Love, and their friend Al Jardine.",
+      "bioUrl": "https://www.last.fm/music/The+Beach+Boys",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vy648s",
       "source": "Rough Trade",
@@ -8406,31 +8432,6 @@
       "enrichedVia": "discogs",
       "bio": "Joe Henderson (Lima, Ohio, April 24, 1937 - San Francisco, California, June 30, 2001) was an American jazz tenor saxophonist.",
       "bioUrl": "https://www.last.fm/music/Joe+Henderson",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vktfba",
-      "source": "Walmart",
-      "createdAt": "2026-08-10T18:41:14.000Z",
-      "text": "[Walmart] PJ Harvey - Dry - $17.99",
-      "artist": "PJ Harvey",
-      "title": "Dry",
-      "label": "Island Records",
-      "genres": [
-        "Rock",
-        "Alternative Rock"
-      ],
-      "price": 17.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3msqqrsqdpc2m",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c0/45/1e/c0451e40-256e-40f2-566e-5f387a74f346/00016255500127.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Polly Jean \"PJ\" Harvey, born 9 October 1969, is an English singer-songwriter. She is known primarily as a vocalist and guitarist, and is skilled in playing multiple instruments.",
-      "bioUrl": "https://www.last.fm/music/PJ+Harvey",
       "bioSource": "Last.fm"
     }
   ]
