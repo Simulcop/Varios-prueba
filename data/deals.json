@@ -1,6 +1,25 @@
 {
-  "updatedAt": "2026-08-25T19:06:41.172Z",
+  "updatedAt": "2026-08-25T19:53:06.814Z",
   "deals": [
+    {
+      "id": "reddit-t31vyadaw",
+      "source": "Turntable Lab",
+      "createdAt": "2026-08-25T19:48:07.000Z",
+      "text": "(Turntable Lab) Stone Temple Pilots - Core 30th Anniversary 4LP box set - $74.95",
+      "artist": "Stone Temple Pilots",
+      "title": "Core 30th Anniversary 4LP box set",
+      "label": null,
+      "genres": [],
+      "price": 74.95,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.turntablelab.com/products/stone-temple-pilots-core-30th-anniversary-vinyl-4lp-boxset",
+      "knownArtist": false,
+      "bio": "Stone Temple Pilots, commonly abbreviated as STP, is an American rock band formed in San Diego, California, in 1989. The original lineup consisted of lead vocalist Scott Weiland, drummer Eric Kretz, and brothers Dean (guitar) and Robert DeLeo (bass).",
+      "bioUrl": "https://www.last.fm/music/Stone+Temple+Pilots",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vy8lwn",
       "source": "Amazon",
