@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-08-26T04:30:31.025Z",
+  "updatedAt": "2026-08-26T05:24:11.577Z",
   "deals": [
+    {
+      "id": "reddit-t31vynv54",
+      "source": "Amazon",
+      "createdAt": "2026-08-26T05:23:44.000Z",
+      "text": "[Amazon] Glass Animals - Dreamland - $20.40",
+      "artist": "Glass Animals",
+      "title": "Dreamland",
+      "label": "Wolf Tone",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Pop",
+        "Dance-pop"
+      ],
+      "price": 20.4,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B087L6SV6G",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/44/2e/2e/442e2e48-677d-592a-5f5a-145c67236e75/21UMGIM85445.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Glass Animals are an English electronic/alternative rock band formed in Oxford in 2010.",
+      "bioUrl": "https://www.last.fm/music/Glass+Animals",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vym6fn",
       "source": "Amazon",
