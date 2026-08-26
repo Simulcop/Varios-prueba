@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-08-26T08:31:46.698Z",
+  "updatedAt": "2026-08-26T09:31:23.457Z",
   "deals": [
+    {
+      "id": "reddit-t31vyrawj",
+      "source": "Amazon",
+      "createdAt": "2026-08-26T08:39:58.000Z",
+      "text": "[Amazon] Bush - Loaded: The Greatest Hits 1994-2023 - 2LP Cloudy Clear - $28.04",
+      "artist": "Bush",
+      "title": "Loaded: The Greatest Hits 1994-2023 - 2LP Cloudy Clear",
+      "label": "Round Hill Records",
+      "genres": [
+        "Rock",
+        "Alternative Rock"
+      ],
+      "price": 28.04,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mtxwmhixl22g",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://i.discogs.com/GcIzJhmpWV5F_CvUAxBnpxEwI0AVYG8emDROOOQ2ChE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODg4/OTA2LTE3NjM4MzQ5/MzUtMTQ5My5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Bush are an English rock band formed in London in 1992. As of 2025, the lineup consists of lead vocalist and rhythm guitarist Gavin Rossdale, lead guitarist Chris Traynor, bassist Corey Britz, and drummer Nik Hughes.",
+      "bioUrl": "https://www.last.fm/music/Bush",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vyr6qc",
+      "source": "Amazon",
+      "createdAt": "2026-08-26T08:32:39.000Z",
+      "text": "[Amazon] Talk Talk - Tomorrow Started: Live In London 1986 - $25.24",
+      "artist": "Talk Talk",
+      "title": "Tomorrow Started: Live In London 1986",
+      "label": "Pond Life",
+      "genres": [
+        "Rock",
+        "Art Rock"
+      ],
+      "price": 25.24,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0H22G6FDT",
+      "knownArtist": false,
+      "year": "1999",
+      "cover": "https://i.discogs.com/EZqrN60IMSmY6W4mMZRvzg-j9sf0mKX9MXbr_1eL64g/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODA1/NS0xMjM1OTMyNTk4/LmpwZWc.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Talk Talk were an English band formed in 1981 by Mark Hollis (vocals, guitar, piano), Lee Harris (drums), Paul Webb (bass), and Simon Brenner (keyboards).",
+      "bioUrl": "https://www.last.fm/music/Talk+Talk",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vyr0x8",
       "source": "Amazon",
@@ -8557,33 +8607,6 @@
       "enrichedVia": "discogs",
       "bio": "Descendents is an American punk rock band from Manhattan Beach, California formed in 1978 by guitarist Frank Navetta, bassist Tony Lombardo and drummer Bill Stevenson.",
       "bioUrl": "https://www.last.fm/music/Descendents",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vlbzgw",
-      "source": "Amazon",
-      "createdAt": "2026-08-11T08:50:48.000Z",
-      "text": "[Amazon] ELO - All Over The World: The Very Best of Electric Light Orchestra - 2LP - $25.54",
-      "artist": "ELO",
-      "title": "All Over The World: The Very Best of Electric Light Orchestra - 2LP",
-      "label": "Epic",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Symphonic Rock",
-        "Pop Rock"
-      ],
-      "price": 25.54,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mssaazdn7s2k",
-      "knownArtist": false,
-      "year": "1997",
-      "cover": "https://i.discogs.com/ylYF5bBNnF0nrp6QamT8gVjIq_rR_bNvDM5yVWpmo1s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDk3/NzItMTMyMDMzNzg0/Ny5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Electric Light Orchestra (ELO) are an English rock band formed in Birmingham in 1970 by Jeff Lynne, Roy Wood and Bev Bevan. Their music combines rock and pop with orchestral and classical influences.",
-      "bioUrl": "https://www.last.fm/music/Electric+Light+Orchestra",
       "bioSource": "Last.fm"
     }
   ]
