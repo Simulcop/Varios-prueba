@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-08-26T13:45:19.190Z",
+  "updatedAt": "2026-08-26T14:34:48.307Z",
   "deals": [
+    {
+      "id": "reddit-t31vyy1a6",
+      "source": "Amazon",
+      "createdAt": "2026-08-26T14:04:05.000Z",
+      "text": "[Amazon] Linkin Park - Hybrid Theory - $15.99",
+      "artist": "Linkin Park",
+      "title": "Hybrid Theory",
+      "label": "Warner Records",
+      "genres": [
+        "Hip Hop",
+        "Rock",
+        "Nu Metal",
+        "Alternative Rock"
+      ],
+      "price": 15.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B00F5YTHYQ",
+      "knownArtist": false,
+      "year": "2020",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/f0/31/b2/f031b2b2-bcf0-6102-426f-e0b2c7437415/dj.vrgpwamf.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Linkin Park is an American rock band formed in Agoura Hills, California, in 1996. The band's current lineup consists of Mike Shinoda, Brad Delson, Joe Hahn, Dave Farrell, Emily Armstrong, and Colin Brittain.",
+      "bioUrl": "https://www.last.fm/music/Linkin+Park",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vyxw71",
+      "source": "Amazon",
+      "createdAt": "2026-08-26T13:58:44.000Z",
+      "text": "[Amazon] Marina & the Diamonds - Electra Heart [2 LP] - $15.99",
+      "artist": "Marina & the Diamonds",
+      "title": "Electra Heart [2 LP]",
+      "label": "Atlantic",
+      "genres": [
+        "Electronic",
+        "Pop",
+        "House",
+        "Synth-pop"
+      ],
+      "price": 15.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B013LTUKUG/",
+      "knownArtist": false,
+      "year": "2015",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f7/9f/af/f79faff4-286e-b96a-913d-94fa7e628012/190295478704.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Marina & the Diamonds was a stage name of Greek-Welsh singer Marina Lambrini Diamandis (Greek: Μαρίνα-Λαμπρινή Διαμάντη; born October 10th, 1985), with \"the Diamonds\" being a take on a translation of her family name Diamandis. From 2018, she has been known professionally as MARINA.",
+      "bioUrl": "https://www.last.fm/music/Marina+&+the+Diamonds",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vysrdf",
       "source": "Amazon",
