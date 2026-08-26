@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:45:46.321Z",
+  "updatedAt": "2026-08-26T00:42:32.309Z",
   "deals": [
     {
       "id": "reddit-t31vydku1",
@@ -8446,31 +8446,6 @@
       "enrichedVia": "discogs",
       "bio": "The Vandals is an American punk rock band formed in 1980 in Huntington Beach, California and currently recording for Kung Fu Records. They have released ten full-length studio albums and two live albums and have toured the world extensively, including performances on the Vans Warped Tour.",
       "bioUrl": "https://www.last.fm/music/The+Vandals",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vl2agr",
-      "source": "Amazon",
-      "createdAt": "2026-08-11T00:28:31.000Z",
-      "text": "[Amazon] Joe Henderson - Our Thing (Blue Note Classic Vinyl Edition)[180g LP] $21",
-      "artist": "Joe Henderson",
-      "title": "Our Thing (Blue Note Classic Vinyl Edition)[180g LP] $21",
-      "label": "Blue Note",
-      "genres": [
-        "Jazz",
-        "Hard Bop"
-      ],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G23ZHZLJ",
-      "knownArtist": false,
-      "year": "1964",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/18/58/60/185860c3-0672-623c-5da0-476afdb698a1/00724352564750.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Joe Henderson (Lima, Ohio, April 24, 1937 - San Francisco, California, June 30, 2001) was an American jazz tenor saxophonist.",
-      "bioUrl": "https://www.last.fm/music/Joe+Henderson",
       "bioSource": "Last.fm"
     }
   ]
