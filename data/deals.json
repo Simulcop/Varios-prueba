@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-26T05:24:11.577Z",
+  "updatedAt": "2026-08-26T05:57:10.449Z",
   "deals": [
+    {
+      "id": "reddit-t31vynzse",
+      "source": "Amazon",
+      "createdAt": "2026-08-26T05:30:45.000Z",
+      "text": "[Amazon] Anthony Green - Reconcile At The Tile Works, Recorded Live (Ultra Clear w/ Black Galaxy) [2xLP] - $31.90",
+      "artist": "Anthony Green",
+      "title": "Reconcile At The Tile Works, Recorded Live (Ultra Clear w/ Black Galaxy) [2xLP]",
+      "label": "Born Losers Records",
+      "genres": [
+        "Rock",
+        "Indie Rock"
+      ],
+      "price": 31.9,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GS6DYWZX",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://i.discogs.com/rKsBH2NS-fcAunUo0Ta1EBnorTxGXpHX47cIF9KHFCg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzkz/MzM1LTE3NzkyODI3/OTgtMTgxMi5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Anthony Green, born April 15, 1982 in Doylestown, Pennsylvania, is the lead vocalist for the band Circa Survive. His first solo album, Avalon, was released on Photo Finish Records in 2008. A follow-up entitled Beautiful Things was released in January 2012.",
+      "bioUrl": "https://www.last.fm/music/Anthony+Green",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vynv54",
       "source": "Amazon",
