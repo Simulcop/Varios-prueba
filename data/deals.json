@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-08-26T07:37:56.258Z",
+  "updatedAt": "2026-08-26T08:31:46.698Z",
   "deals": [
+    {
+      "id": "reddit-t31vyr0x8",
+      "source": "Amazon",
+      "createdAt": "2026-08-26T08:23:01.000Z",
+      "text": "[Amazon] Cute Is What We Aim For - The Same Old Blood Rush $17.86",
+      "artist": "Cute Is What We Aim For",
+      "title": "The Same Old Blood Rush",
+      "label": "Fueled By Ramen",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Alternative Rock"
+      ],
+      "price": 17.86,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B099BWLJ1Z",
+      "knownArtist": false,
+      "year": "2021",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/bc/c2/d8/mzi.pkcdyldz.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Cute Is What We Aim For was an American pop-punk band from Buffalo, New York. Formed in 2005, they released two albums: \"The Same Old Blood Rush with a New Touch\" (2006) and \"Rotation\" (2008). They were signed to Fueled by Ramen for both releases.",
+      "bioUrl": "https://www.last.fm/music/Cute+Is+What+We+Aim+For",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31vyqawc",
+      "source": "Amazon",
+      "createdAt": "2026-08-26T07:40:12.000Z",
+      "text": "[Amazon] PJ Harvey - Dry $17.99",
+      "artist": "PJ Harvey",
+      "title": "Dry",
+      "label": "Island Records",
+      "genres": [
+        "Rock",
+        "Alternative Rock"
+      ],
+      "price": 17.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0892B4FPP",
+      "knownArtist": false,
+      "year": "2020",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c0/45/1e/c0451e40-256e-40f2-566e-5f387a74f346/00016255500127.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Polly Jean \"PJ\" Harvey, born 9 October 1969, is an English singer-songwriter. She is known primarily as a vocalist and guitarist, and is skilled in playing multiple instruments.",
+      "bioUrl": "https://www.last.fm/music/PJ+Harvey",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31vyppac",
       "source": "Amazon",
