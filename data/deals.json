@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-08-29T21:50:09.128Z",
+  "updatedAt": "2026-08-29T23:42:59.471Z",
   "deals": [
+    {
+      "id": "reddit-t31w21opu",
+      "source": "Amazon",
+      "createdAt": "2026-08-29T23:41:31.000Z",
+      "text": "(Amazon) Social Distortion - Prison Bound [Temp OOS] @ $13.99",
+      "artist": "Social Distortion",
+      "title": "Prison Bound [Temp OOS]",
+      "label": "Restless Records",
+      "genres": [
+        "Rock",
+        "Rock & Roll",
+        "Punk"
+      ],
+      "price": 13.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B00WYMCPIW",
+      "knownArtist": false,
+      "year": "1988",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9b/45/62/9b45622a-8d2e-69e6-a55f-bac09ba29d97/00888072373617.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Social Distortion is an American punk rock band formed in 1978 in Fullerton, California. The band currently consists of Mike Ness (lead vocals, lead guitar), Jonny Wickersham (rhythm guitar, backing vocals), Brent Harding (bass, backing vocals), David Hidalgo Jr.",
+      "bioUrl": "https://www.last.fm/music/Social+Distortion",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31w1xx2j",
       "source": "Amazon",
@@ -9936,32 +9962,6 @@
       "enrichedVia": "discogs",
       "bio": "Sonic Youth was an influential American experimental rock band formed in New York City, New York, United States in 1981 and are currently on an indefinite hiatus.",
       "bioUrl": "https://www.last.fm/music/Sonic+Youth",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31von965",
-      "source": "Amazon",
-      "createdAt": "2026-08-14T23:42:46.000Z",
-      "text": "[Amazon] JID - The Forever Story [Red 2LP] [Amazon Exclusive] $16.85",
-      "artist": "JID",
-      "title": "The Forever Story [Red 2LP] [Amazon Exclusive]",
-      "label": "Dreamville",
-      "genres": [
-        "Hip Hop",
-        "Conscious",
-        "Jazzy Hip-Hop"
-      ],
-      "price": 16.85,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FLRJGNTL",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/56/3d/6f563dd3-9387-cc10-2732-1ee6b03b5800/22UMGIM84208.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Destin Route (b. October 31, 1989), better known by the stage name JID, is an American rapper from Zone 6, Atlanta, Georgia.",
-      "bioUrl": "https://www.last.fm/music/JID",
       "bioSource": "Last.fm"
     }
   ]
