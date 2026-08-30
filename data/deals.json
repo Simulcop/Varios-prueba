@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-08-30T20:18:10.122Z",
+  "updatedAt": "2026-08-30T22:51:41.596Z",
   "deals": [
+    {
+      "id": "reddit-t31w2t3r1",
+      "source": "Amazon",
+      "createdAt": "2026-08-30T20:53:01.000Z",
+      "text": "(Amazon) Fkj - Take Off @ $12.65",
+      "artist": "Fkj",
+      "title": "Take Off",
+      "label": "Roche Musique",
+      "genres": [
+        "Electronic",
+        "Funk / Soul",
+        "Hip Hop",
+        "Neo Soul"
+      ],
+      "price": 12.65,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B01F2F5KIE",
+      "knownArtist": false,
+      "year": "2014",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/1d/6b/311d6b02-82e6-9a08-3178-5fbf7db9c1d6/cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "French Kiwi Juice, or FKJ for short, is the moniker of Vincent Fenton, a nod to his Gallic mother and New Zealander father. He grew up in a small French village outside of Tours, isolated from his friends, and so he turned to music for company.",
+      "bioUrl": "https://www.last.fm/music/FKJ",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31w2t2za",
+      "source": "Amazon",
+      "createdAt": "2026-08-30T20:52:12.000Z",
+      "text": "(Amazon) Mike Zito - Life Is Hard @ $12.37",
+      "artist": "Mike Zito",
+      "title": "Life Is Hard",
+      "label": "Gulf Coast Records",
+      "genres": [
+        "Blues",
+        "Electric Blues"
+      ],
+      "price": 12.37,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CXKZBL98",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/b2/7c/0cb27c53-19b6-6c69-e480-10f576caae8c/00659699956718_Cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Growing up in St. Louis, Missouri, Zito was immersed in the gritty sounds of the south side that would unknowingly become the groundwork of his future in music. Like the legends before him, music has coursed through his veins from the early age of five, when he began singing and performing.",
+      "bioUrl": "https://www.last.fm/music/Mike+Zito",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31w2rkmc",
       "source": "Amazon",
