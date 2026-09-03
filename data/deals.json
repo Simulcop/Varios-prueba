@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-09-03T21:50:37.664Z",
+  "updatedAt": "2026-09-03T23:41:44.453Z",
   "deals": [
+    {
+      "id": "reddit-t31w6mcva",
+      "source": "Amazon",
+      "createdAt": "2026-09-03T22:30:24.000Z",
+      "text": "[Amazon] Mobb Deep - Juvenile Hell - $13.98",
+      "artist": "Mobb Deep",
+      "title": "Juvenile Hell",
+      "label": "Island Records",
+      "genres": [
+        "Hip Hop"
+      ],
+      "price": 13.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Juvenile-Hell-LP-Mobb-Deep/dp/B07CXK4YCG/",
+      "knownArtist": false,
+      "year": "2018",
+      "cover": "https://i.discogs.com/7ZgWKENkKowAo0HJeAdE7-IYtb2WS7EQksiBcTf7WNA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIy/NDk1LTE3NjczODQz/MzgtNTcyOC5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Mobb Deep was an American hip-hop duo formed in 1990 in Queens, New York. The group consisted of rappers, songwriters, and record producers Prodigy and Havoc. They were associated with East Coast hip-hop and are known for their influence within the genre.",
+      "bioUrl": "https://www.last.fm/music/Mobb+Deep",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31w6kwt4",
       "source": "Amazon",
@@ -22339,23 +22363,6 @@
       "bio": "Kiss (commonly styled in all caps as KISS) was an American rock band formed in New York City in 1973 by Paul Stanley (vocals, rhythm guitar), Gene Simmons (vocals, bass guitar), Ace Frehley (lead guitar, vocals), and Peter Criss (drums, vocals).",
       "bioUrl": "https://www.last.fm/music/Kiss",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vt2erj",
-      "source": "Amazon",
-      "createdAt": "2026-08-19T23:14:03.000Z",
-      "text": "[Amazon] Johnny Blue Skies & the Dark Clouds (Sturgill Simpson) ‎– Mutiny After Midnight $15.77 w/regional coupon",
-      "artist": null,
-      "title": "Johnny Blue Skies & the Dark Clouds (Sturgill Simpson) ‎– Mutiny After Midnight $15.77 w/regional coupon",
-      "label": null,
-      "genres": [],
-      "price": 15.77,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GNBKWSMV",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/6a/3b/1f6a3b08-dcdb-2492-c73d-6062bcba64c1/198391947636.jpg/400x400bb.jpg"
     }
   ]
 }
