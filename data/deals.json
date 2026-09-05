@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T16:25:06.827Z",
+  "updatedAt": "2026-09-05T18:27:47.999Z",
   "deals": [
     {
       "id": "reddit-t31w84rf3",
@@ -22168,99 +22168,6 @@
       "enrichedVia": "discogs",
       "bio": "Ryo Fukui (福居良) was a Japanese jazz pianist. He was born in 1948 in Biratori, Hokkaido. He released his debut album Scenery in 1976 and was based in Sapporo, where he played regularly at the Slowboat jazz club. Ryo Fukui died on March 15, 2016.",
       "bioUrl": "https://www.last.fm/music/Ryo+Fukui",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vuo860",
-      "source": "Amazon",
-      "createdAt": "2026-08-21T18:19:54.000Z",
-      "text": "(Amazon) King Tubby - Roots Of Dub @ $18.04",
-      "artist": "King Tubby",
-      "title": "Roots Of Dub",
-      "label": "Justice",
-      "genres": [
-        "Reggae",
-        "Dub"
-      ],
-      "price": 18.04,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B000UVPBLM",
-      "knownArtist": false,
-      "year": "1995",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/22/33/92/223392b3-7d39-77a4-3c07-bc71afaaff62/601811203262.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "King Tubby (born Osbourne Ruddock, January 28, 1941 – February 6, 1989) was a Jamaican electronics and sound engineer, known primarily for his influence on the development of dub in the 1960s and 1970s.",
-      "bioUrl": "https://www.last.fm/music/King+Tubby",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vulzxs",
-      "source": "Amazon",
-      "createdAt": "2026-08-21T16:59:08.000Z",
-      "text": "(Amazon) Doechii - Alligator Bites Never Heal - Limited Gold @ $24.99",
-      "artist": "Doechii",
-      "title": "Alligator Bites Never Heal - Limited Gold",
-      "label": "Top Dawg Entertainment",
-      "genres": [
-        "Hip Hop",
-        "Funk / Soul"
-      ],
-      "price": 24.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0F6KSS35M",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/a3/e8/5fa3e8b9-9065-47af-63e1-f213d3074580/24UMGIM88644.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Jaylah Ji’mya Hickmon, better known as her stage name Doechii (formerly stylized as iamdoechii) was born and raised in Tampa, Florida. Doechii started out as a YouTuber, starting by posting a variety of videos, including vlogs and even some music.",
-      "bioUrl": "https://www.last.fm/music/Doechii",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vulwx6",
-      "source": "Amazon",
-      "createdAt": "2026-08-21T16:56:01.000Z",
-      "text": "(Amazon) Various - Les Miserables: 10th Anniversary Concert at the Royal Albert Hall [2xLP] @ $20.64",
-      "artist": "Various",
-      "title": "Les Miserables: 10th Anniversary Concert at the Royal Albert Hall [2xLP]",
-      "label": null,
-      "genres": [],
-      "price": 20.64,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FN6M54YX",
-      "knownArtist": false
-    },
-    {
-      "id": "reddit-t31vulrv9",
-      "source": "Amazon",
-      "createdAt": "2026-08-21T16:50:55.000Z",
-      "text": "(Amazon) Idaho - Lapse [LP] @ $14.78",
-      "artist": "Idaho",
-      "title": "Lapse [LP]",
-      "label": "Arts & Crafts",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Indie Rock",
-        "Slowcore"
-      ],
-      "price": 14.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0D36QBQDP",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/9a/d0/c59ad049-d5a4-8df2-8564-238472cf497a/24UMGIM28458.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "One of the most prolific, consistent, and unsung acts of the slowcore movement, Los Angeles' Idaho centers itself around four-string guitarist and vocalist Jeff Martin, a talented songwriter who has gained comparisons to Mark Eitzel (American Music Club), Mark Kozelek (Red House Painters), and Neil…",
-      "bioUrl": "https://www.last.fm/music/Idaho",
       "bioSource": "Last.fm"
     }
   ]
