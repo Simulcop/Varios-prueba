@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-09-05T07:00:09.164Z",
+  "updatedAt": "2026-09-05T11:11:27.329Z",
   "deals": [
+    {
+      "id": "reddit-t31w7wbn1",
+      "source": "Amazon",
+      "createdAt": "2026-09-05T09:45:45.000Z",
+      "text": "[Amazon] Guns n Roses - Use Your Illusion 1 - 2LP - $27.98",
+      "artist": "Guns n Roses",
+      "title": "Use Your Illusion 1 - 2LP",
+      "label": "Geffen Records",
+      "genres": [
+        "Rock",
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "price": 27.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mur6ylmarc2f",
+      "knownArtist": false,
+      "year": "1991",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/3a/66/263a665e-5863-ccea-7ac6-d71d0365479d/21UM1IM16896.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Guns N' Roses is an American hard rock band formed in Los Angeles, California, in 1985 from members of L.A. Guns and Hollywood Rose.",
+      "bioUrl": "https://www.last.fm/music/Guns+N%27+Roses",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31w7rs3i",
       "source": "Amazon",
