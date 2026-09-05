@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-09-05T20:34:39.160Z",
+  "updatedAt": "2026-09-05T22:29:02.074Z",
   "deals": [
+    {
+      "id": "reddit-t31w8c0pp",
+      "source": "Amazon",
+      "createdAt": "2026-09-05T20:44:54.000Z",
+      "text": "[Amazon] Fall Out Boy - American Beauty/American Psycho - $19.58",
+      "artist": "Fall Out Boy",
+      "title": "American Beauty/American Psycho",
+      "label": "Island Records",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Pop Rock",
+        "Pop Punk"
+      ],
+      "price": 19.58,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3musdtdcglk2z",
+      "knownArtist": false,
+      "year": "2015",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/5f/87/ea5f87ea-4bc3-0e01-456c-37401a4268f2/14UMGIM60337.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Fall Out Boy is a pop punk band formed in 2001 in Wilmette, Illinois after good friends Joe Trohman and Pete Wentz met high schooler Patrick Stump. Stump originally auditioned as a drummer, but soon became the lead singer.",
+      "bioUrl": "https://www.last.fm/music/Fall+Out+Boy",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31w8bz5n",
+      "source": "Amazon",
+      "createdAt": "2026-09-05T20:43:12.000Z",
+      "text": "[Amazon] Fall Out Boy - Infinity On High - 2LP - $26.59",
+      "artist": "Fall Out Boy",
+      "title": "Infinity On High - 2LP",
+      "label": "Island Records",
+      "genres": [
+        "Rock",
+        "Alternative Rock",
+        "Emo",
+        "Pop Punk"
+      ],
+      "price": 26.59,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3musdpv6sq22z",
+      "knownArtist": false,
+      "year": "2016",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/de/c9/46dec97f-3420-529c-762c-f83b85f7fb63/07UMGIM15942.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Fall Out Boy is a pop punk band formed in 2001 in Wilmette, Illinois after good friends Joe Trohman and Pete Wentz met high schooler Patrick Stump. Stump originally auditioned as a drummer, but soon became the lead singer.",
+      "bioUrl": "https://www.last.fm/music/Fall+Out+Boy",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31w8bhf1",
       "source": "Amazon",
@@ -22202,56 +22256,6 @@
       "amazonUrl": "https://www.amazon.com/dp/B0G4NJB1DC",
       "knownArtist": false,
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/8a/10/d78a107a-524e-89af-a59d-131877cd71e8/810167870336.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31vus16e",
-      "source": "Amazon",
-      "createdAt": "2026-08-21T20:41:34.000Z",
-      "text": "[Amazon] Mark Tuan - Silhouette $12.06",
-      "artist": "Mark Tuan",
-      "title": "Silhouette",
-      "label": "Transparent Arts",
-      "genres": [
-        "Pop",
-        "K-pop"
-      ],
-      "price": 12.06,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FSL7J7L2",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/tqqIDunSiKT01UpbBw6sas5BQXtZTV7KcvE2DwSAW00/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDI4/NTcwLTE3NjY4Mjkz/MTctMzc1OS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Mark Tuan—born Mark Yien Tuan (Chinese: 段宜恩,Duàn Yí'ēn; Korean: 마크투안 or 단의은, Dan Uieun) on 4 September 1993), and known mononymously as Mark or 마크—is a South Korea-based American rapper, singer, songwriter, and model. He is a member of the South Korean boy band GOT7, formed under JYP Entertainment.",
-      "bioUrl": "https://www.last.fm/music/Mark+Tuan",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vurxog",
-      "source": "Amazon",
-      "createdAt": "2026-08-21T20:37:48.000Z",
-      "text": "[Amazon] Title Fight - FLORAL GREEN $18.98",
-      "artist": "Title Fight",
-      "title": "FLORAL GREEN",
-      "label": "SideOneDummy Records",
-      "genres": [
-        "Rock",
-        "Punk"
-      ],
-      "price": 18.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B008NJNJPS",
-      "knownArtist": false,
-      "year": "2012",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/15/bb/4d15bb56-54f3-2b4f-1513-5e8ca4f3fa51/109570.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Title Fight was an American punk rock band from Kingston, Pennsylvania, formed in 2003. The band was comprised of Jamie Rhoden (vocals, guitar), Shane Moran (guitar) and brothers Ned (vocals, bass) and Ben Russin (drums).",
-      "bioUrl": "https://www.last.fm/music/Title+Fight",
-      "bioSource": "Last.fm"
     }
   ]
 }
