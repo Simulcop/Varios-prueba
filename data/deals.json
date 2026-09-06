@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-09-06T18:26:22.006Z",
+  "updatedAt": "2026-09-06T20:35:50.712Z",
   "deals": [
+    {
+      "id": "reddit-t31w94rcx",
+      "source": "Target",
+      "createdAt": "2026-09-06T18:55:28.000Z",
+      "text": "[Target] Goo Goo Dolls - A Boy Named Goo - 30th Anniv Dlx Ed - $24.22",
+      "artist": "Goo Goo Dolls",
+      "title": "A Boy Named Goo - 30th Anniv Dlx Ed",
+      "label": null,
+      "genres": [],
+      "price": 24.22,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3muuo6hmslk2x",
+      "knownArtist": false,
+      "bio": "Goo Goo Dolls is an alternative rock band formed in 1985 in Buffalo, New York, USA by guitarist/vocalist John Rzeznik and bassist/vocalist Robby Takac initially under the name the Sex Maggots (the new name was chosen from an ad in True Detective magazine at the behest of a local club owner).",
+      "bioUrl": "https://www.last.fm/music/Goo+Goo+Dolls",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31w94lgp",
+      "source": "Amazon",
+      "createdAt": "2026-09-06T18:49:25.000Z",
+      "text": "(Amazon) Rolling Stones - Blue and Lonesome [2xLP] @ $26.59",
+      "artist": "Rolling Stones",
+      "title": "Blue and Lonesome [2xLP]",
+      "label": "Rolling Stones Records",
+      "genres": [
+        "Rock",
+        "Blues",
+        "Electric Blues",
+        "Chicago Blues"
+      ],
+      "price": 26.59,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://amzn.to/3Uycm7D",
+      "knownArtist": false,
+      "year": "2016",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6f/52/86/6f5286df-ba60-07f9-4ade-0707b9e12b2e/16UMGIM67928.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Rolling Stones are an English rock band formed in London in 1962. They have been active for more than six decades and are widely regarded as one of the most commercially successful and influential bands of the rock era.",
+      "bioUrl": "https://www.last.fm/music/The+Rolling+Stones",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31w92g3m",
       "source": "Amazon",
@@ -23836,59 +23882,6 @@
       "amazonUrl": "https://ebay.us/RB1KpW",
       "knownArtist": false,
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a8/95/58/a8955824-42a4-af06-8bb9-18cdeab940d7/artwork.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31vvmoj3",
-      "source": "Amazon",
-      "createdAt": "2026-08-22T20:14:17.000Z",
-      "text": "[Amazon] Queens of the Stone Age - Villains [2 LP] - $20.99",
-      "artist": "Queens of the Stone Age",
-      "title": "Villains [2 LP]",
-      "label": "Matador",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Hard Rock",
-        "Stoner Rock"
-      ],
-      "price": 20.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B071G991VW",
-      "knownArtist": false,
-      "year": "2017",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/fd/1b/29fd1bfa-da42-c393-6ad8-012b108e9a5e/191401218276.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Queens of the Stone Age (abbreviated QOTSA or QotSA) is an American rock band formed in 1996 by vocalist and guitarist Josh Homme following the breakup of his previous band Kyuss.",
-      "bioUrl": "https://www.last.fm/music/Queens+of+the+Stone+Age",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vvml0r",
-      "source": "Amazon",
-      "createdAt": "2026-08-22T20:10:25.000Z",
-      "text": "[Amazon] Chicago - Greatest Hits (1982-1989) - $13.99",
-      "artist": "Chicago",
-      "title": "Greatest Hits (1982-1989)",
-      "label": "Columbia",
-      "genres": [
-        "Rock",
-        "Soft Rock",
-        "Pop Rock"
-      ],
-      "price": 13.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Greatest-Hits-1982-1989-Vinyl-Chicago/dp/B01H3KUHFM/",
-      "knownArtist": false,
-      "year": "1975",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/17/ae/2217ae2e-99d0-7f34-c84f-ae48f9439feb/603497878406.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Chicago is an American rock band formed in 1967 in Chicago, Illinois. The group has described itself as a \"rock and roll band with horns,\" and its music incorporates elements of classical music, jazz, R&B, and pop. The band emerged from several Chicago-area groups in the late 1960s.",
-      "bioUrl": "https://www.last.fm/music/Chicago",
-      "bioSource": "Last.fm"
     }
   ]
 }
