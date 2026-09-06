@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-06T20:35:50.712Z",
+  "updatedAt": "2026-09-06T22:33:52.640Z",
   "deals": [
+    {
+      "id": "reddit-t31w9a300",
+      "source": "Amazon",
+      "createdAt": "2026-09-06T22:20:02.000Z",
+      "text": "[Amazon] blink-182 - Enema of the State - $20.99",
+      "artist": "blink-182",
+      "title": "Enema of the State",
+      "label": "Geffen Records",
+      "genres": [
+        "Rock",
+        "Pop Punk"
+      ],
+      "price": 20.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3muuzme3v722s",
+      "knownArtist": false,
+      "year": "2016",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d0/54/b8/d054b82b-981e-6834-6d47-09d00faad533/16UMGIM35659.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Blink-182 is an American rock band formed in Poway, California, in 1992. Its most widely recognised line-up consists of Mark Hoppus, Tom DeLonge and Travis Barker.",
+      "bioUrl": "https://www.last.fm/music/blink-182",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31w94rcx",
       "source": "Target",
