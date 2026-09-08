@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-09-07T22:54:45.496Z",
+  "updatedAt": "2026-09-08T00:48:40.866Z",
   "deals": [
+    {
+      "id": "reddit-t31wa9dcv",
+      "source": "Amazon",
+      "createdAt": "2026-09-08T00:32:35.000Z",
+      "text": "[Amazon] Kim Petras - Feed The Beast (LP) - $32.19",
+      "artist": "Kim Petras",
+      "title": "Feed The Beast (LP)",
+      "label": "Republic Records",
+      "genres": [
+        "Pop",
+        "Alt-Pop",
+        "Europop"
+      ],
+      "price": 32.19,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0C8461NJL?tag=sunday-shelf-20",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/ba/30/c6ba304c-ef6e-0af9-dced-611ba9eb595b/23UMGIM54378.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Kim Petras is a German singer and songwriter based in Los Angeles. She first gained international attention due to her early gender transition and subsequent media coverage as a teenager.",
+      "bioUrl": "https://www.last.fm/music/Kim+Petras",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31wa8iw7",
+      "source": "Amazon",
+      "createdAt": "2026-09-07T23:55:21.000Z",
+      "text": "(Amazon) Fleetwood Mac - Rumours [2xLP 45 RPM] @ $39.97",
+      "artist": "Fleetwood Mac",
+      "title": "Rumours [2xLP 45 RPM]",
+      "label": "Warner Bros. Records",
+      "genres": [
+        "Rock",
+        "Pop Rock",
+        "Soft Rock",
+        "AOR"
+      ],
+      "price": 39.97,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B004OKFIQI",
+      "knownArtist": false,
+      "year": "1977",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/13/ba/4d13bac3-d3d5-7581-2c74-034219eadf2b/081227970949.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Fleetwood Mac were a British and American rock band formed in London in 1967 by singer and guitarist Peter Green. The band was named by combining the surnames of drummer Mick Fleetwood and bassist John McVie, who joined shortly after its formation.",
+      "bioUrl": "https://www.last.fm/music/Fleetwood+Mac",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31wa5gwx",
       "source": "Amazon",
