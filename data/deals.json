@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-09T06:11:44.388Z",
+  "updatedAt": "2026-09-09T11:36:43.870Z",
   "deals": [
+    {
+      "id": "reddit-t31wbgbks",
+      "source": "Walmart",
+      "createdAt": "2026-09-09T09:07:10.000Z",
+      "text": "[Walmart] Beastie Boys - Paul's Boutique - 2LP 180g - $27.98",
+      "artist": "Beastie Boys",
+      "title": "Paul's Boutique - 2LP 180g",
+      "label": "Capitol Records",
+      "genres": [
+        "Hip Hop",
+        "Cut-up/DJ"
+      ],
+      "price": 27.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid05kPTG242B6M3BgPaE5Az46fNN8Jb2ckVS6NPdM8a3GimQ6xJuZYu3sKhGX5TVTJ5l&amp;id=61590716382047",
+      "knownArtist": false,
+      "year": "2009",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/d7/81/e4d781e8-bd3f-486a-cd18-e9b3a7d12b34/00731452735126.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Beastie Boys were an American hip-hop trio from New York City, United States: Brooklyn and Manhattan.",
+      "bioUrl": "https://www.last.fm/music/Beastie+Boys",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31wbd1e9",
       "source": "Amazon",
@@ -25981,87 +26006,6 @@
       "enrichedVia": "discogs",
       "bio": "Bob's Burgers is an American animated television sitcom, which premiered on January 9, 2011 on the Fox Broadcasting Company. The series was created by Loren Bouchard and focuses on the Belcher family, who run a hamburger restaurant. Sub Pop Records has released two soundtrack albums for the series.",
       "bioUrl": "https://www.last.fm/music/Bob%27s+Burgers",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vxubn4",
-      "source": "Amazon",
-      "createdAt": "2026-08-25T08:54:41.000Z",
-      "text": "[Amazon] George Harrison - Electronic Sound - $20.30",
-      "artist": "George Harrison",
-      "title": "Electronic Sound",
-      "label": "Zapple",
-      "genres": [
-        "Electronic",
-        "Noise",
-        "Experimental",
-        "Abstract"
-      ],
-      "price": 20.3,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G4FKF916",
-      "knownArtist": false,
-      "year": "1969",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ac/70/37/ac703735-9ef7-9ec6-923e-11ac9b5bf9c3/0602547025241.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "George Harrison MBE (25 February 1943 – 29 November 2001) born in Liverpool, UK, was an English rock musician, singer-songwriter and film producer who achieved international fame as lead guitarist in The Beatles, along with mainstream success as a solo artist.",
-      "bioUrl": "https://www.last.fm/music/George+Harrison",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vxt2ac",
-      "source": "Amazon",
-      "createdAt": "2026-08-25T07:38:34.000Z",
-      "text": "[Amazon] Fever Ray - Fever Ray (White Vinyl) $23.77",
-      "artist": "Fever Ray",
-      "title": "Fever Ray (White Vinyl)",
-      "label": "Mute",
-      "genres": [
-        "Electronic",
-        "Pop",
-        "Electro",
-        "Ambient"
-      ],
-      "price": 23.77,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GL9BNYDW",
-      "knownArtist": false,
-      "year": "2009",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/88/bb/35/88bb3542-c516-6d04-89b5-0a815d90f4a9/5060236638625.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Fever Ray is an alias of Swedish musician Karin Dreijer, formerly of The Knife. They debuted with the single \"If I Had A Heart\" (15 Dec 2008) under the alias, followed by the self-titled album Fever Ray (2009). Their second album, Plunge was released in October 2017 without prior announcement.",
-      "bioUrl": "https://www.last.fm/music/Fever+Ray",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vxswgh",
-      "source": "Walmart",
-      "createdAt": "2026-08-25T07:28:25.000Z",
-      "text": "[Walmart] Big Wild - Wild Child - 2LP Zoetrope - $17.10",
-      "artist": "Big Wild",
-      "title": "Wild Child - 2LP Zoetrope",
-      "label": "Giant Music",
-      "genres": [
-        "Electronic",
-        "Funk / Soul",
-        "Future Jazz",
-        "Abstract"
-      ],
-      "price": 17.1,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid028iAaEtZLH3KK8V62gbXngYUKcBfkUed7eVy11m4rRvi8WbiKRfa2YCuPSAtrYq7cl&amp;id=61590716382047",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/r3zOqMTg342gBeaU8HZDL2btoW80JmstaWo3vdNtaWY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzA5/NDIxLTE3NjQ0MTgx/MTQtNjk4MS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Jackson Stell, known by his stage name of Big Wild, is an electronic DJ, producer, composer, and engineer. Stell was born in Lancaster, Massachusetts. When he was only 14, Stell started making hip-hop influenced beats under the name \"JBeats\".",
-      "bioUrl": "https://www.last.fm/music/Big+Wild",
       "bioSource": "Last.fm"
     }
   ]
