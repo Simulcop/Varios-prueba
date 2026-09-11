@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-11T21:26:19.440Z",
+  "updatedAt": "2026-09-11T23:25:04.490Z",
   "deals": [
+    {
+      "id": "reddit-t31wdtycg",
+      "source": "Amazon",
+      "createdAt": "2026-09-11T21:51:22.000Z",
+      "text": "[Amazon] Eric Church - Caldwell County EP $13.28",
+      "artist": "Eric Church",
+      "title": "Caldwell County EP",
+      "label": "EMI Records Nashville",
+      "genres": [
+        "Folk, World, & Country",
+        "Country"
+      ],
+      "price": 13.28,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Caldwell-County-EP-Eric-Church/dp/B0DH52LVV3",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/62/98/90/6298904b-1f52-6fa6-7c63-b2d906bb002e/05099909562257.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Eric Church is a country singer-songwriter. He has released nine studio albums through Capitol Nashville since 2005. His debut album, 2006's Sinners Like Me, produced three singles on the Billboard country charts including the top 20 hits \"How 'Bout You\", \"Two Pink Lines\", and \"Guys Like Me\".",
+      "bioUrl": "https://www.last.fm/music/Eric+Church",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31wdt1el",
       "source": "Amazon",
@@ -27538,32 +27563,6 @@
       "enrichedVia": "discogs",
       "bio": "Beck Hansen (born Bek David Campbell, July 8, 1970) is an American musician, singer-songwriter, and multi-instrumentalist. Beck's music is known for its pop-junk culture collage of musical styles, ironic lyrics, samples, drum machines, live instrumentation and heady sound effects.",
       "bioUrl": "https://www.last.fm/music/Beck",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31w09yg4",
-      "source": "Amazon",
-      "createdAt": "2026-08-27T23:22:18.000Z",
-      "text": "[Amazon] GENE - Rising For Sunset $16.78",
-      "artist": "GENE",
-      "title": "Rising For Sunset",
-      "label": "Contra",
-      "genres": [
-        "Rock",
-        "Britpop",
-        "Indie Rock"
-      ],
-      "price": 16.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B08QKF5F8M",
-      "knownArtist": false,
-      "year": "2000",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/24/24/f7/mzi.lbhmdzfa.tif/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "There are two bands with this name: 1) Gene was a British indie/rock quartet which rose to prominence in the mid-1990s. The band was formed in London by lead singer Martin Rossiter in 1993, and disbanded in 2004.",
-      "bioUrl": "https://www.last.fm/music/Gene",
       "bioSource": "Last.fm"
     }
   ]
