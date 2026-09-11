@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-09-10T23:16:43.384Z",
+  "updatedAt": "2026-09-11T01:15:30.086Z",
   "deals": [
+    {
+      "id": "reddit-t31wczlxg",
+      "source": "Amazon",
+      "createdAt": "2026-09-10T23:36:58.000Z",
+      "text": "[Amazon] Spirit Caravan - Elusive Truth (LP) - $34.91",
+      "artist": "Spirit Caravan",
+      "title": "Elusive Truth (LP)",
+      "label": "Tolotta Records",
+      "genres": [
+        "Rock",
+        "Stoner Rock",
+        "Hard Rock",
+        "Doom Metal"
+      ],
+      "price": 34.91,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GV3SV3YZ?tag=sunday-shelf-20",
+      "knownArtist": false,
+      "year": "2001",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/06/da/3106daaa-5354-391b-2386-ef403fab5d9b/5056321691910.png/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Formed in 1997 in Potomac, Maryland Spirit Caravan is a doom/stoner metal band featuring the legendary guitarist and vocalist Scott Weinrich (aka: Wino) formerly of The Obsessed and Saint Vitus. The band had a lyrical emphasis on spirituality (though not necessarily religion) and global politics.",
+      "bioUrl": "https://www.last.fm/music/Spirit+Caravan",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31wcyqsi",
       "source": "Walmart",
@@ -26981,57 +27008,6 @@
       "enrichedVia": "discogs",
       "bio": "ThxSoMch, real name Carter De Filippis, is a singer-songwriter originating from Toronto, Canada. His musical style blend elements of post-punk revival, emo rap, and indie rock. ThxSoMch made his debut on September 4, 2022, with the release of \"Runaway (Move Quick),\" marking his inaugural single.",
       "bioUrl": "https://www.last.fm/music/ThxSoMch",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vzehoa",
-      "source": "Amazon",
-      "createdAt": "2026-08-27T00:16:33.000Z",
-      "text": "[Amazon] Alkaline Trio - Goddamnit - $18.62",
-      "artist": "Alkaline Trio",
-      "title": "Goddamnit",
-      "label": "Asian Man Records",
-      "genres": [
-        "Rock",
-        "Power Pop",
-        "Punk"
-      ],
-      "price": 18.62,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Goddamnit-Vinyl-Alkaline-Trio/dp/B0013FSZG2/",
-      "knownArtist": false,
-      "year": "1998",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/69/15/0669153e-d53e-b873-fd56-3cbcadd26535/524.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Alkaline Trio is a punk rock band from Chicago, Illinois consisting of Matt Skiba (guitar/vocals), Dan Andriano (bass/vocals), and Atom Willard (drums/percussion).",
-      "bioUrl": "https://www.last.fm/music/Alkaline+Trio",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31vzefso",
-      "source": "Amazon",
-      "createdAt": "2026-08-27T00:14:17.000Z",
-      "text": "[Amazon] Alkaline Trio - Maybe I'll Catch Fire - $16.40",
-      "artist": "Alkaline Trio",
-      "title": "Maybe I'll Catch Fire",
-      "label": "Asian Man Records",
-      "genres": [
-        "Rock",
-        "Punk"
-      ],
-      "price": 16.4,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Maybe-Ill-Catch-Fire-Vinyl/dp/B00003ZAHE/",
-      "knownArtist": false,
-      "year": "2008",
-      "cover": "https://i.discogs.com/CJe2nqrc34Q89YxYQPUbgF8Dv6M_PF1VcJ2bTMjJZQA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjEw/MDUtMTY2ODM3NzIy/MC0xNDYzLmpwZWc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Alkaline Trio is a punk rock band from Chicago, Illinois consisting of Matt Skiba (guitar/vocals), Dan Andriano (bass/vocals), and Atom Willard (drums/percussion).",
-      "bioUrl": "https://www.last.fm/music/Alkaline+Trio",
       "bioSource": "Last.fm"
     }
   ]
