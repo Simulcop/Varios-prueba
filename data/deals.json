@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T23:25:04.490Z",
+  "updatedAt": "2026-09-12T01:18:03.357Z",
   "deals": [
     {
       "id": "reddit-t31wdtycg",
@@ -27536,33 +27536,6 @@
       "knownArtist": false,
       "bio": "Bleachers are an American alternative act based in New Jersey. It is the official stage name of songwriter and record producer Jack Antonoff.",
       "bioUrl": "https://www.last.fm/music/Bleachers",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31w0ax45",
-      "source": "Amazon",
-      "createdAt": "2026-08-28T00:03:39.000Z",
-      "text": "[Amazon] Beck - Everybody's Gotta Learn Sometime [Red LP] $18.52",
-      "artist": "Beck",
-      "title": "Everybody's Gotta Learn Sometime [Red LP]",
-      "label": "Capitol Records",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Pop Rock",
-        "Acoustic"
-      ],
-      "price": 18.52,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GJ147BDY",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/76/02/1376023a-8ac6-b041-f16b-6670008124f5/ticket.crmdtmqc.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Beck Hansen (born Bek David Campbell, July 8, 1970) is an American musician, singer-songwriter, and multi-instrumentalist. Beck's music is known for its pop-junk culture collage of musical styles, ironic lyrics, samples, drum machines, live instrumentation and heady sound effects.",
-      "bioUrl": "https://www.last.fm/music/Beck",
       "bioSource": "Last.fm"
     }
   ]
