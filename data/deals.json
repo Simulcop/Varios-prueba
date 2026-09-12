@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-12T06:01:01.343Z",
+  "updatedAt": "2026-09-12T11:00:16.470Z",
   "deals": [
+    {
+      "id": "reddit-t31we7fvt",
+      "source": "Walmart",
+      "createdAt": "2026-09-12T08:55:38.000Z",
+      "text": "[Walmart] Brand New - Daisy - $17.48",
+      "artist": "Brand New",
+      "title": "Daisy",
+      "label": "Interscope Records",
+      "genres": [
+        "Rock",
+        "Alternative Rock"
+      ],
+      "price": 17.48,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02SaFbMF5dsX9tMTj9kqS4bf3jTemjy7G1MX5AgBm8KBKQHdQ7sixrx3Sa4trjARpul&amp;id=61590716382047",
+      "knownArtist": false,
+      "year": "2009",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a3/90/35/a39035f1-8ad1-c203-528f-b6931fa6ed08/00602527205649.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "There are two artists with this name 1. A popular rock band 2. A funk group 1. Brand New is an American rock band that formed in 2000 in Merrick, New York.",
+      "bioUrl": "https://www.last.fm/music/Brand+New",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31we0dp6",
       "source": "Amazon",
@@ -27097,31 +27122,6 @@
       "amazonUrl": "https://www.amazon.com/dp/B0GYYXYRK5",
       "knownArtist": false,
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/55/35/b955356d-727f-4dd4-f0c0-e006a759b30b/mzi.kkxaxrcn.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31w0ivzy",
-      "source": "Amazon",
-      "createdAt": "2026-08-28T06:38:08.000Z",
-      "text": "[Amazon] Jerry Lee Lewis - Last Man Standing (White) - $21.00",
-      "artist": "Jerry Lee Lewis",
-      "title": "Last Man Standing (White)",
-      "label": "Artists First",
-      "genres": [
-        "Rock",
-        "Rock & Roll"
-      ],
-      "price": 21,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09J1VSH7Y",
-      "knownArtist": false,
-      "year": "2006",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/7a/b1/087ab1ac-4d03-d4e2-12bf-fc433d6838d4/00602577555640.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Jerry Lee Lewis (September 29, 1935 – October 28, 2022) was an American pianist, singer, and songwriter.",
-      "bioUrl": "https://www.last.fm/music/Jerry+Lee+Lewis",
-      "bioSource": "Last.fm"
     }
   ]
 }
