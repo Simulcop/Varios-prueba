@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-12T17:18:27.006Z",
+  "updatedAt": "2026-09-12T19:29:51.524Z",
   "deals": [
+    {
+      "id": "reddit-t31wekz83",
+      "source": "Walmart",
+      "createdAt": "2026-09-12T18:58:26.000Z",
+      "text": "[Walmart] Charles Mingus - The Clown - 180g - $13.76",
+      "artist": "Charles Mingus",
+      "title": "The Clown - 180g",
+      "label": "Speakers Corner Records",
+      "genres": [
+        "Jazz",
+        "Post Bop"
+      ],
+      "price": 13.76,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid037fLxzRd7ttHgELmhdiSZMf8x8ehFEb5fnGApZSiTYwiMKRAdxh8eMLTXhUKQRpdhl&amp;id=61590716382047",
+      "knownArtist": false,
+      "year": "2016",
+      "cover": "https://i.discogs.com/NUFenj6Fq0w7lEVONLc6efJ2EboA9MrODCraUVvHlkc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDE1/MzEtMTU0OTgwNjg3/Ny05NjUxLnBuZw.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Charles Mingus (22nd April 1922 – 5th January 1979) was an American jazz bassist, composer, bandleader, and occasional pianist from Los Angeles. He was also known for his activism against racial injustice.",
+      "bioUrl": "https://www.last.fm/music/Charles+Mingus",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31wehamf",
       "source": "Amazon",
@@ -27244,110 +27269,6 @@
       "enrichedVia": "discogs",
       "bio": "Chicago is an American rock band formed in 1967 in Chicago, Illinois. The group has described itself as a \"rock and roll band with horns,\" and its music incorporates elements of classical music, jazz, R&B, and pop. The band emerged from several Chicago-area groups in the late 1960s.",
       "bioUrl": "https://www.last.fm/music/Chicago",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31w0yc8t",
-      "source": "Amazon",
-      "createdAt": "2026-08-28T18:17:14.000Z",
-      "text": "[Amazon] Beaming - Horseshoe (Baby Pink Color) $21.48",
-      "artist": "Beaming",
-      "title": "Horseshoe (Baby Pink Color)",
-      "label": "Rose Garden",
-      "genres": [
-        "Rock",
-        "Folk, World, & Country",
-        "Indie Rock"
-      ],
-      "price": 21.48,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GQVPV2ZV",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/84/6e/5f846eda-5eaf-c870-3237-89602aa3dce6/199891364039_cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "In physics, relativistic beaming is the process by which relativistic effects modify the apparent luminosity of emitting matter that is moving at speeds close to the speed of light.",
-      "bioUrl": "https://en.wikipedia.org/wiki/Relativistic_beaming",
-      "bioSource": "Wikipedia"
-    },
-    {
-      "id": "reddit-t31w0xqwx",
-      "source": "Amazon",
-      "createdAt": "2026-08-28T17:56:22.000Z",
-      "text": "(Amazon) [Regional Coupon] Hampton Hawes - For Real! [Contemporary Records Acoustic Sounds Series] @ $23.98",
-      "artist": "Hampton Hawes",
-      "title": "For Real! [Contemporary Records Acoustic Sounds Series]",
-      "label": "Craft Recordings",
-      "genres": [
-        "Jazz",
-        "Bop",
-        "Hard Bop"
-      ],
-      "price": 23.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CRZR9S88",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/08/91/5a/08915a69-895b-69a9-beb1-b9627a1a4d10/00025218671323.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Hampton Hawes (November 13, 1928 – May 22, 1977) was an American bebop and hard-bop jazz pianist, recognized as one of the finest and most influential of the 1950s. Hampton Barnett Hawes, Jr. was born November 13, 1928 in Los Angeles, California.",
-      "bioUrl": "https://www.last.fm/music/Hampton+Hawes",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31w0xc0v",
-      "source": "Amazon",
-      "createdAt": "2026-08-28T17:41:00.000Z",
-      "text": "(Amazon) [Regional Coupon] Max Roach - Percussion Bitter Sweet [Verve Vault Series] @ $19.58",
-      "artist": "Max Roach",
-      "title": "Percussion Bitter Sweet [Verve Vault Series]",
-      "label": "Impulse!",
-      "genres": [
-        "Jazz",
-        "Post Bop",
-        "Hard Bop",
-        "Afro-Cuban Jazz"
-      ],
-      "price": 19.58,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FSVCDJJL",
-      "knownArtist": false,
-      "year": "2018",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e2/bd/44/e2bd44a8-95af-891f-7e0d-24294af4e78a/00011105012225.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Maxwell Lemuel Roach (January 10, 1924 – August 16, 2007) was an American jazz drummer and composer. A pioneer of bebop, Roach went on to work in many other styles of music, and is generally considered alongside the most important drummers in history.",
-      "bioUrl": "https://www.last.fm/music/Max+Roach",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31w0wsmv",
-      "source": "Amazon",
-      "createdAt": "2026-08-28T17:21:20.000Z",
-      "text": "(Amazon) BigXthaPlug - I Hope You're Happy Signed Vinyl (Amazon Music Exclusive) @ $16.64",
-      "artist": "BigXthaPlug",
-      "title": "I Hope You're Happy Signed Vinyl (Amazon Music Exclusive)",
-      "label": "UnitedMasters LLC",
-      "genres": [
-        "Hip Hop",
-        "Folk, World, & Country"
-      ],
-      "price": 16.64,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GN9SH47N",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/df/a5/05dfa5bf-4d4f-3fe3-2702-83e95d9aab05/199633117343.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Xavier Landum (born May 12, 1998) in Dallas, Texas, better known by his stage name BigXthaPlug, is an American rapper.",
-      "bioUrl": "https://www.last.fm/music/BigXthaPlug",
       "bioSource": "Last.fm"
     }
   ]
