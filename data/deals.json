@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T19:29:51.524Z",
+  "updatedAt": "2026-09-12T21:33:40.043Z",
   "deals": [
     {
       "id": "reddit-t31wekz83",
@@ -27244,32 +27244,6 @@
       "year": "1997",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/46/dd/3a46dd11-3488-e56d-9b49-4081bc45b886/mzi.xhbxdldp.jpg/400x400bb.jpg",
       "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31w1215t",
-      "source": "Amazon",
-      "createdAt": "2026-08-28T20:34:07.000Z",
-      "text": "[Amazon] Chicago - Chicago IX: Chicago's Greatest - $12.02",
-      "artist": "Chicago",
-      "title": "Chicago IX: Chicago's Greatest",
-      "label": "Columbia",
-      "genres": [
-        "Rock",
-        "Soft Rock",
-        "Pop Rock"
-      ],
-      "price": 12.02,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3mu67iod54k2t",
-      "knownArtist": false,
-      "year": "1975",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/17/ae/2217ae2e-99d0-7f34-c84f-ae48f9439feb/603497878406.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Chicago is an American rock band formed in 1967 in Chicago, Illinois. The group has described itself as a \"rock and roll band with horns,\" and its music incorporates elements of classical music, jazz, R&B, and pop. The band emerged from several Chicago-area groups in the late 1960s.",
-      "bioUrl": "https://www.last.fm/music/Chicago",
-      "bioSource": "Last.fm"
     }
   ]
 }
