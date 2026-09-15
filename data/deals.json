@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-09-15T11:55:56.974Z",
+  "updatedAt": "2026-09-15T15:59:28.894Z",
   "deals": [
+    {
+      "id": "reddit-t31wh3chk",
+      "source": "Amazon",
+      "createdAt": "2026-09-15T15:20:53.000Z",
+      "text": "(Amazon) Duke Ellington/Johnny Hodges - Back To Back [Verve Acoustic Sounds Series] @ $27.18",
+      "artist": "Duke Ellington/Johnny Hodges",
+      "title": "Back To Back [Verve Acoustic Sounds Series]",
+      "label": "Verve Records",
+      "genres": [
+        "Jazz",
+        "Swing"
+      ],
+      "price": 27.18,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CZ7W7YHR",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8e/ab/9a/8eab9a1a-61e9-ed21-9d94-014e1839d5a5/00731452140425.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Duke Ellington (Edward Kennedy Ellington, April 29, 1899 - May 24, 1974) was an American jazz composer, pianist and bandleader, one of the most influential figures in jazz, if not in all American music.",
+      "bioUrl": "https://www.last.fm/music/Duke+Ellington",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31wh2ix6",
+      "source": "Amazon",
+      "createdAt": "2026-09-15T14:50:30.000Z",
+      "text": "[Amazon] Head East - Full Circle (Orange LP) - $17.98",
+      "artist": "Head East",
+      "title": "Full Circle (Orange LP)",
+      "label": "Cleopatra",
+      "genres": [
+        "Rock",
+        "Classic Rock",
+        "Hard Rock"
+      ],
+      "price": 17.98,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CMMRSHD7?tag=sunday-shelf-20",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/92/68/a3926833-bd29-8986-d2d7-66f93420c269/889466469367.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Head East was a hard rock quintet originally from south central Illinois, then Champaign, Illinois, USA. They released their first album, Flat as a Pancake, in 1974 on their own record label (Pyramid Records) selling all 5,000 records and 500 eight-tracks produced.",
+      "bioUrl": "https://www.last.fm/music/Head+East",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31wh03ly",
+      "source": "Walmart",
+      "createdAt": "2026-09-15T13:15:06.000Z",
+      "text": "[Walmart] Rob Zombie - Astro-Creep: 2000 Live Songs Of Love, Destruction And Other Synthetic - $17.48",
+      "artist": "Rob Zombie",
+      "title": "Astro-Creep: 2000 Live Songs Of Love, Destruction And Other Synthetic",
+      "label": "UMe",
+      "genres": [
+        "Rock",
+        "Heavy Metal",
+        "Industrial"
+      ],
+      "price": 17.48,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0HRAdR4uHqgtgBjvGTe8ub6wEdQSebe8ep1JcoEGhBve832iWKbRANVjf7bx1t3XFl&amp;id=61590716382047",
+      "knownArtist": false,
+      "year": "2018",
+      "cover": "https://i.discogs.com/ufURa31g_mpxAkqUmMscNuk1wg6JpswyC7HDvoFteoc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc4/Mzc3LTE1ODI2NjA5/OTctNDU3Ni5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Robert Bartleh Cummings (born January 12, 1965), known professionally as Rob Zombie, is an American singer, songwriter, record producer, filmmaker, and actor.",
+      "bioUrl": "https://www.last.fm/music/Rob+Zombie",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31wgnudl",
       "source": "Amazon",
@@ -27513,56 +27590,6 @@
       "knownArtist": false,
       "bio": "Toni Michele Braxton (born October 7, 1967) is an American singer, songwriter, actress, and television personality. She has sold more than 70 million records worldwide and is regarded as one of the best-selling female artists.",
       "bioUrl": "https://www.last.fm/music/Toni+Braxton",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31w3fmmk",
-      "source": "Amazon",
-      "createdAt": "2026-08-31T14:35:12.000Z",
-      "text": "[Amazon] Weezer - Weezer Blue Album - $19.58",
-      "artist": "Weezer",
-      "title": "Weezer Blue Album",
-      "label": "Geffen Records",
-      "genres": [
-        "Rock",
-        "Alternative Rock"
-      ],
-      "price": 19.58,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3muf4t6bwfs22",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/4f/eb/c74feb4e-fa62-4086-2793-b987eac9777d/09UMGIM41719.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Weezer is an American alternative rock band formed in Los Angeles, California in 1992. They have released 15 full length albums, 1 cover album, six EPs, and a DVD. Their latest album, titled 'Van Weezer', came out on May 7th, 2021, Although, they released 4 EPs in 2022, known as SZNZ.",
-      "bioUrl": "https://www.last.fm/music/Weezer",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31w3fb3a",
-      "source": "Amazon",
-      "createdAt": "2026-08-31T14:23:37.000Z",
-      "text": "[Amazon] Guns N' Roses - Greatest Hits [2 LP] $26.59",
-      "artist": "Guns N' Roses",
-      "title": "Greatest Hits [2 LP]",
-      "label": "Geffen Records",
-      "genres": [
-        "Rock",
-        "Hard Rock"
-      ],
-      "price": 26.59,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B08DC1Z8VY",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/3a/66/263a665e-5863-ccea-7ac6-d71d0365479d/21UM1IM16896.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Guns N' Roses is an American hard rock band formed in Los Angeles, California, in 1985 from members of L.A. Guns and Hollywood Rose.",
-      "bioUrl": "https://www.last.fm/music/Guns+N%27+Roses",
       "bioSource": "Last.fm"
     }
   ]
