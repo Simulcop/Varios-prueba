@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-20T17:32:37.796Z",
+  "updatedAt": "2026-09-20T19:59:19.107Z",
   "deals": [
+    {
+      "id": "reddit-t31wlpxwd",
+      "source": "Walmart",
+      "createdAt": "2026-09-20T19:13:06.000Z",
+      "text": "[Walmart] Coheed and Cambria - Vaxis II: A Window of the Waki - 2LP - $16.64",
+      "artist": "Coheed and Cambria",
+      "title": "Vaxis II: A Window of the Waki - 2LP",
+      "label": "Roadrunner Records",
+      "genres": [
+        "Rock",
+        "Prog Rock"
+      ],
+      "price": 16.64,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0368fswSpEHzEvysJ3RYakzUHSw8Zmk1L6oLCbRFCx7wedoMtQbCsSyzZZ22RpR4akl&amp;id=61590716382047",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://i.discogs.com/zcCR6yRtlYWedXZ1-EZemtRqx1n8FPU5qzw8tHjUdqQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjc2/MjU0LTE3MTQ1OTUz/OTItMTI5Mi5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Coheed and Cambria is an American progressive rock band from Nyack, New York. Formed in 2001, the group incorporates aspects of progressive metal, punk rock, metal, post-hardcore, emo-pop, pop punk and alternative rock.",
+      "bioUrl": "https://www.last.fm/music/Coheed+and+Cambria",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31wlmvk0",
       "source": "Amazon",
@@ -19348,58 +19373,6 @@
       "enrichedVia": "discogs",
       "bio": "Ariana Grande-Butera, better known professionally as simply Ariana Grande, is an American singer, songwriter and actress. She is a multi-platinum, Grammy Award-winning recording artist. Born in Boca Raton, Florida, Grande began her career in 2008 in the Broadway musical \"13\".",
       "bioUrl": "https://www.last.fm/music/Ariana+Grande",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31w8as57",
-      "source": "Amazon",
-      "createdAt": "2026-09-05T19:56:33.000Z",
-      "text": "[Amazon] Drive-By Truckers - The New OK (Red Vinyl) $16.78",
-      "artist": "Drive-By Truckers",
-      "title": "The New OK (Red Vinyl)",
-      "label": "ATO Records",
-      "genres": [
-        "Rock",
-        "Southern Rock"
-      ],
-      "price": 16.78,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B08JLQLQJC/",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/20/6d/14206def-85fb-cd02-bc9d-ed43b7f872aa/679.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Drive-By Truckers is an alternative country band which formed in Athens, Georgia, United States in 1996. Currently, the band consists of Patterson Hood (vocals, guitar), Mike Cooley (vocals, guitar), David Barbe (bass), John Neff (guitar), Jay Gonzalez (keyboards) and Brad Morgan (drums).",
-      "bioUrl": "https://www.last.fm/music/Drive-By+Truckers",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31w89f2w",
-      "source": "Amazon",
-      "createdAt": "2026-09-05T19:04:04.000Z",
-      "text": "[Amazon] AFI - DECEMBERUNDERGROUND $19.58",
-      "artist": "AFI",
-      "title": "DECEMBERUNDERGROUND",
-      "label": "Adeline Records",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Punk",
-        "Indie Rock"
-      ],
-      "price": 19.58,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GXGPN23P",
-      "knownArtist": false,
-      "year": "2006",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b8/13/e5/b813e51d-fac6-b1e9-c7db-d9c8cb4b1e1a/06UMGIM26516.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "AFI (A Fire Inside) is an American punk rock band from Ukiah, California, formed in 1991.",
-      "bioUrl": "https://www.last.fm/music/AFI",
       "bioSource": "Last.fm"
     }
   ]
