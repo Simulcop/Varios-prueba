@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-09-22T23:04:56.894Z",
+  "updatedAt": "2026-09-23T01:35:19.932Z",
   "deals": [
+    {
+      "id": "reddit-t31wnrrn2",
+      "source": "Amazon",
+      "createdAt": "2026-09-23T01:07:41.000Z",
+      "text": "[Amazon] Arcade Fire - WE $14.99",
+      "artist": "Arcade Fire",
+      "title": "WE",
+      "label": "Columbia",
+      "genres": [
+        "Rock",
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "price": 14.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B09TXG1X49",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/7f/0f/297f0f87-fda5-db4b-4103-5bca480f5043/886449956630.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Arcade Fire is a Canadian indie rock band formed in Montreal, Quebec, Canada in 2001. The band consists of Win Butler (vocals, guitar, piano), Régine Chassagne (vocals, accordion, keyboards, hurdy gurdy, drums), Richard Reed Parry (bass, guitar), Tim Kingsbury (bass), and Jeremy Gara (drums).",
+      "bioUrl": "https://www.last.fm/music/Arcade+Fire",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31wnr8hc",
+      "source": "Amazon",
+      "createdAt": "2026-09-23T00:43:31.000Z",
+      "text": "[Amazon] Creedence Clearwater Revival - Chronicle: The 20 Greatest Hits [2xLP] - $14.99",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Chronicle: The 20 Greatest Hits [2xLP]",
+      "label": "Fantasy",
+      "genres": [
+        "Rock",
+        "Rock & Roll",
+        "Classic Rock"
+      ],
+      "price": 14.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B000000XB8",
+      "knownArtist": false,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a1/47/ba/a147ba91-31cd-ef4d-d785-040036d14598/12CMGIM34362.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Creedence Clearwater Revival, commonly abbreviated as CCR or simply Creedence, was an American rock band formed in El Cerrito, California, in 1959.",
+      "bioUrl": "https://www.last.fm/music/Creedence+Clearwater+Revival",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31wnklle",
       "source": "Amazon",
@@ -16870,59 +16921,6 @@
       "enrichedVia": "discogs",
       "bio": "Edwyn Collins (born 23 August 1959) is a Scottish musician from Edinburgh, Scotland. He formed the Nu-Sonics in 1976, which became Orange Juice in 1979. The group is perhaps best known for the No. 8 hit \"Rip it Up\", its only UK top 40 single.",
       "bioUrl": "https://www.last.fm/music/Edwyn+Collins",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wa9dcv",
-      "source": "Amazon",
-      "createdAt": "2026-09-08T00:32:35.000Z",
-      "text": "[Amazon] Kim Petras - Feed The Beast (LP) - $32.19",
-      "artist": "Kim Petras",
-      "title": "Feed The Beast (LP)",
-      "label": "Republic Records",
-      "genres": [
-        "Pop",
-        "Alt-Pop",
-        "Europop"
-      ],
-      "price": 32.19,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0C8461NJL?tag=sunday-shelf-20",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/ba/30/c6ba304c-ef6e-0af9-dced-611ba9eb595b/23UMGIM54378.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Kim Petras is a German singer and songwriter based in Los Angeles. She first gained international attention due to her early gender transition and subsequent media coverage as a teenager.",
-      "bioUrl": "https://www.last.fm/music/Kim+Petras",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wa8iw7",
-      "source": "Amazon",
-      "createdAt": "2026-09-07T23:55:21.000Z",
-      "text": "(Amazon) Fleetwood Mac - Rumours [2xLP 45 RPM] @ $39.97",
-      "artist": "Fleetwood Mac",
-      "title": "Rumours [2xLP 45 RPM]",
-      "label": "Warner Bros. Records",
-      "genres": [
-        "Rock",
-        "Pop Rock",
-        "Soft Rock",
-        "AOR"
-      ],
-      "price": 39.97,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B004OKFIQI",
-      "knownArtist": false,
-      "year": "1977",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/13/ba/4d13bac3-d3d5-7581-2c74-034219eadf2b/081227970949.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Fleetwood Mac were a British and American rock band formed in London in 1967 by singer and guitarist Peter Green. The band was named by combining the surnames of drummer Mick Fleetwood and bassist John McVie, who joined shortly after its formation.",
-      "bioUrl": "https://www.last.fm/music/Fleetwood+Mac",
       "bioSource": "Last.fm"
     }
   ]
