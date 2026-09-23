@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-09-23T06:59:35.417Z",
+  "updatedAt": "2026-09-23T12:37:09.515Z",
   "deals": [
+    {
+      "id": "reddit-t31wo4rk5",
+      "source": "Amazon",
+      "createdAt": "2026-09-23T12:34:43.000Z",
+      "text": "[Amazon] Soccer Mommy - For Young Hearts - $19.99",
+      "artist": "Soccer Mommy",
+      "title": "For Young Hearts",
+      "label": "Fat Possum Records",
+      "genres": [
+        "Rock",
+        "Folk, World, & Country",
+        "Indie Rock",
+        "Lo-Fi"
+      ],
+      "price": 19.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Young-Hearts-Soccer-Mommy/dp/B0GWVT2T51",
+      "knownArtist": false,
+      "year": "2019",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/e9/b2/09e9b2a2-4722-035c-2b23-77ce9c817270/889326727545_cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Sophia Regina Allison (born May 27, 1997), known professionally as Soccer Mommy, is an American singer-songwriter from Nashville, Tennessee. She has released four studio albums, with her most recent, \"Evergreen,\" released on October 25, 2024.",
+      "bioUrl": "https://www.last.fm/music/Soccer+Mommy",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31wo4mt3",
+      "source": "Walmart",
+      "createdAt": "2026-09-23T12:28:45.000Z",
+      "text": "[Walmart] The Rolling Stones - Metamorphosis - $18.97",
+      "artist": "The Rolling Stones",
+      "title": "Metamorphosis",
+      "label": "ABKCO",
+      "genres": [
+        "Rock",
+        "Classic Rock"
+      ],
+      "price": 18.97,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02jKaDYJHgP8tyNfSa4h2DdNqjGjfr81tUVGxTjcstZWfKsUxEb3qz4UxSAYfGUvhml&amp;id=61590716382047",
+      "knownArtist": false,
+      "year": "2003",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e2/47/fd/e247fdff-f682-81d2-0bcf-25ace92ca675/00018771896623.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Rolling Stones are an English rock band formed in London in 1962. They have been active for more than six decades and are widely regarded as one of the most commercially successful and influential bands of the rock era.",
+      "bioUrl": "https://www.last.fm/music/The+Rolling+Stones",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31wo25th",
+      "source": "Amazon",
+      "createdAt": "2026-09-23T10:26:26.000Z",
+      "text": "[Amazon] Crime in Stereo - Selective Wreckage (CD+LP) - $9.60",
+      "artist": "Crime in Stereo",
+      "title": "Selective Wreckage (CD+LP)",
+      "label": "Bridge Nine Records",
+      "genres": [
+        "Rock",
+        "Punk"
+      ],
+      "price": 9.6,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Selective-Wreckage-LP-CD-Vinyl/dp/B001F3ESMW/",
+      "knownArtist": false,
+      "year": "2008",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/82/87/7a/82877a6c-e1c1-313d-066a-187bb7052ed1/00811772010759.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Crime in Stereo are a Long Island-based hardcore punk band, formed in 2002. On August 9, 2010 they announced that Crime In Stereo was no more. On October 3, 2012 they announced the end of their hiatus, saying they will be writing new music.",
+      "bioUrl": "https://www.last.fm/music/Crime+In+Stereo",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31wny1yo",
       "source": "Amazon",
@@ -16935,31 +17012,6 @@
       "enrichedVia": "discogs",
       "bio": "Temple of the Dog was an American rock supergroup formed in Seattle, Washington, in 1990. It was created by Chris Cornell of Soundgarden as a tribute to Andrew Wood, the late lead singer of Malfunkshun and Mother Love Bone.",
       "bioUrl": "https://www.last.fm/music/Temple+of+the+Dog",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wajcb9",
-      "source": "Walmart",
-      "createdAt": "2026-09-08T09:17:43.000Z",
-      "text": "[Walmart] Pet Shop Boys - Please (2018 Remastered Version) - $21.23",
-      "artist": "Pet Shop Boys",
-      "title": "Please (2018 Remastered Version)",
-      "label": "EMI America",
-      "genres": [
-        "Electronic",
-        "Synth-pop"
-      ],
-      "price": 21.23,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid023yQENSoHT92JSd74EhD3tXKk5wxBSLqhBuK5aSMBdwG3PKdjhaf2HnnjazFtbcZRl&amp;id=61590716382047",
-      "knownArtist": false,
-      "year": "1986",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/00/04/3a0004fb-5532-fa36-f7cd-01a2b3da8efd/190295758547.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Pet Shop Boys are an English synth-pop duo formed in London in 1981. The group consists of vocalist Neil Tennant and keyboardist Chris Lowe. They are among the most commercially successful acts in British popular music, having sold more than 100 million records worldwide.",
-      "bioUrl": "https://www.last.fm/music/Pet+Shop+Boys",
       "bioSource": "Last.fm"
     }
   ]
