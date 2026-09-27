@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T23:01:58.143Z",
+  "updatedAt": "2026-09-27T01:36:35.957Z",
   "deals": [
     {
       "id": "reddit-t31wr17ja",
@@ -14139,32 +14139,6 @@
       "enrichedVia": "discogs",
       "bio": "The B-52's are an American new wave band that formed in 1976 in Athens, Georgia, United States. A major part of the new wave scene, the band started out as Fred Schneider (vocals), Kate Pierson (vocals, organ), Cindy Wilson (vocals, bongos), Ricky Wilson (guitar), and Keith Strickland (drums).",
       "bioUrl": "https://www.last.fm/music/The+B-52%27s",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wdz1fi",
-      "source": "Amazon",
-      "createdAt": "2026-09-12T01:33:39.000Z",
-      "text": "[Amazon] Goo Goo Dolls - A Boy Named Goo (Deluxe Edition) [2 LP] $24.22",
-      "artist": "Goo Goo Dolls",
-      "title": "A Boy Named Goo (Deluxe Edition) [2 LP]",
-      "label": "Warner Bros. Records",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Pop Rock"
-      ],
-      "price": 24.22,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0DTQCYVRJ",
-      "knownArtist": false,
-      "year": "2015",
-      "cover": "https://i.discogs.com/g-w_liHvX6DkoPCfjSKWxc-DwEnVlp34xKs77qVcCuU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjY1/ODYtMTQ1ODYyODk0/Ny0zMjcwLmpwZWc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Goo Goo Dolls is an alternative rock band formed in 1985 in Buffalo, New York, USA by guitarist/vocalist John Rzeznik and bassist/vocalist Robby Takac initially under the name the Sex Maggots (the new name was chosen from an ad in True Detective magazine at the behest of a local club owner).",
-      "bioUrl": "https://www.last.fm/music/Goo+Goo+Dolls",
       "bioSource": "Last.fm"
     }
   ]
