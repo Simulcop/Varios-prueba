@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-09-27T07:20:48.420Z",
+  "updatedAt": "2026-09-27T13:10:38.600Z",
   "deals": [
+    {
+      "id": "reddit-t31wrjnv6",
+      "source": "Amazon",
+      "createdAt": "2026-09-27T13:01:17.000Z",
+      "text": "[Amazon] Boz Scaggs - Detour - $9.49",
+      "artist": "Boz Scaggs",
+      "title": "Detour",
+      "label": "Concord Records",
+      "genres": [
+        "Pop",
+        "Vocal"
+      ],
+      "price": 9.49,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Detour-LP-Boz-Scaggs/dp/B0FP2RFDHW/",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/c1/93/a6c1937e-a488-8ed8-3906-2fdae4232f2c/25CRGIM50280.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "William Royce \"Boz\" Scaggs (born June 8, 1944) is an American singer, songwriter, and guitarist. In the early 1960s, he played in the Ardells with Steve Miller and was a member of the Steve Miller Band from 1967 to 1968.",
+      "bioUrl": "https://www.last.fm/music/Boz+Scaggs",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31wrgak7",
+      "source": "Amazon",
+      "createdAt": "2026-09-27T09:57:28.000Z",
+      "text": "[Amazon] Lamb of God - Live In Richmond, VA $9.99",
+      "artist": "Lamb of God",
+      "title": "Live In Richmond, VA",
+      "label": "Epic",
+      "genres": [
+        "Rock",
+        "Heavy Metal",
+        "Groove Metal",
+        "Thrash"
+      ],
+      "price": 9.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B08VM1KN7Z",
+      "knownArtist": false,
+      "year": "2021",
+      "cover": "https://i.discogs.com/m2W0KFxWXiDLIgYJf0tSNJktXQH3i4POwJJFYzg-MB0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDcx/NTY2LTE2MTcwNjYx/MDUtMzg5Ny5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Lamb of God is an American groove metal band, originally formed under the name Burn the Priest. The roots of Lamb of God were planted in the year 1990, when Mark Morton, Chris Adler and John Campbell were friends at Virginia Commonwealth University.",
+      "bioUrl": "https://www.last.fm/music/Lamb+of+God",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31wrfiuo",
+      "source": "Amazon",
+      "createdAt": "2026-09-27T09:10:04.000Z",
+      "text": "[Amazon] Kings of Leon - Can We Please Have Fun $14.99",
+      "artist": "Kings of Leon",
+      "title": "Can We Please Have Fun",
+      "label": "We Love Tapes Records",
+      "genres": [
+        "Rock",
+        "Pop Rock"
+      ],
+      "price": 14.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CW4ZX6D3",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/2c/f6/dc2cf60b-6420-983d-1138-21f97c1ccd9d/24UMGIM12739.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Kings of Leon is an American rock band formed in Nashville, Tennessee, in 1999. The band is composed of brothers Caleb, Nathan and Jared Followill, and their cousin Matthew Followill.",
+      "bioUrl": "https://www.last.fm/music/Kings+of+Leon",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31wredk0",
+      "source": "Walmart",
+      "createdAt": "2026-09-27T08:00:14.000Z",
+      "text": "[Walmart] Jimi Hendrix - Band Of Gypsys 50th Anniversary Edition - 180g - $20.99",
+      "artist": "Jimi Hendrix",
+      "title": "Band Of Gypsys 50th Anniversary Edition - 180g",
+      "label": "Capitol Records",
+      "genres": [
+        "Rock",
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "price": 20.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0paGnD96ZAPDvyURjUYn1btBp3HKiNHGDArrXSzq7XwejnHAE4Df14C35S63pwPygl&amp;id=61590716382047",
+      "knownArtist": false,
+      "year": "2020",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/53/e9/b9/53e9b9f0-97f4-aac7-ee5b-12c2f2007ad3/884977413878.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "James Marshall \"Jimi\" Hendrix (born Johnny Allen Hendrix; November 27, 1942 – September 18, 1970) was an American rock guitarist, singer, and songwriter.",
+      "bioUrl": "https://www.last.fm/music/Jimi+Hendrix",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31wrbg67",
       "source": "Amazon",
@@ -14238,31 +14341,6 @@
       "enrichedVia": "discogs",
       "bio": "The scrobbles for John Morris can be attributed to at least two different individuals named John Morris. 1. John Leonard Morris (Elizabeth, New Jersey, October 18, 1926 - January 25, 2018) was an American film and television composer, best known for his work with filmmaker Mel Brooks.",
       "bioUrl": "https://www.last.fm/music/John+Morris",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31we7fvt",
-      "source": "Walmart",
-      "createdAt": "2026-09-12T08:55:38.000Z",
-      "text": "[Walmart] Brand New - Daisy - $17.48",
-      "artist": "Brand New",
-      "title": "Daisy",
-      "label": "Interscope Records",
-      "genres": [
-        "Rock",
-        "Alternative Rock"
-      ],
-      "price": 17.48,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02SaFbMF5dsX9tMTj9kqS4bf3jTemjy7G1MX5AgBm8KBKQHdQ7sixrx3Sa4trjARpul&amp;id=61590716382047",
-      "knownArtist": false,
-      "year": "2009",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a3/90/35/a39035f1-8ad1-c203-528f-b6931fa6ed08/00602527205649.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "There are two artists with this name 1. A popular rock band 2. A funk group 1. Brand New is an American rock band that formed in 2000 in Merrick, New York.",
-      "bioUrl": "https://www.last.fm/music/Brand+New",
       "bioSource": "Last.fm"
     }
   ]
