@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-27T17:51:57.678Z",
+  "updatedAt": "2026-09-27T20:36:58.589Z",
   "deals": [
+    {
+      "id": "reddit-t31wrshou",
+      "source": "Amazon",
+      "createdAt": "2026-09-27T19:01:31.000Z",
+      "text": "[Amazon] Las Cruxes - Las Cruxes (Opaque Yellow Vinyl) $9.22",
+      "artist": "Las Cruxes",
+      "title": "Las Cruxes (Opaque Yellow Vinyl)",
+      "label": "Million Stars",
+      "genres": [
+        "Rock",
+        "Psychedelic Rock"
+      ],
+      "price": 9.22,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0GKPX9RQX",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/a3/a4/91a3a44e-1f4f-013a-7790-86ba660c9b1f/198704943706_Cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Las Cruxes is a Spanish-language post-punk project led by Los Angeles-based songwriter Eduardo “Yayo” Trujillo.",
+      "bioUrl": "https://www.last.fm/music/Las+Cruxes",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31wrqnvj",
       "source": "Amazon",
@@ -14064,31 +14089,6 @@
       "enrichedVia": "discogs",
       "bio": "1) Outsider 아웃사이더 (born Shin Ok-cheol, March 21, 1983) is a South Korean rapper. He is known for his speed-rapping and is reputed to be able to rap at 17 syllables per second.",
       "bioUrl": "https://www.last.fm/music/Outsider",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wekz83",
-      "source": "Walmart",
-      "createdAt": "2026-09-12T18:58:26.000Z",
-      "text": "[Walmart] Charles Mingus - The Clown - 180g - $13.76",
-      "artist": "Charles Mingus",
-      "title": "The Clown - 180g",
-      "label": "Speakers Corner Records",
-      "genres": [
-        "Jazz",
-        "Post Bop"
-      ],
-      "price": 13.76,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid037fLxzRd7ttHgELmhdiSZMf8x8ehFEb5fnGApZSiTYwiMKRAdxh8eMLTXhUKQRpdhl&amp;id=61590716382047",
-      "knownArtist": false,
-      "year": "2016",
-      "cover": "https://i.discogs.com/NUFenj6Fq0w7lEVONLc6efJ2EboA9MrODCraUVvHlkc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDE1/MzEtMTU0OTgwNjg3/Ny05NjUxLnBuZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Charles Mingus (22nd April 1922 – 5th January 1979) was an American jazz bassist, composer, bandleader, and occasional pianist from Los Angeles. He was also known for his activism against racial injustice.",
-      "bioUrl": "https://www.last.fm/music/Charles+Mingus",
       "bioSource": "Last.fm"
     }
   ]
