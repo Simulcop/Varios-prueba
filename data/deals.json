@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-09-27T23:29:35.902Z",
+  "updatedAt": "2026-09-28T01:54:11.160Z",
   "deals": [
+    {
+      "id": "reddit-t31ws18i5",
+      "source": "Amazon",
+      "createdAt": "2026-09-28T01:17:17.000Z",
+      "text": "[Amazon] Greta Van Fleet - Starcatcher (Clear) - $14.99",
+      "artist": "Greta Van Fleet",
+      "title": "Starcatcher (Clear)",
+      "label": "Republic Records",
+      "genres": [
+        "Rock",
+        "Blues Rock",
+        "Prog Rock"
+      ],
+      "price": 14.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0C1K77T2J",
+      "knownArtist": false,
+      "year": "2023",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/34/ee/21/34ee21ae-e18d-6195-dc02-65d2344d23c9/23UMGIM36455.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Formed in Frankenmuth, Michigan in 2012, GRETA VAN FLEET consists of three brothers — vocalist Josh Kiszka, guitarist Jake Kiszka and bassist/keyboardist Sam Kiszka — as well as drummer Danny Wagner.",
+      "bioUrl": "https://www.last.fm/music/Greta+Van+Fleet",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31wryaxw",
       "source": "Amazon",
