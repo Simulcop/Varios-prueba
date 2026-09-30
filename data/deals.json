@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-30T03:02:58.096Z",
+  "updatedAt": "2026-09-30T09:52:18.939Z",
   "deals": [
+    {
+      "id": "reddit-t31wtu0wt",
+      "source": "Amazon",
+      "createdAt": "2026-09-30T03:04:28.000Z",
+      "text": "[Amazon] Clifford Brown & Max Roach - Clifford Brown and Max Roach (Verve Acoustic Sounds Series) @ $27.28",
+      "artist": "Clifford Brown & Max Roach",
+      "title": "Clifford Brown and Max Roach (Verve Acoustic Sounds Series)",
+      "label": "WaxTime",
+      "genres": [
+        "Jazz",
+        "Hard Bop"
+      ],
+      "price": 27.28,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FVK18KVW",
+      "knownArtist": false,
+      "year": "2010",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cd/2a/64/cd2a64bd-ddec-bf69-76cc-99852bdc1b56/00602567828495.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "1954 to 1956 hard bop jazz unit mainly billed by the names of leaders Clifford Brown (Trumpet) and Max Roach (Drums) but in reality - and sometimes billed as such - a quintet including George Morrow (Bass), Richie Powell (Piano) and Harold Land (Tenor saxophone).",
+      "bioUrl": "https://www.discogs.com/artist/2664380-Clifford-Brown-and-Max-Roach",
+      "bioSource": "Discogs"
+    },
     {
       "id": "reddit-t31wttyv1",
       "source": "Amazon",
