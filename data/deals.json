@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-03T21:34:26.911Z",
+  "updatedAt": "2026-10-04T00:14:19.606Z",
   "deals": [
+    {
+      "id": "reddit-t31wx16ln",
+      "source": "Amazon",
+      "createdAt": "2026-10-03T23:37:06.000Z",
+      "text": "[Amazon] ABBA - Voyage - $9.99",
+      "artist": "ABBA",
+      "title": "Voyage",
+      "label": "Polar",
+      "genres": [
+        "Pop",
+        "Vocal"
+      ],
+      "price": 9.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Voyage-LP-ABBA/dp/B09DYXH2JS/",
+      "knownArtist": false,
+      "year": "2021",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/59/c9/d959c92f-045d-44e4-7a20-f1e36fa46135/21UMGIM85473.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "ABBA were a Swedish pop group formed in Stockholm in 1972 by Agnetha Fältskog, Björn Ulvaeus, Benny Andersson, and Anni-Frid Lyngstad. The group's name is an acronym of the first letters of their first names.",
+      "bioUrl": "https://www.last.fm/music/ABBA",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31wx121z",
+      "source": "Amazon",
+      "createdAt": "2026-10-03T23:30:23.000Z",
+      "text": "[Amazon] Talking Heads - Little Creatures - $9.99",
+      "artist": "Talking Heads",
+      "title": "Little Creatures",
+      "label": "Sire",
+      "genres": [
+        "Rock",
+        "Alternative Rock",
+        "Pop Rock",
+        "New Wave"
+      ],
+      "price": 9.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/Little-Creatures-Talking-Heads/dp/B0CG7WB74W/",
+      "knownArtist": false,
+      "year": "1985",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/52/61/e9526185-ac05-b2d2-c2a2-81015b3a7323/mzi.pehbzbbp.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Talking Heads were an American post-punk band formed in New York City in 1975. The group consisted of vocalist and guitarist David Byrne, drummer Chris Frantz, bassist Tina Weymouth, and guitarist and keyboardist Jerry Harrison.",
+      "bioUrl": "https://www.last.fm/music/Talking+Heads",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31wwy9mv",
       "source": "Amazon",
@@ -12278,59 +12330,6 @@
       "enrichedVia": "discogs",
       "bio": "Cheap Trick is an American power pop/rock n roll band from Rockford, Illinois that's played for over four decades, and in 2016 was inducted into the Rock & Roll Hall of Fame.",
       "bioUrl": "https://www.last.fm/music/Cheap+Trick",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wk4j3h",
-      "source": "Amazon",
-      "createdAt": "2026-09-18T22:29:47.000Z",
-      "text": "[Amazon] Southern Culture On The Skids - The Kudzu Ranch @ $19.98",
-      "artist": "Southern Culture On The Skids",
-      "title": "The Kudzu Ranch",
-      "label": "Kudzu Records",
-      "genres": [
-        "Rock",
-        "Garage Rock",
-        "Psychobilly",
-        "Rockabilly"
-      ],
-      "price": 19.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B004708K4M",
-      "knownArtist": false,
-      "year": "2010",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/eb/59/e8/eb59e88b-1301-f2b8-f84a-98aab5bffb57/822960100145.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "True to their name, North Carolina's Southern Culture on the Skids offer an affectionate parody of local white-trash trailer-park culture, matching their skewed outlook with a wild, careening brand of rock & roll.",
-      "bioUrl": "https://www.last.fm/music/Southern+Culture+On+The+Skids",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wk49yk",
-      "source": "Amazon",
-      "createdAt": "2026-09-18T22:19:28.000Z",
-      "text": "[Amazon] Aerosmith - Rocks (180g) @ $14.99",
-      "artist": "Aerosmith",
-      "title": "Rocks (180g)",
-      "label": "Columbia",
-      "genres": [
-        "Rock",
-        "Hard Rock",
-        "Blues Rock"
-      ],
-      "price": 14.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0C397WJ4P",
-      "knownArtist": false,
-      "year": "1976",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/41/cc/1e/41cc1e86-3f4e-f8f4-c525-67d4817167e6/22UM1IM35690.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Aerosmith is an American rock band formed in Boston, Massachusetts, in 1970. The group consists of lead vocalist Steven Tyler, bassist Tom Hamilton, drummer Joey Kramer, and guitarists Joe Perry and Brad Whitford.",
-      "bioUrl": "https://www.last.fm/music/Aerosmith",
       "bioSource": "Last.fm"
     }
   ]
