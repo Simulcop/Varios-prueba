@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-10T06:06:26.406Z",
+  "updatedAt": "2026-10-10T12:47:03.165Z",
   "deals": [
+    {
+      "id": "reddit-t31x2bulh",
+      "source": "Amazon",
+      "createdAt": "2026-10-10T10:22:40.000Z",
+      "text": "[Amazon] From First To Last - Dear Diary, My Teen Angst Has a Body Count - $8.99",
+      "artist": "From First To Last",
+      "title": "Dear Diary, My Teen Angst Has a Body Count",
+      "label": "Epitaph",
+      "genres": [
+        "Rock",
+        "Post-Hardcore"
+      ],
+      "price": 8.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://a.co/d/01cEXWov",
+      "knownArtist": false,
+      "year": "2026",
+      "cover": "https://i.discogs.com/p1f-OUK1CBXRlgXyVaCfshDTSznYLm0Ic7yZwomQRLU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDYx/MjQ5LTE3ODYwNjA2/MDctNzc0Mi5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "In 2002, From First to Last are a band formed by guitarist Matt Good and Travis Richter in their hometown of Valdosta, Georgia. Eventually a solid lineup was formed, with vocalist Philip Reardon, guitarist Richter, guitarist Good, bassist Joey Antillon and drummer Derek Bloom.",
+      "bioUrl": "https://www.last.fm/music/From+First+to+Last",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31x27e0e",
       "source": "Amazon",
@@ -16278,85 +16303,6 @@
       "enrichedVia": "discogs",
       "bio": "Five Finger Death Punch, also abbreviated as 5FDP or FFDP, is an American heavy metal band from Las Vegas, Nevada, formed in 2005. The original lineup consisted of vocalist Ivan Moody, guitarists Zoltan Bathory and Caleb Andrew Bingham, bassist Matt Snell, and drummer Jeremy Spencer.",
       "bioUrl": "https://www.last.fm/music/Five+Finger+Death+Punch",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wpsx8v",
-      "source": "Walmart",
-      "createdAt": "2026-09-25T10:37:49.000Z",
-      "text": "[Walmart] AC/DC - Power Up - $16.91",
-      "artist": "AC/DC",
-      "title": "Power Up",
-      "label": "Epic",
-      "genres": [
-        "Rock",
-        "Hard Rock",
-        "Blues Rock"
-      ],
-      "price": 16.91,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0JpeED5cNUaHBKwgYazEFpyTDUD59449WPXXfwvjXfgJo4PRk6U3aUkyrvozZyW1Ul&amp;id=61590716382047",
-      "knownArtist": false,
-      "year": "2003",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/bd/e5/2dbde53c-f7b2-9ef0-24e4-dd7916b3b958/886448802198.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "AC/DC are an Australian rock band formed in Sydney in 1973. Their music has been described as hard rock, blues rock, and heavy metal, though the band refers to it simply as \"rock and roll.\" They are regarded as a significant influence on the new wave of British heavy metal and were inducted into…",
-      "bioUrl": "https://www.last.fm/music/AC%2FDC",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wpsva1",
-      "source": "Walmart",
-      "createdAt": "2026-09-25T10:34:30.000Z",
-      "text": "[Walmart] Bryan Ferry - Boys And Girls - $14.99",
-      "artist": "Bryan Ferry",
-      "title": "Boys And Girls",
-      "label": "EG",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Pop",
-        "Synth-pop"
-      ],
-      "price": 14.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0CLjxbVp72jiiDNAzMZaFnbBhnsKQB791VEM6qMca5T7mZ6jmA82p6rtvXf7nxNrxl&amp;id=61590716382047",
-      "knownArtist": false,
-      "year": "1985",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/06/d5/f006d538-140b-012f-b852-a8873081d6fd/13ULAIM48843.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Bryan Ferry (born 26 September 1945, in Washington, Tyne and Wear) is an English singer and songwriter. His voice has been described as an \"elegant, seductive croon\".",
-      "bioUrl": "https://www.last.fm/music/Bryan+Ferry",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wpskai",
-      "source": "Amazon",
-      "createdAt": "2026-09-25T10:16:21.000Z",
-      "text": "[Amazon] Judas Priest - Invincible Shield - $19.99",
-      "artist": "Judas Priest",
-      "title": "Invincible Shield",
-      "label": "Columbia",
-      "genres": [
-        "Rock",
-        "Heavy Metal",
-        "Hard Rock"
-      ],
-      "price": 19.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CKF1L2L9",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/78/f3/a378f3eb-bc4e-2c16-9b79-1fa202c52b99/196871506267.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Judas Priest are an English heavy metal band formed in Birmingham in 1969. They have sold over 50 million albums and are considered a significant influence within the heavy metal genre.",
-      "bioUrl": "https://www.last.fm/music/Judas+Priest",
       "bioSource": "Last.fm"
     }
   ]
