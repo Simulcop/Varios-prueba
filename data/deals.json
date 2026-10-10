@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-10-10T17:32:22.021Z",
+  "updatedAt": "2026-10-10T20:53:18.560Z",
   "deals": [
+    {
+      "id": "reddit-t31x2o92v",
+      "source": "Amazon",
+      "createdAt": "2026-10-10T19:47:41.000Z",
+      "text": "[Amazon] Charley Pride - Greatest Songs (Vinyl) - $13.49",
+      "artist": "Charley Pride",
+      "title": "Greatest Songs (Vinyl)",
+      "label": "Curb Records",
+      "genres": [
+        "Folk, World, & Country",
+        "Country"
+      ],
+      "price": 13.49,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0BQZ93MT8?tag=sunday-shelf-20",
+      "knownArtist": false,
+      "year": "2005",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4b/07/8c/4b078ca7-595e-2402-f1ef-c561b780c911/826309052997_cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Charley Pride (born Charley Frank Pride on 18 March 1934; died 12 December 2020) was an American singer, musician, guitarist, business owner, and professional baseball player.",
+      "bioUrl": "https://www.last.fm/music/Charley+Pride",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31x2l5lt",
+      "source": "Amazon",
+      "createdAt": "2026-10-10T17:37:13.000Z",
+      "text": "[Amazon] Wild Nothing - Gemini (Vinyl) - $14.99",
+      "artist": "Wild Nothing",
+      "title": "Gemini (Vinyl)",
+      "label": "Captured Tracks",
+      "genres": [
+        "Rock",
+        "Shoegaze",
+        "Dream Pop"
+      ],
+      "price": 14.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B006CLHEN2?tag=sunday-shelf-20",
+      "knownArtist": false,
+      "year": "2010",
+      "cover": "https://i.discogs.com/fmGAqozJsel1wsx0ObxioM7Coqzn4tyhiVQtyaGoX3I/rs:fit/g:sm/q:90/h:504/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTg0/OTUtMTI3NTI1Mzc3/NC5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Wild Nothing is the solo project of Virginia-born Jack Tatum. Tatum began recording under the moniker Wild Nothing in the summer of 2009 in Blacksburg, Virginia. Upon gathering attention in indie music circles, he was signed with the Captured Tracks record label and began touring with a band.",
+      "bioUrl": "https://www.last.fm/music/Wild+Nothing",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31x2kggo",
       "source": "Amazon",
@@ -16128,58 +16179,6 @@
       "enrichedVia": "discogs",
       "bio": "Miley Ray Cyrus (born Destiny Hope Cyrus; 23 November 1992) is an American singer, songwriter, and actress. She is known for her evolving musical style and image changes and has been recognised as an influential figure in popular music.",
       "bioUrl": "https://www.last.fm/music/Miley+Cyrus",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wq30qq",
-      "source": "Amazon",
-      "createdAt": "2026-09-25T17:52:06.000Z",
-      "text": "[Amazon] Over Kill - The Atlantic Albums 1986-1994 (6xLP Boxset) @ $124.99",
-      "artist": "Over Kill",
-      "title": "The Atlantic Albums 1986-1994 (6xLP Boxset)",
-      "label": "Atlantic",
-      "genres": [
-        "Rock",
-        "Thrash"
-      ],
-      "price": 124.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09CRQFJL4",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://i.discogs.com/GYfqLuyaGrQ2cmsttgC0o1KsX_j4JyUt1jlOvPeErnw/rs:fit/g:sm/q:90/h:534/w:523/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjEx/OTE1LTE2Mzk0MDc2/MTUtNTA4NS5wbmc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Overkill is an American thrash metal band formed in 1980 in New Jersey. The group has undergone numerous line-up changes, with bassist D. D. Verni and vocalist Bobby “Blitz” Ellsworth remaining the only original members.",
-      "bioUrl": "https://www.last.fm/music/Overkill",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wq2yrs",
-      "source": "Amazon",
-      "createdAt": "2026-09-25T17:49:50.000Z",
-      "text": "[Amazon] John Berberian and The Rock East Ensemble - Middle Eastern Rock @ $19.90",
-      "artist": "John Berberian and The Rock East Ensemble",
-      "title": "Middle Eastern Rock",
-      "label": "Verve Forecast",
-      "genres": [
-        "Rock",
-        "Folk, World, & Country",
-        "Folk Rock",
-        "Psychedelic Rock"
-      ],
-      "price": 19.9,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09MBQNN8V",
-      "knownArtist": false,
-      "year": "1969",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/86/33/39/86333928-3529-1211-8936-d21f8df30594/00602577154300.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "One of the ‘classic’ albums that bridge classical Arab lute playing with rock music, and beyond, is this one, partly because of the involvement of Joe Beck and his fuzz guitar.",
-      "bioUrl": "https://www.last.fm/music/John+Berberian+and+the+Rock+East+Ensemble",
       "bioSource": "Last.fm"
     }
   ]
