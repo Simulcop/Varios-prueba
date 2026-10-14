@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T05:37:42.063Z",
+  "updatedAt": "2026-10-14T10:52:00.970Z",
   "deals": [
     {
       "id": "reddit-t31x5j4d5",
@@ -18439,59 +18439,6 @@
       "enrichedVia": "discogs",
       "bio": "Three Days Grace is a Canadian rock band, formed under the name Groundswell in Norwood, Ontario, Canada in 1992.",
       "bioUrl": "https://www.last.fm/music/Three+Days+Grace",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wt5hg4",
-      "source": "Walmart",
-      "createdAt": "2026-09-29T09:25:11.000Z",
-      "text": "[Walmart] Aerosmith - Rocks - $17.55",
-      "artist": "Aerosmith",
-      "title": "Rocks",
-      "label": "Columbia",
-      "genres": [
-        "Rock",
-        "Hard Rock",
-        "Blues Rock"
-      ],
-      "price": 17.55,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0wLZE7bPDYgdmsGxS6BYNiWz261cSNhPT2t299cS4oL3yunLgrmTiftoHVsUHrU4Tl&amp;id=61590716382047",
-      "knownArtist": false,
-      "year": "1976",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/41/cc/1e/41cc1e86-3f4e-f8f4-c525-67d4817167e6/22UM1IM35690.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Aerosmith is an American rock band formed in Boston, Massachusetts, in 1970. The group consists of lead vocalist Steven Tyler, bassist Tom Hamilton, drummer Joey Kramer, and guitarists Joe Perry and Brad Whitford.",
-      "bioUrl": "https://www.last.fm/music/Aerosmith",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wt3oxt",
-      "source": "Amazon",
-      "createdAt": "2026-09-29T07:30:32.000Z",
-      "text": "[Amazon] $uicideboy$ - Thy Kingdom Come (Blue Vinyl) - $8.07",
-      "artist": "$uicideboy$",
-      "title": "Thy Kingdom Come (Blue Vinyl)",
-      "label": "G*59 Records",
-      "genres": [
-        "Hip Hop",
-        "Hardcore Hip-Hop",
-        "Trap",
-        "Cloud Rap"
-      ],
-      "price": 8.07,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/THY-KINGDOM-COME-AMAZON-EXCLUSIVE/dp/B0FCB8SDZ5/",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/33/47/21334762-0ddd-267b-274b-b8535af3ee83/199538299946.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "$uicideboy$ are an American hip-hop duo from New Orleans, Louisiana, founded in 2014 by cousins Ruby da Cherry and $crim.",
-      "bioUrl": "https://www.last.fm/music/$uicideboy$",
       "bioSource": "Last.fm"
     }
   ]
