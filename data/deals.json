@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T04:44:56.459Z",
+  "updatedAt": "2026-10-17T08:55:58.104Z",
   "deals": [
     {
       "id": "reddit-t31x80n6m",
@@ -18258,51 +18258,6 @@
       "enrichedVia": "discogs",
       "bio": "An Horse is an indie rock band from Brisbane, Australia, comprising Kate Cooper of Iron On on vocals and guitar and Damon Cox of Intercooler on drums. In 2008 they toured the United States as an opening act for Tegan and Sara, prior to the release of their first album.",
       "bioUrl": "https://www.last.fm/music/An+Horse",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wvmdnl",
-      "source": "Amazon",
-      "createdAt": "2026-10-02T06:16:10.000Z",
-      "text": "[Amazon] Beat - Live 30.09 with coupon",
-      "artist": "Beat",
-      "title": "Live 30.09 with coupon",
-      "label": null,
-      "genres": [],
-      "price": null,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FGF36RFN/?psc=1&amp;ref_=list_c_wl_ys_dp_ii",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/82/a4db82b6-0cb2-13fa-786c-38599686d70f/196873078373.jpg/400x400bb.jpg",
-      "bio": "There is more than one artist with this name: 1. A supergroup led by Adrian Belew, with Tony Levin, Steve Vai, and Danny Carey revisiting the songs of King Crimson. 2. For English 2 Tone Ska revival band see The Beat or The English Beat 3.",
-      "bioUrl": "https://www.last.fm/music/Beat",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wvm1w3",
-      "source": "Amazon",
-      "createdAt": "2026-10-02T05:56:48.000Z",
-      "text": "[Amazon] Tesla - All About Love (Orange) @ $11.70",
-      "artist": "Tesla",
-      "title": "All About Love (Orange)",
-      "label": "Tesla Electric Company Recordings",
-      "genres": [
-        "Rock",
-        "Hard Rock"
-      ],
-      "price": 11.7,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0DHYG9P48",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/52/d2/b252d2e8-2e7c-5147-aceb-fd9f6208b36c/25736.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Tesla is an American hard rock band from Sacramento, California, formed in late 1981 by bassist Brian Wheat and guitarist Frank Hannon under the name City Kidd.",
-      "bioUrl": "https://www.last.fm/music/Tesla",
       "bioSource": "Last.fm"
     }
   ]
