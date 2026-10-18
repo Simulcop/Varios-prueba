@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T19:51:59.607Z",
+  "updatedAt": "2026-10-18T22:03:44.875Z",
   "deals": [
     {
       "id": "reddit-t31x9ab4q",
@@ -17861,83 +17861,6 @@
       "enrichedVia": "discogs",
       "bio": "Talking Heads were an American post-punk band formed in New York City in 1975. The group consisted of vocalist and guitarist David Byrne, drummer Chris Frantz, bassist Tina Weymouth, and guitarist and keyboardist Jerry Harrison.",
       "bioUrl": "https://www.last.fm/music/Talking+Heads",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wwy9mv",
-      "source": "Amazon",
-      "createdAt": "2026-10-03T21:17:20.000Z",
-      "text": "[Amazon] Tyrannosaurus Rex - Electric Warrior (2xLP MOFI) @ $44.99",
-      "artist": "Tyrannosaurus Rex",
-      "title": "Electric Warrior (2xLP MOFI)",
-      "label": "ENIMS-BC",
-      "genres": [
-        "Rock",
-        "Glam",
-        "Pop Rock"
-      ],
-      "price": 44.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0861ND4ZJ",
-      "knownArtist": false,
-      "year": "1995",
-      "cover": "https://i.discogs.com/eJtBzAa8Hp9qOtUHzBHz3XGtAvDZTto19VObVQD8ges/rs:fit/g:sm/q:90/h:503/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjI0/MzctMTQyNjA5NjQ5/My01Nzk3LmpwZWc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "T. Rex was a British rock band, formed in London in 1967 by singer/songwriter and guitarist Marc Bolan. The band began as a psychedelic folk-rock combo called Tyrannosaurus Rex, a name that was later shortened to T. Rex.",
-      "bioUrl": "https://www.last.fm/music/T.+Rex",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wwy8lr",
-      "source": "Amazon",
-      "createdAt": "2026-10-03T21:16:05.000Z",
-      "text": "[Amazon] Green Day - Revolution Radio @ $15.99",
-      "artist": "Green Day",
-      "title": "Revolution Radio",
-      "label": "Reprise Records",
-      "genres": [
-        "Rock"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B01JZLQ9PE",
-      "knownArtist": false,
-      "year": "2016",
-      "cover": "https://i.discogs.com/ag1mMu-H1NRvP3IKD99pEoVt1vhZ31Fp65yErJ0-1-I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTI0/OTQtMTQ3NTY5MzYy/OC01MTMwLmpwZWc.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Green Day is an American rock band formed in Rodeo, California, in 1987 by lead singer and guitarist Billie Joe Armstrong and bassist and backing vocalist Mike Dirnt, with drummer Tré Cool joining in 1990.",
-      "bioUrl": "https://www.last.fm/music/Green+Day",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wwy7wd",
-      "source": "Amazon",
-      "createdAt": "2026-10-03T21:15:12.000Z",
-      "text": "[Amazon] Moby - All Visible Objects @ $15.99",
-      "artist": "Moby",
-      "title": "All Visible Objects",
-      "label": "Little Idiot Music",
-      "genres": [
-        "Electronic",
-        "Downtempo",
-        "Ambient",
-        "Electro"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B083TK6YQ3",
-      "knownArtist": false,
-      "year": "2020",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f3/28/43/f328432d-1c14-939a-1184-8980faf8a42f/5060236635570.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Richard Melville Hall (born 11 September 1965), known professionally as Moby, is an American musician, songwriter and animal rights activist. He has sold approximately 20 million records worldwide.",
-      "bioUrl": "https://www.last.fm/music/Moby",
       "bioSource": "Last.fm"
     }
   ]
