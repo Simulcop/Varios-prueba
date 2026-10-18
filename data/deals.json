@@ -1,6 +1,33 @@
 {
-  "updatedAt": "2026-10-18T11:27:49.447Z",
+  "updatedAt": "2026-10-18T14:44:04.632Z",
   "deals": [
+    {
+      "id": "reddit-t31x92s2h",
+      "source": "Amazon",
+      "createdAt": "2026-10-18T13:06:24.000Z",
+      "text": "[Amazon] Nine Inch Nails - Bad Witch -$9.99",
+      "artist": "Nine Inch Nails",
+      "title": "Bad Witch",
+      "label": "Capitol Records",
+      "genres": [
+        "Electronic",
+        "Jazz",
+        "Rock",
+        "Art Rock"
+      ],
+      "price": 9.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B07CPJYRBT",
+      "knownArtist": false,
+      "year": "2018",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/86/a2/5386a2ef-a8e1-f7b5-d39f-300a92d37d21/25UM1IM50676.rgb.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Nine Inch Nails, commonly abbreviated as NIN (stylized as NIИ), is an American industrial rock band formed in 1988 in Cleveland, Ohio.",
+      "bioUrl": "https://www.last.fm/music/Nine+Inch+Nails",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31x8wak4",
       "source": "Amazon",
@@ -17696,57 +17723,6 @@
       "enrichedVia": "discogs",
       "bio": "There are two artists that share this name: 1) The Wombats (TWB) is a three-piece indie band which formed in 2003 in Liverpool, England. The band consists of Matthew Murphy (vocals, guitar, keyboards), Tord Øverland Knudsen (bass, vocals) and Dan Haggis (drums, vocals).",
       "bioUrl": "https://www.last.fm/music/The+Wombats",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wwofnz",
-      "source": "Amazon",
-      "createdAt": "2026-10-03T14:20:31.000Z",
-      "text": "[Amazon] The Pretty Reckless - Going To Hell - $12.79",
-      "artist": "The Pretty Reckless",
-      "title": "Going To Hell",
-      "label": "DAS Label",
-      "genres": [
-        "Rock",
-        "Hard Rock"
-      ],
-      "price": 12.79,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Going-Hell-LP-Pretty-Reckless/dp/B09N1QZB49/",
-      "knownArtist": false,
-      "year": "2014",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/2c/b9/732cb9a1-5e45-b5c3-6431-bca435dcd495/16CRGIM01400.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Pretty Reckless is an American alternative rock band from New York, United States. The current members are Taylor Momsen (lead vocals, rhythm guitar), Ben Phillips (lead guitar, backing vocals), Mark Damon (bass) and Jamie Perkins (drums).",
-      "bioUrl": "https://www.last.fm/music/The+Pretty+Reckless",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wwo1dq",
-      "source": "Walmart",
-      "createdAt": "2026-10-03T14:02:53.000Z",
-      "text": "[Walmart] The Cult - Sonic Temple - 2LP - $19.99",
-      "artist": "The Cult",
-      "title": "Sonic Temple - 2LP",
-      "label": "Beggars Banquet",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Hard Rock"
-      ],
-      "price": 19.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid0rNa8GZz8ULtUowqyR98VVXsyLhBxihaHjQvASw3EwbQ5LFKZGdrB7enpimFuFNEhl&amp;id=61590716382047",
-      "knownArtist": false,
-      "year": "2019",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/74/8f/87/748f8767-1bc2-49ab-50c6-f106afb73d22/607618009809.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Cult is an English rock band formed in 1983 in Bradford, West Yorkshire. Before settling on their current name in January 1984, the band performed under the name Death Cult, which was an evolution of the name of lead singer Ian Astbury's previous band Southern Death Cult.",
-      "bioUrl": "https://www.last.fm/music/The+Cult",
       "bioSource": "Last.fm"
     }
   ]
