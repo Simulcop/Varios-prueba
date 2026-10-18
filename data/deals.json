@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-10-18T01:17:15.417Z",
+  "updatedAt": "2026-10-18T06:10:21.642Z",
   "deals": [
+    {
+      "id": "reddit-t31x8t1np",
+      "source": "Amazon",
+      "createdAt": "2026-10-18T03:33:10.000Z",
+      "text": "[Amazon] Boys Like Girls - Sunday At Foxwoods (Transparent Champagne Vinyl) - $19.80",
+      "artist": "Boys Like Girls",
+      "title": "Sunday At Foxwoods (Transparent Champagne Vinyl)",
+      "label": "Fearless Records",
+      "genres": [
+        "Rock",
+        "Alternative Rock",
+        "Pop Rock"
+      ],
+      "price": 19.8,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0CKKB7ZZQ?tag=sunday-shelf-20",
+      "knownArtist": false,
+      "year": "2024",
+      "cover": "https://i.discogs.com/-8mSKIkpWWKyTjEYbDCpsCCgbFEnal8ahALa7n0jhpA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcx/MjEzLTE3ODM2ODU1/MDktMjYwOC5qcGVn.jpeg",
+      "enrichedVia": "discogs",
+      "bio": "Boys Like Girls are a pop rock/power pop band that formed in Andover, Massachusetts, United States in 2005. Influenced by contemporary emo and pop punk groups, they're perhaps best known for their hit song \"The Great Escape\".",
+      "bioUrl": "https://www.last.fm/music/Boys+Like+Girls",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31x8mqee",
       "source": "Amazon",
@@ -17870,94 +17896,6 @@
       "bio": "Peter, Paul & Mary (sometimes PP&M) was an American folk trio remembered as one of the most successful folk-singing groups of the 1960s. The trio comprised Peter Yarrow (died 2025), Noel Paul Stookey, and Mary Travers (died 2009).",
       "bioUrl": "https://www.last.fm/music/Peter,+Paul+&+Mary",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wwdibh",
-      "source": "Amazon",
-      "createdAt": "2026-10-03T03:55:12.000Z",
-      "text": "[Amazon] Midge Ure - Man of Two Worlds (2xLP) @ $25.70 w/coupon",
-      "artist": "Midge Ure",
-      "title": "Man of Two Worlds (2xLP) @ $25.70 w/coupon",
-      "label": null,
-      "genres": [],
-      "price": 25.7,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GRBYRLS1",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/d9/d6/97d9d658-1eeb-fbf6-d5cc-a63f726a3edf/0840401724392.png/400x400bb.jpg",
-      "bio": "Midge Ure OBE (born James Ure on October 10, 1953 in Cambuslang, Lanarkshire, Scotland) is a pop and rock and roll musician from Scotland, known for his particular success as a guitarist and singer-songwriter in the 70s and 80s.",
-      "bioUrl": "https://www.last.fm/music/Midge+Ure",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wwctpu",
-      "source": "Amazon",
-      "createdAt": "2026-10-03T03:17:27.000Z",
-      "text": "[Amazon] Big Something – Headspace $18.60",
-      "artist": null,
-      "title": "Big Something – Headspace",
-      "label": "Truth Serum Records",
-      "genres": [
-        "Rock",
-        "Psychedelic Rock"
-      ],
-      "price": 18.6,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CKY2SXTB",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b6/af/1a/b6af1aa9-1d43-f5b0-e39c-49d18b6896c5/762183935325.png/400x400bb.jpg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31wwcp16",
-      "source": "Amazon",
-      "createdAt": "2026-10-03T03:10:36.000Z",
-      "text": "[Amazon] Wu-Tang x Mathematics - Black Samson, The Bastard Swordsman - $14.99",
-      "artist": "Wu-Tang x Mathematics",
-      "title": "Black Samson, The Bastard Swordsman",
-      "label": "RuffNation Music",
-      "genres": [
-        "Hip Hop",
-        "Boom Bap",
-        "Hardcore Hip-Hop"
-      ],
-      "price": 14.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0F7FKV9H2",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://i.discogs.com/q8AyHZ7KTh4eLgMbTSVvqGnIE2eSMen8D2OdAgUeuRc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjcx/Nzg3LTE3NDQ0MzM5/MDYtNzEwMC5qcGVn.jpeg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31wwanb3",
-      "source": "Amazon",
-      "createdAt": "2026-10-03T01:20:44.000Z",
-      "text": "[Amazon] Graham Coxon ‎– The Golden D $23.30",
-      "artist": null,
-      "title": "Graham Coxon ‎– The Golden D",
-      "label": "Transcopic",
-      "genres": [
-        "Rock",
-        "Punk",
-        "Indie Rock"
-      ],
-      "price": 23.3,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0GXWN8Z5P",
-      "knownArtist": false,
-      "year": "2000",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/7c/34/3c7c34c1-9415-c212-ed2d-8fa83b09c5c3/0724352702459.png/400x400bb.jpg",
-      "enrichedVia": "discogs"
     }
   ]
 }
