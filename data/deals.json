@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T22:03:44.875Z",
+  "updatedAt": "2026-10-19T00:17:44.374Z",
   "deals": [
     {
       "id": "reddit-t31x9ab4q",
@@ -17810,58 +17810,6 @@
       "amazonUrl": "https://www.amazon.com/Cool-Dry-Place-Katy-Kirby/dp/B08PJWKPFT",
       "knownArtist": false,
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bd/b2/2f/bdb22f90-b7b8-65ae-ecbc-25ed5bcff570/656605374796.jpg/400x400bb.jpg"
-    },
-    {
-      "id": "reddit-t31wx16ln",
-      "source": "Amazon",
-      "createdAt": "2026-10-03T23:37:06.000Z",
-      "text": "[Amazon] ABBA - Voyage - $9.99",
-      "artist": "ABBA",
-      "title": "Voyage",
-      "label": "Polar",
-      "genres": [
-        "Pop",
-        "Vocal"
-      ],
-      "price": 9.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Voyage-LP-ABBA/dp/B09DYXH2JS/",
-      "knownArtist": false,
-      "year": "2021",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/59/c9/d959c92f-045d-44e4-7a20-f1e36fa46135/21UMGIM85473.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "ABBA were a Swedish pop group formed in Stockholm in 1972 by Agnetha Fältskog, Björn Ulvaeus, Benny Andersson, and Anni-Frid Lyngstad. The group's name is an acronym of the first letters of their first names.",
-      "bioUrl": "https://www.last.fm/music/ABBA",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wx121z",
-      "source": "Amazon",
-      "createdAt": "2026-10-03T23:30:23.000Z",
-      "text": "[Amazon] Talking Heads - Little Creatures - $9.99",
-      "artist": "Talking Heads",
-      "title": "Little Creatures",
-      "label": "Sire",
-      "genres": [
-        "Rock",
-        "Alternative Rock",
-        "Pop Rock",
-        "New Wave"
-      ],
-      "price": 9.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Little-Creatures-Talking-Heads/dp/B0CG7WB74W/",
-      "knownArtist": false,
-      "year": "1985",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/52/61/e9526185-ac05-b2d2-c2a2-81015b3a7323/mzi.pehbzbbp.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Talking Heads were an American post-punk band formed in New York City in 1975. The group consisted of vocalist and guitarist David Byrne, drummer Chris Frantz, bassist Tina Weymouth, and guitarist and keyboardist Jerry Harrison.",
-      "bioUrl": "https://www.last.fm/music/Talking+Heads",
-      "bioSource": "Last.fm"
     }
   ]
 }
