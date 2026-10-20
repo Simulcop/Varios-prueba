@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T19:29:21.101Z",
+  "updatedAt": "2026-10-20T22:31:06.315Z",
   "deals": [
     {
       "id": "reddit-t31xayp64",
@@ -17538,83 +17538,6 @@
       "enrichedVia": "discogs",
       "bio": "Joe Bonamassa (born May 8, 1977) is an American blues rock guitarist, singer and songwriter. Bonamassa was born in Utica, New York.",
       "bioUrl": "https://www.last.fm/music/Joe+Bonamassa",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wyjy8a",
-      "source": "Amazon",
-      "createdAt": "2026-10-05T20:51:58.000Z",
-      "text": "[Amazon] Donovan Blanc - Donovan Blanc (Vinyl LP) - $15.99",
-      "artist": "Donovan Blanc",
-      "title": "Donovan Blanc (Vinyl LP)",
-      "label": "Captured Tracks",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Indie Rock",
-        "Pop Rock"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00JEQQ5UA?tag=sunday-shelf-20",
-      "knownArtist": false,
-      "year": "2014",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/2f/ff/a02fff5b-5216-f25c-dfe9-3cd8c6834c6e/cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "New Jersey-based duo Donovan Blanc are the freshest signing to Brooklyn label Captured Tracks. After releasing nine E.P.s under the moniker Honeydrum over the course of just two years Joseph Black and Raymond Schwab felt the need to shed their pop origins in search of something truer.",
-      "bioUrl": "https://www.last.fm/music/Donovan+Blanc",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wyj2ae",
-      "source": "Amazon",
-      "createdAt": "2026-10-05T20:16:53.000Z",
-      "text": "[Amazon] Hater - Mosquito (Clear Vinyl) @ $14.00",
-      "artist": "Hater",
-      "title": "Mosquito (Clear Vinyl)",
-      "label": "Fire Records",
-      "genres": [
-        "Rock",
-        "Indie Rock"
-      ],
-      "price": 14,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0G2ZYDL4C",
-      "knownArtist": false,
-      "year": "2026",
-      "cover": "https://i.discogs.com/WW-B0eJ6Y8Fb8eJ4DFx8Sbxk_xaZpSre65aLlmQxHj8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzcy/NjI0LTE3NzM1MTA2/ODUtMTQ5MS5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "There are multiple artists with the name Hater: 1) The Swedish indie pop quartet Hater released their debut EP Radius this summer and now they’re back with new music in the shape of new single “Mental Haven”, the first single from their upcoming debut LP You Tried.",
-      "bioUrl": "https://www.last.fm/music/Hater",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31wyitk2",
-      "source": "Amazon",
-      "createdAt": "2026-10-05T20:07:19.000Z",
-      "text": "[Amazon] Ken Laszlo - Greatest Hits & Remixes (Vinyl LP) - $19.43",
-      "artist": "Ken Laszlo",
-      "title": "Greatest Hits & Remixes (Vinyl LP)",
-      "label": "ZYX Music",
-      "genres": [
-        "Electronic",
-        "Italo-Disco"
-      ],
-      "price": 19.43,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B01JTP94N0?tag=sunday-shelf-20",
-      "knownArtist": false,
-      "year": "2016",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/46/99/39/46993908-4458-c324-f5bc-92d89a19d14b/090204705351.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Ken Laszlo (born as Gianni Laszlo Coraini, 1954) is an Italo Disco singer who became famous in the 1980s. Even since he was a little boy, Ken had a special talent for music. He also learned to play the flute and graduated from the academy of music.",
-      "bioUrl": "https://www.last.fm/music/Ken+Laszlo",
       "bioSource": "Last.fm"
     }
   ]
