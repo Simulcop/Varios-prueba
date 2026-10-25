@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T17:43:21.030Z",
+  "updatedAt": "2026-10-25T20:09:14.000Z",
   "deals": [
     {
       "id": "reddit-t31xf72iu",
@@ -16125,31 +16125,6 @@
       "enrichedVia": "discogs",
       "bio": "Divine Fits are an American super group formed in 2012. They are composed of Britt Daniel (Spoon), Dan Boeckner (Wolf Parade / Handsome Furs),Sam Brown (New Bomb Turks) and Alex Fischel (Papa). They released their first album, A Thing Called Divine Fits, in August 2012.",
       "bioUrl": "https://www.last.fm/music/Divine+Fits",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31x2o92v",
-      "source": "Amazon",
-      "createdAt": "2026-10-10T19:47:41.000Z",
-      "text": "[Amazon] Charley Pride - Greatest Songs (Vinyl) - $13.49",
-      "artist": "Charley Pride",
-      "title": "Greatest Songs (Vinyl)",
-      "label": "Curb Records",
-      "genres": [
-        "Folk, World, & Country",
-        "Country"
-      ],
-      "price": 13.49,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BQZ93MT8?tag=sunday-shelf-20",
-      "knownArtist": false,
-      "year": "2005",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4b/07/8c/4b078ca7-595e-2402-f1ef-c561b780c911/826309052997_cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Charley Pride (born Charley Frank Pride on 18 March 1934; died 12 December 2020) was an American singer, musician, guitarist, business owner, and professional baseball player.",
-      "bioUrl": "https://www.last.fm/music/Charley+Pride",
       "bioSource": "Last.fm"
     }
   ]
