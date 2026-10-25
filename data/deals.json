@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T05:00:08.234Z",
+  "updatedAt": "2026-10-25T09:38:10.858Z",
   "deals": [
     {
       "id": "reddit-t31xes773",
@@ -15950,85 +15950,6 @@
       "enrichedVia": "discogs",
       "bio": "In 2002, From First to Last are a band formed by guitarist Matt Good and Travis Richter in their hometown of Valdosta, Georgia. Eventually a solid lineup was formed, with vocalist Philip Reardon, guitarist Richter, guitarist Good, bassist Joey Antillon and drummer Derek Bloom.",
       "bioUrl": "https://www.last.fm/music/From+First+to+Last",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31x27e0e",
-      "source": "Amazon",
-      "createdAt": "2026-10-10T05:46:25.000Z",
-      "text": "[Amazon] DEERHOOF - Actually You Can (Olive Green) - $14.39",
-      "artist": "DEERHOOF",
-      "title": "Actually You Can (Olive Green)",
-      "label": "Joyful Noise Recordings",
-      "genres": [
-        "Rock",
-        "Art Rock",
-        "Indie Rock",
-        "Experimental"
-      ],
-      "price": 14.39,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B099ZSS7TQ",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/49/09/f3/4909f319-3d2c-6d51-da2e-70174d671844/20617.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Deerhoof is an American independent music group formed in San Francisco in 1994. It began as an improvisational bass and harmonica solo project by Rob Fisk, who later joined 7 Year Rabbit Cycle and Common Eider, King Eider.",
-      "bioUrl": "https://www.last.fm/music/Deerhoof",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31x27dp6",
-      "source": "Amazon",
-      "createdAt": "2026-10-10T05:45:55.000Z",
-      "text": "[Amazon] Destroyer - STREETHAWK: A SEDUCTION - $14.39",
-      "artist": "Destroyer",
-      "title": "STREETHAWK: A SEDUCTION",
-      "label": "Merge Records",
-      "genres": [
-        "Rock",
-        "Indie Rock"
-      ],
-      "price": 14.39,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B003A060ZG",
-      "knownArtist": false,
-      "year": "2010",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/9c/70/899c70b7-5b66-bb29-4000-cd7bf1bc50eb/56964.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Destroyer is a Canadian indie rock band from Vancouver, British Columbia fronted by singer-songwriter Dan Bejar and formed in 1995. Destroyer songs are characterized by abstract, poetic lyrics and idiosyncratic vocals.",
-      "bioUrl": "https://www.last.fm/music/Destroyer",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31x276ji",
-      "source": "Amazon",
-      "createdAt": "2026-10-10T05:34:19.000Z",
-      "text": "[Amazon] Red Hot Chili Peppers - Return Of The Dream Canteen (Pink) [2xLP] - $28.35",
-      "artist": "Red Hot Chili Peppers",
-      "title": "Return Of The Dream Canteen (Pink) [2xLP]",
-      "label": "Warner Records",
-      "genres": [
-        "Rock",
-        "Funk / Soul",
-        "Alternative Rock",
-        "Funk Metal"
-      ],
-      "price": 28.35,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0B79P6G63",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://i.discogs.com/1eev2_o9GiBXLOlqgVKH9H-j-Z8kXTQmcsHbMfU1SZA/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODEw/NzA0LTE2NjU2Njk4/MTAtNzEyNC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Red Hot Chili Peppers is an American rock band formed in Los Angeles in 1982, consisting of Anthony Kiedis (vocals), Flea (bass), John Frusciante (guitar), and Chad Smith (drums).",
-      "bioUrl": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
       "bioSource": "Last.fm"
     }
   ]
