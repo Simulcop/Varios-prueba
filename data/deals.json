@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-10-24T22:07:32.296Z",
+  "updatedAt": "2026-10-25T00:24:20.748Z",
   "deals": [
+    {
+      "id": "reddit-t31xem2xa",
+      "source": "Amazon",
+      "createdAt": "2026-10-24T22:44:40.000Z",
+      "text": "[Amazon] Madonna - Like a Prayer @ $14.99",
+      "artist": "Madonna",
+      "title": "Like a Prayer",
+      "label": "Sire",
+      "genres": [
+        "Electronic",
+        "Pop",
+        "Synth-pop",
+        "Dance-pop"
+      ],
+      "price": 14.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B007BWUJ60",
+      "knownArtist": false,
+      "year": "1989",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/20/3c/f5/203cf53d-689e-528f-29d7-ba33758254aa/mzi.rotbotfl.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Madonna Louise Ciccone (born August 16, 1958) is an American singer, songwriter, record producer, actress, and businesswoman. She is widely recognized for her influence on popular music, visual presentation, and music video production.",
+      "bioUrl": "https://www.last.fm/music/Madonna",
+      "bioSource": "Last.fm"
+    },
+    {
+      "id": "reddit-t31xem2il",
+      "source": "Amazon",
+      "createdAt": "2026-10-24T22:44:08.000Z",
+      "text": "[Amazon] Charley Crockett - The Man From Waco @ $13.99",
+      "artist": "Charley Crockett",
+      "title": "The Man From Waco",
+      "label": "Son Of Davy",
+      "genres": [
+        "Folk, World, & Country",
+        "Western Swing",
+        "Honky Tonk",
+        "Cajun"
+      ],
+      "price": 13.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0B6996WJY",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a6/76/fe/a676feba-a23f-ed4c-39fc-2f8f51978182/196925073073.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Charley Crockett (born March 24, 1984) is an American blues, country, and Americana singer, guitarist, and songwriter. He has released ten albums since 2015, with Lil G.L.'s Blue Bonanza peaking at number 11 on the US Billboard Blues Albums chart.",
+      "bioUrl": "https://www.last.fm/music/Charley+Crockett",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31xeknhr",
       "source": "Amazon",
