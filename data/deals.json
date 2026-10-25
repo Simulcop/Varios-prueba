@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-25T20:09:14.000Z",
+  "updatedAt": "2026-10-25T22:41:23.196Z",
   "deals": [
+    {
+      "id": "reddit-t31xffftv",
+      "source": "Target",
+      "createdAt": "2026-10-25T22:14:50.000Z",
+      "text": "[Target] Kekht Arakh - Pale Swordsman - Metallic Silver - $15.99",
+      "artist": "Kekht Arakh",
+      "title": "Pale Swordsman - Metallic Silver",
+      "label": "Sacred Bones Records",
+      "genres": [
+        "Rock",
+        "Black Metal"
+      ],
+      "price": 15.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://bsky.app/profile/goodvinylbargains.bsky.social/post/3myqa3twhhk2w",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fc/69/23/fc6923ee-c921-fa5b-c8c4-54f1abac2fa8/34395.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "Black metal/ambient one-man project from Ukraine.",
+      "bioUrl": "https://www.discogs.com/artist/6853547-Këkht-Aräkh",
+      "bioSource": "Discogs"
+    },
     {
       "id": "reddit-t31xf72iu",
       "source": "Amazon",
@@ -16074,57 +16099,6 @@
       "enrichedVia": "discogs",
       "bio": "Yola (born Yolanda Quartey in Bristol in 1983) is a Grammy nominated English musician, singer and songwriter (she has also gone by the name Yola Carter).",
       "bioUrl": "https://www.last.fm/music/Yola",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31x2r2tu",
-      "source": "Amazon",
-      "createdAt": "2026-10-10T21:50:32.000Z",
-      "text": "[Amazon] Madonna - Like a Prayer $14.99",
-      "artist": "Madonna",
-      "title": "Like a Prayer",
-      "label": "Sire",
-      "genres": [
-        "Electronic",
-        "Pop",
-        "Synth-pop",
-        "Dance-pop"
-      ],
-      "price": 14.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B007BWUJ60",
-      "knownArtist": false,
-      "year": "1989",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/20/3c/f5/203cf53d-689e-528f-29d7-ba33758254aa/mzi.rotbotfl.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Madonna Louise Ciccone (born August 16, 1958) is an American singer, songwriter, record producer, actress, and businesswoman. She is widely recognized for her influence on popular music, visual presentation, and music video production.",
-      "bioUrl": "https://www.last.fm/music/Madonna",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31x2q2xu",
-      "source": "Amazon",
-      "createdAt": "2026-10-10T21:05:37.000Z",
-      "text": "[Amazon] Divine Fits - A Thing Called Divine Fits $14.39",
-      "artist": "Divine Fits",
-      "title": "A Thing Called Divine Fits",
-      "label": "Merge Records",
-      "genres": [
-        "Rock"
-      ],
-      "price": 14.39,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B008EL1WQ8",
-      "knownArtist": false,
-      "year": "2012",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/e7/05/a0e70505-6b9e-d9d0-8bb2-faf3f26b9683/56648.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Divine Fits are an American super group formed in 2012. They are composed of Britt Daniel (Spoon), Dan Boeckner (Wolf Parade / Handsome Furs),Sam Brown (New Bomb Turks) and Alex Fischel (Papa). They released their first album, A Thing Called Divine Fits, in August 2012.",
-      "bioUrl": "https://www.last.fm/music/Divine+Fits",
       "bioSource": "Last.fm"
     }
   ]
