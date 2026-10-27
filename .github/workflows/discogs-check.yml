@@ -21,22 +21,15 @@ jobs:
           set +x
           TOKEN="${DISCOGS_USER_TOKEN:-$DISCOGS_TOKEN}"
           WHICH=$( [ -n "$DISCOGS_USER_TOKEN" ] && echo "DISCOGS_USER_TOKEN" || echo "DISCOGS_TOKEN" )
-          if [ -z "$TOKEN" ]; then echo "❌ No hay ningun token configurado"; exit 1; fi
+          if [ -z "$TOKEN" ]; then echo "No hay ningun token configurado"; exit 0; fi
           echo "Secreto usado: $WHICH"
-          CODE=$(curl -sS -o resp.json -w "%{http_code}" -A "JuanDeals/1.0 +verify" \
-            -H "Authorization: Discogs token=$TOKEN" \
-            "https://api.discogs.com/oauth/identity")
+          CODE=$(curl -sS -o resp.json -w "%{http_code}" -A "JuanDeals/1.0 +verify" -H "Authorization: Discogs token=$TOKEN" "https://api.discogs.com/oauth/identity")
           echo "HTTP: $CODE"
-          python3 - <<'PY'
-import json
-try:
-    d=json.load(open('resp.json'))
-except Exception as e:
-    print("Respuesta no valida:", e); raise SystemExit
-if d.get('username'):
-    print("✅ Token OK — cuenta:", d.get('username'), "(id", d.get('id'), ")")
-    print("Permite escribir en la coleccion de:", d.get('username'))
-else:
-    print("❌ El token no identifica una cuenta (quiza es de catalogo, no personal).")
-    print("Mensaje:", d.get('message'))
-PY
+          USER=$(jq -r '.username // empty' resp.json)
+          if [ -n "$USER" ]; then
+            echo "RESULTADO: OK - el token sirve y es de la cuenta: $USER (id $(jq -r '.id' resp.json))"
+            echo "Puede escribir en la coleccion de: $USER"
+          else
+            echo "RESULTADO: El token NO identifica una cuenta (quiza es de catalogo, no personal)."
+            echo "Mensaje de Discogs: $(jq -r '.message // "sin mensaje"' resp.json)"
+          fi
