@@ -1,0 +1,39 @@
+name: Discogs - verificar token
+
+# Comprueba que el token de Discogs sirve y de que cuenta es.
+# NO imprime el token (GitHub lo enmascara y usamos set +x). Solo el usuario.
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verificar identidad Discogs
+        env:
+          DISCOGS_USER_TOKEN: ${{ secrets.DISCOGS_USER_TOKEN }}
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+        run: |
+          set +x
+          TOKEN="${DISCOGS_USER_TOKEN:-$DISCOGS_TOKEN}"
+          WHICH=$( [ -n "$DISCOGS_USER_TOKEN" ] && echo "DISCOGS_USER_TOKEN" || echo "DISCOGS_TOKEN" )
+          if [ -z "$TOKEN" ]; then echo "❌ No hay ningun token configurado"; exit 1; fi
+          echo "Secreto usado: $WHICH"
+          CODE=$(curl -sS -o resp.json -w "%{http_code}" -A "JuanDeals/1.0 +verify" \
+            -H "Authorization: Discogs token=$TOKEN" \
+            "https://api.discogs.com/oauth/identity")
+          echo "HTTP: $CODE"
+          python3 - <<'PY'
+import json
+try:
+    d=json.load(open('resp.json'))
+except Exception as e:
+    print("Respuesta no valida:", e); raise SystemExit
+if d.get('username'):
+    print("✅ Token OK — cuenta:", d.get('username'), "(id", d.get('id'), ")")
+    print("Permite escribir en la coleccion de:", d.get('username'))
+else:
+    print("❌ El token no identifica una cuenta (quiza es de catalogo, no personal).")
+    print("Mensaje:", d.get('message'))
+PY
