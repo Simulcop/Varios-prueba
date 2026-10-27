@@ -5,6 +5,9 @@ name: Discogs - verificar token
 
 on:
   workflow_dispatch: {}
+  push:
+    paths:
+      - '.github/workflows/discogs-check.yml'
 
 jobs:
   check:
