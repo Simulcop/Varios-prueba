@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T18:47:40.749Z",
+  "updatedAt": "2026-10-27T22:44:56.084Z",
   "deals": [
     {
       "id": "reddit-t31xh0o2z",
@@ -15324,108 +15324,6 @@
       "enrichedVia": "discogs",
       "bio": "Tori Amos (born Myra Ellen Amos; 22 August 1963) is an American singer-songwriter and pianist, recognised for her classically trained mezzo-soprano voice.",
       "bioUrl": "https://www.last.fm/music/Tori+Amos",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31x4dt6a",
-      "source": "Amazon",
-      "createdAt": "2026-10-12T21:00:04.000Z",
-      "text": "[Amazon] Andreas Toftemark Quartet Featuring Gerard Presencer - La Gare @ $17.30",
-      "artist": "Andreas Toftemark Quartet Featuring Gerard Presencer",
-      "title": "La Gare",
-      "label": "April Records",
-      "genres": [
-        "Jazz",
-        "Contemporary Jazz"
-      ],
-      "price": 17.3,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CN8N4FKV",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://i.discogs.com/zSHD7h-uCJye0QTirzt-7-XE-HSoQzeVq5FW7eo73kw/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ2/OTQ2LTE3MDExODc2/OTYtMzA4NC5qcGVn.jpeg",
-      "enrichedVia": "discogs"
-    },
-    {
-      "id": "reddit-t31x4c24r",
-      "source": "Amazon",
-      "createdAt": "2026-10-12T19:52:41.000Z",
-      "text": "[Amazon] Tom Waits - EARLY YEARS 1 (180 grams) @ $13.99",
-      "artist": "Tom Waits",
-      "title": "EARLY YEARS 1 (180 grams)",
-      "label": "Manifesto",
-      "genres": [
-        "Rock",
-        "Blues Rock",
-        "Alternative Rock"
-      ],
-      "price": 13.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B003YCRYKA",
-      "knownArtist": false,
-      "year": "2010",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7e/cc/f9/7eccf9bc-5ec9-d005-1949-090ec5b40fe1/803680797501.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Thomas Alan Waits (born December 7, 1949) is an American singer, songwriter, composer, and actor. Known for his deep, gravelly voice, his lyrics often explore the lives of marginalized and overlooked individuals.",
-      "bioUrl": "https://www.last.fm/music/Tom+Waits",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31x4c16y",
-      "source": "Amazon",
-      "createdAt": "2026-10-12T19:51:44.000Z",
-      "text": "[Amazon] Daevid Allen - Banana Moon (Limited Edition) @ $14.39",
-      "artist": "Daevid Allen",
-      "title": "Banana Moon (Limited Edition)",
-      "label": "BYG Records",
-      "genres": [
-        "Jazz",
-        "Rock",
-        "Psychedelic Rock",
-        "Prog Rock"
-      ],
-      "price": 14.39,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0BRT4L1M9",
-      "knownArtist": false,
-      "year": "1971",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9f/ec/31/9fec31e8-24e8-1f69-5591-132176548d11/197188773236.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Daevid Allen (born Christopher David Allen on 13 January 1938 in Melbourne, Australia; died on 13 March 2015) was an Australian poet, guitarist, singer, composer and performance artist. He was one of the founders of the British progressive rock band Soft Machine in 1966.",
-      "bioUrl": "https://www.last.fm/music/Daevid+Allen",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31x4bad5",
-      "source": "Amazon",
-      "createdAt": "2026-10-12T19:23:53.000Z",
-      "text": "[Amazon] Bob Dylan - Blood On The Tracks @ $15.38",
-      "artist": "Bob Dylan",
-      "title": "Blood On The Tracks",
-      "label": "Columbia",
-      "genres": [
-        "Rock",
-        "Folk Rock",
-        "Acoustic",
-        "Ballad"
-      ],
-      "price": 15.38,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B07RLHNQG5",
-      "knownArtist": false,
-      "year": "1975",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/6e/4d/346e4d1c-c9ef-cf7f-96d9-aad97286febb/074643323529.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Bob Dylan (born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter. Recognized as one of the most influential songwriters of all time, Dylan has been a prominent figure in popular culture over a career spanning more than six decades.",
-      "bioUrl": "https://www.last.fm/music/Bob+Dylan",
       "bioSource": "Last.fm"
     }
   ]
