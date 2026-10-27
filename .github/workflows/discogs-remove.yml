@@ -1,0 +1,66 @@
+name: Discogs - quitar de coleccion
+
+# Lee data/collection-remove.txt (una linea por disco: "release_id instance_id")
+# Busca en que carpeta esta esa instancia y la elimina. Se dispara al cambiar
+# ese archivo. NO imprime el token.
+
+on:
+  workflow_dispatch: {}
+  push:
+    paths:
+      - 'data/collection-remove.txt'
+
+jobs:
+  remove:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Quitar releases de la coleccion
+        env:
+          DISCOGS_USER_TOKEN: ${{ secrets.DISCOGS_USER_TOKEN }}
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+        run: |
+          set +x
+          TOKEN="${DISCOGS_USER_TOKEN:-$DISCOGS_TOKEN}"
+          USER="juanDanielCaro"
+          UA="JuanDeals/1.0 +remove"
+          if [ -z "$TOKEN" ]; then echo "No hay token"; exit 1; fi
+          if [ ! -f data/collection-remove.txt ]; then echo "No hay lista"; exit 0; fi
+          AUTH="Authorization: Discogs token=$TOKEN"
+          ok=0; err=0
+          # Lista de carpetas (ids reales, excluyendo 0 que es la vista 'All')
+          curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders" -o folders.json
+          FOLDERS=$(jq -r '.folders[] | select(.id != 0) | .id' folders.json)
+          echo "Carpetas a revisar: $(echo $FOLDERS | tr '\n' ' ')"
+          while IFS= read -r line || [ -n "$line" ]; do
+            clean=$(echo "$line" | sed 's/#.*//')
+            rid=$(echo "$clean" | awk '{print $1}' | tr -cd '0-9')
+            iid=$(echo "$clean" | awk '{print $2}' | tr -cd '0-9')
+            [ -z "$rid" ] && continue
+            if [ -z "$iid" ]; then echo "SALTO: falta instance_id para release $rid"; err=$((err+1)); continue; fi
+            found_folder=""
+            for fid in $FOLDERS; do
+              page=1; pages=1
+              while [ "$page" -le "$pages" ]; do
+                curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders/$fid/releases?per_page=100&page=$page" -o pg.json
+                pages=$(jq -r '.pagination.pages // 1' pg.json)
+                hit=$(jq -r --argjson iid "$iid" '[.releases[]? | select(.instance_id==$iid)] | length' pg.json)
+                if [ "$hit" = "1" ]; then found_folder="$fid"; break; fi
+                page=$((page+1))
+                sleep 0.6
+              done
+              [ -n "$found_folder" ] && break
+            done
+            if [ -z "$found_folder" ]; then
+              echo "NO ENCONTRADO: release $rid instance $iid (quiza ya no esta)"; err=$((err+1)); continue
+            fi
+            code=$(curl -sS -o d.json -w "%{http_code}" -A "$UA" -H "$AUTH" -X DELETE \
+              "https://api.discogs.com/users/$USER/collection/folders/$found_folder/releases/$rid/instances/$iid")
+            if [ "$code" = "204" ]; then
+              echo "QUITADO: release $rid instance $iid (carpeta $found_folder)"; ok=$((ok+1))
+            else
+              echo "ERROR: release $rid -> HTTP $code $(cat d.json)"; err=$((err+1))
+            fi
+            sleep 1.2
+          done < data/collection-remove.txt
+          echo "RESUMEN: quitados=$ok errores=$err"
