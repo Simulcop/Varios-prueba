@@ -1,0 +1,42 @@
+name: Discogs - agregar a coleccion
+
+# Lee data/collection-import.txt (un release_id por linea, # para comentarios)
+# y los agrega a tu coleccion de Discogs. Se dispara al cambiar ese archivo.
+
+on:
+  workflow_dispatch: {}
+  push:
+    paths:
+      - 'data/collection-import.txt'
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Agregar releases a la coleccion
+        env:
+          DISCOGS_USER_TOKEN: ${{ secrets.DISCOGS_USER_TOKEN }}
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+        run: |
+          set +x
+          TOKEN="${DISCOGS_USER_TOKEN:-$DISCOGS_TOKEN}"
+          USER="juanDanielCaro"
+          FOLDER=1   # 1 = "Uncategorized"
+          if [ -z "$TOKEN" ]; then echo "No hay token"; exit 1; fi
+          if [ ! -f data/collection-import.txt ]; then echo "No hay lista"; exit 0; fi
+          ok=0; err=0
+          while IFS= read -r line || [ -n "$line" ]; do
+            id=$(echo "$line" | sed 's/#.*//' | tr -cd '0-9')
+            [ -z "$id" ] && continue
+            code=$(curl -sS -o r.json -w "%{http_code}" -X POST -A "JuanDeals/1.0 +import" \
+              -H "Authorization: Discogs token=$TOKEN" \
+              "https://api.discogs.com/users/$USER/collection/folders/$FOLDER/releases/$id")
+            if [ "$code" = "201" ]; then
+              echo "AGREGADO: release $id"; ok=$((ok+1))
+            else
+              echo "ERROR: release $id -> HTTP $code $(cat r.json)"; err=$((err+1))
+            fi
+            sleep 1.2
+          done < data/collection-import.txt
+          echo "RESUMEN: agregados=$ok errores=$err"
