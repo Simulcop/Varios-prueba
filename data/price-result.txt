@@ -1,16 +1,127 @@
-Resultado precio por condicion - 2026-10-28T13:33:51Z
+Resultado precio por condicion - 2026-10-28T16:26:56Z
 ===================================================
-RELEASE 2844420
-  Joni Mitchell - Court And Spark (0, Canada)  [7ES 1001]
-  --- Precio sugerido por condicion (EUR) ---
-  [http 200] raw: {"Mint (M)":{"currency":"USD","value":32.132352941176464},"Near Mint (NM or M-)":{"currency":"USD","value":28.749999999999996},"Very Good Plus (VG+)":{"currency":"USD","value":21.985294117647058},"Very Good (VG)":{"currency":"USD","value":15.220588235294116},"Good Plus (G+)":{"currency":"USD","value
-  Poor (P): 1.69 USD
-  Fair (F): 3.38 USD
-  Good (G): 5.07 USD
-  Good Plus (G+): 8.46 USD
-  Very Good (VG): 15.22 USD
-  Very Good Plus (VG+): 21.99 USD
-  Near Mint (NM or M-): 28.75 USD
-  Mint (M): 32.13 USD
+RELEASE 16489581
+  Tortoise - TNT (2020, US)  [THRILL 050,Thrill-050-y]
+  --- Precio sugerido por condicion (USD) ---
+  Mint (M): 54.6 USD
+  Near Mint (NM or M-): 48.86 USD
+  Very Good Plus (VG+): 37.36 USD
+  Very Good (VG): 25.86 USD
+  Good Plus (G+): 14.37 USD
+  Good (G): 8.62 USD
+  Fair (F): 5.75 USD
+  Poor (P): 2.87 USD
   --- Mercado ahora ---
-  a la venta: 11  | mas barato (cualquier condicion): 3.21 EUR
+  a la venta: 45  | mas barato (cualquier condicion): 33.33 USD
+===================================================
+RELEASE 38025927
+  Michael Jackson - Off The Wall (2026, USA & Europe)  [88875189421,88875189421,88875189421]
+  --- Precio sugerido por condicion (USD) ---
+  Mint (M): 29.92 USD
+  Near Mint (NM or M-): 26.77 USD
+  Very Good Plus (VG+): 20.47 USD
+  Very Good (VG): 14.17 USD
+  Good Plus (G+): 7.87 USD
+  Good (G): 4.72 USD
+  Fair (F): 3.15 USD
+  Poor (P): 1.57 USD
+  --- Mercado ahora ---
+  a la venta: 32  | mas barato (cualquier condicion): 25.0 USD
+===================================================
+RELEASE 21951430
+  Four Tet - Everything Ecstatic (2017, Europe)  [WIGLP154]
+  --- Precio sugerido por condicion (USD) ---
+  Mint (M): 46.6 USD
+  Near Mint (NM or M-): 41.69 USD
+  Very Good Plus (VG+): 31.88 USD
+  Very Good (VG): 22.07 USD
+  Good Plus (G+): 12.26 USD
+  Good (G): 7.36 USD
+  Fair (F): 4.9 USD
+  Poor (P): 2.45 USD
+  --- Mercado ahora ---
+  a la venta: 49  | mas barato (cualquier condicion): 22.22 USD
+===================================================
+RELEASE 16250147
+  Mr. Oizo - Flat Beat (2013, France)  [F 104]
+  --- Precio sugerido por condicion (USD) ---
+  Mint (M): 37.51 USD
+  Near Mint (NM or M-): 33.56 USD
+  Very Good Plus (VG+): 25.66 USD
+  Very Good (VG): 17.77 USD
+  Good Plus (G+): 9.87 USD
+  Good (G): 5.92 USD
+  Fair (F): 3.95 USD
+  Poor (P): 1.97 USD
+  --- Mercado ahora ---
+  a la venta: 26  | mas barato (cualquier condicion): 17.5 USD
+===================================================
+RELEASE 27394311
+  Various - Support Your Local Record Label (Ed Banger Records Best Of 2003-2023) (2023, France)  [ED2023,BEC5611761]
+  --- Precio sugerido por condicion (USD) ---
+  Mint (M): 36.26 USD
+  Near Mint (NM or M-): 32.44 USD
+  Very Good Plus (VG+): 24.81 USD
+  Very Good (VG): 17.18 USD
+  Good Plus (G+): 9.54 USD
+  Good (G): 5.73 USD
+  Fair (F): 3.82 USD
+  Poor (P): 1.91 USD
+  --- Mercado ahora ---
+  a la venta: 32  | mas barato (cualquier condicion): 16.0 USD
+===================================================
+RELEASE 13178423
+  Sadao Watanabe - Maisha (1985, Mexico)  [LWI-6415]
+  --- Precio sugerido por condicion (USD) ---
+  Mint (M): 41.37 USD
+  Near Mint (NM or M-): 37.02 USD
+  Very Good Plus (VG+): 28.31 USD
+  Very Good (VG): 19.6 USD
+  Good Plus (G+): 10.89 USD
+  Good (G): 6.53 USD
+  Fair (F): 4.36 USD
+  Poor (P): 2.18 USD
+  --- Mercado ahora ---
+  a la venta: 3  | mas barato (cualquier condicion): 17.65 USD
+===================================================
+RELEASE 5210081
+  Ray Bryant - Montreux '77 (1977, US)  [2308 201]
+  --- Precio sugerido por condicion (USD) ---
+  Mint (M): 10.93 USD
+  Near Mint (NM or M-): 9.78 USD
+  Very Good Plus (VG+): 7.48 USD
+  Very Good (VG): 5.18 USD
+  Good Plus (G+): 2.88 USD
+  Good (G): 1.73 USD
+  Fair (F): 1.15 USD
+  Poor (P): 0.58 USD
+  --- Mercado ahora ---
+  a la venta: 20  | mas barato (cualquier condicion): 2.25 USD
+===================================================
+RELEASE 9984197
+  Oscar Peterson Big 6, The - The Oscar Peterson Big 6 At The Montreux Jazz Festival 1975 (1975, US)  [2310-747]
+  --- Precio sugerido por condicion (USD) ---
+  Mint (M): 10.93 USD
+  Near Mint (NM or M-): 9.78 USD
+  Very Good Plus (VG+): 7.48 USD
+  Very Good (VG): 5.18 USD
+  Good Plus (G+): 2.88 USD
+  Good (G): 1.73 USD
+  Fair (F): 1.15 USD
+  Poor (P): 0.58 USD
+  --- Mercado ahora ---
+  a la venta: 13  | mas barato (cualquier condicion): 4.0 USD
+===================================================
+RELEASE 3473111
+  Count Basie Trio, The - For The First Time (1974, US)  [2310 712]
+  --- Precio sugerido por condicion (USD) ---
+  Mint (M): 83.02 USD
+  Near Mint (NM or M-): 74.28 USD
+  Very Good Plus (VG+): 56.8 USD
+  Very Good (VG): 39.32 USD
+  Good Plus (G+): 21.85 USD
+  Good (G): 13.11 USD
+  Fair (F): 8.74 USD
+  Poor (P): 4.37 USD
+  --- Mercado ahora ---
+  a la venta: 22  | mas barato (cualquier condicion): 3.0 USD
