@@ -10,6 +10,9 @@ on:
     paths:
       - 'data/price-query.txt'
 
+permissions:
+  contents: write
+
 jobs:
   price:
     runs-on: ubuntu-latest
@@ -23,27 +26,37 @@ jobs:
           set +x
           TOKEN="${DISCOGS_USER_TOKEN:-$DISCOGS_TOKEN}"
           UA="JuanDeals/1.0 +price"
+          OUT=data/price-result.txt
           if [ -z "$TOKEN" ]; then echo "No hay token"; exit 1; fi
           if [ ! -f data/price-query.txt ]; then echo "No hay lista"; exit 0; fi
+          echo "Resultado precio por condicion - $(date -u +%FT%TZ)" > "$OUT"
           while IFS= read -r line || [ -n "$line" ]; do
             id=$(echo "$line" | sed 's/#.*//' | tr -cd '0-9')
             [ -z "$id" ] && continue
-            echo "==================================================="
-            echo "RELEASE $id"
-            # Ficha breve
-            curl -sS -A "$UA" -H "Authorization: Discogs token=$TOKEN" "https://api.discogs.com/releases/$id" -o rel.json
-            jq -r '"  \(.artists_sort) - \(.title) (\(.year), \(.country))  [\((.labels//[])|map(.catno)|join(","))]"' rel.json
-            echo "  --- Precio sugerido por condicion (EUR) ---"
-            curl -sS -A "$UA" -H "Authorization: Discogs token=$TOKEN" "https://api.discogs.com/marketplace/price_suggestions/$id" -o sug.json
-            # Imprime cada condicion con su valor, ordenado de peor a mejor
-            jq -r '
-              to_entries
-              | map({k: .key, v: (.value.value // 0), c: (.value.currency // "")})
-              | sort_by(.v)
-              | .[] | "  \(.k): \(.v|.*100|round/100) \(.c)"' sug.json 2>/dev/null \
-              || echo "  (sin sugerencias de precio para este release)"
-            echo "  --- Mercado ahora ---"
-            curl -sS -A "$UA" -H "Authorization: Discogs token=$TOKEN" "https://api.discogs.com/marketplace/stats/$id?curr_abbr=EUR" -o st.json
-            jq -r '"  a la venta: \(.num_for_sale)  | mas barato (cualquier condicion): \(.lowest_price.value // "n/a") EUR"' st.json
+            {
+              echo "==================================================="
+              echo "RELEASE $id"
+              curl -sS -A "$UA" -H "Authorization: Discogs token=$TOKEN" "https://api.discogs.com/releases/$id" -o rel.json
+              jq -r '"  \(.artists_sort) - \(.title) (\(.year), \(.country))  [\((.labels//[])|map(.catno)|join(","))]"' rel.json
+              echo "  --- Precio sugerido por condicion (EUR) ---"
+              curl -sS -A "$UA" -H "Authorization: Discogs token=$TOKEN" "https://api.discogs.com/marketplace/price_suggestions/$id" -o sug.json
+              jq -r '
+                to_entries
+                | map({k: .key, v: (.value.value // 0), c: (.value.currency // "")})
+                | sort_by(.v)
+                | .[] | "  \(.k): \(.v|.*100|round/100) \(.c)"' sug.json 2>/dev/null \
+                || echo "  (sin sugerencias de precio)"
+              echo "  --- Mercado ahora ---"
+              curl -sS -A "$UA" -H "Authorization: Discogs token=$TOKEN" "https://api.discogs.com/marketplace/stats/$id?curr_abbr=EUR" -o st.json
+              jq -r '"  a la venta: \(.num_for_sale)  | mas barato (cualquier condicion): \(.lowest_price.value // "n/a") EUR"' st.json
+            } >> "$OUT"
             sleep 1.2
           done < data/price-query.txt
+          # Mostrar en log tambien
+          cat "$OUT"
+          # Commitear el resultado (no retriggerea: este wf solo escucha price-query.txt)
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add "$OUT"
+          git commit -m "Precio por condicion (resultado) [skip ci]" || echo "sin cambios"
+          git push origin HEAD:${GITHUB_REF_NAME} || echo "push fallo"

@@ -1,2 +1,3 @@
 # Consulta de precio por condicion (un release_id por linea)
+# req: court-and-spark VG+
 2844420  # Joni Mitchell - Court And Spark (canadiense 7ES 1001)
