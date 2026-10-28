@@ -38,18 +38,21 @@ jobs:
               echo "RELEASE $id"
               curl -sS -A "$UA" -H "Authorization: Discogs token=$TOKEN" "https://api.discogs.com/releases/$id" -o rel.json
               jq -r '"  \(.artists_sort) - \(.title) (\(.year), \(.country))  [\((.labels//[])|map(.catno)|join(","))]"' rel.json
-              echo "  --- Precio sugerido por condicion (EUR) ---"
+              echo "  --- Precio sugerido por condicion (USD) ---"
               scode=$(curl -sS -A "$UA" -H "Authorization: Discogs token=$TOKEN" -o sug.json -w "%{http_code}" "https://api.discogs.com/marketplace/price_suggestions/$id")
-              echo "  [http $scode] raw: $(head -c 300 sug.json)"
-              jq -r '
-                to_entries
-                | map({k: .key, v: (.value.value // 0), c: (.value.currency // "")})
-                | sort_by(.v)
-                | .[] | "  \(.k): \(.v|.*100|round/100) \(.c)"' sug.json 2>/dev/null \
-                || echo "  (jq no pudo parsear)"
+              if [ "$scode" = "200" ]; then
+                jq -r '
+                  to_entries
+                  | map({k: .key, v: (.value.value // 0), c: (.value.currency // "")})
+                  | sort_by(.v) | reverse
+                  | .[] | "  \(.k): \(.v|.*100|round/100) \(.c)"' sug.json 2>/dev/null \
+                  || echo "  (jq no pudo parsear)"
+              else
+                echo "  [http $scode] $(head -c 200 sug.json)"
+              fi
               echo "  --- Mercado ahora ---"
-              curl -sS -A "$UA" -H "Authorization: Discogs token=$TOKEN" "https://api.discogs.com/marketplace/stats/$id?curr_abbr=EUR" -o st.json
-              jq -r '"  a la venta: \(.num_for_sale)  | mas barato (cualquier condicion): \(.lowest_price.value // "n/a") EUR"' st.json
+              curl -sS -A "$UA" -H "Authorization: Discogs token=$TOKEN" "https://api.discogs.com/marketplace/stats/$id?curr_abbr=USD" -o st.json
+              jq -r '"  a la venta: \(.num_for_sale)  | mas barato (cualquier condicion): \(.lowest_price.value // "n/a") USD"' st.json
             } >> "$OUT"
             sleep 1.2
           done < data/price-query.txt

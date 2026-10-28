@@ -1,3 +1,10 @@
-# Consulta de precio por condicion (un release_id por linea)
-# check 2 seller settings
-2844420  # Joni Mitchell - Court And Spark (canadiense 7ES 1001)
+# Consulta de precio por condicion - discos de hoy (USD)
+16489581  # Tortoise - TNT (2020 reissue)
+38025927  # Michael Jackson - Off The Wall (2026)
+21951430  # Four Tet - Everything Ecstatic (2017) [correccion]
+16250147  # Mr. Oizo - Flat Beat (2013)
+27394311  # VA - Ed Banger Best Of (2023)
+13178423  # Sadao Watanabe - Maisha (1985 MX)
+5210081   # Ray Bryant - Montreux 77 (1977 US)
+9984197   # Oscar Peterson Big 6 - Montreux 1975 (US)
+3473111   # Count Basie Trio - For The First Time (1974 US)
