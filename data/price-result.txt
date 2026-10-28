@@ -1,8 +1,9 @@
-Resultado precio por condicion - 2026-10-28T11:05:31Z
+Resultado precio por condicion - 2026-10-28T11:08:15Z
 ===================================================
 RELEASE 2844420
   Joni Mitchell - Court And Spark (0, Canada)  [7ES 1001]
   --- Precio sugerido por condicion (EUR) ---
-  (sin sugerencias de precio)
+  [http 404] raw: {"message":"You must fill out your seller settings first."}
+  (jq no pudo parsear)
   --- Mercado ahora ---
   a la venta: 11  | mas barato (cualquier condicion): 3.21 EUR
