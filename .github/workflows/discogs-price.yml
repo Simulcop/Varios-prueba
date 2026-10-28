@@ -1,0 +1,49 @@
+name: Discogs - precio por condicion
+
+# Lee data/price-query.txt (un release_id por linea) y devuelve el precio
+# sugerido por condicion (VG+, NM, Mint...). Usa el endpoint autenticado
+# price_suggestions. Se dispara al cambiar ese archivo. NO imprime el token.
+
+on:
+  workflow_dispatch: {}
+  push:
+    paths:
+      - 'data/price-query.txt'
+
+jobs:
+  price:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Consultar precios por condicion
+        env:
+          DISCOGS_USER_TOKEN: ${{ secrets.DISCOGS_USER_TOKEN }}
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+        run: |
+          set +x
+          TOKEN="${DISCOGS_USER_TOKEN:-$DISCOGS_TOKEN}"
+          UA="JuanDeals/1.0 +price"
+          if [ -z "$TOKEN" ]; then echo "No hay token"; exit 1; fi
+          if [ ! -f data/price-query.txt ]; then echo "No hay lista"; exit 0; fi
+          while IFS= read -r line || [ -n "$line" ]; do
+            id=$(echo "$line" | sed 's/#.*//' | tr -cd '0-9')
+            [ -z "$id" ] && continue
+            echo "==================================================="
+            echo "RELEASE $id"
+            # Ficha breve
+            curl -sS -A "$UA" -H "Authorization: Discogs token=$TOKEN" "https://api.discogs.com/releases/$id" -o rel.json
+            jq -r '"  \(.artists_sort) - \(.title) (\(.year), \(.country))  [\((.labels//[])|map(.catno)|join(","))]"' rel.json
+            echo "  --- Precio sugerido por condicion (EUR) ---"
+            curl -sS -A "$UA" -H "Authorization: Discogs token=$TOKEN" "https://api.discogs.com/marketplace/price_suggestions/$id" -o sug.json
+            # Imprime cada condicion con su valor, ordenado de peor a mejor
+            jq -r '
+              to_entries
+              | map({k: .key, v: (.value.value // 0), c: (.value.currency // "")})
+              | sort_by(.v)
+              | .[] | "  \(.k): \(.v|.*100|round/100) \(.c)"' sug.json 2>/dev/null \
+              || echo "  (sin sugerencias de precio para este release)"
+            echo "  --- Mercado ahora ---"
+            curl -sS -A "$UA" -H "Authorization: Discogs token=$TOKEN" "https://api.discogs.com/marketplace/stats/$id?curr_abbr=EUR" -o st.json
+            jq -r '"  a la venta: \(.num_for_sale)  | mas barato (cualquier condicion): \(.lowest_price.value // "n/a") EUR"' st.json
+            sleep 1.2
+          done < data/price-query.txt
