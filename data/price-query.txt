@@ -1,3 +1,3 @@
 # Consulta de precio por condicion (un release_id por linea)
-# check seller settings activo
+# check 2 seller settings
 2844420  # Joni Mitchell - Court And Spark (canadiense 7ES 1001)
