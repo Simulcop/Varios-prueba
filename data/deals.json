@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-31T22:38:16.803Z",
+  "updatedAt": "2026-11-01T01:40:01.418Z",
   "deals": [
+    {
+      "id": "reddit-t31xkoibf",
+      "source": "Amazon",
+      "createdAt": "2026-10-31T23:32:07.000Z",
+      "text": "[Amazon] The Budos Band - VII (Orange Vinyl) @ $19.99",
+      "artist": "The Budos Band",
+      "title": "VII (Orange Vinyl)",
+      "label": "Diamond West",
+      "genres": [
+        "Funk / Soul"
+      ],
+      "price": 19.99,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B0FR2BQ8CC",
+      "knownArtist": false,
+      "year": "2025",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/c3/64/0dc36491-eb8a-e61c-6c53-35fd5981f71b/52776.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Budos Band is an \"Instrumental Staten-Island Afro-Soul\" outfit recording on the Daptone Records label.",
+      "bioUrl": "https://www.last.fm/music/The+Budos+Band",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31xkn8yu",
       "source": "Amazon",
@@ -13909,31 +13933,6 @@
       "enrichedVia": "discogs",
       "bio": "Donald McKinley Glover, Jr (born September 25, 1983) is an American actor, comedian and musician. As a recording artist, he usually performs with the stage name Childish Gambino. While a disk jockey, he performs as mcDJ.",
       "bioUrl": "https://www.last.fm/music/Childish+Gambino",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31x7xu73",
-      "source": "Amazon",
-      "createdAt": "2026-10-17T01:34:53.000Z",
-      "text": "[Amazon] John Cale - Vintage Violence (Vinyl LP) - $21.98",
-      "artist": "John Cale",
-      "title": "Vintage Violence (Vinyl LP)",
-      "label": "Columbia",
-      "genres": [
-        "Rock",
-        "Art Rock"
-      ],
-      "price": 21.98,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0017R5SMK?tag=sunday-shelf-20",
-      "knownArtist": false,
-      "year": "1970",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/b2/69/13/mzi.pidghwui.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "John Cale, OBE (born 9 March 1942) is a Welsh musician, composer, singer-songwriter and record producer. He was a founding member of the experimental rock band The Velvet Underground in early 1965.",
-      "bioUrl": "https://www.last.fm/music/John+Cale",
       "bioSource": "Last.fm"
     }
   ]
