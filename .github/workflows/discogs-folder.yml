@@ -1,0 +1,67 @@
+name: Discogs - organizar en carpeta
+
+# Lee data/folder-move.txt: una linea "# FOLDER: <nombre>" y luego
+# "release_id instance_id" por disco. Crea la carpeta (si no existe) y mueve
+# cada instancia ahi. Se dispara al cambiar ese archivo. NO imprime el token.
+
+on:
+  workflow_dispatch: {}
+  push:
+    paths:
+      - 'data/folder-move.txt'
+
+jobs:
+  folder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Crear carpeta y mover discos
+        env:
+          DISCOGS_USER_TOKEN: ${{ secrets.DISCOGS_USER_TOKEN }}
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+        run: |
+          set +x
+          TOKEN="${DISCOGS_USER_TOKEN:-$DISCOGS_TOKEN}"
+          USER="juanDanielCaro"
+          UA="JuanDeals/1.0 +folder"
+          AUTH="Authorization: Discogs token=$TOKEN"
+          F=data/folder-move.txt
+          if [ -z "$TOKEN" ]; then echo "No hay token"; exit 1; fi
+          if [ ! -f "$F" ]; then echo "No hay lista"; exit 0; fi
+          NAME=$(grep -m1 '# FOLDER:' "$F" | sed 's/.*# FOLDER:[[:space:]]*//' | sed 's/[[:space:]]*$//')
+          echo "Carpeta destino: '$NAME'"
+          # ¿existe ya?
+          curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders" -o folders.json
+          DEST=$(jq -r --arg n "$NAME" '.folders[] | select(.name==$n) | .id' folders.json | head -1)
+          if [ -z "$DEST" ]; then
+            jq -n --arg n "$NAME" '{name:$n}' > body.json
+            curl -sS -A "$UA" -H "$AUTH" -H "Content-Type: application/json" -X POST \
+              --data @body.json "https://api.discogs.com/users/$USER/collection/folders" -o newf.json
+            DEST=$(jq -r '.id // empty' newf.json)
+            echo "Carpeta creada id=$DEST ($(cat newf.json | head -c 120))"
+          else
+            echo "Carpeta ya existia id=$DEST"
+          fi
+          if [ -z "$DEST" ]; then echo "No pude crear/ubicar la carpeta"; exit 1; fi
+          ok=0; err=0
+          while IFS= read -r line || [ -n "$line" ]; do
+            case "$line" in \#*) continue;; esac
+            rid=$(echo "$line" | awk '{print $1}' | tr -cd '0-9')
+            iid=$(echo "$line" | awk '{print $2}' | tr -cd '0-9')
+            [ -z "$rid" ] && continue
+            [ -z "$iid" ] && { echo "SALTO: falta instance para $rid"; err=$((err+1)); continue; }
+            # carpeta de origen de esa instancia
+            curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/releases/$rid" -o inst.json
+            SRC=$(jq -r --argjson iid "$iid" '.releases[]? | select(.instance_id==$iid) | .folder_id' inst.json | head -1)
+            [ -z "$SRC" ] || [ "$SRC" = "null" ] && SRC=1
+            code=$(curl -sS -o mv.json -w "%{http_code}" -A "$UA" -H "$AUTH" -H "Content-Type: application/json" -X POST \
+              --data "{\"folder_id\": $DEST}" \
+              "https://api.discogs.com/users/$USER/collection/folders/$SRC/releases/$rid/instances/$iid")
+            if [ "$code" = "200" ] || [ "$code" = "204" ]; then
+              echo "MOVIDO: release $rid (de carpeta $SRC a $DEST)"; ok=$((ok+1))
+            else
+              echo "ERROR: release $rid -> HTTP $code $(cat mv.json | head -c 120)"; err=$((err+1))
+            fi
+            sleep 1.2
+          done < "$F"
+          echo "RESUMEN: movidos=$ok errores=$err a carpeta '$NAME' (id $DEST)"
