@@ -1,4 +1,2 @@
 # FOLDER: Audiófilos
-6586966 321036716    # Sade - Diamond Life (1984, DR15)
-1159835 244711065    # Jim O'Rourke - Eureka (DR13)
-34132930 2071827117  # Foxwarren - 2 (Chris Bellman/Mike Bozzi @ Bernie Grundman)
+1304278 235768141    # Jim O'Rourke - Insignificance (RTI, DR13)
