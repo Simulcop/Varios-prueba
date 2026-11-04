@@ -1,14 +1,2 @@
-# FOLDER: Audiófilos
-223419 355060168      # Stevie Wonder - Innervisions
-1178973 2120726921    # Donald Fagen - The Nightfly
-27130914 1686296879   # André Previn & His Pals - West Side Story
-194021 252841598       # Prince - Purple Rain
-882554 252840586       # Prince - Parade
-7699636 1490368816     # Prince - 1999
-14381853 858192958     # Willie Colón - The Hustler
-21070021 1628326850    # Jóhann Jóhannsson - The Miners' Hymns
-30551773 2025729331    # The Flaming Lips - Yoshimi Battles The Pink Robots
-10727416 506679831     # Jon Hopkins - Immunity
-881623 243610278       # Pink Floyd - The Final Cut
-11161888 629936902     # Brian Eno - Before And After Science
-28195162 1628324822    # Yussef Dayes - Black Classical Music
+# FOLDER: Uncategorized
+7699636 1490368816    # Prince - 1999 (sacar de Audiofilos, volver a Uncategorized)

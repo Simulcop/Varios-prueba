@@ -30,6 +30,12 @@ jobs:
           if [ ! -f "$F" ]; then echo "No hay lista"; exit 0; fi
           NAME=$(grep -m1 '# FOLDER:' "$F" | sed 's/.*# FOLDER:[[:space:]]*//' | sed 's/[[:space:]]*$//')
           echo "Carpeta destino: '$NAME'"
+          # "Uncategorized" es siempre la carpeta 1 en Discogs (no crear duplicado)
+          LOWER=$(echo "$NAME" | tr '[:upper:]' '[:lower:]')
+          if [ "$LOWER" = "uncategorized" ]; then
+            DEST=1
+            echo "Destino = carpeta 1 (Uncategorized)"
+          else
           # ¿existe ya?
           curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders" -o folders.json
           DEST=$(jq -r --arg n "$NAME" '.folders[] | select(.name==$n) | .id' folders.json | head -1)
@@ -41,6 +47,7 @@ jobs:
             echo "Carpeta creada id=$DEST ($(cat newf.json | head -c 120))"
           else
             echo "Carpeta ya existia id=$DEST"
+          fi
           fi
           if [ -z "$DEST" ]; then echo "No pude crear/ubicar la carpeta"; exit 1; fi
           ok=0; err=0
