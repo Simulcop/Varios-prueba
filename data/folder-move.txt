@@ -1,11 +1,7 @@
 # FOLDER: Audiófilos
-# Joni Mitchell - Blue (2022, Bernie Grundman, Optimal)
-24747581 1210597786
-# Joni Mitchell - Court And Spark (Bernie Grundman)
-2844420 397227794
-# Leonard Cohen - You Want It Darker (2016, Bernie Grundman, DR13)
-9466485 1751400914
-# Rolling Stones - Tattoo You (1981 US original, Bob Ludwig, Specialty, DR13)
-468054 235765344
-# Neil Young - Harvest (2022 ORS, Chris Bellman, Optimal)
-25560502 2071826369
+# Bob Dylan - Blood On The Tracks (1975 US original, Santa Maria, DR14)
+7591908 245791816
+# Bob Dylan - Blonde On Blonde (2022, Ryan K. Smith @ Sterling)
+22814654 1484227096
+# Leonard Cohen - Songs Of Love And Hate (UK, DR12)
+4184455 245932450
