@@ -1,0 +1,89 @@
+Dump 2026-11-05T14:13:03Z
+=== CARPETAS (autenticado) ===
+  id=0  count=996  name=All
+  id=9636592  count=51  name=Audiófilos
+  id=9638958  count=11  name=Audiófilos Jazz
+  id=1509759  count=66  name=Cedé
+  id=1509946  count=28  name=Cedé Clásica
+  id=1568697  count=12  name=Cedé Jazz
+  id=1225993  count=22  name=Pa corregir
+  id=1556065  count=6  name=Rep
+  id=1226873  count=39  name=Singles 12"
+  id=1226824  count=35  name=Singles 7"
+  id=1561339  count=60  name=Soul / Disco / RnB
+  id=1  count=663  name=Uncategorized
+  id=1561366  count=3  name=Zig Zag
+
+=== UBICACION DE RELEASES RECIENTES ===
+release 16447011:
+   inst=861808819 folder=9636592
+release 2237319:
+   inst=243598355 folder=9636592
+release 11159355:
+   inst=717732454 folder=9636592
+release 1253194:
+   inst=858196024 folder=9636592
+release 617486:
+   inst=243600435 folder=9636592
+release 4753808:
+   inst=243607269 folder=9636592
+release 7699636:
+   inst=1490368816 folder=9636592
+release 8193018:
+   inst=334621149 folder=9636592
+release 25112611:
+   inst=1396775514 folder=9638958
+
+=== CONTENIDO Audiófilos (9636592) ===
+  items=51 pages=1
+   617486  Breakfast In America
+   34132930  2
+   23630855  Abbey Road
+   11161888  Before And After Science
+   11159355  Taking Tiger Mountain (By Strategy)
+   2844420  Court And Spark
+   4753808  Déjà Vu
+   6058375  Hounds Of Love
+   4184455  Songs Of Love And Hate
+   7591908  Blood On The Tracks
+   881623  The Final Cut
+   9466485  You Want It Darker
+   22814654  Blonde On Blonde
+   14381853  The Hustler
+   21070021  The Miners' Hymns
+   21951430  Everything Ecstatic
+   10727416  Immunity
+   1159835  Eureka
+   1304278  Insignificance
+   3616436  The Colour Of Spring
+   6586966  Diamond Life
+   2237319  Axis: Bold As Love
+   8193018  Let's Stay Together
+   1361007  For Emma, Forever Ago
+   16447011  Are You Experienced
+   31202122  Mind Games
+   2233855  Swim
+   14269956  Crush
+   882554  Parade
+   26734640  Aladdin Sane
+   521508  Calypso
+   59734  Low
+   13527335  Belafonte At Carnegie Hall: The Complete Concert
+   25560502  Harvest
+   1253194  Zuma
+   24747581  Blue
+   468054  Tattoo You
+   1103234  Night Falls Over Kortedala
+   1225064  Diskdusk
+   1359927  Fleet Foxes
+   223419  Innervisions
+   9857016  Avalon
+   7637835  Tusk
+   7455345  Mirage
+   1178973  The Nightfly
+   194021  Purple Rain
+   7699636  1999
+   30771153  Rumours 
+   2253877  Cosmogramma
+   6095128  Syro
+   16304104  Her Revolution / His Rope
