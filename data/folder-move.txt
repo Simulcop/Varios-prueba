@@ -1,7 +1,3 @@
 # FOLDER: Audiófilos
-# Bob Dylan - Blood On The Tracks (1975 US original, Santa Maria, DR14)
-7591908 245791816
-# Bob Dylan - Blonde On Blonde (2022, Ryan K. Smith @ Sterling)
-22814654 1484227096
-# Leonard Cohen - Songs Of Love And Hate (UK, DR12)
-4184455 245932450
+# John Lennon - Mind Games (2024 Ultimate Mix, Alex Wharton @ Abbey Road, remix Paul Hicks, GZ)
+31202122 2128852487
