@@ -1,2 +1,2 @@
-# Quitar de coleccion (una linea por disco: "release_id instance_id")
-609460 2186407912  # Four Tet - Everything Ecstatic (2005 UK original, mal registrada; el fisico es la 2017)
+# Quitar de coleccion (release_id instance_id) - duplicado creado por error 2026-11-04
+30771153 2201266462
