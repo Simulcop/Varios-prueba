@@ -1,6 +1,5 @@
-# FOLDER: Audiófilos
-# Devolver a Audiófilos general (no son jazz propiamente)
-# Donald Fagen - The Nightfly (sophisti-pop/rock, RL original)
-1178973 2120726921
-# Willie Colon - The Hustler (salsa/Latin)
-14381853 858192958
+# FOLDER: Audiófilos Jazz
+# Lee Konitz Plays With The Gerry Mulligan Quartet (Blue Note Tone Poet, Kevin Gray/RTI, AAA)
+20281231 1674272425
+# Gerry Mulligan Quartet - What Is There To Say? (Columbia CL 1307, 1959, DR13)
+4191826 395702945
