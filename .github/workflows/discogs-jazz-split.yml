@@ -1,0 +1,91 @@
+name: Discogs - separar jazz en Audiófilos Jazz
+
+# Crea la carpeta "Audiófilos Jazz" y mueve ahi, desde "Audiófilos" (id 9636592),
+# todo release cuyo genero incluya "Jazz". Ademas mueve los release_id extra
+# listados en data/jazz-split.txt (uno por linea) sin importar en que carpeta esten.
+# Se dispara al cambiar ese archivo. NO imprime el token.
+
+on:
+  workflow_dispatch: {}
+  push:
+    paths:
+      - 'data/jazz-split.txt'
+
+jobs:
+  jazz:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Separar jazz
+        env:
+          DISCOGS_USER_TOKEN: ${{ secrets.DISCOGS_USER_TOKEN }}
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+        run: |
+          set +x
+          TOKEN="${DISCOGS_USER_TOKEN:-$DISCOGS_TOKEN}"
+          USER="juanDanielCaro"
+          UA="JuanDeals/1.0 +jazz"
+          AUTH="Authorization: Discogs token=$TOKEN"
+          SRC_FOLDER=9636592
+          if [ -z "$TOKEN" ]; then echo "No hay token"; exit 1; fi
+
+          # 1) Crear/ubicar carpeta "Audiófilos Jazz"
+          curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders" -o folders.json
+          DEST=$(jq -r '.folders[] | select(.name=="Audiófilos Jazz") | .id' folders.json | head -1)
+          if [ -z "$DEST" ]; then
+            jq -n '{name:"Audiófilos Jazz"}' > body.json
+            curl -sS -A "$UA" -H "$AUTH" -H "Content-Type: application/json" -X POST \
+              --data @body.json "https://api.discogs.com/users/$USER/collection/folders" -o newf.json
+            DEST=$(jq -r '.id // empty' newf.json)
+            echo "Carpeta creada 'Audiófilos Jazz' id=$DEST"
+          else
+            echo "Carpeta ya existia id=$DEST"
+          fi
+          if [ -z "$DEST" ]; then echo "No pude crear/ubicar la carpeta"; exit 1; fi
+
+          ok=0; err=0
+          move_instance() {
+            rid="$1"; iid="$2"; src="$3"
+            code=$(curl -sS -o mv.json -w "%{http_code}" -A "$UA" -H "$AUTH" -H "Content-Type: application/json" -X POST \
+              --data "{\"folder_id\": $DEST}" \
+              "https://api.discogs.com/users/$USER/collection/folders/$src/releases/$rid/instances/$iid")
+            if [ "$code" = "200" ] || [ "$code" = "204" ]; then
+              echo "MOVIDO JAZZ: release $rid (de $src a $DEST)"; ok=$((ok+1))
+            else
+              echo "ERROR: release $rid -> HTTP $code $(cat mv.json | head -c 120)"; err=$((err+1))
+            fi
+            sleep 1.0
+          }
+
+          # 2) Recorrer Audiófilos (9636592) y mover los de genero Jazz
+          page=1; pages=1
+          while [ "$page" -le "$pages" ]; do
+            curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders/$SRC_FOLDER/releases?page=$page&per_page=100" -o f.json
+            pages=$(jq -r '.pagination.pages // 1' f.json)
+            jq -r '.releases[] | select((.basic_information.genres // []) | index("Jazz")) | "\(.id) \(.instance_id)"' f.json > jazz_rows.txt
+            while read -r rid iid; do
+              [ -z "$rid" ] && continue
+              move_instance "$rid" "$iid" "$SRC_FOLDER"
+            done < jazz_rows.txt
+            page=$((page+1))
+            sleep 0.5
+          done
+
+          # 3) Mover extras listados en data/jazz-split.txt (release_id por linea),
+          #    buscando su carpeta de origen e instancia actual.
+          if [ -f data/jazz-split.txt ]; then
+            while IFS= read -r line || [ -n "$line" ]; do
+              rid=$(echo "$line" | sed 's/#.*//' | tr -cd '0-9')
+              [ -z "$rid" ] && continue
+              curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/releases/$rid" -o inst.json
+              # puede haber varias instancias; mover todas las que no esten ya en DEST
+              jq -r --argjson dest "$DEST" '.releases[]? | select(.folder_id != $dest) | "\(.id) \(.instance_id) \(.folder_id)"' inst.json > extra_rows.txt
+              while read -r erid eiid esrc; do
+                [ -z "$erid" ] && continue
+                [ -z "$esrc" ] && esrc=1
+                move_instance "$erid" "$eiid" "$esrc"
+              done < extra_rows.txt
+            done < data/jazz-split.txt
+          fi
+
+          echo "RESUMEN JAZZ: movidos=$ok errores=$err a 'Audiófilos Jazz' (id $DEST)"
