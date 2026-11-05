@@ -1,0 +1,51 @@
+name: Discogs - dump de carpetas (diagnostico)
+
+on:
+  workflow_dispatch: {}
+  push:
+    paths:
+      - 'data/folder-dump-trigger.txt'
+
+permissions:
+  contents: write
+
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Dump carpetas
+        env:
+          DISCOGS_USER_TOKEN: ${{ secrets.DISCOGS_USER_TOKEN }}
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+        run: |
+          set +x
+          TOKEN="${DISCOGS_USER_TOKEN:-$DISCOGS_TOKEN}"
+          USER="juanDanielCaro"
+          UA="JuanDeals/1.0 +dump"
+          AUTH="Authorization: Discogs token=$TOKEN"
+          OUT=data/folder-dump.txt
+          if [ -z "$TOKEN" ]; then echo "No hay token"; exit 1; fi
+          echo "Dump $(date -u +%FT%TZ)" > "$OUT"
+          echo "=== CARPETAS (autenticado) ===" >> "$OUT"
+          curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders" -o folders.json
+          jq -r '.folders[]? | "  id=\(.id)  count=\(.count)  name=\(.name)"' folders.json >> "$OUT"
+          echo "" >> "$OUT"
+          echo "=== UBICACION DE RELEASES RECIENTES ===" >> "$OUT"
+          for rid in 16447011 2237319 11159355 1253194 617486 4753808 7699636 8193018 25112611; do
+            echo "release $rid:" >> "$OUT"
+            curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/releases/$rid" -o inst.json
+            jq -r '.releases[]? | "   inst=\(.instance_id) folder=\(.folder_id)"' inst.json >> "$OUT"
+            sleep 0.8
+          done
+          echo "" >> "$OUT"
+          echo "=== CONTENIDO Audiófilos (9636592) ===" >> "$OUT"
+          curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders/9636592/releases?per_page=100&page=1" -o af.json
+          jq -r '"  items=\(.pagination.items) pages=\(.pagination.pages)"' af.json >> "$OUT"
+          jq -r '.releases[]? | "   \(.id)  \(.basic_information.title)"' af.json >> "$OUT"
+          cat "$OUT"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add "$OUT"
+          git commit -m "Dump carpetas [skip ci]" || echo "sin cambios"
+          git push origin HEAD:${GITHUB_REF_NAME} || echo "push fallo"
