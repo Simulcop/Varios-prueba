@@ -1,2 +1,3 @@
-# Quitar de coleccion (release_id instance_id) - duplicado creado por error 2026-11-04
-30771153 2201266462
+# Quitar de coleccion (release_id instance_id)
+# No One Cares US (W-1221) mal registrado - la copia fisica es la colombiana C 80191
+1748146 354972002
