@@ -1,3 +1,3 @@
 # Quitar de coleccion (release_id instance_id)
-# No One Cares US (W-1221) mal registrado - la copia fisica es la colombiana C 80191
-1748146 354972002
+# Wee Small Hours mal registrado como 1a edicion gris 1955 (D10) - la copia real es Scranton 1957 HiFi (N-anvil)
+1376047 2120010291
