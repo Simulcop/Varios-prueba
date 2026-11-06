@@ -1,3 +1,10 @@
 # FOLDER: Audiófilos
-# Burial - Untrue (Hyperdub HDBLP002, 2016, Transition Mastering / Optimal, DR11)
-8312002 504209338
+# Devolver de "Audiófilos Electrónica" a Audiófilos: no son electronica (rock/art-rock/art-pop/cantautor)
+11161888 629936902   # Brian Eno - Before And After Science
+11159355 717732454   # Brian Eno - Taking Tiger Mountain
+59734 243602483      # David Bowie - Low
+1159835 244711065    # Jim O'Rourke - Eureka
+1304278 235768141    # Jim O'Rourke - Insignificance
+6058375 243494552    # Kate Bush - Hounds Of Love
+3616436 243425033    # Talk Talk - The Colour Of Spring
+16489581 2198577336  # Tortoise - TNT
