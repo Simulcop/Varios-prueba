@@ -1,5 +1,6 @@
 # FOLDER: Audiófilos
-# Devolver de "Audiófilos Electrónica" a Audiófilos: no son electronica (rock/art-rock/art-pop/cantautor)
+# Devolver (otra vez) de "Audiófilos Electrónica" a Audiófilos: no son electronica.
+# El barrido por genero del split los habia re-jalado; ya quedo desactivado ese barrido.
 11161888 629936902   # Brian Eno - Before And After Science
 11159355 717732454   # Brian Eno - Taking Tiger Mountain
 59734 243602483      # David Bowie - Low

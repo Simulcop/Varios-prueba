@@ -57,19 +57,13 @@ jobs:
             sleep 1.0
           }
 
-          # 2) Recorrer Audiófilos (9636592) y mover los de genero Electronic
-          page=1; pages=1
-          while [ "$page" -le "$pages" ]; do
-            curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders/$SRC_FOLDER/releases?page=$page&per_page=100" -o f.json
-            pages=$(jq -r '.pagination.pages // 1' f.json)
-            jq -r '.releases[] | select((.basic_information.genres // []) | index("Electronic")) | "\(.id) \(.instance_id)"' f.json > ele_rows.txt
-            while read -r rid iid; do
-              [ -z "$rid" ] && continue
-              move_instance "$rid" "$iid" "$SRC_FOLDER"
-            done < ele_rows.txt
-            page=$((page+1))
-            sleep 0.5
-          done
+          # 2) BARRIDO POR GENERO: DESACTIVADO.
+          #    El barrido inicial (run #1) ya categorizo Audiófilos. Dejarlo activo
+          #    hacia que cada disparo re-jalara discos tagueados "Electronic" que el
+          #    usuario quiere en Audiófilos a secas (Eno, Bowie Low, Talk Talk,
+          #    Tortoise, Kate Bush, O'Rourke...). A partir de ahora el split SOLO
+          #    mueve los release_id listados explicitamente en data/electronica-split.txt.
+          echo "Barrido por genero desactivado; solo se mueven los extras listados."
 
           # 3) Mover extras listados en data/electronica-split.txt (release_id por linea),
           #    buscando su carpeta de origen e instancia actual.
