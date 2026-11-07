@@ -1,11 +1,3 @@
-# FOLDER: Audiófilos
-# Devolver (otra vez) de "Audiófilos Electrónica" a Audiófilos: no son electronica.
-# El barrido por genero del split los habia re-jalado; ya quedo desactivado ese barrido.
-11161888 629936902   # Brian Eno - Before And After Science
-11159355 717732454   # Brian Eno - Taking Tiger Mountain
-59734 243602483      # David Bowie - Low
-1159835 244711065    # Jim O'Rourke - Eureka
-1304278 235768141    # Jim O'Rourke - Insignificance
-6058375 243494552    # Kate Bush - Hounds Of Love
-3616436 243425033    # Talk Talk - The Colour Of Spring
-16489581 2198577336  # Tortoise - TNT
+# FOLDER: Audiófilos Jazz
+# Jeff Parker - Forfolks: corte AAA Bob Weston/Chicago Mastering Service, vinilo negro 160g.
+21283801 1703031102  # Jeff Parker - Forfolks (International Anthem IARC0052, 2021)
