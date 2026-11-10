@@ -1,4 +1,7 @@
 # FOLDER: Audiófilos Jazz
-# Tone Poet que faltaban (Kevin Gray AAA / RTI).
-22070665 1628323949  # Joe Pass - For Django (Tone Poet, Pacific Jazz)
-27266778 1628324348  # McCoy Tyner - Time For Tyner (Tone Poet)
+# Classic Vinyl Series elegidos (Kevin Gray AAA / Optimal).
+18097726 1628325539  # Hank Mobley - Soul Station
+26113579 1404134112  # Jackie McLean - Bluesnik
+22555913 1578063859  # Bud Powell - Time Waits
+19583212 1386393684  # Dexter Gordon - Go!
+19269490 1628326115  # Sonny Clark - Cool Struttin'
