@@ -31,16 +31,16 @@ jobs:
           curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders" -o folders.json
           jq -r '.folders[]? | "  id=\(.id)  count=\(.count)  name=\(.name)"' folders.json >> "$OUT"
           echo "" >> "$OUT"
-          echo "=== UBICACION DE RELEASES RECIENTES ===" >> "$OUT"
-          for rid in 16447011 2237319 11159355 1253194 617486 4753808 7699636 8193018 25112611; do
+          echo "=== UBICACION DE LOS 15 BLUE NOTE (Tone Poet + Classic Vinyl) ===" >> "$OUT"
+          for rid in 27839364 15828364 22070665 20281231 27266778 24522110 21029362 21040264 29549440 22555913 19583212 18097726 21304975 26113579 19269490; do
             echo "release $rid:" >> "$OUT"
             curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/releases/$rid" -o inst.json
             jq -r '.releases[]? | "   inst=\(.instance_id) folder=\(.folder_id)"' inst.json >> "$OUT"
             sleep 0.8
           done
           echo "" >> "$OUT"
-          echo "=== CONTENIDO Audiófilos (9636592) ===" >> "$OUT"
-          curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders/9636592/releases?per_page=100&page=1" -o af.json
+          echo "=== CONTENIDO Audiófilos Jazz (9638958) ===" >> "$OUT"
+          curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders/9638958/releases?per_page=100&page=1" -o af.json
           jq -r '"  items=\(.pagination.items) pages=\(.pagination.pages)"' af.json >> "$OUT"
           jq -r '.releases[]? | "   \(.id)  \(.basic_information.title)"' af.json >> "$OUT"
           cat "$OUT"
