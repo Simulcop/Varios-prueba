@@ -1,3 +1,3 @@
 # Quitar de coleccion (release_id instance_id)
-# Wee Small Hours mal registrado como 1a edicion gris 1955 (D10) - la copia real es Scranton 1957 HiFi (N-anvil)
-1376047 2120010291
+# Feist - The Reminder mal registrada como europea Polydor/Optimal; la copia real es la canadiense A&C023 180g.
+972193 381088074
