@@ -1,4 +1,3 @@
 # FOLDER: Audiófilos Jazz
-# OJC AAA + comp mono vintage.
-1270720 1780323752   # Sonny Rollins Quartet - Tenor Madness (OJC-124, 1984, Gary Hobish AAA, DR15)
-2226368 354971254    # Duke Ellington - This Is Duke Ellington (RCA VPM-6042, 1971, 2LP mono, DR12)
+# Art Pepper Meets The Rhythm Section: OJC-338, remaster Phil De Lancie (AAA), DR16.
+10256726 858183841  # Art Pepper - Art Pepper Meets The Rhythm Section (OJC-338 / Contemporary S-7532)
