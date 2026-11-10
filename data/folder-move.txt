@@ -1,7 +1,4 @@
 # FOLDER: Audiófilos Jazz
-# Classic Vinyl Series elegidos (Kevin Gray AAA / Optimal).
-18097726 1628325539  # Hank Mobley - Soul Station
-26113579 1404134112  # Jackie McLean - Bluesnik
-22555913 1578063859  # Bud Powell - Time Waits
-19583212 1386393684  # Dexter Gordon - Go!
-19269490 1628326115  # Sonny Clark - Cool Struttin'
+# OJC AAA + comp mono vintage.
+1270720 1780323752   # Sonny Rollins Quartet - Tenor Madness (OJC-124, 1984, Gary Hobish AAA, DR15)
+2226368 354971254    # Duke Ellington - This Is Duke Ellington (RCA VPM-6042, 1971, 2LP mono, DR12)
