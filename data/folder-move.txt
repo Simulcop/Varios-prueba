@@ -1,3 +1,7 @@
 # FOLDER: Audiófilos
-# Fleet Foxes: corte John Golden + Ed Brooks, DR10, incluye EP Sun Giant.
-1359927 235766356  # Fleet Foxes - Fleet Foxes (Sub Pop SP 777)
+# LCD Soundsystem (3) + PJ Harvey (2). The Shins quedan fuera.
+27423360 2175009439  # LCD Soundsystem - Sound Of Silver (Citizen Vinyl, Dr. Orange)
+10776167 2019567366  # LCD Soundsystem - American Dream (QRP+Pallas, Robert Weston, DR13)
+2395827 717866194    # LCD Soundsystem - This Is Happening (Robert Weston, DR15)
+15792475 858193693   # PJ Harvey - Rid Of Me (Optimal 180g, Albini, fuente DR14)
+2735856 235772250    # PJ Harvey - Let England Shake (John Dent, vinilo DR10)
