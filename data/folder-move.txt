@@ -1,5 +1,3 @@
 # FOLDER: Audiófilos
-# Funeral: RTI + John Golden, vinilo DR10-11 vs DR7.
-# We: excepcion planta GZ por decision del usuario (ventaja DR11 vs DR8, master Greg Calbi/Ryan Smith).
-2093841 235770582    # Arcade Fire - Funeral (Merge MRG255, RTI)
-23120582 1210610125  # Arcade Fire - We (Columbia, GZ, Greg Calbi)
+# Peter Gabriel - So: original US 1986, corte Greg Fulginiti/Artisan, planta SRC, vinilo DR12 (medido).
+517915 243493546  # Peter Gabriel - So (Geffen GHS 24088)
