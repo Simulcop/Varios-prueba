@@ -1,3 +1,3 @@
 # Quitar de coleccion (release_id instance_id)
-# Real Estate - Days mal registrada como 2011 Rainbo; el deadwax (codigos GZ 246907E1) confirma que es el repress 2022 GZ.
-3169563 2204546584
+# Duplicado: Invisible - El Jardin (16079604) ya lo tenia el usuario desde 2021 (inst 717609496). Quito la instancia que agregue hoy.
+16079604 2204587437
