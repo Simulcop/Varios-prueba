@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-15T21:24:43.096Z",
+  "updatedAt": "2026-11-16T01:12:19.416Z",
   "deals": [
+    {
+      "id": "reddit-t31xx9qrz",
+      "source": "Amazon",
+      "createdAt": "2026-11-15T23:14:51.000Z",
+      "text": "[Amazon] The Divine Comedy - Charmed Life - The Best Of The Divine Comedy (2xLP) @ $36.20",
+      "artist": "The Divine Comedy",
+      "title": "Charmed Life - The Best Of The Divine Comedy (2xLP)",
+      "label": "Divine Comedy Records Limited",
+      "genres": [
+        "Pop",
+        "Indie Pop"
+      ],
+      "price": 36.2,
+      "wasPrice": null,
+      "discountPct": null,
+      "lowest": false,
+      "amazonUrl": "https://www.amazon.com/dp/B09DZXQ3XY",
+      "knownArtist": false,
+      "year": "2022",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/1a/c6/271ac662-eb56-28a5-c681-3f826dd9e502/5024545950984_cover.jpg/400x400bb.jpg",
+      "enrichedVia": "discogs",
+      "bio": "The Divine Comedy is a baroque pop band now based in Dublin, Ireland, fronted by Neil Hannon. Neil Hannon, Originally from Derry, has been the only ever-present member of the band, being its founder in 1989 when he was joined by John McCullagh and Kevin Traynor.",
+      "bioUrl": "https://www.last.fm/music/The+Divine+Comedy",
+      "bioSource": "Last.fm"
+    },
     {
       "id": "reddit-t31xx6ifi",
       "source": "Amazon",
@@ -13311,82 +13336,6 @@
       "enrichedVia": "discogs",
       "bio": "After years of playing in bands that inevitably fell apart, as bands so often do, keyboard player Delvon Lamarr landed in a different kind of group: one founded by his wife and manager, Amy Novo.",
       "bioUrl": "https://www.last.fm/music/Delvon+Lamarr+Organ+Trio",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xkoibf",
-      "source": "Amazon",
-      "createdAt": "2026-10-31T23:32:07.000Z",
-      "text": "[Amazon] The Budos Band - VII (Orange Vinyl) @ $19.99",
-      "artist": "The Budos Band",
-      "title": "VII (Orange Vinyl)",
-      "label": "Diamond West",
-      "genres": [
-        "Funk / Soul"
-      ],
-      "price": 19.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FR2BQ8CC",
-      "knownArtist": false,
-      "year": "2025",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/c3/64/0dc36491-eb8a-e61c-6c53-35fd5981f71b/52776.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Budos Band is an \"Instrumental Staten-Island Afro-Soul\" outfit recording on the Daptone Records label.",
-      "bioUrl": "https://www.last.fm/music/The+Budos+Band",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xkn8yu",
-      "source": "Amazon",
-      "createdAt": "2026-10-31T22:31:42.000Z",
-      "text": "[Amazon] Jimi Hendrix - Experience Hendrix (The Best Of Jimi Hendrix) [2xLP] - $9.99",
-      "artist": "Jimi Hendrix",
-      "title": "Experience Hendrix (The Best Of Jimi Hendrix) [2xLP]",
-      "label": "Experience Hendrix",
-      "genres": [
-        "Rock",
-        "Psychedelic Rock"
-      ],
-      "price": 9.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B072N2LCZH",
-      "knownArtist": false,
-      "year": "2017",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/53/e9/b9/53e9b9f0-97f4-aac7-ee5b-12c2f2007ad3/884977413878.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "James Marshall \"Jimi\" Hendrix (born Johnny Allen Hendrix; November 27, 1942 – September 18, 1970) was an American rock guitarist, singer, and songwriter.",
-      "bioUrl": "https://www.last.fm/music/Jimi+Hendrix",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xklz1s",
-      "source": "Amazon",
-      "createdAt": "2026-10-31T21:32:27.000Z",
-      "text": "[Amazon] Tyler, The Creator - Call Me If You Get Lost [2xLP] - $14.99",
-      "artist": "Tyler, The Creator",
-      "title": "Call Me If You Get Lost [2xLP]",
-      "label": "Columbia",
-      "genres": [
-        "Hip Hop",
-        "Funk / Soul",
-        "Trap",
-        "Jazzy Hip-Hop"
-      ],
-      "price": 14.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B09FC5V9P8",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/df/7d/a8df7d1e-0a11-6228-61af-3230783a9485/886447419601.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Tyler Gregory Okonma (born on March 6, 1991 in Hawthorne, California, USA) also known as Tyler, The Creator, is a Grammy award-winning American rapper, singer, record producer, director, fashion designer, and the head of his independent record label, Odd Future Records.",
-      "bioUrl": "https://www.last.fm/music/Tyler,+The+Creator",
       "bioSource": "Last.fm"
     }
   ]
