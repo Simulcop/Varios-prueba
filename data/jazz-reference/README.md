@@ -14,7 +14,8 @@ Fuente: Tom Hull (tomhull.com), compilando *The Penguin Guide to Jazz*.
   1ª edición (1992). Más subjetiva; incluye rarezas idiosincráticas.
   Columnas de origen = ediciones 1–9.
 
-Formato por línea: `Artista: Título [año, sello]`.
+Formato por línea: `Artista: Título | <ediciones donde aparece>`.
+En core, un `*` al final marca que además está coronado.
 
 ## Diferencia clave
 - **Core** = "lo esencial / tu lista de compras canónica" (amplitud).
