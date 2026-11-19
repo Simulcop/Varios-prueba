@@ -22,11 +22,15 @@ Al evaluar un vinilo se decide con **tres ejes**:
 - Autografiados: 9641630
 - Uncategorized: 1
 
-## Referencia de jazz
-Ver `data/jazz-reference/` — listas **Penguin Core Collection** (canon esencial)
-y **Crown Albums** (favoritos de los críticos). Usarlas al hablar de jazz:
-marcar si un disco es **Core 📚** y/o **Crown 👑**, y cruzar contra su colección
-para wishlists de canon faltante.
+## Referencias (usar al evaluar discos)
+- **Jazz** — `data/jazz-reference/`: **Penguin Core Collection** (canon esencial)
+  y **Crown Albums** (favoritos de los críticos). Marcar si un disco es
+  **Core 📚** y/o **Crown 👑**.
+- **Rock/indie/electrónica/etc.** — `data/pitchfork-reference/`: listas de mejores
+  álbumes de Pitchfork (indie all-time, por década 1960s–2020s, electrónica).
+  Marcar si aparece y en qué puesto.
+En ambos casos, cruzar contra su colección (Discogs `juanDanielCaro`) para
+wishlists de canon faltante.
 
 ## Flujo de cambios en la colección
 Los movimientos/altas/bajas se ejecutan por GitHub Actions que escriben a Discogs:
