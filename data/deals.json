@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T02:54:58.003Z",
+  "updatedAt": "2026-11-21T10:27:19.774Z",
   "deals": [
     {
       "id": "reddit-t31xybf8x",
@@ -9947,56 +9947,6 @@
       "bio": "Band of Horses is a US American folk/indie rock band which was formed in 2004 in Seattle.",
       "bioUrl": "https://www.last.fm/music/Band+of+Horses",
       "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xp3wc4",
-      "source": "Amazon",
-      "createdAt": "2026-11-06T04:35:27.000Z",
-      "text": "[Amazon] Sturgill Simpson - Sound & Fury - $14.23",
-      "artist": "Sturgill Simpson",
-      "title": "Sound & Fury",
-      "label": "Elektra",
-      "genres": [
-        "Rock",
-        "Folk, World, & Country",
-        "Country Rock"
-      ],
-      "price": 14.23,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B07VQ9RLQ8",
-      "knownArtist": false,
-      "year": "2019",
-      "cover": "https://i.discogs.com/C_lJ7KDPtZyMKhWqUhfhBstGviKFsupO2AKrUXrVCMA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk2/NjcwLTE1Njk2ODE2/NjAtNTkxNC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "John Sturgill Simpson (born June 8, 1978) is an American country music and roots rock singer-songwriter. Simpson was born in Jackson, Breathitt County, Kentucky, the only child of a secretary and a state policeman who formerly worked undercover narcotics.",
-      "bioUrl": "https://www.last.fm/music/Sturgill+Simpson",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xp2wn6",
-      "source": "Amazon",
-      "createdAt": "2026-11-06T03:41:31.000Z",
-      "text": "[Amazon] Nothing More – Spirits (Red W/Black Swirl Vinyl) $16.99",
-      "artist": null,
-      "title": "Nothing More – Spirits (Red W/Black Swirl Vinyl)",
-      "label": "Burning Spirits",
-      "genres": [
-        "Rock",
-        "Hardcore",
-        "Punk",
-        "Crust"
-      ],
-      "price": 16.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Spirits-Red-w-Black-Swirl/dp/B0BK52CY4K",
-      "knownArtist": false,
-      "year": "2007",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/7a/38/a0/7a38a076-936a-40f4-4249-af01fb863336/5099969455650_1417x1417_300dpi.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs"
     }
   ]
 }
