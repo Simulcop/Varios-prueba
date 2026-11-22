@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T02:44:26.331Z",
+  "updatedAt": "2026-11-22T10:30:24.457Z",
   "deals": [
     {
       "id": "reddit-t31xybf8x",
@@ -9091,113 +9091,6 @@
       "enrichedVia": "discogs",
       "bio": "Artist name is Larry Coryell and the Eleventh House",
       "bioUrl": "https://www.last.fm/music/Larry+Coryell+&+The+Eleventh+House",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xq31ne",
-      "source": "Amazon",
-      "createdAt": "2026-11-07T10:13:12.000Z",
-      "text": "[Amazon] Corey Hart - Boy In The Box $22.22",
-      "artist": "Corey Hart",
-      "title": "Boy In The Box",
-      "label": "Aquarius Records",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Pop Rock",
-        "Synth-pop"
-      ],
-      "price": 22.22,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0F6KNZ2QT/",
-      "knownArtist": false,
-      "year": "1985",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/61/fd/85/61fd85c3-332e-cc2e-cadc-7795172de586/00602547865267.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Corey Mitchell Hart (born 31 May 1962, in Montreal, Canada) is a Canadian musician. Hart became an instant hit with his rebellious looks, and his first album released in 1983 First Offense, featuring the hit song Sunglasses at Night. The album sold well in both Canada and the United States.",
-      "bioUrl": "https://www.last.fm/music/Corey+Hart",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xq2r5p",
-      "source": "Amazon",
-      "createdAt": "2026-11-07T09:54:02.000Z",
-      "text": "[Amazon] Aerosmith - Aerosmith $15.99",
-      "artist": "Aerosmith",
-      "title": "Aerosmith",
-      "label": "Columbia",
-      "genres": [
-        "Rock",
-        "Blues Rock",
-        "Hard Rock"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0C394JNN9",
-      "knownArtist": false,
-      "year": "1975",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e2/87/d9/e287d987-7b92-7749-737f-b5b8a6913f88/22UM1IM38560.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Aerosmith is an American rock band formed in Boston, Massachusetts, in 1970. The group consists of lead vocalist Steven Tyler, bassist Tom Hamilton, drummer Joey Kramer, and guitarists Joe Perry and Brad Whitford.",
-      "bioUrl": "https://www.last.fm/music/Aerosmith",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xpz6ie",
-      "source": "Amazon",
-      "createdAt": "2026-11-07T06:06:46.000Z",
-      "text": "[Amazon] Ringo Starr - Old Wave: Yellow Submarine Edition @ $12.69",
-      "artist": "Ringo Starr",
-      "title": "Old Wave: Yellow Submarine Edition",
-      "label": "Culture Factory",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Classic Rock",
-        "Rock & Roll"
-      ],
-      "price": 12.69,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CCLNKS71",
-      "knownArtist": false,
-      "year": "2023",
-      "cover": "https://i.discogs.com/Ux_84y3xVGD6RONxNgygS2okrRuDZRt_s8ei2w5cnjU/rs:fit/g:sm/q:90/h:458/w:458/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTkx/MDk4LTE3MDA2ODE2/ODgtOTczMC5qcGVn.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Sir Richard Starkey MBE (born 7 July 1940 in Liverpool, England), known by his stage name Ringo Starr, is an English musician, singer, songwriter and actor, best known as the drummer of The Beatles. He was the oldest member of the band, and the last to join the now familiar 'Fab Four' line up.",
-      "bioUrl": "https://www.last.fm/music/Ringo+Starr",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xpz3c6",
-      "source": "Amazon",
-      "createdAt": "2026-11-07T06:01:40.000Z",
-      "text": "[Amazon] Vince Guaraldi Trio - A Charlie Brown Christmas (2xLP) @ $25.66",
-      "artist": "Vince Guaraldi Trio",
-      "title": "A Charlie Brown Christmas (2xLP)",
-      "label": "Fantasy",
-      "genres": [
-        "Jazz",
-        "Stage & Screen",
-        "Contemporary Jazz",
-        "Holiday"
-      ],
-      "price": 25.66,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0B55D8LLJ",
-      "knownArtist": false,
-      "year": "2012",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/69/09/b6/6909b604-c967-e6cf-6b9b-dba54e42a2f2/22CRGIM33543.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Vince Guaraldi Trio was a jazz group fronted by pianist and composer Vince Guaraldi. Most well-known in its acoustic piano-drums-bass configuration, the trio provided music for a number of animated productions of Charles M. Schulz's Peanuts comic strips.",
-      "bioUrl": "https://www.last.fm/music/Vince+Guaraldi+Trio",
       "bioSource": "Last.fm"
     }
   ]
