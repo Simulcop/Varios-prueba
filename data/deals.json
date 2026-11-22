@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T18:08:52.766Z",
+  "updatedAt": "2026-11-22T23:41:14.318Z",
   "deals": [
     {
       "id": "reddit-t31xybf8x",
@@ -8893,60 +8893,6 @@
       "enrichedVia": "discogs",
       "bio": "The Vince Guaraldi Trio was a jazz group fronted by pianist and composer Vince Guaraldi. Most well-known in its acoustic piano-drums-bass configuration, the trio provided music for a number of animated productions of Charles M. Schulz's Peanuts comic strips.",
       "bioUrl": "https://www.last.fm/music/Vince+Guaraldi+Trio",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xqjy22",
-      "source": "Amazon",
-      "createdAt": "2026-11-07T23:25:58.000Z",
-      "text": "[Amazon] Cocteau Twins - Four Calendar Café - $16.99",
-      "artist": "Cocteau Twins",
-      "title": "Four Calendar Café",
-      "label": "Fontana",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Pop",
-        "Alternative Rock"
-      ],
-      "price": 16.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/Four-Calendar-Caf%C3%A9-Cocteau-Twins/dp/B0CKQS32SL",
-      "knownArtist": false,
-      "year": "2019",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a9/52/fd/a952fd47-cbbd-261e-e487-467a03fd5318/191400071469.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Cocteau Twins was a Scottish rock band active from 1979 to 1997. The group was formed in Grangemouth, Scotland, by Robin Guthrie (guitar, drum machine) and Will Heggie (bass), with Elizabeth Fraser (vocals) joining in 1981.",
-      "bioUrl": "https://www.last.fm/music/Cocteau+Twins",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xqeac4",
-      "source": "Walmart",
-      "createdAt": "2026-11-07T19:10:52.000Z",
-      "text": "[Walmart] Sleep - Sleep's Holy Mountain - $5.67",
-      "artist": "Sleep",
-      "title": "Sleep's Holy Mountain",
-      "label": "Earache",
-      "genres": [
-        "Rock",
-        "Doom Metal",
-        "Stoner Rock",
-        "Heavy Metal"
-      ],
-      "price": 5.67,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02oHvUYbmJrFxuRUHL7gDZCnsHjxp3DVNfgTZCmWJv14uoNMaa7NneA7a9Bd3DvtwRl&amp;id=61590716382047",
-      "knownArtist": false,
-      "year": "2017",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m02/d04/h16/s05.qbpcghni.tif/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "There are several artists titled Sleep; 1) Sleep is an American doom metal power trio from San Jose, California. The band earned critical and record label attention early in its career.",
-      "bioUrl": "https://www.last.fm/music/Sleep",
       "bioSource": "Last.fm"
     }
   ]
