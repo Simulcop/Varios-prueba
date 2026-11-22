@@ -27,22 +27,18 @@ jobs:
           OUT=data/folder-dump.txt
           if [ -z "$TOKEN" ]; then echo "No hay token"; exit 1; fi
           echo "Dump $(date -u +%FT%TZ)" > "$OUT"
-          echo "=== CARPETAS (autenticado) ===" >> "$OUT"
-          curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders" -o folders.json
-          jq -r '.folders[]? | "  id=\(.id)  count=\(.count)  name=\(.name)"' folders.json >> "$OUT"
-          echo "" >> "$OUT"
-          echo "=== UBICACION DE LOS 15 BLUE NOTE (Tone Poet + Classic Vinyl) ===" >> "$OUT"
-          for rid in 27839364 15828364 22070665 20281231 27266778 24522110 21029362 21040264 29549440 22555913 19583212 18097726 21304975 26113579 19269490; do
-            echo "release $rid:" >> "$OUT"
-            curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/releases/$rid" -o inst.json
-            jq -r '.releases[]? | "   inst=\(.instance_id) folder=\(.folder_id)"' inst.json >> "$OUT"
-            sleep 0.8
+          for pair in "9636592:Audiofilos" "9638958:Audiofilos Jazz" "9641811:Audiofilos Electronica"; do
+            fid="${pair%%:*}"; fname="${pair#*:}"
+            echo "=== CARPETA $fid ($fname) ===" >> "$OUT"
+            pages=1; page=1
+            while [ "$page" -le "$pages" ]; do
+              curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders/$fid/releases?per_page=100&page=$page&sort=added" -o f.json
+              pages=$(jq -r '.pagination.pages // 1' f.json)
+              jq -r '.releases[]? | "   \(.id)\t\(([.basic_information.artists[]?.name] | join(", ")))\t\(.basic_information.title)\t\(.basic_information.year)"' f.json >> "$OUT"
+              page=$((page+1)); sleep 0.6
+            done
+            echo "" >> "$OUT"
           done
-          echo "" >> "$OUT"
-          echo "=== CONTENIDO Audiófilos Jazz (9638958) ===" >> "$OUT"
-          curl -sS -A "$UA" -H "$AUTH" "https://api.discogs.com/users/$USER/collection/folders/9638958/releases?per_page=100&page=1" -o af.json
-          jq -r '"  items=\(.pagination.items) pages=\(.pagination.pages)"' af.json >> "$OUT"
-          jq -r '.releases[]? | "   \(.id)  \(.basic_information.title)"' af.json >> "$OUT"
           cat "$OUT"
           git config user.name "github-actions"
           git config user.email "actions@github.com"
