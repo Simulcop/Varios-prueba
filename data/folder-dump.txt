@@ -1,69 +1,119 @@
-Dump 2026-11-10T15:51:10Z
-=== CARPETAS (autenticado) ===
-  id=0  count=998  name=All
-  id=9636592  count=42  name=Audiófilos
-  id=9641811  count=15  name=Audiófilos Electrónica
-  id=9638958  count=17  name=Audiófilos Jazz
-  id=9641630  count=7  name=Autografiados
-  id=1509759  count=66  name=Cedé
-  id=1509946  count=28  name=Cedé Clásica
-  id=1568697  count=12  name=Cedé Jazz
-  id=1225993  count=22  name=Pa corregir
-  id=1556065  count=6  name=Rep
-  id=1226873  count=39  name=Singles 12"
-  id=1226824  count=34  name=Singles 7"
-  id=1561339  count=60  name=Soul / Disco / RnB
-  id=1  count=647  name=Uncategorized
-  id=1561366  count=3  name=Zig Zag
+Dump 2026-11-22T19:57:15Z
+=== CARPETA 9636592 (Audiofilos) ===
+   468054	The Rolling Stones	Tattoo You	1981
+   649042	Sufjan Stevens	Illinois	2006
+   1359927	Fleet Foxes	Fleet Foxes	2008
+   3408976	Grizzly Bear	Veckatimest	2009
+   1103234	Jens Lekman	Night Falls Over Kortedala	2007
+   1361007	Bon Iver	For Emma, Forever Ago	2008
+   1304278	Jim O'Rourke	Insignificance	2001
+   2093841	Arcade Fire	Funeral	2009
+   1187003	Radiohead	In Rainbows	2008
+   1751970	Wilco	Yankee Hotel Foxtrot	2011
+   2735856	PJ Harvey	Let England Shake	2011
+   3616436	Talk Talk	The Colour Of Spring	2012
+   1031388	Paul Simon	Graceland	1986
+   170719	Talking Heads	Speaking In Tongues	1983
+   5067972	Tears For Fears	Sowing The Seeds Of Love	1989
+   517915	Peter Gabriel	So	1986
+   6058375	Kate Bush	Hounds Of Love	2014
+   2237319	The Jimi Hendrix Experience	Axis: Bold As Love	2010
+   617486	Supertramp	Breakfast In America	1979
+   59734	David Bowie	Low	1977
+   3500641	Rush	Fly By Night	1985
+   4753808	Crosby, Stills, Nash & Young	Déjà Vu	1977
+   881623	Pink Floyd	The Final Cut	1983
+   7637835	Fleetwood Mac	Tusk	1979
+   1159835	Jim O'Rourke	Eureka	1999
+   7591908	Bob Dylan	Blood On The Tracks	1975
+   4184455	Leonard Cohen	Songs Of Love And Hate	0
+   521508	Harry Belafonte	Calypso	1956
+   882554	Prince And The Revolution	Parade	1986
+   194021	Prince And The Revolution	Purple Rain	1984
+   9127152	Radiohead	A Moon Shaped Pool	2016
+   8193018	Al Green	Let's Stay Together	2015
+   223419	Stevie Wonder	Innervisions	1973
+   2844420	Joni Mitchell	Court And Spark	0
+   11161888	Brian Eno	Before And After Science	2017
+   10673613	Paul Simon	There Goes Rhymin' Simon	1973
+   979030	King Crimson	Discipline	1981
+   11159355	Brian Eno	Taking Tiger Mountain (By Strategy)	2017
+   10520722	Babasonicos	Jessico	2017
+   2395827	LCD Soundsystem	This Is Happening	2010
+   14381853	Willie Colón	The Hustler	2019
+   15792475	PJ Harvey	Rid Of Me	2020
+   1253194	Neil Young, Crazy Horse	Zuma	2002
+   16447011	The Jimi Hendrix Experience	Are You Experienced	2014
+   9857016	Roxy Music	Avalon	2017
+   24747581	Joni Mitchell	Blue	2022
+   23120582	Arcade Fire	We	2022
+   22814654	Bob Dylan	Blonde On Blonde	2022
+   7699636	Prince	1999	1982
+   9466485	Leonard Cohen	You Want It Darker	2016
+   30771153	Fleetwood Mac	Rumours 	2024
+   519991	Suzanne Vega	Solitude Standing	1987
+   13527335	Harry Belafonte	Belafonte At Carnegie Hall: The Complete Concert	0
+   26734640	David Bowie	Aladdin Sane	2023
+   10776167	LCD Soundsystem	American Dream	2017
+   25560502	Neil Young	Harvest	2022
+   34132930	Foxwarren	2	2025
+   1178973	Donald Fagen	The Nightfly	1982
+   31202122	John Lennon	Mind Games	2024
+   27423360	LCD Soundsystem	Sound Of Silver	2023
+   34312918	Talking Heads	Remain In Light	2013
+   16489581	Tortoise	TNT	2020
+   7455345	Fleetwood Mac	Mirage	1982
+   23630855	The Beatles	Abbey Road	2021
+   1552685	Feist	The Reminder	2007
+   911271	Huey Lewis & The News	Fore!	1986
 
-=== UBICACION DE LOS 15 BLUE NOTE (Tone Poet + Classic Vinyl) ===
-release 27839364:
-   inst=1582474654 folder=9638958
-release 15828364:
-   inst=1588510198 folder=9638958
-release 22070665:
-   inst=1628323949 folder=1
-release 20281231:
-   inst=1674272425 folder=9638958
-release 27266778:
-   inst=1628324348 folder=1
-release 24522110:
-   inst=1588530769 folder=9638958
-release 21029362:
-   inst=1143341156 folder=1
-release 21040264:
-   inst=2198824318 folder=1
-release 29549440:
-   inst=2014151265 folder=1
-release 22555913:
-   inst=1578063859 folder=1
-release 19583212:
-   inst=1386393684 folder=1
-release 18097726:
-   inst=1628325539 folder=1
-release 21304975:
-   inst=1832448339 folder=1
-release 26113579:
-   inst=1404134112 folder=1
-release 19269490:
-   inst=1628326115 folder=1
+=== CARPETA 9638958 (Audiofilos Jazz) ===
+   5612436	Cannonball Adderley	Somethin' Else	2014
+   2226368	Duke Ellington	This Is Duke Ellington	1971
+   4191826	Gerry Mulligan Quartet	What Is There To Say?	1959
+   10256726	Art Pepper	Art Pepper Meets The Rhythm Section	0
+   17966146	Pino Palladino, Blake Mills	Notes With Attachments	2021
+   19583212	Dexter Gordon	Go!	2021
+   25112611	DOMi & JD BECK	Not Tight	2022
+   26113579	Jackie McLean	Bluesnik	2023
+   20496721	BadBadNotGood	Talk Memory	2021
+   21283801	Jeff Parker	Forfolks	2021
+   22555913	Bud Powell	Time Waits (The Amazing Bud Powell)	2022
+   27839364	Chet Baker	Chet Baker Sings	2023
+   15828364	Joe Henderson	The State Of The Tenor (Live At The Village Vanguard Volume 1)	2020
+   24522110	John Coltrane	Blue Train: The Complete Masters	2022
+   15813729	The Miles Davis Quintet	Cookin' With The Miles Davis Quintet	0
+   22070665	Joe Pass	For Django	2022
+   27266778	McCoy Tyner	Time For Tyner	2023
+   28195162	Yussef Dayes	Black Classical Music	2023
+   18097726	Hank Mobley	Soul Station	2021
+   19269490	Sonny Clark	Cool Struttin'	2021
+   23904962	Ella Fitzgerald, Louis Armstrong	Ella And Louis	2022
+   20281231	Lee Konitz, Gerry Mulligan Quartet	Lee Konitz Plays With The Gerry Mulligan Quartet	2021
+   27130914	André Previn & His Pals	West Side Story	2023
+   1270720	Sonny Rollins Quartet	Tenor Madness	1984
+   5761789	Miles Davis	Milestones	2013
+   6365219	Bill Evans	The Complete Village Vanguard Recordings, 1961	2014
+   8704782	Frank Sinatra	In The Wee Small Hours	1957
+   25356742	Esperanza Spalding	Radio Music Society	2022
+   17165746	Paul Chambers Quartet	Bass On Top	2021
+   26441327	Herbie Hancock	Empyrean Isles	2023
 
-=== CONTENIDO Audiófilos Jazz (9638958) ===
-  items=17 pages=1
-   25112611  Not Tight
-   15828364  The State Of The Tenor (Live At The Village Vanguard Volume 1)
-   24522110  Blue Train: The Complete Masters
-   20281231  Lee Konitz Plays With The Gerry Mulligan Quartet
-   27839364  Chet Baker Sings
-   28195162  Black Classical Music
-   8704782  In The Wee Small Hours
-   4191826  What Is There To Say?
-   5761789  Milestones
-   27130914  West Side Story
-   25356742  Radio Music Society
-   17966146  Notes With Attachments
-   21283801  Forfolks
-   15813729  Cookin' With The Miles Davis Quintet
-   6365219  The Complete Village Vanguard Recordings, 1961
-   23904962  Ella And Louis
-   20496721  Talk Memory
+=== CARPETA 9641811 (Audiofilos Electronica) ===
+   2253877	Flying Lotus	Cosmogramma	2010
+   6095128	Aphex Twin	Syro	2014
+   1289302	Depeche Mode	Violator	2007
+   5006908	Boards Of Canada	Music Has The Right To Children	2013
+   8312002	Burial	Untrue	2016
+   10727416	Jon Hopkins	Immunity	2016
+   14269956	Floating Points	Crush	2019
+   11633445	Mouse On Mars	Idiology	2018
+   2233855	Caribou	Swim	2010
+   16304104	Burial, Four Tet, Thom Yorke	Her Revolution / His Rope	2020
+   21070021	Jóhann Jóhannsson	The Miners' Hymns	2021
+   31618102	Seefeel	Everything Squared	2024
+   1225064	Mouse On Mars	Diskdusk	1999
+   25351249	DJ Rum	Portrait With Firewood	2022
+   21951430	Four Tet	Everything Ecstatic	2017
+   26124050	Kaytranada	99.9%	2023
+
