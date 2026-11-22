@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T22:35:31.422Z",
+  "updatedAt": "2026-11-22T02:44:26.331Z",
   "deals": [
     {
       "id": "reddit-t31xybf8x",
@@ -9198,85 +9198,6 @@
       "enrichedVia": "discogs",
       "bio": "The Vince Guaraldi Trio was a jazz group fronted by pianist and composer Vince Guaraldi. Most well-known in its acoustic piano-drums-bass configuration, the trio provided music for a number of animated productions of Charles M. Schulz's Peanuts comic strips.",
       "bioUrl": "https://www.last.fm/music/Vince+Guaraldi+Trio",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xpvher",
-      "source": "Amazon",
-      "createdAt": "2026-11-07T02:44:07.000Z",
-      "text": "[Amazon] Donald Byrd - Royal Flush (Blue Note Classic Series) $22.47",
-      "artist": "Donald Byrd",
-      "title": "Royal Flush (Blue Note Classic Series)",
-      "label": "Blue Note",
-      "genres": [
-        "Jazz",
-        "Hard Bop",
-        "Soul-Jazz",
-        "Post Bop"
-      ],
-      "price": 22.47,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0CYWFH5S7/",
-      "knownArtist": false,
-      "year": "2024",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/87/ea/69/87ea6911-6ab4-032f-d4a9-a27fc9c4373b/00094636263052.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Donaldson Toussaint L'Ouverture Byrd II (born December 9, 1932 – February 4, 2013) was an American jazz, rhythm and blues trumpeter. Born in Detroit, Michigan. He performed with Lionel Hampton before finishing high school.",
-      "bioUrl": "https://www.last.fm/music/Donald+Byrd",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xpt00s",
-      "source": "Amazon",
-      "createdAt": "2026-11-07T00:40:50.000Z",
-      "text": "[Amazon] She & Him - Classics $12.99",
-      "artist": "She & Him",
-      "title": "Classics",
-      "label": "Merge Records",
-      "genres": [
-        "Pop",
-        "Vocal",
-        "Holiday",
-        "Folk"
-      ],
-      "price": 12.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B00OYT32L2",
-      "knownArtist": false,
-      "year": "2022",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/b4/62/3ab46218-be3b-7d56-bf5c-3d9b33ccc162/886445068948.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "She & Him is an American indie folk band consisting of Zooey Deschanel (vocals, keyboards) and M. Ward (guitar, production).",
-      "bioUrl": "https://www.last.fm/music/She+&+Him",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xps7dw",
-      "source": "Amazon",
-      "createdAt": "2026-11-07T00:02:52.000Z",
-      "text": "[Amazon] Dire Straits - Love Over Gold @ $15.99",
-      "artist": "Dire Straits",
-      "title": "Love Over Gold",
-      "label": "Vertigo",
-      "genres": [
-        "Rock",
-        "Classic Rock"
-      ],
-      "price": 15.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B08QW83FWK",
-      "knownArtist": false,
-      "year": "1982",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m06/d22/h07/s05.vercwljr.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Dire Straits were a British rock band formed in London in 1977 by Mark Knopfler (lead vocals and lead guitar), David Knopfler (rhythm guitar and backing vocals), John Illsley (bass guitar and backing vocals), and Pick Withers (drums and percussion).",
-      "bioUrl": "https://www.last.fm/music/Dire+Straits",
       "bioSource": "Last.fm"
     }
   ]
