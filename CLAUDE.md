@@ -15,6 +15,14 @@ Al evaluar un vinilo se decide con **tres ejes**:
   Columbia (Terre Haute/Carrollton/Pitman/Santa Maria).
 - **Descarte del usuario**: Rainbo, GZ Media, URP (salvo excepción que él apruebe).
 
+## Perfil de gusto (Juan Daniel)
+- Lanes: indie rock, electrónica, rap/hip-hop, y jazz.
+- Jazz: le emocionan el **tenor soulful** (Stanley Turrentine, Ben Webster) y la
+  **voz** (Sheila Jordan, Billie, Nina). Prefiere lo **melódico/soulful y con matices**.
+- El **groove pesado de órgano/vibráfono a veces lo empalaga** — NO es anti-vibráfono
+  (ama *Time for Tyner* con Hutcherson), es cuestión de mood. "Días de días".
+  → No saturar de boogaloo-órgano; balancear con baladas/voz/tenor cálido.
+
 ## Carpetas Discogs (usuario `juanDanielCaro`)
 - Audiófilos: 9636592
 - Audiófilos Jazz: 9638958
