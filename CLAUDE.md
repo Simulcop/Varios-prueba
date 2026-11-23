@@ -39,6 +39,9 @@ Al evaluar un vinilo se decide con **tres ejes**:
   Marcar si aparece y en qué puesto.
 En ambos casos, cruzar contra su colección (Discogs `juanDanielCaro`) para
 wishlists de canon faltante.
+- **Equipos/HiFi** — `data/hifi-reference/`: links a Stereophile "Recommended
+  Components – Loudspeakers" (2018–2026, primavera y otoño). Usar al buscar/comparar
+  bocinas y equipo de audio. (Stereophile bloquea fetch; abrir en navegador.)
 
 ## Flujo de cambios en la colección
 Los movimientos/altas/bajas se ejecutan por GitHub Actions que escriben a Discogs:
