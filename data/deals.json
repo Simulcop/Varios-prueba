@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T23:41:14.318Z",
+  "updatedAt": "2026-11-23T04:47:27.269Z",
   "deals": [
     {
       "id": "reddit-t31xybf8x",
@@ -8846,53 +8846,6 @@
       "enrichedVia": "discogs",
       "bio": "Gorillaz are an English virtual band created in 1998 by musician Damon Albarn and artist Jamie Hewlett. The project is centered on four fictional members: 2-D, Murdoc Niccals, Noodle and Russel Hobbs.",
       "bioUrl": "https://www.last.fm/music/Gorillaz",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xqpgs3",
-      "source": "Walmart",
-      "createdAt": "2026-11-08T04:12:00.000Z",
-      "text": "[Walmart] The Velvet Underground - Loaded - Music & Performance - Vinyl - Walmart.com - $15.13",
-      "artist": "The Velvet Underground",
-      "title": "Loaded - Music & Performance - Vinyl - Walmart.com",
-      "label": null,
-      "genres": [],
-      "price": 15.13,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.walmart.com/ip/The-Velvet-Underground-Loaded-Music-Performance-Vinyl/55927378?classType=REGULAR&amp;from=/search",
-      "knownArtist": false,
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/7d/5e/877d5e8d-8aff-717f-576c-f237ee8d7a34/603497884575.jpg/400x400bb.jpg",
-      "bio": "The Velvet Underground was an American experimental rock band formed in New York City in 1964. It originally comprised singer and guitarist Lou Reed, Welsh multi-instrumentalist John Cale, guitarist Sterling Morrison, and drummer Angus MacLise.",
-      "bioUrl": "https://www.last.fm/music/The+Velvet+Underground",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xqmrbz",
-      "source": "Amazon",
-      "createdAt": "2026-11-08T01:45:13.000Z",
-      "text": "[Amazon] Vince Guaraldi Trio - A Charlie Brown Christmas (2xLP) - $23.09",
-      "artist": "Vince Guaraldi Trio",
-      "title": "A Charlie Brown Christmas (2xLP)",
-      "label": "Fantasy",
-      "genres": [
-        "Jazz",
-        "Stage & Screen",
-        "Contemporary Jazz",
-        "Holiday"
-      ],
-      "price": 23.09,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0B55D8LLJ",
-      "knownArtist": false,
-      "year": "2012",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/69/09/b6/6909b604-c967-e6cf-6b9b-dba54e42a2f2/22CRGIM33543.rgb.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "The Vince Guaraldi Trio was a jazz group fronted by pianist and composer Vince Guaraldi. Most well-known in its acoustic piano-drums-bass configuration, the trio provided music for a number of animated productions of Charles M. Schulz's Peanuts comic strips.",
-      "bioUrl": "https://www.last.fm/music/Vince+Guaraldi+Trio",
       "bioSource": "Last.fm"
     }
   ]
