@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T09:01:05.909Z",
+  "updatedAt": "2026-11-26T19:10:30.073Z",
   "deals": [
     {
       "id": "reddit-t31xybf8x",
@@ -4194,111 +4194,6 @@
       "enrichedVia": "discogs",
       "bio": "Talk Talk were an English band formed in 1981 by Mark Hollis (vocals, guitar, piano), Lee Harris (drums), Paul Webb (bass), and Simon Brenner (keyboards).",
       "bioUrl": "https://www.last.fm/music/Talk+Talk",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xtlgf8",
-      "source": "Walmart",
-      "createdAt": "2026-11-11T15:59:43.000Z",
-      "text": "[Walmart] Pill - Convenience - $10.34",
-      "artist": "Pill",
-      "title": "Convenience",
-      "label": "Mexican Summer",
-      "genres": [
-        "Rock",
-        "Post Rock",
-        "Indie Rock"
-      ],
-      "price": 10.34,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02xXVSzfBamkToEZnPTEVGkgzBDgjAryissLPgBJwdNPWevB6332ENPvsTNYm92Lewl&amp;id=61590716382047",
-      "knownArtist": false,
-      "year": "2016",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/95/fb/e595fba0-b3ae-3542-4b1e-d5dd50a4f71f/184923121469_cover.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "There are at least two different artists called Pill. 1. a post-punk band from Brooklyn, NY, United States 2. a rapper from Atlanta, Georgia, United States 1.",
-      "bioUrl": "https://www.last.fm/music/Pill",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xtky6w",
-      "source": "Amazon",
-      "createdAt": "2026-11-11T15:39:59.000Z",
-      "text": "[Amazon] Malcolm Middleton - Into The Woods (White Vinyl) @ $17.10",
-      "artist": "Malcolm Middleton",
-      "title": "Into The Woods (White Vinyl)",
-      "label": "Chemikal Underground",
-      "genres": [
-        "Electronic",
-        "Rock",
-        "Downtempo",
-        "Indie Rock"
-      ],
-      "price": 17.1,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B0FR8L517N",
-      "knownArtist": false,
-      "year": "2005",
-      "cover": "https://i.discogs.com/twz42Ohb-4uFREelIRuynl6RRCe-h20ffSZFGIYJof4/rs:fit/g:sm/q:90/h:496/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTI2/MC0xMTIzMzU0Mjcw/LmpwZw.jpeg",
-      "enrichedVia": "discogs",
-      "bio": "Malcolm Middleton (born Malcolm Bruce Middleton on 31 December 1973 and raised in Falkirk, Scotland) is a Scottish singer-songwriter, best known best known for his work with Aidan Moffat in post-folk indie band, Arab Strap, and for his subsequent solo career, writing and producing.",
-      "bioUrl": "https://www.last.fm/music/Malcolm+Middleton",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xtfhyd",
-      "source": "Walmart",
-      "createdAt": "2026-11-11T11:34:25.000Z",
-      "text": "[Walmart] John Prine - Diamonds In The Rough - $15.29",
-      "artist": "John Prine",
-      "title": "Diamonds In The Rough",
-      "label": "Atlantic",
-      "genres": [
-        "Folk, World, & Country",
-        "Folk"
-      ],
-      "price": 15.29,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.facebook.com/permalink.php?story_fbid=pfbid02XycKzGwzgr3ZsBwqGaTJWV5uStgE5v4UKcMATPjoBTv9MaKoWy5R2UKhpYMgAFEml&amp;id=61590716382047",
-      "knownArtist": false,
-      "year": "1972",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/61/0b/35610bfa-d5ee-0162-9333-c8a054aa5af4/075678142123.jpg/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "John Edward Prine (October 10, 1946 – April 7, 2020) was an American singer-songwriter of country-folk music. He was active as a composer, recording artist, live performer, and occasional actor from the early 1970s until his death.",
-      "bioUrl": "https://www.last.fm/music/John+Prine",
-      "bioSource": "Last.fm"
-    },
-    {
-      "id": "reddit-t31xtf94k",
-      "source": "Amazon",
-      "createdAt": "2026-11-11T11:19:34.000Z",
-      "text": "[Amazon] Tom Waits - Small Change - $16.99",
-      "artist": "Tom Waits",
-      "title": "Small Change",
-      "label": "Asylum Records",
-      "genres": [
-        "Jazz",
-        "Rock",
-        "Folk, World, & Country",
-        "Blues Rock"
-      ],
-      "price": 16.99,
-      "wasPrice": null,
-      "discountPct": null,
-      "lowest": false,
-      "amazonUrl": "https://www.amazon.com/dp/B07BSXVDBN",
-      "knownArtist": false,
-      "year": "1976",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7b/95/75/7b957548-fd0f-d3d1-bf58-a4d4cb5c8f7d/0045778756803.png/400x400bb.jpg",
-      "enrichedVia": "discogs",
-      "bio": "Thomas Alan Waits (born December 7, 1949) is an American singer, songwriter, composer, and actor. Known for his deep, gravelly voice, his lyrics often explore the lives of marginalized and overlooked individuals.",
-      "bioUrl": "https://www.last.fm/music/Tom+Waits",
       "bioSource": "Last.fm"
     }
   ]
